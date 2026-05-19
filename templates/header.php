@@ -49,7 +49,7 @@ $regionLinks = [
 <!DOCTYPE html>
 <html lang="fr" style="margin:0;padding:0;">
 <head>
-    <style>html,body{margin:0;padding:0;}<?php if($isHomepage??false):?>html,body{background:#9A3412;}<?php endif;?></style>
+    <style>html,body{margin:0;padding:0;}</style>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="robots" content="<?= htmlspecialchars($robots) ?>">
@@ -80,7 +80,7 @@ $regionLinks = [
     <meta name="theme-color" content="#EA580C">
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
-<body style="background:var(--cream); color:var(--text);">
+<body style="background:<?= ($isHomepage??false) ? '#9A3412' : 'var(--cream)' ?>; color:var(--text);">
 
 <div
     class="site-header <?= $isHomepage ? 'hdr-transparent' : 'hdr-solid' ?>"
