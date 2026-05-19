@@ -72,14 +72,14 @@
   z-index: 100;
   transition: background 0.3s, box-shadow 0.3s, backdrop-filter 0.3s;
 }
+.site-header.hdr-transparent {
+  background: transparent;
+}
 .site-header.hdr-solid {
   background: rgba(154, 52, 18, 0.97);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
   box-shadow: 0 1px 0 rgba(0,0,0,.18), 0 4px 16px rgba(154,52,18,.25);
-}
-.site-header.hdr-transparent {
-  background: transparent;
 }
 
 .hdr-inner {
