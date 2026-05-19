@@ -24,11 +24,7 @@ usort($topRegionSlugs, function($a, $b) {
     return $rb <=> $ra;
 });
 
-require __DIR__ . '/templates/header.php';
-?>
-
-<!-- ─── Hero ─────────────────────────────────────────────────────────── -->
-<section class="hero-section">
+require __DIR__ . '/templates/header.php'; ?><section class="hero-section">
     <div class="hero-grain"></div>
 
     <div class="hero-content">

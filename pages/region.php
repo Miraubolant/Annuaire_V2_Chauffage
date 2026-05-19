@@ -88,10 +88,7 @@ $faq = [
 ];
 $jsonLd[] = jsonLdFAQ($faq);
 
-require __DIR__ . '/../templates/header.php';
-?>
-
-<main>
+require __DIR__ . '/../templates/header.php'; ?><main>
 
 <!-- Breadcrumb strip -->
 <div style="background:var(--stone);border-bottom:1px solid rgba(0,0,0,.06);">

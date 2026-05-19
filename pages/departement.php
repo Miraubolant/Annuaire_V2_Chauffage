@@ -76,11 +76,7 @@ $faq = [
 ];
 $jsonLd[] = jsonLdFAQ($faq);
 
-require __DIR__ . '/../templates/header.php';
-?>
-
-<!-- Breadcrumb strip -->
-<div style="background:var(--stone);border-bottom:1px solid rgba(0,0,0,.06);">
+require __DIR__ . '/../templates/header.php'; ?><div style="background:var(--stone);border-bottom:1px solid rgba(0,0,0,.06);">
     <div style="max-width:1280px;margin:0 auto;padding:10px 24px;">
         <?php require __DIR__ . '/../components/breadcrumb.php'; ?>
     </div>

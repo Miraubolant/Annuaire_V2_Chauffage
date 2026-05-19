@@ -13,11 +13,7 @@ $trail = [
     ['name' => 'Aides à la rénovation', 'url' => $canonical_url],
 ];
 
-require __DIR__ . '/../templates/header.php';
-?>
-
-<!-- ─── Hero ─────────────────────────────────────────────────────────────────── -->
-<div style="background:var(--forest-dark);padding:56px 24px 48px;text-align:center;">
+require __DIR__ . '/../templates/header.php'; ?><div style="background:var(--forest-dark);padding:56px 24px 48px;text-align:center;">
     <div style="max-width:780px;margin:0 auto;">
         <span class="section-eyebrow" style="color:rgba(255,255,255,.65);background:rgba(255,255,255,.1);margin-bottom:16px;">
             💶 Financements 2026
