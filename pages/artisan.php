@@ -52,7 +52,7 @@ require __DIR__ . '/../templates/header.php';
         <!-- Colonne gauche : identité artisan -->
         <div>
             <div style="display:flex;align-items:center;gap:8px;margin-bottom:20px;">
-                <span style="font-size:28px;">🏊</span>
+                <span style="font-size:28px;">🔥</span>
                 <span style="font-weight:600;color:rgba(255,255,255,.7);font-size:13px;text-transform:uppercase;letter-spacing:.06em;">
                     <?= htmlspecialchars($commune['nom']) ?> · <?= htmlspecialchars($deptNom) ?>
                 </span>
@@ -135,7 +135,7 @@ require __DIR__ . '/../templates/header.php';
         <div>
             <div class="ph-widget-card">
                 <div class="ph-widget-header">
-                    <span style="font-size:22px;">🏊</span>
+                    <span style="font-size:22px;">🔥</span>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:15px;">Demander un devis gratuit</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.55);">Réponse sous 48h · Sans engagement</div>
@@ -207,7 +207,7 @@ require __DIR__ . '/../templates/header.php';
     <!-- Services disponibles dans la ville -->
     <section class="mt-8">
         <h2 class="text-xl font-bold text-gray-800 mb-4">
-            🏊 services chauffage <?= htmlspecialchars($artVille) ?>
+            🔥 services chauffage <?= htmlspecialchars($artVille) ?>
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-2">
             <?php foreach (array_slice(MODELES, 0, 12) as $m):

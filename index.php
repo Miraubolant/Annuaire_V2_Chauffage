@@ -34,7 +34,7 @@ require __DIR__ . '/templates/header.php';
     <div class="hero-content">
         <div class="hero-eyebrow">
             <svg width="12" height="12" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-            10 000 chauffagistes référencés en France
+            30 000 chauffagistes référencés en France
         </div>
 
         <h1 class="hero-title">
@@ -119,13 +119,13 @@ require __DIR__ . '/templates/header.php';
 <div class="stats-row" style="justify-content:center;">
     <div class="stat-chip">
         <div>
-            <div class="stat-chip-num">10 842</div>
+            <div class="stat-chip-num">30 915</div>
             <div class="stat-chip-label">chauffagistes référencés</div>
         </div>
     </div>
     <div class="stat-chip">
         <div>
-            <div class="stat-chip-num">34 976</div>
+            <div class="stat-chip-num">34 882</div>
             <div class="stat-chip-label">Communes couvertes</div>
         </div>
     </div>

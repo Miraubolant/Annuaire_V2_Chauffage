@@ -68,7 +68,7 @@ $faq = [
     ['q' => "Quelles aides sont disponibles pour une chaudière {$artDept} ?",
      'r' => "Les propriétaires {$artDept} peuvent bénéficier de la TVA à 5,5% sur les travaux de chauffage, du crédit d'impôt pour une pompe à chaleur air-eau, et de solutions de financement RGE. Votre chauffagiste peut vous aider à optimiser votre budget."],
     ['q' => "Quel est le prix d'une chaudière {$artDept} ?",
-     'r' => "Le prix d'une chaudière {$artDept} varie selon le type : pompe à chaleur entre 15 000 € et 35 000 €, chaudière gaz entre 25 000 € et 60 000 €. Des solutions de financement RGE permettent d'étaler les paiements. Demandez plusieurs devis pour comparer."],
+     'r' => "Le prix varie selon le type de système : chaudière gaz condensation entre 2 500 € et 5 000 € installée, pompe à chaleur air-eau entre 8 000 € et 18 000 €. Après MaPrimeRénov' et prime CEE, le reste à charge peut être divisé par deux. Demandez plusieurs devis pour comparer."],
     ['q' => "Comment trouver un chauffagiste qualifié {$artDept} ?",
      'r' => "Cherchez votre ville dans notre annuaire pour trouver les chauffagistes certifiés RGE ou QualiPAC {$artDept}. Ces certifications garantissent la qualité et le professionnalisme de votre chauffagiste."],
     ['q' => "Faut-il un permis de construire pour une chaudière {$artDept} ?",
@@ -128,7 +128,7 @@ require __DIR__ . '/../templates/header.php';
                     </div>
                 </div>
                 <div class="ph-badge">
-                    <div class="ph-badge-icon">🏊</div>
+                    <div class="ph-badge-icon">🔥</div>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:13px;">Financement dispo</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">TVA 5,5% applicable</div>
@@ -150,7 +150,7 @@ require __DIR__ . '/../templates/header.php';
         <div>
             <div class="ph-widget-card">
                 <div class="ph-widget-header">
-                    <span style="font-size:22px;">💨</span>
+                    <span style="font-size:22px;">🔥</span>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:15px;">Obtenir un devis gratuit</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.55);">Réponse sous 48h · Sans engagement</div>

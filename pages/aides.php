@@ -136,7 +136,7 @@ require __DIR__ . '/../templates/header.php';
     <!-- ─── Zones climatiques ─────────────────────────────────────────────────── -->
     <section style="margin-bottom:64px;">
         <div style="margin-bottom:32px;">
-            <span class="section-eyebrow">🏊 Solutions selon votre région</span>
+            <span class="section-eyebrow">🔥 Solutions selon votre région</span>
             <h2 class="section-title" style="margin-top:8px;">systèmes de chauffage & options de financement</h2>
             <p class="section-subtitle">Les solutions chauffage varient selon votre région et votre projet. Consultez un chauffagiste local pour un devis personnalisé.</p>
         </div>
@@ -200,7 +200,7 @@ require __DIR__ . '/../templates/header.php';
     <!-- ─── CTA devis ─────────────────────────────────────────────────────────── -->
     <section style="background:var(--forest);border-radius:var(--radius-lg);padding:48px 32px;text-align:center;">
         <span class="section-eyebrow" style="color:rgba(255,255,255,.6);background:rgba(255,255,255,.1);margin-bottom:16px;">
-            🏊 Obtenir un devis
+            🔥 Obtenir un devis
         </span>
         <h2 style="font-family:var(--font-display);font-size:clamp(20px,3vw,32px);font-weight:700;color:#fff;margin-bottom:10px;letter-spacing:-.02em;">
             Trouvez un chauffagiste qualifié près de chez vous

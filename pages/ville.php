@@ -87,7 +87,7 @@ require __DIR__ . '/../templates/header.php';
             <div style="display:flex;align-items:center;gap:8px;margin-bottom:20px;">
                 <span style="color:#F59E0B;letter-spacing:2px;font-size:16px;">★★★★★</span>
                 <span style="font-weight:600;color:#fff;font-size:14px;">4.9/5</span>
-                <span style="color:rgba(255,255,255,.4);font-size:13px;">· 10 000 chauffagistes en France</span>
+                <span style="color:rgba(255,255,255,.4);font-size:13px;">· 30 000 chauffagistes en France</span>
             </div>
 
             <h1 style="font-family:var(--font-display);font-size:clamp(26px,3.5vw,44px);font-weight:700;color:#fff;line-height:1.2;margin-bottom:14px;letter-spacing:-.02em;">
@@ -130,7 +130,7 @@ require __DIR__ . '/../templates/header.php';
         <div>
             <div class="ph-widget-card">
                 <div class="ph-widget-header">
-                    <span style="font-size:22px;">🪟</span>
+                    <span style="font-size:22px;">🔥</span>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:15px;">Obtenir un devis gratuit</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.55);">Réponse sous 48h · Sans engagement</div>

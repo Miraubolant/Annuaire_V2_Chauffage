@@ -102,8 +102,8 @@ require __DIR__ . '/../templates/header.php';
                 </div>
                 <div style="width:1px;background:rgba(255,255,255,.15);align-self:stretch;"></div>
                 <div class="ph-stat">
-                    <div class="ph-stat-num">10%</div>
-                    <div class="ph-stat-label">TVA 5,5%</div>
+                    <div class="ph-stat-num">5,5%</div>
+                    <div class="ph-stat-label">TVA applicable</div>
                 </div>
             </div>
 
@@ -173,7 +173,7 @@ require __DIR__ . '/../templates/header.php';
     <?php if (!empty($artisans)): ?>
     <section class="mb-8">
         <h2 class="text-xl font-bold text-gray-800 mb-4">
-            🏊 chauffagistes <?= htmlspecialchars($artVille) ?> pour ce service
+            🔥 chauffagistes <?= htmlspecialchars($artVille) ?> pour ce service
         </h2>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-4">
             <?php foreach ($artisans as $artisan): ?>

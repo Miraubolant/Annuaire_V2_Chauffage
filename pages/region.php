@@ -81,10 +81,10 @@ $faq = [
      'r' => "Les propriétaires " . articleRegion($regionSlug) . " peuvent bénéficier de la TVA à 5,5% sur les travaux de chauffage, du crédit d'impôt pour une pompe à chaleur air-eau, et de solutions de financement RGE. Votre chauffagiste local vous accompagne dans l'optimisation de votre budget."],
     ['q' => "Comment trouver un chauffagiste qualifié " . articleRegion($regionSlug) . " ?",
      'r' => "Cherchez votre ville dans notre annuaire pour trouver les chauffagistes certifiés RGE ou QualiPAC " . articleRegion($regionSlug) . ". Ces certifications sont gage de qualité et de professionnalisme."],
-    ['q' => "Quels sont les délais pour construire une chaudière " . articleRegion($regionSlug) . " ?",
-     'r' => "Les délais varient : 1 à 2 semaines pour une pompe à chaleur, 4 à 8 semaines pour une chaudière gaz. Anticipez en contactant votre chauffagiste dès le printemps pour des travaux en été."],
+    ['q' => "Quels sont les délais pour installer une chaudière " . articleRegion($regionSlug) . " ?",
+     'r' => "Les délais varient : 1 à 2 jours pour une chaudière gaz à condensation, 1 à 2 semaines pour une pompe à chaleur air-eau. Anticipez en contactant votre chauffagiste dès l'été pour des travaux avant l'hiver."],
     ['q' => "Quelle est la différence entre une chaudière gaz et une pompe à chaleur " . articleRegion($regionSlug) . " ?",
-     'r' => "La chaudière gaz (25 000 € à 60 000 €) est entièrement sur mesure et très durable. La pompe à chaleur (15 000 € à 35 000 €) est préfabriquée, rapide à installer et nécessite peu d'entretien. Votre chauffagiste " . articleRegion($regionSlug) . " vous conseille selon votre projet et votre budget."],
+     'r' => "La chaudière gaz à condensation (2 500 € à 5 000 € installée) est la plus répandue, éligible CEE BAR-TH-106. La pompe à chaleur air-eau (8 000 € à 18 000 €) est plus économe à long terme, éligible MaPrimeRénov' jusqu'à 11 000 €. Votre chauffagiste " . articleRegion($regionSlug) . " vous conseille selon votre logement."],
 ];
 $jsonLd[] = jsonLdFAQ($faq);
 
@@ -148,7 +148,7 @@ require __DIR__ . '/../templates/header.php';
                     </div>
                 </div>
                 <div class="ph-badge">
-                    <div class="ph-badge-icon">🏊</div>
+                    <div class="ph-badge-icon">🔥</div>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:13px;">chauffagistes assurés</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.5);margin-top:2px;">Garantie décennale</div>
@@ -170,7 +170,7 @@ require __DIR__ . '/../templates/header.php';
         <div>
             <div class="ph-widget-card">
                 <div class="ph-widget-header">
-                    <span style="font-size:22px;">💨</span>
+                    <span style="font-size:22px;">🔥</span>
                     <div>
                         <div style="font-weight:700;color:#fff;font-size:15px;">Obtenir un devis gratuit</div>
                         <div style="font-size:11px;color:rgba(255,255,255,.55);">Réponse sous 48h · Sans engagement</div>
@@ -237,7 +237,7 @@ require __DIR__ . '/../templates/header.php';
                     <span style="font-weight:600;color:var(--text);font-size:14px;"><?= htmlspecialchars($dept['nom']) ?></span>
                 </div>
                 <div style="display:flex;justify-content:space-between;font-size:12px;color:var(--text-muted);">
-                    <span>🏊 <?= $dNb ?> chauffagistes</span>
+                    <span>🔥 <?= $dNb ?> chauffagistes</span>
                     <span>📍 <?= $dCom ?> communes</span>
                 </div>
             </a>

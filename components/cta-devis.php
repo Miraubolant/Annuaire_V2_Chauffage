@@ -7,7 +7,7 @@ $villeName ??= 'votre ville';
 $context   ??= 'ville';
 ?>
 <div style="background:linear-gradient(135deg,var(--forest-dark) 0%,var(--forest) 100%);border-radius:var(--radius-lg);padding:24px;color:#fff;text-align:center;box-shadow:var(--shadow-lg);">
-    <div style="font-size:28px;margin-bottom:10px;">🏊</div>
+    <div style="font-size:28px;margin-bottom:10px;">🔥</div>
     <h3 style="font-family:var(--font-display);font-size:18px;font-weight:700;margin-bottom:6px;color:#fff;">devis chauffage gratuit</h3>
     <p style="color:rgba(255,255,255,.65);font-size:13px;margin-bottom:16px;line-height:1.5;">
         Comparez les offres des chauffagistes

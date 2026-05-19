@@ -4,7 +4,7 @@
         <!-- Colonne 1 : Brand -->
         <div>
             <div style="display:flex;align-items:center;gap:10px;">
-                <div style="width:42px;height:42px;background:rgba(255,255,255,.1);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;">🏊</div>
+                <div style="width:42px;height:42px;background:rgba(255,255,255,.1);border-radius:10px;display:flex;align-items:center;justify-content:center;font-size:20px;">🔥</div>
                 <span class="footer-brand-name"><?= SITE_NAME ?></span>
             </div>
             <p class="footer-brand-desc">

@@ -18,7 +18,7 @@ $vudCat ??= VUD_CATEGORIE_ID;
         <div style="display:flex;flex-direction:column;gap:8px;">
             <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:var(--text-muted);">
                 <span style="color:var(--forest);font-weight:700;">✓</span>
-                TVA <strong style="color:var(--text);margin-left:3px;">10%</strong> travaux de chauffage
+                TVA <strong style="color:var(--text);margin-left:3px;">5,5%</strong> travaux de chauffage
             </div>
             <div style="display:flex;align-items:center;gap:8px;font-size:12px;color:var(--text-muted);">
                 <span style="color:var(--forest);font-weight:700;">✓</span>

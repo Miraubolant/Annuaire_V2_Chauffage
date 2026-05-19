@@ -77,7 +77,7 @@ $regionLinks = [
 
     <link rel="stylesheet" href="<?= SITE_URL ?>/assets/css/app.min.css">
     <link rel="icon" href="<?= SITE_URL ?>/assets/img/favicon.svg" type="image/svg+xml">
-    <meta name="theme-color" content="#0369A1">
+    <meta name="theme-color" content="#EA580C">
     <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
 </head>
 <body style="background:var(--cream); color:var(--text);">
@@ -107,10 +107,10 @@ $regionLinks = [
 
         <!-- ── Logo ── -->
         <a href="<?= SITE_URL ?>/" class="hdr-logo">
-            <div class="hdr-logo-icon">🏊</div>
+            <div class="hdr-logo-icon">🔥</div>
             <div>
                 <span class="hdr-logo-name"><?= SITE_NAME ?></span>
-                <span class="hdr-logo-sub">10 000 chauffagistes en France</span>
+                <span class="hdr-logo-sub">30 000 chauffagistes en France</span>
             </div>
         </a>
 

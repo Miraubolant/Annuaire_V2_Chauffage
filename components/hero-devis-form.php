@@ -31,7 +31,7 @@ $nbArt      = getCompteurArtisans($commune);
             <div style="display:flex;flex-direction:column;gap:8px;">
                 <div style="display:flex;align-items:center;gap:8px;color:rgba(255,255,255,.7);font-size:13px;">
                     <span style="width:20px;height:20px;background:rgba(232,184,75,.2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;flex-shrink:0;">✓</span>
-                    Construction et rénovation
+                    Installation & entretien chauffage
                 </div>
                 <div style="display:flex;align-items:center;gap:8px;color:rgba(255,255,255,.7);font-size:13px;">
                     <span style="width:20px;height:20px;background:rgba(232,184,75,.2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:10px;flex-shrink:0;">✓</span>
@@ -47,7 +47,7 @@ $nbArt      = getCompteurArtisans($commune);
         <!-- ── Droite : widget sur fond blanc ─────────────────────────────── -->
         <div class="hero-widget-col">
             <div style="padding:20px 24px 16px;border-bottom:1px solid #f0ebe1;">
-                <p style="font-weight:700;font-size:14px;color:#0B6B7E;margin-bottom:2px;">Devis gratuit chauffage</p>
+                <p style="font-weight:700;font-size:14px;color:#EA580C;margin-bottom:2px;">Devis gratuit chauffage</p>
                 <p style="font-size:12px;color:#6b6762;">Comparez les chauffagistes qualifiés · Sans engagement</p>
             </div>
 
