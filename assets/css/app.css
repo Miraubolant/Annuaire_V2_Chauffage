@@ -73,10 +73,10 @@
   transition: background 0.3s, box-shadow 0.3s, backdrop-filter 0.3s;
 }
 .site-header.hdr-solid {
-  background: rgba(250, 248, 243, 0.97);
+  background: rgba(154, 52, 18, 0.97);
   backdrop-filter: blur(12px);
   -webkit-backdrop-filter: blur(12px);
-  box-shadow: 0 1px 0 rgba(234,88,12,.10), var(--shadow-sm);
+  box-shadow: 0 1px 0 rgba(0,0,0,.18), 0 4px 16px rgba(154,52,18,.25);
 }
 .site-header.hdr-transparent {
   background: transparent;
@@ -129,6 +129,9 @@
 .hdr-transparent .hdr-logo-name,
 .hdr-transparent .hdr-logo-sub { color: #fff; }
 .hdr-transparent .hdr-logo-icon { background: rgba(255,255,255,0.2); }
+.hdr-solid .hdr-logo-name,
+.hdr-solid .hdr-logo-sub { color: #fff; }
+.hdr-solid .hdr-logo-icon { background: rgba(255,255,255,0.2); }
 
 /* Nav links */
 .hdr-nav {
@@ -156,6 +159,11 @@
 .nav-btn:hover, .nav-btn.open { background: rgba(234,88,12,.08); color: var(--forest); }
 .hdr-transparent .nav-btn { color: rgba(255,255,255,0.9); }
 .hdr-transparent .nav-btn:hover, .hdr-transparent .nav-btn.open {
+  background: rgba(255,255,255,.15);
+  color: #fff;
+}
+.hdr-solid .nav-btn { color: rgba(255,255,255,0.9); }
+.hdr-solid .nav-btn:hover, .hdr-solid .nav-btn.open {
   background: rgba(255,255,255,.15);
   color: #fff;
 }
@@ -274,6 +282,8 @@
 .hdr-search-btn:hover { background: rgba(234,88,12,.08); }
 .hdr-transparent .hdr-search-btn { color: rgba(255,255,255,.85); }
 .hdr-transparent .hdr-search-btn:hover { background: rgba(255,255,255,.15); color: #fff; }
+.hdr-solid .hdr-search-btn { color: rgba(255,255,255,.85); }
+.hdr-solid .hdr-search-btn:hover { background: rgba(255,255,255,.15); color: #fff; }
 
 .btn-devis-nav {
   display: inline-flex;
@@ -976,6 +986,8 @@
 .hdr-burger:hover { background: rgba(26,51,32,.08); }
 .hdr-transparent .hdr-burger { color: rgba(255,255,255,.85); }
 .hdr-transparent .hdr-burger:hover { background: rgba(255,255,255,.15); }
+.hdr-solid .hdr-burger { color: rgba(255,255,255,.85); }
+.hdr-solid .hdr-burger:hover { background: rgba(255,255,255,.15); }
 
 .mobile-menu {
   background: var(--white);

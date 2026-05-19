@@ -12,8 +12,8 @@
             "slug": "ariege",
             "population_totale": 155310,
             "communes_count": 325,
-            "communes_avec_artisans": 24,
-            "artisans_chauffage": 145,
+            "communes_avec_artisans": 114,
+            "artisans_chauffage": 281,
             "voisins": [
                 {
                     "dep_code": "11",
@@ -43,8 +43,8 @@
             "slug": "aude",
             "population_totale": 377685,
             "communes_count": 433,
-            "communes_avec_artisans": 72,
-            "artisans_chauffage": 437,
+            "communes_avec_artisans": 197,
+            "artisans_chauffage": 625,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -74,8 +74,8 @@
             "slug": "aveyron",
             "population_totale": 279284,
             "communes_count": 285,
-            "communes_avec_artisans": 58,
-            "artisans_chauffage": 321,
+            "communes_avec_artisans": 150,
+            "artisans_chauffage": 452,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -105,8 +105,8 @@
             "slug": "gard",
             "population_totale": 758288,
             "communes_count": 350,
-            "communes_avec_artisans": 137,
-            "artisans_chauffage": 1022,
+            "communes_avec_artisans": 266,
+            "artisans_chauffage": 1276,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -136,8 +136,8 @@
             "slug": "haute-garonne",
             "population_totale": 1437172,
             "communes_count": 586,
-            "communes_avec_artisans": 169,
-            "artisans_chauffage": 1317,
+            "communes_avec_artisans": 334,
+            "artisans_chauffage": 1598,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -167,8 +167,8 @@
             "slug": "gers",
             "population_totale": 192138,
             "communes_count": 458,
-            "communes_avec_artisans": 33,
-            "artisans_chauffage": 153,
+            "communes_avec_artisans": 156,
+            "artisans_chauffage": 323,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -198,8 +198,8 @@
             "slug": "herault",
             "population_totale": 1204057,
             "communes_count": 341,
-            "communes_avec_artisans": 161,
-            "artisans_chauffage": 1240,
+            "communes_avec_artisans": 247,
+            "artisans_chauffage": 1425,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -229,8 +229,8 @@
             "slug": "lot",
             "population_totale": 176209,
             "communes_count": 312,
-            "communes_avec_artisans": 31,
-            "artisans_chauffage": 162,
+            "communes_avec_artisans": 148,
+            "artisans_chauffage": 329,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -260,8 +260,8 @@
             "slug": "lozere",
             "population_totale": 76549,
             "communes_count": 152,
-            "communes_avec_artisans": 13,
-            "artisans_chauffage": 67,
+            "communes_avec_artisans": 52,
+            "artisans_chauffage": 119,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -291,8 +291,8 @@
             "slug": "hautes-pyrenees",
             "population_totale": 230997,
             "communes_count": 469,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 141,
+            "artisans_chauffage": 399,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -322,8 +322,8 @@
             "slug": "pyrenees-orientales",
             "population_totale": 488479,
             "communes_count": 226,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 133,
+            "artisans_chauffage": 1104,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -353,8 +353,8 @@
             "slug": "tarn",
             "population_totale": 394331,
             "communes_count": 314,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 159,
+            "artisans_chauffage": 602,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -384,8 +384,8 @@
             "slug": "tarn-et-garonne",
             "population_totale": 263633,
             "communes_count": 195,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 116,
+            "artisans_chauffage": 483,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -412,8 +412,8 @@
     ],
     "stats": {
         "communes_total": 4446,
-        "communes_avec_artisans": 698,
-        "artisans_chauffage": 4864,
+        "communes_avec_artisans": 2213,
+        "artisans_chauffage": 9016,
         "population_totale": 6034132
     },
     "zones_climatiques": {

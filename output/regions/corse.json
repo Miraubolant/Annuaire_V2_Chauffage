@@ -12,8 +12,8 @@
             "slug": "corse-du-sud",
             "population_totale": 163663,
             "communes_count": 124,
-            "communes_avec_artisans": 24,
-            "artisans_chauffage": 135,
+            "communes_avec_artisans": 65,
+            "artisans_chauffage": 239,
             "voisins": [
                 {
                     "dep_code": "2B",
@@ -28,8 +28,8 @@
             "slug": "haute-corse",
             "population_totale": 185493,
             "communes_count": 236,
-            "communes_avec_artisans": 28,
-            "artisans_chauffage": 156,
+            "communes_avec_artisans": 115,
+            "artisans_chauffage": 330,
             "voisins": [
                 {
                     "dep_code": "2A",
@@ -41,8 +41,8 @@
     ],
     "stats": {
         "communes_total": 360,
-        "communes_avec_artisans": 52,
-        "artisans_chauffage": 291,
+        "communes_avec_artisans": 180,
+        "artisans_chauffage": 569,
         "population_totale": 349156
     },
     "zones_climatiques": {

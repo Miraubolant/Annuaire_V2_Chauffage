@@ -6,7 +6,7 @@ define('SITE_YEAR',    date('Y'));
 define('METIER',       'chauffagiste');
 define('METIER_PLURIEL', 'chauffagistes');
 define('METIER_CAP',   'Chauffagiste');
-define('NICHE_KEY',    'chauffage');
+define('NICHE_KEY',    'chauffage_pac_clim');
 define('NICHE_DIR',    'artisans-chauffage');
 define('DATA_DIR',     __DIR__ . '/output');
 

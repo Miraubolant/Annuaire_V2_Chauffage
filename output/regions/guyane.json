@@ -12,15 +12,15 @@
             "slug": "guyane",
             "population_totale": 286395,
             "communes_count": 22,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 12,
+            "artisans_chauffage": 450,
             "voisins": []
         }
     ],
     "stats": {
         "communes_total": 22,
-        "communes_avec_artisans": 0,
-        "artisans_chauffage": 0,
+        "communes_avec_artisans": 12,
+        "artisans_chauffage": 450,
         "population_totale": 286395
     },
     "zones_climatiques": [],

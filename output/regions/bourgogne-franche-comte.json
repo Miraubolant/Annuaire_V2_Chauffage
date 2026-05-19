@@ -12,8 +12,8 @@
             "slug": "cote-d-or",
             "population_totale": 536021,
             "communes_count": 698,
-            "communes_avec_artisans": 68,
-            "artisans_chauffage": 415,
+            "communes_avec_artisans": 236,
+            "artisans_chauffage": 646,
             "voisins": [
                 {
                     "dep_code": "25",
@@ -43,8 +43,8 @@
             "slug": "doubs",
             "population_totale": 547717,
             "communes_count": 563,
-            "communes_avec_artisans": 95,
-            "artisans_chauffage": 510,
+            "communes_avec_artisans": 236,
+            "artisans_chauffage": 730,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -74,8 +74,8 @@
             "slug": "jura",
             "population_totale": 258505,
             "communes_count": 492,
-            "communes_avec_artisans": 45,
-            "artisans_chauffage": 220,
+            "communes_avec_artisans": 177,
+            "artisans_chauffage": 414,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -105,8 +105,8 @@
             "slug": "nievre",
             "population_totale": 201763,
             "communes_count": 309,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 126,
+            "artisans_chauffage": 276,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -136,8 +136,8 @@
             "slug": "haute-saone",
             "population_totale": 233871,
             "communes_count": 536,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 157,
+            "artisans_chauffage": 284,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -167,8 +167,8 @@
             "slug": "saone-et-loire",
             "population_totale": 549841,
             "communes_count": 563,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 284,
+            "artisans_chauffage": 877,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -198,8 +198,8 @@
             "slug": "yonne",
             "population_totale": 332708,
             "communes_count": 423,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 189,
+            "artisans_chauffage": 511,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -229,8 +229,8 @@
             "slug": "territoire-de-belfort",
             "population_totale": 139628,
             "communes_count": 101,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 57,
+            "artisans_chauffage": 163,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -257,8 +257,8 @@
     ],
     "stats": {
         "communes_total": 3685,
-        "communes_avec_artisans": 208,
-        "artisans_chauffage": 1145,
+        "communes_avec_artisans": 1462,
+        "artisans_chauffage": 3901,
         "population_totale": 2800054
     },
     "zones_climatiques": {

@@ -12,8 +12,8 @@
             "slug": "cotes-d-armor",
             "population_totale": 605546,
             "communes_count": 344,
-            "communes_avec_artisans": 162,
-            "artisans_chauffage": 1099,
+            "communes_avec_artisans": 232,
+            "artisans_chauffage": 1198,
             "voisins": [
                 {
                     "dep_code": "29",
@@ -38,8 +38,8 @@
             "slug": "finistere",
             "population_totale": 922301,
             "communes_count": 277,
-            "communes_avec_artisans": 179,
-            "artisans_chauffage": 1207,
+            "communes_avec_artisans": 225,
+            "artisans_chauffage": 1276,
             "voisins": [
                 {
                     "dep_code": "22",
@@ -64,8 +64,8 @@
             "slug": "ille-et-vilaine",
             "population_totale": 1098406,
             "communes_count": 332,
-            "communes_avec_artisans": 221,
-            "artisans_chauffage": 1576,
+            "communes_avec_artisans": 266,
+            "artisans_chauffage": 1638,
             "voisins": [
                 {
                     "dep_code": "22",
@@ -90,8 +90,8 @@
             "slug": "morbihan",
             "population_totale": 769527,
             "communes_count": 249,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 187,
+            "artisans_chauffage": 1007,
             "voisins": [
                 {
                     "dep_code": "22",
@@ -113,8 +113,8 @@
     ],
     "stats": {
         "communes_total": 1202,
-        "communes_avec_artisans": 562,
-        "artisans_chauffage": 3882,
+        "communes_avec_artisans": 910,
+        "artisans_chauffage": 5119,
         "population_totale": 3395780
     },
     "zones_climatiques": {

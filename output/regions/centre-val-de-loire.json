@@ -12,8 +12,8 @@
             "slug": "cher",
             "population_totale": 298334,
             "communes_count": 286,
-            "communes_avec_artisans": 52,
-            "artisans_chauffage": 282,
+            "communes_avec_artisans": 124,
+            "artisans_chauffage": 394,
             "voisins": [
                 {
                     "dep_code": "28",
@@ -43,8 +43,8 @@
             "slug": "eure-et-loir",
             "population_totale": 431643,
             "communes_count": 363,
-            "communes_avec_artisans": 89,
-            "artisans_chauffage": 531,
+            "communes_avec_artisans": 227,
+            "artisans_chauffage": 761,
             "voisins": [
                 {
                     "dep_code": "18",
@@ -74,8 +74,8 @@
             "slug": "indre",
             "population_totale": 216689,
             "communes_count": 241,
-            "communes_avec_artisans": 37,
-            "artisans_chauffage": 185,
+            "communes_avec_artisans": 103,
+            "artisans_chauffage": 290,
             "voisins": [
                 {
                     "dep_code": "18",
@@ -105,8 +105,8 @@
             "slug": "indre-et-loire",
             "population_totale": 612207,
             "communes_count": 272,
-            "communes_avec_artisans": 113,
-            "artisans_chauffage": 697,
+            "communes_avec_artisans": 185,
+            "artisans_chauffage": 808,
             "voisins": [
                 {
                     "dep_code": "18",
@@ -136,8 +136,8 @@
             "slug": "loir-et-cher",
             "population_totale": 328177,
             "communes_count": 267,
-            "communes_avec_artisans": 81,
-            "artisans_chauffage": 480,
+            "communes_avec_artisans": 145,
+            "artisans_chauffage": 562,
             "voisins": [
                 {
                     "dep_code": "18",
@@ -167,8 +167,8 @@
             "slug": "loiret",
             "population_totale": 684684,
             "communes_count": 325,
-            "communes_avec_artisans": 129,
-            "artisans_chauffage": 810,
+            "communes_avec_artisans": 215,
+            "artisans_chauffage": 938,
             "voisins": [
                 {
                     "dep_code": "18",
@@ -195,8 +195,8 @@
     ],
     "stats": {
         "communes_total": 1754,
-        "communes_avec_artisans": 501,
-        "artisans_chauffage": 2985,
+        "communes_avec_artisans": 999,
+        "artisans_chauffage": 3753,
         "population_totale": 2571734
     },
     "zones_climatiques": {

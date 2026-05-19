@@ -12,8 +12,8 @@
             "slug": "calvados",
             "population_totale": 702207,
             "communes_count": 527,
-            "communes_avec_artisans": 134,
-            "artisans_chauffage": 922,
+            "communes_avec_artisans": 305,
+            "artisans_chauffage": 1203,
             "voisins": [
                 {
                     "dep_code": "27",
@@ -43,8 +43,8 @@
             "slug": "eure",
             "population_totale": 598903,
             "communes_count": 585,
-            "communes_avec_artisans": 122,
-            "artisans_chauffage": 748,
+            "communes_avec_artisans": 339,
+            "artisans_chauffage": 1084,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -74,8 +74,8 @@
             "slug": "manche",
             "population_totale": 496025,
             "communes_count": 445,
-            "communes_avec_artisans": 15,
-            "artisans_chauffage": 87,
+            "communes_avec_artisans": 175,
+            "artisans_chauffage": 467,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -105,8 +105,8 @@
             "slug": "orne",
             "population_totale": 276369,
             "communes_count": 381,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 151,
+            "artisans_chauffage": 346,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -136,8 +136,8 @@
             "slug": "seine-maritime",
             "population_totale": 1255875,
             "communes_count": 707,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 349,
+            "artisans_chauffage": 1321,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -164,8 +164,8 @@
     ],
     "stats": {
         "communes_total": 2645,
-        "communes_avec_artisans": 271,
-        "artisans_chauffage": 1757,
+        "communes_avec_artisans": 1319,
+        "artisans_chauffage": 4421,
         "population_totale": 3329379
     },
     "zones_climatiques": {

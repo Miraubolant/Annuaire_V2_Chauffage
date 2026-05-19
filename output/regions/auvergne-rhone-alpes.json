@@ -12,8 +12,8 @@
             "slug": "ain",
             "population_totale": 665468,
             "communes_count": 391,
-            "communes_avec_artisans": 171,
-            "artisans_chauffage": 1180,
+            "communes_avec_artisans": 285,
+            "artisans_chauffage": 1408,
             "voisins": [
                 {
                     "dep_code": "03",
@@ -43,8 +43,8 @@
             "slug": "allier",
             "population_totale": 334814,
             "communes_count": 317,
-            "communes_avec_artisans": 64,
-            "artisans_chauffage": 374,
+            "communes_avec_artisans": 162,
+            "artisans_chauffage": 511,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -74,8 +74,8 @@
             "slug": "ardeche",
             "population_totale": 332564,
             "communes_count": 335,
-            "communes_avec_artisans": 91,
-            "artisans_chauffage": 526,
+            "communes_avec_artisans": 198,
+            "artisans_chauffage": 712,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -105,8 +105,8 @@
             "slug": "cantal",
             "population_totale": 144572,
             "communes_count": 250,
-            "communes_avec_artisans": 28,
-            "artisans_chauffage": 117,
+            "communes_avec_artisans": 76,
+            "artisans_chauffage": 208,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -136,8 +136,8 @@
             "slug": "drome",
             "population_totale": 520293,
             "communes_count": 362,
-            "communes_avec_artisans": 101,
-            "artisans_chauffage": 692,
+            "communes_avec_artisans": 187,
+            "artisans_chauffage": 840,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -167,8 +167,8 @@
             "slug": "isere",
             "population_totale": 1289104,
             "communes_count": 512,
-            "communes_avec_artisans": 266,
-            "artisans_chauffage": 2116,
+            "communes_avec_artisans": 400,
+            "artisans_chauffage": 2377,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -198,8 +198,8 @@
             "slug": "loire",
             "population_totale": 770130,
             "communes_count": 320,
-            "communes_avec_artisans": 133,
-            "artisans_chauffage": 892,
+            "communes_avec_artisans": 230,
+            "artisans_chauffage": 1043,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -229,8 +229,8 @@
             "slug": "haute-loire",
             "population_totale": 227866,
             "communes_count": 257,
-            "communes_avec_artisans": 60,
-            "artisans_chauffage": 344,
+            "communes_avec_artisans": 119,
+            "artisans_chauffage": 431,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -260,8 +260,8 @@
             "slug": "puy-de-dome",
             "population_totale": 663504,
             "communes_count": 463,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 252,
+            "artisans_chauffage": 985,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -291,8 +291,8 @@
             "slug": "rhone",
             "population_totale": 1895074,
             "communes_count": 267,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 233,
+            "artisans_chauffage": 2987,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -322,8 +322,8 @@
             "slug": "savoie",
             "population_totale": 443896,
             "communes_count": 273,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 195,
+            "artisans_chauffage": 940,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -353,8 +353,8 @@
             "slug": "haute-savoie",
             "population_totale": 843795,
             "communes_count": 279,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 228,
+            "artisans_chauffage": 1581,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -381,8 +381,8 @@
     ],
     "stats": {
         "communes_total": 4026,
-        "communes_avec_artisans": 914,
-        "artisans_chauffage": 6241,
+        "communes_avec_artisans": 2565,
+        "artisans_chauffage": 14023,
         "population_totale": 8131080
     },
     "zones_climatiques": {

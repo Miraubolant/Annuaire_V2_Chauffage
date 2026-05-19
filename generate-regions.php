@@ -62,7 +62,9 @@ foreach ($files as $file) {
 
     foreach ($data['communes'] as $commune) {
         $dCodeLower = strtolower($dCode);
-        $nbArtisans = $artisansByDept[$dCodeLower][$commune['slug']] ?? 0;
+        // Priorité aux fichiers artisans-chauffage détaillés, sinon fallback geo JSON
+        $nbArtisans = $artisansByDept[$dCodeLower][$commune['slug']]
+            ?? (int)($commune['artisans']['chauffage_pac_clim'] ?? 0);
 
         $regions[$rSlug]['stats']['communes_total']++;
         $regions[$rSlug]['stats']['population_totale'] += $commune['population'] ?? 0;

@@ -43,8 +43,8 @@
             "slug": "seine-et-marne",
             "population_totale": 1439608,
             "communes_count": 507,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 391,
+            "artisans_chauffage": 3074,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -74,8 +74,8 @@
             "slug": "yvelines",
             "population_totale": 1458780,
             "communes_count": 259,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 220,
+            "artisans_chauffage": 2442,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -105,8 +105,8 @@
             "slug": "essonne",
             "population_totale": 1314065,
             "communes_count": 194,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 170,
+            "artisans_chauffage": 2735,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -136,8 +136,8 @@
             "slug": "hauts-de-seine",
             "population_totale": 1636336,
             "communes_count": 36,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 36,
+            "artisans_chauffage": 2221,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -167,8 +167,8 @@
             "slug": "seine-saint-denis",
             "population_totale": 1670745,
             "communes_count": 40,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 40,
+            "artisans_chauffage": 4469,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -198,8 +198,8 @@
             "slug": "val-de-marne",
             "population_totale": 1418048,
             "communes_count": 47,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 47,
+            "artisans_chauffage": 2988,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -229,8 +229,8 @@
             "slug": "val-d-oise",
             "population_totale": 1258277,
             "communes_count": 183,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 142,
+            "artisans_chauffage": 2988,
             "voisins": [
                 {
                     "dep_code": "75",
@@ -257,8 +257,8 @@
     ],
     "stats": {
         "communes_total": 1267,
-        "communes_avec_artisans": 0,
-        "artisans_chauffage": 0,
+        "communes_avec_artisans": 1046,
+        "artisans_chauffage": 20917,
         "population_totale": 12328970
     },
     "zones_climatiques": {

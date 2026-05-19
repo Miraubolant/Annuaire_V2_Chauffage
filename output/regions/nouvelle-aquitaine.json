@@ -12,8 +12,8 @@
             "slug": "charente",
             "population_totale": 349397,
             "communes_count": 359,
-            "communes_avec_artisans": 71,
-            "artisans_chauffage": 416,
+            "communes_avec_artisans": 184,
+            "artisans_chauffage": 571,
             "voisins": [
                 {
                     "dep_code": "17",
@@ -43,8 +43,8 @@
             "slug": "charente-maritime",
             "population_totale": 662856,
             "communes_count": 462,
-            "communes_avec_artisans": 145,
-            "artisans_chauffage": 994,
+            "communes_avec_artisans": 300,
+            "artisans_chauffage": 1258,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -74,8 +74,8 @@
             "slug": "correze",
             "population_totale": 239981,
             "communes_count": 277,
-            "communes_avec_artisans": 45,
-            "artisans_chauffage": 219,
+            "communes_avec_artisans": 129,
+            "artisans_chauffage": 363,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -105,8 +105,8 @@
             "slug": "creuse",
             "population_totale": 115651,
             "communes_count": 255,
-            "communes_avec_artisans": 23,
-            "artisans_chauffage": 117,
+            "communes_avec_artisans": 85,
+            "artisans_chauffage": 196,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -136,8 +136,8 @@
             "slug": "dordogne",
             "population_totale": 415227,
             "communes_count": 503,
-            "communes_avec_artisans": 86,
-            "artisans_chauffage": 493,
+            "communes_avec_artisans": 271,
+            "artisans_chauffage": 795,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -167,8 +167,8 @@
             "slug": "gironde",
             "population_totale": 1657578,
             "communes_count": 534,
-            "communes_avec_artisans": 233,
-            "artisans_chauffage": 1702,
+            "communes_avec_artisans": 382,
+            "artisans_chauffage": 1953,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -198,8 +198,8 @@
             "slug": "landes",
             "population_totale": 424214,
             "communes_count": 327,
-            "communes_avec_artisans": 92,
-            "artisans_chauffage": 576,
+            "communes_avec_artisans": 190,
+            "artisans_chauffage": 739,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -229,8 +229,8 @@
             "slug": "lot-et-garonne",
             "population_totale": 331947,
             "communes_count": 319,
-            "communes_avec_artisans": 62,
-            "artisans_chauffage": 371,
+            "communes_avec_artisans": 172,
+            "artisans_chauffage": 549,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -260,8 +260,8 @@
             "slug": "pyrenees-atlantiques",
             "population_totale": 694121,
             "communes_count": 545,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 258,
+            "artisans_chauffage": 1140,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -291,8 +291,8 @@
             "slug": "deux-sevres",
             "population_totale": 373656,
             "communes_count": 252,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 139,
+            "artisans_chauffage": 394,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -322,8 +322,8 @@
             "slug": "vienne",
             "population_totale": 439388,
             "communes_count": 265,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 152,
+            "artisans_chauffage": 465,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -353,8 +353,8 @@
             "slug": "haute-vienne",
             "population_totale": 372104,
             "communes_count": 195,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 118,
+            "artisans_chauffage": 452,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -381,8 +381,8 @@
     ],
     "stats": {
         "communes_total": 4293,
-        "communes_avec_artisans": 757,
-        "artisans_chauffage": 4888,
+        "communes_avec_artisans": 2380,
+        "artisans_chauffage": 8875,
         "population_totale": 6076120
     },
     "zones_climatiques": {

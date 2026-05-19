@@ -12,8 +12,8 @@
             "slug": "ardennes",
             "population_totale": 267422,
             "communes_count": 447,
-            "communes_avec_artisans": 43,
-            "artisans_chauffage": 201,
+            "communes_avec_artisans": 160,
+            "artisans_chauffage": 378,
             "voisins": [
                 {
                     "dep_code": "10",
@@ -43,8 +43,8 @@
             "slug": "aube",
             "population_totale": 310675,
             "communes_count": 431,
-            "communes_avec_artisans": 43,
-            "artisans_chauffage": 199,
+            "communes_avec_artisans": 165,
+            "artisans_chauffage": 392,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -74,8 +74,8 @@
             "slug": "marne",
             "population_totale": 564673,
             "communes_count": 610,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 230,
+            "artisans_chauffage": 716,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -105,8 +105,8 @@
             "slug": "haute-marne",
             "population_totale": 170045,
             "communes_count": 426,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 107,
+            "artisans_chauffage": 201,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -136,8 +136,8 @@
             "slug": "meurthe-et-moselle",
             "population_totale": 732598,
             "communes_count": 591,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 288,
+            "artisans_chauffage": 1034,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -167,8 +167,8 @@
             "slug": "meuse",
             "population_totale": 180980,
             "communes_count": 499,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 129,
+            "artisans_chauffage": 223,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -198,8 +198,8 @@
             "slug": "moselle",
             "population_totale": 1050568,
             "communes_count": 725,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 371,
+            "artisans_chauffage": 1418,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -229,8 +229,8 @@
             "slug": "bas-rhin",
             "population_totale": 1152643,
             "communes_count": 514,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 335,
+            "artisans_chauffage": 1654,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -260,8 +260,8 @@
             "slug": "haut-rhin",
             "population_totale": 768567,
             "communes_count": 366,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 224,
+            "artisans_chauffage": 1017,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -291,8 +291,8 @@
             "slug": "vosges",
             "population_totale": 359332,
             "communes_count": 506,
-            "communes_avec_artisans": 0,
-            "artisans_chauffage": 0,
+            "communes_avec_artisans": 195,
+            "artisans_chauffage": 528,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -319,8 +319,8 @@
     ],
     "stats": {
         "communes_total": 5115,
-        "communes_avec_artisans": 86,
-        "artisans_chauffage": 400,
+        "communes_avec_artisans": 2204,
+        "artisans_chauffage": 7561,
         "population_totale": 5557503
     },
     "zones_climatiques": {
