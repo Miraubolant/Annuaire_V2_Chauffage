@@ -1,0 +1,1817 @@
+{
+  "vic-fezensac": {
+    "artisans": [
+      {
+        "id": "11744558336907396908",
+        "nom": "ETS JEAN PAUL MICHAUX",
+        "slug": "ets-jean-paul-michaux",
+        "telephone": "05 62 58 07 92",
+        "site_web": "http://www.plombier-gers.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 42,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "fleurance": {
+    "artisans": [
+      {
+        "id": "8259083448534042745",
+        "nom": "plomberie générale du batiment dépannage et entretien de chaudière zinguerie DA ROCHA Jérome",
+        "slug": "plomberie-generale-du-batiment-depannage-et-entretien-de-chaudiere-zinguerie-da-rocha-jerome",
+        "telephone": "07 82 12 10 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "14842861060131554741",
+        "nom": "DAZA jacques",
+        "slug": "daza-jacques",
+        "telephone": "06 65 11 71 46",
+        "site_web": null,
+        "adresse": "10 Rue des Peupliers, 32500 Fleurance",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15364330697648325084",
+        "nom": "Morant Thierry",
+        "slug": "morant-thierry",
+        "telephone": "06 84 75 88 78",
+        "site_web": null,
+        "adresse": "Chem. du Piot, 32500 Fleurance",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "3024162953994168465",
+        "nom": "EDC RECHOU",
+        "slug": "edc-rechou",
+        "telephone": "06 43 41 19 54",
+        "site_web": "http://www.edc-rechou.fr/",
+        "adresse": null,
+        "note": 3.8,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9072186879243405747",
+        "nom": "France Climatisation et Pompe à Chaleur - Vente Pose Entretien Maintenance Dépannage Chauffagiste 32 Gers Auch Fleurance",
+        "slug": "france-climatisation-et-pompe-a-chaleur-vente-pose-entretien-maintenance-depannage-chauffagiste-32-gers-auch-fleurance",
+        "telephone": "07 52 08 90 22",
+        "site_web": "https://climatisation32500.wixsite.com/climatisation32500",
+        "adresse": "Rt d'Auch, chemin d'angelis, 32500 Fleurance",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "gimont": {
+    "artisans": [
+      {
+        "id": "10038801034686682123",
+        "nom": "LE BARS - ENERGIES RENOUVELABLES",
+        "slug": "le-bars-energies-renouvelables",
+        "telephone": "06 74 13 19 33",
+        "site_web": "https://www.lber.fr/",
+        "adresse": "17 Rte de Touget, 32200 Gimont",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "9651993150803872359",
+        "nom": "Gers Energie",
+        "slug": "gers-energie",
+        "telephone": "07 60 81 72 24",
+        "site_web": "https://gersenergie.fr/",
+        "adresse": "9 Chem. d'Enrobert, 32200 Gimont",
+        "note": 5,
+        "avis": 13,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "2524817385917361399",
+        "nom": "PY Energies – Artisan 32 - Chauffagiste - Installateur de panneaux solaires",
+        "slug": "py-energies-artisan-32-chauffagiste-installateur-de-panneaux-solaires",
+        "telephone": "06 95 95 96 20",
+        "site_web": "http://www.pyenergies.fr/",
+        "adresse": "200 Chem. De Gimont, 32200 Giscaro",
+        "note": 5,
+        "avis": 36,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12502735993521754624",
+        "nom": "Pesenti Plomberie",
+        "slug": "pesenti-plomberie",
+        "telephone": "06 19 12 64 65",
+        "site_web": "https://www.pesentiplomberie.fr/",
+        "adresse": "Le Gleisa, 32200 Gimont",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15919333269400508589",
+        "nom": "Finazzi",
+        "slug": "finazzi",
+        "telephone": "05 62 67 83 92",
+        "site_web": "https://finazzi-plombiers-gimont.fr/",
+        "adresse": "BP12, 32200 Gimont",
+        "note": 3.4,
+        "avis": 9,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "le-houga": {
+    "artisans": [
+      {
+        "id": "14351309126709504334",
+        "nom": "SOS Plomberie/Chauffage",
+        "slug": "sos-plomberiechauffage",
+        "telephone": "06 41 22 05 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "2947217977765803055",
+        "nom": "Apesteguy Plomberie",
+        "slug": "apesteguy-plomberie",
+        "telephone": "06 65 09 12 54",
+        "site_web": "https://www.apesteguyplomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1136059002546352812",
+        "nom": "Teréga",
+        "slug": "terega",
+        "telephone": "05 62 08 65 00",
+        "site_web": "https://www2.terega.fr/",
+        "adresse": "Route de Mont de Marsan - RD6, Lieu Dit Biasse, 32460 Le Houga",
+        "note": 4.4,
+        "avis": 36,
+        "type": "Gazier"
+      },
+      {
+        "id": "9364223568159888526",
+        "nom": "TERRAIN DAVID",
+        "slug": "terrain-david",
+        "telephone": "05 62 09 21 10",
+        "site_web": "http://www.terrain-david-sarl.com/",
+        "adresse": "68 Chem. de l'Aviation, 32400 Riscle",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18254171834237033825",
+        "nom": "EP&G",
+        "slug": "epg",
+        "telephone": "06 81 23 54 25",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "5829272681547930707",
+        "nom": "Stringher Rémi",
+        "slug": "stringher-remi",
+        "telephone": "06 38 69 13 87",
+        "site_web": "https://www.facebook.com/remi32.stringher/",
+        "adresse": "1448 Rte de la Mairie, 32110 Arblade-le-Haut",
+        "note": 4.9,
+        "avis": 29,
+        "type": "Plombier"
+      },
+      {
+        "id": "12092103650306601644",
+        "nom": "SAS HOUGA",
+        "slug": "sas-houga",
+        "telephone": "06 99 04 44 65",
+        "site_web": "https://www.houga-elec.com/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13271525250364438454",
+        "nom": "Air Pro Confort",
+        "slug": "air-pro-confort",
+        "telephone": "07 84 94 48 01",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 40,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5684680569456400841",
+        "nom": "FJD Plomberie",
+        "slug": "fjd-plomberie",
+        "telephone": "06 95 86 65 19",
+        "site_web": "http://facebook.com/FJDplomberie/",
+        "adresse": "226 chemin de larroudé, 32110 Luppé-Violles",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4938629341110886237",
+        "nom": "Dos Santos Paul",
+        "slug": "dos-santos-paul",
+        "telephone": "06 13 32 06 30",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "jegun": {
+    "artisans": [
+      {
+        "id": "1808508624000964889",
+        "nom": "Les Thermiciens Gascons",
+        "slug": "les-thermiciens-gascons",
+        "telephone": "05 62 63 52 76",
+        "site_web": "http://www.lesthermiciens-gascons.fr/?utm_source=gmb",
+        "adresse": "19 Chem. de la Bourdette du Martet, 32360 Jegun",
+        "note": 4,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "gondrin": {
+    "artisans": [
+      {
+        "id": "2897371880037323876",
+        "nom": "Sarl Cazes Gérard",
+        "slug": "sarl-cazes-gerard",
+        "telephone": "05 62 06 42 69",
+        "site_web": "http://www.cazes32.fr/?utm_source=gmb",
+        "adresse": "Au Moulin, 32330 Courrensan",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11320902202456434774",
+        "nom": "ETS JEAN PAUL MICHAUX",
+        "slug": "ets-jean-paul-michaux",
+        "telephone": "06 80 94 34 85",
+        "site_web": "http://www.plombier-gers.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2360411501381358279",
+        "nom": "CANDAU EURL",
+        "slug": "candau-eurl",
+        "telephone": "06 88 88 96 66",
+        "site_web": null,
+        "adresse": "Casset, 32190 Mourède",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5838629171521619159",
+        "nom": "Bernet Didier",
+        "slug": "bernet-didier",
+        "telephone": "05 62 28 29 44",
+        "site_web": null,
+        "adresse": "230 dunau, 32330 Mouchan",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "12623864716529574285",
+        "nom": "Despiau-Couret Christophe",
+        "slug": "despiau-couret-christophe",
+        "telephone": "05 62 64 64 55",
+        "site_web": null,
+        "adresse": "Au capon, 32350 Biran",
+        "note": 5,
+        "avis": 5,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "l-isle-jourdain": {
+    "artisans": [
+      {
+        "id": "8327780833168879731",
+        "nom": "LET LAFFORGUE",
+        "slug": "let-lafforgue",
+        "telephone": "05 62 07 06 00",
+        "site_web": "https://www.letlafforgue.fr/",
+        "adresse": "15 Rue Commandant Cousteau ZAC, 32600 L'Isle-Jourdain",
+        "note": 3.1,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15383464911236175804",
+        "nom": "SOS Dép'32",
+        "slug": "sos-dep32",
+        "telephone": "07 71 93 87 22",
+        "site_web": null,
+        "adresse": "19 Rue de la Gavarre, 32600 L'Isle-Jourdain",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "10596513916277798010",
+        "nom": "SPCC32",
+        "slug": "spcc32",
+        "telephone": "06 77 39 47 75",
+        "site_web": null,
+        "adresse": "42 VCO n. 14 de Cassemartin, 32600 L'Isle-Jourdain",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11954914516703740792",
+        "nom": "Solutions Thermiques",
+        "slug": "solutions-thermiques",
+        "telephone": "05 62 59 09 08",
+        "site_web": "http://www.solutions-thermiques.fr/",
+        "adresse": "68 Rte de Toulouse, 32600 L'Isle-Jourdain",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16424350955627554180",
+        "nom": "CLIMAHOME",
+        "slug": "climahome",
+        "telephone": "05 61 82 20 72",
+        "site_web": null,
+        "adresse": "6 rue boule, 32600 L'Isle-Jourdain",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2481347223813942404",
+        "nom": "CHAUDIERE SERVICE SASU",
+        "slug": "chaudiere-service-sasu",
+        "telephone": "06 81 97 83 70",
+        "site_web": "https://chaudiere-service.fr/",
+        "adresse": "19 Rue Marcel Taillandier, 32600 L'Isle-Jourdain",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "4329572144047139057",
+        "nom": "FROID TOLOSAN SAS- Chauffagiste",
+        "slug": "froid-tolosan-sas-chauffagiste",
+        "telephone": "05 32 66 96 34",
+        "site_web": "https://www.froid-tolosan-climatisation-toulouse.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "26 Av. du Commandant Parisot, 32600 L'Isle-Jourdain",
+        "note": 1,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "880538682691097779",
+        "nom": "Alias plomberie",
+        "slug": "alias-plomberie",
+        "telephone": "06 52 08 95 09",
+        "site_web": "https://www.alias-plomberie.com/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "12565383216849085480",
+        "nom": "Cheminées Campo",
+        "slug": "cheminees-campo",
+        "telephone": "05 62 07 17 95",
+        "site_web": "https://cheminees-campo.fr/",
+        "adresse": "Zone artisanale du, 7 Rue Louis Aygobère, 32600 L'Isle-Jourdain",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Cheministe"
+      },
+      {
+        "id": "2195371176451864998",
+        "nom": "Entreprise Magne",
+        "slug": "entreprise-magne",
+        "telephone": "06 13 40 80 89",
+        "site_web": "http://magneremi.site-solocal.com/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "lectoure": {
+    "artisans": [
+      {
+        "id": "11074107557784646736",
+        "nom": "Electricité et Plomberie de Lomagne",
+        "slug": "electricite-et-plomberie-de-lomagne",
+        "telephone": "06 21 77 54 61",
+        "site_web": null,
+        "adresse": "Av. de la Gare, 32700 Lectoure",
+        "note": 3,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4762780629303196243",
+        "nom": "CHAUD ROOM",
+        "slug": "chaud-room",
+        "telephone": "06 21 77 54 61",
+        "site_web": null,
+        "adresse": "Av. de la Gare, 32700 Lectoure",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3670374459544952055",
+        "nom": "PCE 32",
+        "slug": "pce-32",
+        "telephone": "07 81 31 85 23",
+        "site_web": null,
+        "adresse": "22 Chem. du Couloumé, 32700 Lectoure",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "marciac": {
+    "artisans": [
+      {
+        "id": "16764795841310292317",
+        "nom": "AG CHAUFFAGE / PLOMBERIE",
+        "slug": "ag-chauffage-plomberie",
+        "telephone": "06 36 07 86 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12083263015306993251",
+        "nom": "Eurl Gauthier BAGNAROSA",
+        "slug": "eurl-gauthier-bagnarosa",
+        "telephone": "06 73 70 22 08",
+        "site_web": null,
+        "adresse": "Lieu Dit Hauban, 32230 Tourdun",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "1961646930682919221",
+        "nom": "À l’eau plombier",
+        "slug": "a-leau-plombier",
+        "telephone": "07 88 86 15 11",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "17070937452983133930",
+        "nom": "FC atout faire",
+        "slug": "fc-atout-faire",
+        "telephone": "06 95 41 64 65",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de bricolage"
+      }
+    ]
+  },
+  "lombez": {
+    "artisans": [
+      {
+        "id": "2329418498077961217",
+        "nom": "Ané Alain Société d'Exploitation",
+        "slug": "ane-alain-societe-dexploitation",
+        "telephone": "05 62 63 98 39",
+        "site_web": null,
+        "adresse": "21 Pl. du 8 Mai 1945, 32130 Samatan",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2934508317359127561",
+        "nom": "Carrère et Fils",
+        "slug": "carrere-et-fils",
+        "telephone": "05 62 62 31 62",
+        "site_web": "http://carrere32.com/",
+        "adresse": "137 Chem. de la Hillaire, 32130 Samatan",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2986591941866545764",
+        "nom": "Dumilly Chauffage Solaire",
+        "slug": "dumilly-chauffage-solaire",
+        "telephone": "06 75 11 40 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12253728963744375909",
+        "nom": "Esolar",
+        "slug": "esolar",
+        "telephone": "06 83 00 92 58",
+        "site_web": "http://esolar.fr/",
+        "adresse": "11 Rue du Savès Zone Artisanale Pouche, 32220 Lombez",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "8970361042325927851",
+        "nom": "GERS THERMIQUE",
+        "slug": "gers-thermique",
+        "telephone": "06 65 32 11 41",
+        "site_web": "https://www.gers-thermique.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4596071485853866546",
+        "nom": "SDS Energie - Plomberie, chauffage et climatisation",
+        "slug": "sds-energie-plomberie-chauffage-et-climatisation",
+        "telephone": "06 60 59 32 29",
+        "site_web": "https://www.sds-energie-occitanie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13799886425851627175",
+        "nom": "Sunytherm",
+        "slug": "sunytherm",
+        "telephone": "06 78 39 15 09",
+        "site_web": "http://www.sunytherm.com/",
+        "adresse": "20 Av. du Maquis de Meilhan, 32220 Lombez",
+        "note": 3,
+        "avis": 4,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "7400002165086834917",
+        "nom": "PAPAIS THOMAS",
+        "slug": "papais-thomas",
+        "telephone": "06 25 97 89 12",
+        "site_web": "https://p2c-papais.fr/",
+        "adresse": "886 Chem. de Soules, 32130 Samatan",
+        "note": 4.7,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "16803901654403863765",
+        "nom": "Gedimat Bouchard - LOMBEZ",
+        "slug": "gedimat-bouchard-lombez",
+        "telephone": "05 62 62 43 34",
+        "site_web": "https://www.gedimat.fr/?magDest=2546",
+        "adresse": "8 Rte de Samatan, 32220 Lombez",
+        "note": 4.5,
+        "avis": 23,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "mauvezin": {
+    "artisans": [
+      {
+        "id": "4141856125539099227",
+        "nom": "Abaticlimatisation",
+        "slug": "abaticlimatisation",
+        "telephone": "06 23 65 35 26",
+        "site_web": "https://abaticlimatisation.wixsite.com/abati-chauffage-clim?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7862692529529718317",
+        "nom": "BDC 32",
+        "slug": "bdc-32",
+        "telephone": "06 59 16 83 98",
+        "site_web": "https://bdc32.fr/",
+        "adresse": "Rte de Gimont, 32120 Mauvezin",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "16717059617642791964",
+        "nom": "AUBRELEC",
+        "slug": "aubrelec",
+        "telephone": "05 62 64 16 52",
+        "site_web": null,
+        "adresse": "3 Rue de la Pecoure, 32120 Mauvezin",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "18234544766360006552",
+        "nom": "Gascogne Electricité",
+        "slug": "gascogne-electricite",
+        "telephone": "05 62 06 86 60",
+        "site_web": "https://www.facebook.com/profile.php?id=61561860879574",
+        "adresse": "46 Rue Gambetta, 32120 Mauvezin",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "6712304194032532395",
+        "nom": "Laurent Riche PLOMBERIE",
+        "slug": "laurent-riche-plomberie",
+        "telephone": "06 33 45 67 49",
+        "site_web": null,
+        "adresse": "Le Haget, 32120 Mansempuy",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2102522465175866462",
+        "nom": "LANGLET Julien",
+        "slug": "langlet-julien",
+        "telephone": "07 89 57 25 39",
+        "site_web": "http://www.etslangletjulien.fr/",
+        "adresse": "Le magnas, 82500 Maubec",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "15528583385112781659",
+        "nom": "Lataste Plomberie Agencement",
+        "slug": "lataste-plomberie-agencement",
+        "telephone": "06 65 95 89 00",
+        "site_web": "https://lataste-plomberie-agencement.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15236064476524604141",
+        "nom": "DECKÉLEC & PLOMBERIE+",
+        "slug": "deckelec-plomberie",
+        "telephone": "05 36 03 04 24",
+        "site_web": "https://www.deckelec.fr/",
+        "adresse": "LD La jalousie, 32270 Aubiet",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "masseube": {
+    "artisans": [
+      {
+        "id": "4456847936118986239",
+        "nom": "EPCC",
+        "slug": "epcc",
+        "telephone": "07 86 27 58 38",
+        "site_web": "https://5e71de81f02a7.site123.me/",
+        "adresse": "17 Lieu-dit Au Bois, 32260 Monferran-Plavès",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14976748176551661099",
+        "nom": "Autefage Françis Ets",
+        "slug": "autefage-francis-ets",
+        "telephone": "05 62 66 01 87",
+        "site_web": "http://autefagefrancisets.site-solocal.com/",
+        "adresse": "D27, 32140 Masseube",
+        "note": 3,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "15735614087047445374",
+        "nom": "PICAULT PLOMBERIE",
+        "slug": "picault-plomberie",
+        "telephone": "06 33 02 34 27",
+        "site_web": "http://www.picaultplomberie.com/",
+        "adresse": "3 Rue du Corps Franc Pommies, 32140 Masseube",
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "3430185507104618372",
+        "nom": "Vincent Sarl",
+        "slug": "vincent-sarl",
+        "telephone": "05 62 66 01 88",
+        "site_web": null,
+        "adresse": "Lotissement Artisanal la Mirandette, 32140 Masseube",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "montreal": {
+    "artisans": [
+      {
+        "id": "8772130372485610937",
+        "nom": "TotalEnergies Proxi Sud Ouest (Alvéa)",
+        "slug": "totalenergies-proxi-sud-ouest-alvea",
+        "telephone": "05 62 28 15 22",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/alvea-condom?at_campaign=Site_Web&at_custom1=TPSO&at_medium=Google_My_Business",
+        "adresse": "318 Chem. de Sarrazan, 32100 Condom",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "7477526556635972310",
+        "nom": "Résoconfort Smecso",
+        "slug": "resoconfort-smecso",
+        "telephone": "05 62 28 18 56",
+        "site_web": "https://www.smecso.com/fr/",
+        "adresse": "7 Bd Saint-Jacques, 32100 Condom",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6273730655159027758",
+        "nom": "Energies 32",
+        "slug": "energies-32",
+        "telephone": "07 86 63 02 48",
+        "site_web": "http://energies32.com/",
+        "adresse": "8 ter Chem. de Roucoutoucou, 32100 Condom",
+        "note": 4.9,
+        "avis": 66,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7298797197785285002",
+        "nom": "Lannelongue Eric",
+        "slug": "lannelongue-eric",
+        "telephone": "05 62 29 58 78",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15114416398172593373",
+        "nom": "PN Plomberie-chauffage",
+        "slug": "pn-plomberie-chauffage",
+        "telephone": "05 53 65 59 71",
+        "site_web": null,
+        "adresse": "346 Av. Jacques Bertrand, 47170 Mézin",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5127416232057457968",
+        "nom": "ÖkoFEN Sud-Ouest",
+        "slug": "okofen-sud-ouest",
+        "telephone": "05 62 28 08 55",
+        "site_web": "http://www.okofen.fr/",
+        "adresse": "ZA Route d'EAUZE, 32100 Condom",
+        "note": 3.9,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14551109222507995309",
+        "nom": "Devisme Philippe",
+        "slug": "devisme-philippe",
+        "telephone": "05 62 09 99 60",
+        "site_web": null,
+        "adresse": "32800 Bretagne-d'Armagnac",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3917319205400396624",
+        "nom": "Ma plombière",
+        "slug": "ma-plombiere",
+        "telephone": "07 78 19 09 87",
+        "site_web": "https://maplombiere.fr/",
+        "adresse": "Chem. de Jouéou, 32190 Vic-Fezensac",
+        "note": 4.8,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "6529208950711243951",
+        "nom": "Sarl Toulan et Fils",
+        "slug": "sarl-toulan-et-fils",
+        "telephone": "05 62 28 40 94",
+        "site_web": "https://www.reseau-proeco-energies.fr/artisan/ets-toulan-et-fils-1379",
+        "adresse": "Bourdieu de bas, 32480 La Romieu",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5010228352334632986",
+        "nom": "Donois Froid Elec",
+        "slug": "donois-froid-elec",
+        "telephone": "05 53 65 37 92",
+        "site_web": "http://www.facebook.com/Donois-Froid-Elec-611562422345264/?ref=page_internal",
+        "adresse": null,
+        "note": 3.4,
+        "avis": 5,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "nogaro": {
+    "artisans": [
+      {
+        "id": "637331311026454944",
+        "nom": "Jouandet Loic",
+        "slug": "jouandet-loic",
+        "telephone": "06 75 45 36 07",
+        "site_web": null,
+        "adresse": "24 Av. du Général Leclerc, 32110 Nogaro",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5759276688543396338",
+        "nom": "Maumen Xavier",
+        "slug": "maumen-xavier",
+        "telephone": "05 62 08 80 73",
+        "site_web": null,
+        "adresse": "19 Av. des Pyrénées, 32110 Nogaro",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mielan": {
+    "artisans": [
+      {
+        "id": "2460850886489972587",
+        "nom": "EURL BEGARIE",
+        "slug": "eurl-begarie",
+        "telephone": "05 62 67 64 78",
+        "site_web": "http://www.begarie.fr/",
+        "adresse": "49 Rue Saint-Jean, 32170 Miélan",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mirande": {
+    "artisans": [
+      {
+        "id": "12347412819993709065",
+        "nom": "D'ARTAGNAN HABITAT SARL",
+        "slug": "dartagnan-habitat-sarl",
+        "telephone": "05 62 59 02 02",
+        "site_web": "http://www.dartagnan-habitats.fr/",
+        "adresse": "7 Av. Chanzy, 32300 Mirande",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "2775986049552134989",
+        "nom": "SAS ORTHOLAN CLEMENT",
+        "slug": "sas-ortholan-clement",
+        "telephone": "06 47 31 42 04",
+        "site_web": "http://www.ortholanclement.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9784557298657206460",
+        "nom": "Cabiran André",
+        "slug": "cabiran-andre",
+        "telephone": "05 62 66 80 63",
+        "site_web": null,
+        "adresse": "En Coumes, 32300 Saint-Martin",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6019389272058061295",
+        "nom": "Balech Grégory",
+        "slug": "balech-gregory",
+        "telephone": "05 62 65 08 35",
+        "site_web": null,
+        "adresse": "32300 Mirande",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8992247363423440361",
+        "nom": "RBMS elec",
+        "slug": "rbms-elec",
+        "telephone": "07 59 56 50 91",
+        "site_web": "https://rbms-elec.fr/",
+        "adresse": "Chem. de Moncassin 621, 32300 Mirande",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "12811432235202972238",
+        "nom": "Sarreméjean Matériaux & Bricolage",
+        "slug": "sarremejean-materiaux-bricolage",
+        "telephone": "05 62 62 40 16",
+        "site_web": "https://sarremejean.fr/",
+        "adresse": "490 Av. Jean Mermoz, 32300 Mirande",
+        "note": 4.8,
+        "avis": 160,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "3080109753662793015",
+        "nom": "SARL B.C.2D.",
+        "slug": "sarl-bc2d",
+        "telephone": "06 70 39 96 32",
+        "site_web": "https://www.bc2d-bernard-dupouy.fr/",
+        "adresse": "14 Bis Av. Jean d'Antras, 32300 Mirande",
+        "note": 5,
+        "avis": 5,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "6372953900845485273",
+        "nom": "Hugo services",
+        "slug": "hugo-services",
+        "telephone": "07 52 02 22 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7937579928350973228",
+        "nom": "Marino Elec",
+        "slug": "marino-elec",
+        "telephone": "06 79 99 40 41",
+        "site_web": null,
+        "adresse": "9 Rue Jean Marie Cazauran, 32300 Mirande",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "11476319685866468598",
+        "nom": "Maison Mendes - Extra - Cuisine Plaisir",
+        "slug": "maison-mendes-extra-cuisine-plaisir",
+        "telephone": "05 62 66 58 12",
+        "site_web": "https://www.maison-mendes.fr/",
+        "adresse": "Z.I. du Pountet Route de Tarbes, 32300 Mirande",
+        "note": 4.7,
+        "avis": 41,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "plaisance": {
+    "artisans": [
+      {
+        "id": "7442793269085872397",
+        "nom": "Plomberie OLIVIER",
+        "slug": "plomberie-olivier",
+        "telephone": "06 61 57 86 78",
+        "site_web": "http://www.olivier-plomberie.fr/",
+        "adresse": "Michéou, 32160 Tasque",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12027755985773502862",
+        "nom": "Plaisance Electromenager",
+        "slug": "plaisance-electromenager",
+        "telephone": "05 62 03 86 59",
+        "site_web": null,
+        "adresse": "52 Rue de l'Adour, 32160 Plaisance",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "15382068858803249947",
+        "nom": "P2C ÉNERGIE",
+        "slug": "p2c-energie",
+        "telephone": "06 36 08 11 59",
+        "site_web": null,
+        "adresse": "12 Rue Saint-Jean, 32160 Préchac-sur-Adour",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "18235967655960459227",
+        "nom": "C'KLIM ET PLOMBERIE",
+        "slug": "cklim-et-plomberie",
+        "telephone": "06 51 57 67 82",
+        "site_web": "http://cklim-et-plomberie.fr/",
+        "adresse": "23 Q Chem. de Nebout, 31830 Plaisance-du-Touch",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17459973768601919181",
+        "nom": "Bolloré Energy",
+        "slug": "bollore-energy",
+        "telephone": "05 62 69 32 00",
+        "site_web": null,
+        "adresse": "32160 Plaisance",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de carburant"
+      },
+      {
+        "id": "256786326990302065",
+        "nom": "Eirl Garroussia nicolas tp",
+        "slug": "eirl-garroussia-nicolas-tp",
+        "telephone": "06 76 63 05 54",
+        "site_web": null,
+        "adresse": "1 Rue des Rossignols, 32160 Plaisance",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "1730403729470741833",
+        "nom": "Branco Multi Service",
+        "slug": "branco-multi-service",
+        "telephone": "06 89 06 51 51",
+        "site_web": "http://brancohenrique.site-solocal.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Serrurier"
+      },
+      {
+        "id": "18051822943340484905",
+        "nom": "SPS-Plomberie",
+        "slug": "sps-plomberie",
+        "telephone": "07 83 23 51 25",
+        "site_web": null,
+        "adresse": "Lieu-dit Beyrie, 32160 Lasserrade",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2177902839784738912",
+        "nom": "AB Ramonage Occitanie",
+        "slug": "ab-ramonage-occitanie",
+        "telephone": "07 43 16 70 85",
+        "site_web": null,
+        "adresse": "14 Chem. Dupeyre, 32160 Préchac-sur-Adour",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "9352926740774358572",
+        "nom": "Gedimat Pomes Darre - Plaisance du Gers",
+        "slug": "gedimat-pomes-darre-plaisance-du-gers",
+        "telephone": "05 62 69 33 83",
+        "site_web": "http://www.gedimat.fr/index.php?magDest=1395",
+        "adresse": "1 Chem. de la Ribère, 32160 Plaisance",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "saint-clar": {
+    "artisans": [
+      {
+        "id": "18263625176494302029",
+        "nom": "Jardins et Services, bois de chauffage, entretien jardin, élagage",
+        "slug": "jardins-et-services-bois-de-chauffage-entretien-jardin-elagage",
+        "telephone": "06 75 51 63 19",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Service d'entretien de pelouse"
+      },
+      {
+        "id": "11950099242603524530",
+        "nom": "Rouilles",
+        "slug": "rouilles",
+        "telephone": "05 62 66 46 76",
+        "site_web": "http://www.rouilles-electricite.com/",
+        "adresse": "6 Rue Christian Lagarde, 32380 Saint-Clar",
+        "note": 4.8,
+        "avis": 27,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "preignan": {
+    "artisans": [
+      {
+        "id": "13872881996201817138",
+        "nom": "Pesando Jérôme Installation Pompe à Chaleur Chauffage Sanitaire Climatisation Auch",
+        "slug": "pesando-jerome-installation-pompe-a-chaleur-chauffage-sanitaire-climatisation-auch",
+        "telephone": "06 14 01 58 65",
+        "site_web": "http://www.jpesando.com/",
+        "adresse": "Chem. du Rambert, 32810 Preignan",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "seissan": {
+    "artisans": [
+      {
+        "id": "12739433435929589811",
+        "nom": "Lerouge Sébastien",
+        "slug": "lerouge-sebastien",
+        "telephone": "05 62 66 20 75",
+        "site_web": null,
+        "adresse": "32260 Seissan",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10768801686342203503",
+        "nom": "Julien BUNEL",
+        "slug": "julien-bunel",
+        "telephone": "06 27 41 46 19",
+        "site_web": null,
+        "adresse": "22 Av. du Général de Gaulle, 32260 Seissan",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "pavie": {
+    "artisans": [
+      {
+        "id": "11468480618176822418",
+        "nom": "Favorel Philippe",
+        "slug": "favorel-philippe",
+        "telephone": "06 07 38 77 05",
+        "site_web": null,
+        "adresse": "zone artisanale du moulin, 3 Rue des maraichers, 32550 Pavie",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10248747894199543789",
+        "nom": "Arnaud SUBRA",
+        "slug": "arnaud-subra",
+        "telephone": "07 66 20 66 01",
+        "site_web": null,
+        "adresse": "10 Rue Alem Rousseau, 32000 Auch",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "11802879031612382585",
+        "nom": "Chauff Depann Entretien",
+        "slug": "chauff-depann-entretien",
+        "telephone": "06 20 89 13 91",
+        "site_web": "http://depannage-chaudiere-gers.fr/",
+        "adresse": "32 160 Imp. Beaumarchais, 32000 Auch",
+        "note": 3,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15536345630787360596",
+        "nom": "Plomberie.chaussat",
+        "slug": "plomberiechaussat",
+        "telephone": "06 16 04 37 20",
+        "site_web": "http://plomberiechaussat-09.webself.net/",
+        "adresse": "7 Rue Aristide Briand, 32000 Auch",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16858201902800224726",
+        "nom": "Lopes David",
+        "slug": "lopes-david",
+        "telephone": "05 62 66 20 98",
+        "site_web": null,
+        "adresse": "32550 Lasseube-Propre",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5473486192912985056",
+        "nom": "Résoconfort Smecso",
+        "slug": "resoconfort-smecso",
+        "telephone": "05 62 63 47 00",
+        "site_web": "https://resoconfort.fr/agence/smecso-chauffagiste-auch/?utm_source=gmb",
+        "adresse": "3 Imp. de l'Arçon, 32000 Auch",
+        "note": 4.5,
+        "avis": 124,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17471354614403309224",
+        "nom": "MZ Énergies",
+        "slug": "mz-energies",
+        "telephone": "06 34 59 13 00",
+        "site_web": null,
+        "adresse": "11 Rue Patrice Brocas, 32000 Auch",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5716416367227799294",
+        "nom": "CCEB - Installation de pompes à chaleur l Auch",
+        "slug": "cceb-installation-de-pompes-a-chaleur-l-auch",
+        "telephone": "06 59 00 19 69",
+        "site_web": "https://www.cceb-pac.fr/",
+        "adresse": "1785 Chem. de Saintes, 32000 Auch",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6895021684277806370",
+        "nom": "SAS Papa Bois de chauffage",
+        "slug": "sas-papa-bois-de-chauffage",
+        "telephone": "07 88 38 12 65",
+        "site_web": null,
+        "adresse": "50 impasse du bois de bariot, 32550 Lasséran",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "8283593658991998074",
+        "nom": "Thermafroid",
+        "slug": "thermafroid",
+        "telephone": "07 85 08 52 52",
+        "site_web": null,
+        "adresse": "2 Imp. Désirat, 32000 Auch",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "pujaudran": {
+    "artisans": [
+      {
+        "id": "7380878692045742516",
+        "nom": "Fast Actions par Philippe Maurel",
+        "slug": "fast-actions-par-philippe-maurel",
+        "telephone": "07 45 17 49 71",
+        "site_web": null,
+        "adresse": "1940 Chem. de Lartus, 32600 Lias",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4508955716224499412",
+        "nom": "AS HABITAT Climatisation Split, Gainable, DAIKIN",
+        "slug": "as-habitat-climatisation-split-gainable-daikin",
+        "telephone": "06 88 02 51 81",
+        "site_web": null,
+        "adresse": "792 Chem. des Moulins, 32600 Pujaudran",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13436864804097013009",
+        "nom": "Bois 32",
+        "slug": "bois-32",
+        "telephone": "06 85 21 80 24",
+        "site_web": "https://www.bois32.fr/",
+        "adresse": "1880 Rte de Fontenilles, 32600 Pujaudran",
+        "note": 3.1,
+        "avis": 25,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "8750450276022859492",
+        "nom": "RDGS Plomberie & Rénovation",
+        "slug": "rdgs-plomberie-renovation",
+        "telephone": "06 69 31 94 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 22,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "samatan": {
+    "artisans": [
+      {
+        "id": "7200044709976517296",
+        "nom": "SARL NAUDES FILS COPRA",
+        "slug": "sarl-naudes-fils-copra",
+        "telephone": "05 62 62 31 58",
+        "site_web": "https://www.copra-naudes.fr/",
+        "adresse": "4 Pl. de la Fontaine, 32130 Samatan",
+        "note": 3.1,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "2300810982236314091",
+        "nom": "Weldom Samatan",
+        "slug": "weldom-samatan",
+        "telephone": "05 62 62 31 71",
+        "site_web": "https://www.weldom.fr/m/weldom-samatan",
+        "adresse": "Allee Jean Cahuzac Centre Commercial Des, Pl. des Halles, 32130 Samatan",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "12357497069497241016",
+        "nom": "LANDAK",
+        "slug": "landak",
+        "telephone": "07 60 08 89 16",
+        "site_web": null,
+        "adresse": "2 Rue du Midi, 32130 Samatan",
+        "note": 5,
+        "avis": 3,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "18424301236209380411",
+        "nom": "SDS ENERGIE",
+        "slug": "sds-energie",
+        "telephone": "06 60 59 32 29",
+        "site_web": "https://www.sds-energie-occitanie.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "riscle": {
+    "artisans": [
+      {
+        "id": "9364223568159888526",
+        "nom": "TERRAIN DAVID",
+        "slug": "terrain-david",
+        "telephone": "05 62 09 21 10",
+        "site_web": "http://www.terrain-david-sarl.com/",
+        "adresse": "68 Chem. de l'Aviation, 32400 Riscle",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "valence-sur-baise": {
+    "artisans": [
+      {
+        "id": "2550356701577694924",
+        "nom": "Entreprise Neto Orlando",
+        "slug": "entreprise-neto-orlando",
+        "telephone": "05 62 06 38 53",
+        "site_web": "https://www.linkedin.com/company/dalalu",
+        "adresse": "1 Pl. des Pyrénées, 32310 Valence-sur-Baïse",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16388763967197035967",
+        "nom": "LEVEL PATRICE. CHAUFFAGISTE",
+        "slug": "level-patrice-chauffagiste",
+        "telephone": "06 38 30 78 37",
+        "site_web": null,
+        "adresse": "LIEU DIT LA GAURE, 331 Chem. d'Aveyron, 32310 Saint-Puy",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4038757075434190858",
+        "nom": "Pignon Gascon",
+        "slug": "pignon-gascon",
+        "telephone": "05 62 29 58 39",
+        "site_web": "http://www.pignongascon.com/",
+        "adresse": "Au Régé, 655 Rte d'Auch, 32310 Valence-sur-Baïse",
+        "note": 3.9,
+        "avis": 19,
+        "type": "Service de restauration de bâtiments"
+      }
+    ]
+  },
+  "barcelonne-du-gers": {
+    "artisans": [
+      {
+        "id": "5045963713297495391",
+        "nom": "Combustible Chauffage",
+        "slug": "combustible-chauffage",
+        "telephone": "07 80 98 19 05",
+        "site_web": null,
+        "adresse": "10 Lot. Padevant, 32720 Barcelonne-du-Gers",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "12367424293808555620",
+        "nom": "Granul'éco Bois & Sud'Eco Solaire - Showroom BARCELONNE DU GERS",
+        "slug": "granuleco-bois-sudeco-solaire-showroom-barcelonne-du-gers",
+        "telephone": "05 58 03 18 63",
+        "site_web": "http://www.act-granuleco.fr/",
+        "adresse": "7 Rue Notre Dame, 32720 Barcelonne-du-Gers",
+        "note": 4.6,
+        "avis": 37,
+        "type": "Magasin de poêles à bois"
+      }
+    ]
+  },
+  "castelnau-d-auzan-labarrere": {
+    "artisans": [
+      {
+        "id": "2304501753593064080",
+        "nom": "Nascimbene Laurent",
+        "slug": "nascimbene-laurent",
+        "telephone": "05 62 29 25 59",
+        "site_web": null,
+        "adresse": "32440 Castelnau d'Auzan Labarrère",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12361957758454459551",
+        "nom": "Castelnau d'Auzan Labarrère",
+        "slug": "castelnau-dauzan-labarrere",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Castelnau d'Auzan Labarrère",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "14429408929973570505",
+        "nom": "Lay Stéphane",
+        "slug": "lay-stephane",
+        "telephone": "05 62 29 27 45",
+        "site_web": null,
+        "adresse": "32440 Castelnau d'Auzan Labarrère",
+        "note": 1,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3165359689508584660",
+        "nom": "Cantau Nicolas",
+        "slug": "cantau-nicolas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "40310 Escalans",
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "13164500156877873382",
+        "nom": "SARL TORRI",
+        "slug": "sarl-torri",
+        "telephone": "07 68 64 46 84",
+        "site_web": "https://torri-elec-plomb.com/?utm_source=gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "eauze": {
+    "artisans": [
+      {
+        "id": "17232156378027423979",
+        "nom": "Panaulle Froid",
+        "slug": "panaulle-froid",
+        "telephone": "05 62 09 85 58",
+        "site_web": "https://panaullefroid.fr/",
+        "adresse": "zi au lauron, 32800 Eauze",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3571788487719227279",
+        "nom": "PereiraEnergie",
+        "slug": "pereiraenergie",
+        "telephone": "09 78 80 93 44",
+        "site_web": "https://www.pereira-energie.fr/",
+        "adresse": "26 Bd d'Artagnan, 32800 Eauze",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18265954946490619693",
+        "nom": "Moustéou Frédéric",
+        "slug": "mousteou-frederic",
+        "telephone": "05 62 09 89 85",
+        "site_web": null,
+        "adresse": "9 Av. de Sauboires, 32800 Eauze",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "castera-verduzan": {
+    "artisans": [
+      {
+        "id": "9596734411784588924",
+        "nom": "Gino Travaux",
+        "slug": "gino-travaux",
+        "telephone": "06 77 28 45 61",
+        "site_web": null,
+        "adresse": "1 Chem. de Nabeau, 32410 Castéra-Verduzan",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1808508624000964889",
+        "nom": "Les Thermiciens Gascons",
+        "slug": "les-thermiciens-gascons",
+        "telephone": "05 62 63 52 76",
+        "site_web": "http://www.lesthermiciens-gascons.fr/?utm_source=gmb",
+        "adresse": "19 Chem. de la Bourdette du Martet, 32360 Jegun",
+        "note": 4,
+        "avis": 24,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "aubiet": {
+    "artisans": [
+      {
+        "id": "9273438244991311324",
+        "nom": "Aguesse Sébastien",
+        "slug": "aguesse-sebastien",
+        "telephone": "05 62 06 72 86",
+        "site_web": null,
+        "adresse": "13 Lotissement Aux, Lot. des Mestres, 32270 Aubiet",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "condom": {
+    "artisans": [
+      {
+        "id": "3514961141799051899",
+        "nom": "Gascogne Habitat",
+        "slug": "gascogne-habitat",
+        "telephone": "05 62 28 43 04",
+        "site_web": "http://www.gascognehabitat.com/",
+        "adresse": "46 Bis Bd Clemenceau, 32100 Condom",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2110227577667944263",
+        "nom": "CMC2",
+        "slug": "cmc2",
+        "telephone": "05 62 28 84 62",
+        "site_web": null,
+        "adresse": "Bd Clemenceau, 32100 Condom",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15524118428595883817",
+        "nom": "Capitaine Cyril",
+        "slug": "capitaine-cyril",
+        "telephone": "05 62 28 06 15",
+        "site_web": null,
+        "adresse": "32100 Blaziert",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cazaubon": {
+    "artisans": [
+      {
+        "id": "16842803312682059116",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "05 58 75 01 51",
+        "site_web": "https://agence.engie-homeservices.fr/139-engie-home-services-mont-de-marsan?utm_source=gmb",
+        "adresse": "87 Av. du Président John Kennedy, 40000 Mont-de-Marsan",
+        "note": 4.5,
+        "avis": 242,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4155651869962683551",
+        "nom": "SAS Ejarque Pierre-Alain",
+        "slug": "sas-ejarque-pierre-alain",
+        "telephone": "06 42 05 50 92",
+        "site_web": null,
+        "adresse": "3 Rue de Gelle, 32150 Cazaubon",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "auch": {
+    "artisans": [
+      {
+        "id": "10723177687982923559",
+        "nom": "TotalEnergies Proxi Sud Ouest (Alvéa)",
+        "slug": "totalenergies-proxi-sud-ouest-alvea",
+        "telephone": "05 53 83 08 30",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/alvea-auch?at_campaign=Site_Web&at_custom1=TPSO&at_medium=Google_My_Business",
+        "adresse": "25 Rue Roger Salengro, 32000 Auch",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "15288195865388589563",
+        "nom": "Climatisation et plomberie Auch - Justumus",
+        "slug": "climatisation-et-plomberie-auch-justumus",
+        "telephone": "05 62 63 46 46",
+        "site_web": null,
+        "adresse": "9 Rue Marc Chagall, 32000 Auch",
+        "note": 3,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "6143352082820413063",
+        "nom": "Let Louise Auch",
+        "slug": "let-louise-auch",
+        "telephone": "05 62 63 15 11",
+        "site_web": "https://www.letlouise.fr/",
+        "adresse": "2 Rue Pierre Brossolette, 32000 Auch",
+        "note": 4.1,
+        "avis": 26,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10638549594236690486",
+        "nom": "CEDEO Auch : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-auch-sanitaire-chauffage-plomberie",
+        "telephone": "05 62 05 76 50",
+        "site_web": "https://www.cedeo.fr/infos-agence/auch-cedeo-1560",
+        "adresse": "13 Rue Aimé Césaire, 32000 Auch",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "14892791205443565577",
+        "nom": "Téréva Auch",
+        "slug": "tereva-auch",
+        "telephone": "05 62 63 07 50",
+        "site_web": "https://www.tereva.fr/document/A-394618--agence-tereva-auch",
+        "adresse": "136 Rte d'Agen, 32000 Auch",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "11886296447085186340",
+        "nom": "Electricité Taupiac",
+        "slug": "electricite-taupiac",
+        "telephone": "05 62 05 14 26",
+        "site_web": "http://www.taupiac-electricite.fr/?utm_source=gmb",
+        "adresse": "32 Rue Federico Garcia Lorca, 32000 Auch",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "13872881996201817138",
+        "nom": "Pesando Jérôme Installation Pompe à Chaleur Chauffage Sanitaire Climatisation Auch",
+        "slug": "pesando-jerome-installation-pompe-a-chaleur-chauffage-sanitaire-climatisation-auch",
+        "telephone": "06 14 01 58 65",
+        "site_web": "http://www.jpesando.com/",
+        "adresse": "Chem. du Rambert, 32810 Preignan",
+        "note": 3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "746611490905137529",
+        "nom": "GERS ECO ENERGIE",
+        "slug": "gers-eco-energie",
+        "telephone": "06 83 15 00 65",
+        "site_web": "http://www.gerseco.fr/",
+        "adresse": "2 All. Jeanne Daguzan, 32000 Auch",
+        "note": 5,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "53178667522344486",
+        "nom": "Flam' Attitude",
+        "slug": "flam-attitude",
+        "telephone": "05 62 06 80 57",
+        "site_web": "https://www.flamattitude.com/?utm_source=gmb",
+        "adresse": "57 Rte de l'Arçon, 32810 Montaut-les-Créneaux",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "10297131132422225903",
+        "nom": "SARL Marsol",
+        "slug": "sarl-marsol",
+        "telephone": "05 62 07 42 98",
+        "site_web": null,
+        "adresse": "3 Rue Federico Garcia Lorca, 32000 Auch",
+        "note": 4,
+        "avis": 12,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  }
+}

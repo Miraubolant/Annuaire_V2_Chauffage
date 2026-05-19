@@ -1,0 +1,175 @@
+{
+    "region": {
+        "id": 18,
+        "code": "17",
+        "nom": "Pays de la Loire",
+        "slug": "pays-de-la-loire"
+    },
+    "departements": [
+        {
+            "code": "44",
+            "nom": "Loire-Atlantique",
+            "slug": "loire-atlantique",
+            "population_totale": 1458455,
+            "communes_count": 207,
+            "communes_avec_artisans": 190,
+            "artisans_chauffage": 1397,
+            "voisins": [
+                {
+                    "dep_code": "49",
+                    "dep_nom": "Maine-et-Loire",
+                    "dep_slug": "maine-et-loire"
+                },
+                {
+                    "dep_code": "53",
+                    "dep_nom": "Mayenne",
+                    "dep_slug": "mayenne"
+                },
+                {
+                    "dep_code": "72",
+                    "dep_nom": "Sarthe",
+                    "dep_slug": "sarthe"
+                },
+                {
+                    "dep_code": "85",
+                    "dep_nom": "Vendée",
+                    "dep_slug": "vendee"
+                }
+            ]
+        },
+        {
+            "code": "49",
+            "nom": "Maine-et-Loire",
+            "slug": "maine-et-loire",
+            "population_totale": 841772,
+            "communes_count": 177,
+            "communes_avec_artisans": 104,
+            "artisans_chauffage": 726,
+            "voisins": [
+                {
+                    "dep_code": "44",
+                    "dep_nom": "Loire-Atlantique",
+                    "dep_slug": "loire-atlantique"
+                },
+                {
+                    "dep_code": "53",
+                    "dep_nom": "Mayenne",
+                    "dep_slug": "mayenne"
+                },
+                {
+                    "dep_code": "72",
+                    "dep_nom": "Sarthe",
+                    "dep_slug": "sarthe"
+                },
+                {
+                    "dep_code": "85",
+                    "dep_nom": "Vendée",
+                    "dep_slug": "vendee"
+                }
+            ]
+        },
+        {
+            "code": "53",
+            "nom": "Mayenne",
+            "slug": "mayenne",
+            "population_totale": 305700,
+            "communes_count": 240,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "44",
+                    "dep_nom": "Loire-Atlantique",
+                    "dep_slug": "loire-atlantique"
+                },
+                {
+                    "dep_code": "49",
+                    "dep_nom": "Maine-et-Loire",
+                    "dep_slug": "maine-et-loire"
+                },
+                {
+                    "dep_code": "72",
+                    "dep_nom": "Sarthe",
+                    "dep_slug": "sarthe"
+                },
+                {
+                    "dep_code": "85",
+                    "dep_nom": "Vendée",
+                    "dep_slug": "vendee"
+                }
+            ]
+        },
+        {
+            "code": "72",
+            "nom": "Sarthe",
+            "slug": "sarthe",
+            "population_totale": 565501,
+            "communes_count": 353,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "44",
+                    "dep_nom": "Loire-Atlantique",
+                    "dep_slug": "loire-atlantique"
+                },
+                {
+                    "dep_code": "49",
+                    "dep_nom": "Maine-et-Loire",
+                    "dep_slug": "maine-et-loire"
+                },
+                {
+                    "dep_code": "53",
+                    "dep_nom": "Mayenne",
+                    "dep_slug": "mayenne"
+                },
+                {
+                    "dep_code": "85",
+                    "dep_nom": "Vendée",
+                    "dep_slug": "vendee"
+                }
+            ]
+        },
+        {
+            "code": "85",
+            "nom": "Vendée",
+            "slug": "vendee",
+            "population_totale": 702144,
+            "communes_count": 254,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "44",
+                    "dep_nom": "Loire-Atlantique",
+                    "dep_slug": "loire-atlantique"
+                },
+                {
+                    "dep_code": "49",
+                    "dep_nom": "Maine-et-Loire",
+                    "dep_slug": "maine-et-loire"
+                },
+                {
+                    "dep_code": "53",
+                    "dep_nom": "Mayenne",
+                    "dep_slug": "mayenne"
+                },
+                {
+                    "dep_code": "72",
+                    "dep_nom": "Sarthe",
+                    "dep_slug": "sarthe"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "communes_total": 1231,
+        "communes_avec_artisans": 294,
+        "artisans_chauffage": 2123,
+        "population_totale": 3873572
+    },
+    "zones_climatiques": {
+        "H1": 1231
+    },
+    "zone_climatique_dominante": "H1"
+}

@@ -1,0 +1,175 @@
+{
+    "region": {
+        "id": 15,
+        "code": "14",
+        "nom": "Normandie",
+        "slug": "normandie"
+    },
+    "departements": [
+        {
+            "code": "14",
+            "nom": "Calvados",
+            "slug": "calvados",
+            "population_totale": 702207,
+            "communes_count": 527,
+            "communes_avec_artisans": 134,
+            "artisans_chauffage": 922,
+            "voisins": [
+                {
+                    "dep_code": "27",
+                    "dep_nom": "Eure",
+                    "dep_slug": "eure"
+                },
+                {
+                    "dep_code": "50",
+                    "dep_nom": "Manche",
+                    "dep_slug": "manche"
+                },
+                {
+                    "dep_code": "61",
+                    "dep_nom": "Orne",
+                    "dep_slug": "orne"
+                },
+                {
+                    "dep_code": "76",
+                    "dep_nom": "Seine-Maritime",
+                    "dep_slug": "seine-maritime"
+                }
+            ]
+        },
+        {
+            "code": "27",
+            "nom": "Eure",
+            "slug": "eure",
+            "population_totale": 598903,
+            "communes_count": 585,
+            "communes_avec_artisans": 122,
+            "artisans_chauffage": 748,
+            "voisins": [
+                {
+                    "dep_code": "14",
+                    "dep_nom": "Calvados",
+                    "dep_slug": "calvados"
+                },
+                {
+                    "dep_code": "50",
+                    "dep_nom": "Manche",
+                    "dep_slug": "manche"
+                },
+                {
+                    "dep_code": "61",
+                    "dep_nom": "Orne",
+                    "dep_slug": "orne"
+                },
+                {
+                    "dep_code": "76",
+                    "dep_nom": "Seine-Maritime",
+                    "dep_slug": "seine-maritime"
+                }
+            ]
+        },
+        {
+            "code": "50",
+            "nom": "Manche",
+            "slug": "manche",
+            "population_totale": 496025,
+            "communes_count": 445,
+            "communes_avec_artisans": 15,
+            "artisans_chauffage": 87,
+            "voisins": [
+                {
+                    "dep_code": "14",
+                    "dep_nom": "Calvados",
+                    "dep_slug": "calvados"
+                },
+                {
+                    "dep_code": "27",
+                    "dep_nom": "Eure",
+                    "dep_slug": "eure"
+                },
+                {
+                    "dep_code": "61",
+                    "dep_nom": "Orne",
+                    "dep_slug": "orne"
+                },
+                {
+                    "dep_code": "76",
+                    "dep_nom": "Seine-Maritime",
+                    "dep_slug": "seine-maritime"
+                }
+            ]
+        },
+        {
+            "code": "61",
+            "nom": "Orne",
+            "slug": "orne",
+            "population_totale": 276369,
+            "communes_count": 381,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "14",
+                    "dep_nom": "Calvados",
+                    "dep_slug": "calvados"
+                },
+                {
+                    "dep_code": "27",
+                    "dep_nom": "Eure",
+                    "dep_slug": "eure"
+                },
+                {
+                    "dep_code": "50",
+                    "dep_nom": "Manche",
+                    "dep_slug": "manche"
+                },
+                {
+                    "dep_code": "76",
+                    "dep_nom": "Seine-Maritime",
+                    "dep_slug": "seine-maritime"
+                }
+            ]
+        },
+        {
+            "code": "76",
+            "nom": "Seine-Maritime",
+            "slug": "seine-maritime",
+            "population_totale": 1255875,
+            "communes_count": 707,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "14",
+                    "dep_nom": "Calvados",
+                    "dep_slug": "calvados"
+                },
+                {
+                    "dep_code": "27",
+                    "dep_nom": "Eure",
+                    "dep_slug": "eure"
+                },
+                {
+                    "dep_code": "50",
+                    "dep_nom": "Manche",
+                    "dep_slug": "manche"
+                },
+                {
+                    "dep_code": "61",
+                    "dep_nom": "Orne",
+                    "dep_slug": "orne"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "communes_total": 2645,
+        "communes_avec_artisans": 271,
+        "artisans_chauffage": 1757,
+        "population_totale": 3329379
+    },
+    "zones_climatiques": {
+        "H1": 2645
+    },
+    "zone_climatique_dominante": "H1"
+}

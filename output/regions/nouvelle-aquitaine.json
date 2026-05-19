@@ -1,0 +1,392 @@
+{
+    "region": {
+        "id": 16,
+        "code": "15",
+        "nom": "Nouvelle-Aquitaine",
+        "slug": "nouvelle-aquitaine"
+    },
+    "departements": [
+        {
+            "code": "16",
+            "nom": "Charente",
+            "slug": "charente",
+            "population_totale": 349397,
+            "communes_count": 359,
+            "communes_avec_artisans": 71,
+            "artisans_chauffage": 416,
+            "voisins": [
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                },
+                {
+                    "dep_code": "24",
+                    "dep_nom": "Dordogne",
+                    "dep_slug": "dordogne"
+                }
+            ]
+        },
+        {
+            "code": "17",
+            "nom": "Charente-Maritime",
+            "slug": "charente-maritime",
+            "population_totale": 662856,
+            "communes_count": 462,
+            "communes_avec_artisans": 145,
+            "artisans_chauffage": 994,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                },
+                {
+                    "dep_code": "24",
+                    "dep_nom": "Dordogne",
+                    "dep_slug": "dordogne"
+                }
+            ]
+        },
+        {
+            "code": "19",
+            "nom": "Corrèze",
+            "slug": "correze",
+            "population_totale": 239981,
+            "communes_count": 277,
+            "communes_avec_artisans": 45,
+            "artisans_chauffage": 219,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                },
+                {
+                    "dep_code": "24",
+                    "dep_nom": "Dordogne",
+                    "dep_slug": "dordogne"
+                }
+            ]
+        },
+        {
+            "code": "23",
+            "nom": "Creuse",
+            "slug": "creuse",
+            "population_totale": 115651,
+            "communes_count": 255,
+            "communes_avec_artisans": 23,
+            "artisans_chauffage": 117,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "24",
+                    "dep_nom": "Dordogne",
+                    "dep_slug": "dordogne"
+                }
+            ]
+        },
+        {
+            "code": "24",
+            "nom": "Dordogne",
+            "slug": "dordogne",
+            "population_totale": 415227,
+            "communes_count": 503,
+            "communes_avec_artisans": 86,
+            "artisans_chauffage": 493,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                }
+            ]
+        },
+        {
+            "code": "33",
+            "nom": "Gironde",
+            "slug": "gironde",
+            "population_totale": 1657578,
+            "communes_count": 534,
+            "communes_avec_artisans": 233,
+            "artisans_chauffage": 1702,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                }
+            ]
+        },
+        {
+            "code": "40",
+            "nom": "Landes",
+            "slug": "landes",
+            "population_totale": 424214,
+            "communes_count": 327,
+            "communes_avec_artisans": 92,
+            "artisans_chauffage": 576,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                }
+            ]
+        },
+        {
+            "code": "47",
+            "nom": "Lot-et-Garonne",
+            "slug": "lot-et-garonne",
+            "population_totale": 331947,
+            "communes_count": 319,
+            "communes_avec_artisans": 62,
+            "artisans_chauffage": 371,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                }
+            ]
+        },
+        {
+            "code": "64",
+            "nom": "Pyrénées-Atlantiques",
+            "slug": "pyrenees-atlantiques",
+            "population_totale": 694121,
+            "communes_count": 545,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                }
+            ]
+        },
+        {
+            "code": "79",
+            "nom": "Deux-Sèvres",
+            "slug": "deux-sevres",
+            "population_totale": 373656,
+            "communes_count": 252,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                }
+            ]
+        },
+        {
+            "code": "86",
+            "nom": "Vienne",
+            "slug": "vienne",
+            "population_totale": 439388,
+            "communes_count": 265,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                }
+            ]
+        },
+        {
+            "code": "87",
+            "nom": "Haute-Vienne",
+            "slug": "haute-vienne",
+            "population_totale": 372104,
+            "communes_count": 195,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "16",
+                    "dep_nom": "Charente",
+                    "dep_slug": "charente"
+                },
+                {
+                    "dep_code": "17",
+                    "dep_nom": "Charente-Maritime",
+                    "dep_slug": "charente-maritime"
+                },
+                {
+                    "dep_code": "19",
+                    "dep_nom": "Corrèze",
+                    "dep_slug": "correze"
+                },
+                {
+                    "dep_code": "23",
+                    "dep_nom": "Creuse",
+                    "dep_slug": "creuse"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "communes_total": 4293,
+        "communes_avec_artisans": 757,
+        "artisans_chauffage": 4888,
+        "population_totale": 6076120
+    },
+    "zones_climatiques": {
+        "H2": 4293
+    },
+    "zone_climatique_dominante": "H2"
+}

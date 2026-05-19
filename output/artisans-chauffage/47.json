@@ -1,0 +1,4331 @@
+{
+  "colayrac-saint-cirq": {
+    "artisans": [
+      {
+        "id": "2237570568533548710",
+        "nom": "David Georges SA",
+        "slug": "david-georges-sa",
+        "telephone": "05 53 87 51 31",
+        "site_web": "https://g-david.fr/?utm_source=gmb",
+        "adresse": "Le Rey, 2268 route Agen, Rte Nationale 113, 47450 Colayrac-Saint-Cirq",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "2375865552942608352",
+        "nom": "INZA GROUPE - PHOTOVOLTAIQUE AGEN",
+        "slug": "inza-groupe-photovoltaique-agen",
+        "telephone": "05 35 55 98 44",
+        "site_web": "https://inzagroupe.com/",
+        "adresse": "1190 Rte d'Agen, 47450 Colayrac-Saint-Cirq",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "16378796993090857322",
+        "nom": "Pepe Thierry",
+        "slug": "pepe-thierry",
+        "telephone": "05 53 67 12 01",
+        "site_web": null,
+        "adresse": "717 Route de St Hilaire, 47450 Colayrac-Saint-Cirq",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": "06 29 44 91 04",
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "2742 Rte d'Agen, 47450 Colayrac-Saint-Cirq",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13460483852630244369",
+        "nom": "SARL SANI CHAUFF",
+        "slug": "sarl-sani-chauff",
+        "telephone": "05 53 95 98 07",
+        "site_web": "http://www.sanichauff47.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 94,
+        "type": "Plombier"
+      },
+      {
+        "id": "16038950528806233891",
+        "nom": "Agen Ramonage, Maitre Artisan ramoneur",
+        "slug": "agen-ramonage-maitre-artisan-ramoneur",
+        "telephone": "06 76 54 57 02",
+        "site_web": "https://www.agenramonage.fr/",
+        "adresse": "2 Rte du Fangot, 47450 Colayrac-Saint-Cirq",
+        "note": 4.6,
+        "avis": 83,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "12294194264119695203",
+        "nom": "ADS agen dépannage service plomberie électricité",
+        "slug": "ads-agen-depannage-service-plomberie-electricite",
+        "telephone": "06 69 07 20 17",
+        "site_web": null,
+        "adresse": "Rte du Bedat, 47450 Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 24,
+        "type": "Plombier"
+      },
+      {
+        "id": "7968210791430665368",
+        "nom": "Sarl Regade",
+        "slug": "sarl-regade",
+        "telephone": "05 53 66 40 96",
+        "site_web": "https://sarlregade.fr/",
+        "adresse": "864 Rte d'Agen, 47450 Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "9721093292368334186",
+        "nom": "Gilles Paillas SARL",
+        "slug": "gilles-paillas-sarl",
+        "telephone": "06 45 74 01 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6614048989494253438",
+        "nom": "Aquitaine Thermique Confort",
+        "slug": "aquitaine-thermique-confort",
+        "telephone": "05 53 47 26 45",
+        "site_web": "https://plombier-chauffagiste-atc.fr/",
+        "adresse": "Za De Borie, 20 Rue des Entrepreneurs, 47480 Pont-du-Casse",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "damazan": {
+    "artisans": [
+      {
+        "id": "6829538277483018899",
+        "nom": "Comin - D'Ambroso",
+        "slug": "comin-dambroso",
+        "telephone": "05 53 40 23 00",
+        "site_web": "https://www.axenergie.eu/agences/88-sarl-comin-d-ambroso",
+        "adresse": "22 Rte de Mahourat, 47160 Damazan",
+        "note": 3.5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "clairac": {
+    "artisans": [
+      {
+        "id": "1323761176916430660",
+        "nom": "A L'Eau Charley Eurl",
+        "slug": "a-leau-charley-eurl",
+        "telephone": "06 86 00 60 74",
+        "site_web": null,
+        "adresse": "18 Pl. Vicoze, 47320 Clairac",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "16351533250667770380",
+        "nom": "Therm'Energy",
+        "slug": "thermenergy",
+        "telephone": "06 58 08 68 53",
+        "site_web": "http://www.thermenergy47.fr/",
+        "adresse": "8 rue plaine de La Molère, 47320 Clairac",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "2869382278625762604",
+        "nom": "Campet Pierre",
+        "slug": "campet-pierre",
+        "telephone": "05 53 84 25 20",
+        "site_web": null,
+        "adresse": "8 Rue Jean Jaurès, 47320 Clairac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "caudecoste": {
+    "artisans": [
+      {
+        "id": "3521046630006051886",
+        "nom": "Plomberie , Climatisation et Chauffage",
+        "slug": "plomberie-climatisation-et-chauffage",
+        "telephone": "06 75 03 21 38",
+        "site_web": "https://www.plomberie-jardin.fr/contact.php?lng=fr&tconfig=0",
+        "adresse": "8 Av. de Villeneuve, 47500 Condezaygues",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13523074188966730458",
+        "nom": "Alexandre Van-Den-Kerkhof",
+        "slug": "alexandre-van-den-kerkhof",
+        "telephone": "06 80 37 02 87",
+        "site_web": "https://alexvdk.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "33018507987228251",
+        "nom": "Sud Ouest Electricité",
+        "slug": "sud-ouest-electricite",
+        "telephone": "06 88 08 17 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "290030376680011840",
+        "nom": "Caudecoste",
+        "slug": "caudecoste",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "47220 Caudecoste",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "1548529206481847852",
+        "nom": "BC MAINTENANCE",
+        "slug": "bc-maintenance",
+        "telephone": "06 85 37 05 55",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1939720586732376124",
+        "nom": "Calmel Lois EURL",
+        "slug": "calmel-lois-eurl",
+        "telephone": "06 86 61 51 78",
+        "site_web": "https://www.facebook.com/profile.php?id=100050519449373",
+        "adresse": "255 Chem. de Bourdette, 47340 Saint-Antoine-de-Ficalba",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "7672476707630842492",
+        "nom": "Brunet&Sentis",
+        "slug": "brunetsentis",
+        "telephone": "05 53 67 02 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1517262407822788921",
+        "nom": "Hydro-Confort Plomberie",
+        "slug": "hydro-confort-plomberie",
+        "telephone": "06 07 41 17 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "2360411501381358279",
+        "nom": "CANDAU EURL",
+        "slug": "candau-eurl",
+        "telephone": "06 88 88 96 66",
+        "site_web": null,
+        "adresse": "Casset, 32190 Mourède",
+        "note": 5,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14954365775302327221",
+        "nom": "Poli Christian",
+        "slug": "poli-christian",
+        "telephone": "05 53 48 25 76",
+        "site_web": "http://poli-christian.chauffagiste-viessmann.fr/",
+        "adresse": "Lescloupet, 47240 Bon-Encontre",
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cocumont": {
+    "artisans": [
+      {
+        "id": "6981230297099801403",
+        "nom": "La forestière des Côteaux | Nicolas Duffau",
+        "slug": "la-forestiere-des-coteaux-nicolas-duffau",
+        "telephone": "06 80 07 40 18",
+        "site_web": "https://laforestieredescoteaux47.fr/",
+        "adresse": "2196 route des Landes, 47250 Cocumont",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Exploitation forestière"
+      },
+      {
+        "id": "12668595084767847150",
+        "nom": "MGN Fermeture Elec Plomberie Chauffage",
+        "slug": "mgn-fermeture-elec-plomberie-chauffage",
+        "telephone": "05 53 64 17 09",
+        "site_web": "http://www.facebook.com/mgnfermeturelec/?utm_source=gmb",
+        "adresse": "27 Route de Meilhan, 47180 Couthures-sur-Garonne",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "11517577005806275983",
+        "nom": "semat renov",
+        "slug": "semat-renov",
+        "telephone": "06 80 37 68 46",
+        "site_web": "https://semat-renov.fr/",
+        "adresse": "2 lieu dit larpenteur, 47250 Cocumont",
+        "note": 5,
+        "avis": 9,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17671114068910812239",
+        "nom": "Garonne solaire",
+        "slug": "garonne-solaire",
+        "telephone": "06 60 09 11 23",
+        "site_web": "http://garonnesolaire.fr/",
+        "adresse": "626 route des landes, 47250 Cocumont",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "3361474885784915442",
+        "nom": "Agbtherme",
+        "slug": "agbtherme",
+        "telephone": "06 09 13 23 70",
+        "site_web": "https://www.agbtherme.fr/",
+        "adresse": "La maison du Jardin lieu dit au Château, 47200 Marcellus",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "10015473964282449313",
+        "nom": "Doux Bruno EURL",
+        "slug": "doux-bruno-eurl",
+        "telephone": "06 33 53 10 02",
+        "site_web": "http://www.plombier-marmande.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 52,
+        "type": "Plombier"
+      },
+      {
+        "id": "1057002777866693908",
+        "nom": "D.TECT Services",
+        "slug": "dtect-services",
+        "telephone": "06 84 86 88 97",
+        "site_web": "https://dtectservices.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "10848851927468776400",
+        "nom": "J.Berthet Energie",
+        "slug": "jberthet-energie",
+        "telephone": "07 85 45 46 17",
+        "site_web": "http://www.jberthetenergie-plombier.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10808453182778549625",
+        "nom": "EURL BOUIC PCS",
+        "slug": "eurl-bouic-pcs",
+        "telephone": "09 74 56 20 99",
+        "site_web": null,
+        "adresse": "6 Rue de la Fontaine, 47250 Cocumont",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "duras": {
+    "artisans": [
+      {
+        "id": "8040419471557039279",
+        "nom": "Plombi Pac",
+        "slug": "plombi-pac",
+        "telephone": "05 53 88 29 11",
+        "site_web": null,
+        "adresse": "Le Bateau, 47120 Duras",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "pont-du-casse": {
+    "artisans": [
+      {
+        "id": "13026932006682873199",
+        "nom": "CGMI",
+        "slug": "cgmi",
+        "telephone": "05 33 09 29 90",
+        "site_web": "http://www.cgmi.fr/",
+        "adresse": "Av. Jean Serres, 47480 Pont-du-Casse",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9208994160590585780",
+        "nom": "BKS ENERGIES",
+        "slug": "bks-energies",
+        "telephone": "06 24 54 24 43",
+        "site_web": "http://www.facebook.com/plomberie.passion",
+        "adresse": "28 Bd Scaliger, 47000 Agen",
+        "note": 4.6,
+        "avis": 33,
+        "type": "Plombier"
+      },
+      {
+        "id": "16491665456328706587",
+        "nom": "Cochard et Fils SARL",
+        "slug": "cochard-et-fils-sarl",
+        "telephone": "06 33 53 85 72",
+        "site_web": "http://www.cochard-fils.com/",
+        "adresse": "2 bis Rue Saint-Martin, 47510 Foulayronnes",
+        "note": 3,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "11849268949141393964",
+        "nom": "Delsuc Jean Pierre",
+        "slug": "delsuc-jean-pierre",
+        "telephone": "06 25 94 50 13",
+        "site_web": "http://delsuc.site-solocal.com/",
+        "adresse": "11 Imp. Scaliger, 47480 Pont-du-Casse",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "17219972123311948351",
+        "nom": "Meunier Alain SARL",
+        "slug": "meunier-alain-sarl",
+        "telephone": "05 53 47 97 55",
+        "site_web": "https://www.facebook.com/Alain-Meunier-SARL-103991228135254/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2615718774638756350",
+        "nom": "Artisan André père et fils",
+        "slug": "artisan-andre-pere-et-fils",
+        "telephone": "05 53 95 26 07",
+        "site_web": "http://artisan-andre.fr/",
+        "adresse": "1 allée de Bora Bora, 1 All. de Bora Bora, 47510 Foulayronnes",
+        "note": 2.6,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "7594994240120235216",
+        "nom": "Barran Daniel - Bois de chauffage",
+        "slug": "barran-daniel-bois-de-chauffage",
+        "telephone": "06 25 40 37 64",
+        "site_web": null,
+        "adresse": "Serres, 47480 Bajamont",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "17221467264415065987",
+        "nom": "PIERRE PLOMBERIE & RENOVATION - Plombier à Agen",
+        "slug": "pierre-plomberie-renovation-plombier-a-agen",
+        "telephone": "07 80 43 25 36",
+        "site_web": "https://www.pierre-plomberie-renovation.fr/",
+        "adresse": "26 Av. Jean Jaurès, 47000 Agen",
+        "note": 5,
+        "avis": 48,
+        "type": "Plombier"
+      },
+      {
+        "id": "9586726929475012182",
+        "nom": "Avi & Fils - Electricien Chauffagiste Agen",
+        "slug": "avi-fils-electricien-chauffagiste-agen",
+        "telephone": "05 53 66 69 02",
+        "site_web": "https://www.avi-chauffage-agen.fr/",
+        "adresse": "30 Rue de la Couronne, 47550 Boé",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11036230113059357345",
+        "nom": "Viv’energies",
+        "slug": "vivenergies",
+        "telephone": "06 88 20 40 03",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "la-croix-blanche": {
+    "artisans": [
+      {
+        "id": "15531839269116012289",
+        "nom": "Angeles SAS",
+        "slug": "angeles-sas",
+        "telephone": "05 53 79 79 80",
+        "site_web": "https://angeles-plomberie-chauffage.fr/",
+        "adresse": "141 Zone d'Activité du Mayne, 47400 Fauillet",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13176128416146637581",
+        "nom": "Plomberie Chauffagiste Pagès Xavier",
+        "slug": "plomberie-chauffagiste-pages-xavier",
+        "telephone": "06 84 49 40 68",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1223914186172381112",
+        "nom": "Entreprise Bordin",
+        "slug": "entreprise-bordin",
+        "telephone": "06 86 58 04 70",
+        "site_web": "http://www.bordin-sylvain.com/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 149,
+        "type": "Plombier"
+      },
+      {
+        "id": "13949123255667453676",
+        "nom": "S2CZ PLOMBERIE",
+        "slug": "s2cz-plomberie",
+        "telephone": "06 27 45 09 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "11383787219218588076",
+        "nom": "DEVIOT David - Poêles à granulés et cheminées",
+        "slug": "deviot-david-poeles-a-granules-et-cheminees",
+        "telephone": "06 65 36 38 05",
+        "site_web": "http://daviddeviot.fr/",
+        "adresse": "ZAC Le Rouge centre commercial, 47510 Foulayronnes",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "10797978031527796540",
+        "nom": "Maison Pechavy",
+        "slug": "maison-pechavy",
+        "telephone": "05 53 47 24 24",
+        "site_web": "http://maisonpechavy.fr/",
+        "adresse": null,
+        "note": 4.4,
+        "avis": 5,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "555168229591406400",
+        "nom": "C. Dal Molin Sarl",
+        "slug": "c-dal-molin-sarl",
+        "telephone": "06 08 90 41 84",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "253420876939314530",
+        "nom": "Solitech",
+        "slug": "solitech",
+        "telephone": "07 66 21 63 27",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2478112786496791648",
+        "nom": "Nadoui ENR",
+        "slug": "nadoui-enr",
+        "telephone": "06 46 69 68 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12348901384790905666",
+        "nom": "ETS JLVM",
+        "slug": "ets-jlvm",
+        "telephone": "05 53 87 97 52",
+        "site_web": "https://www.vellard-chauffage.fr/",
+        "adresse": "4 Rue Ribalous, 47340 Laroque-Timbaut",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "feugarolles": {
+    "artisans": [
+      {
+        "id": "14139080785127989212",
+        "nom": "Jeremy Energies",
+        "slug": "jeremy-energies",
+        "telephone": "06 99 11 43 69",
+        "site_web": null,
+        "adresse": "Terrefort, 47230 Feugarolles",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "estillac": {
+    "artisans": [
+      {
+        "id": "16052783029095319441",
+        "nom": "Van-Canneyt Fabrice ARELECTRIC",
+        "slug": "van-canneyt-fabrice-arelectric",
+        "telephone": "06 71 59 72 19",
+        "site_web": null,
+        "adresse": "1 Chem. du Moussat, 47310 Estillac",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "1112493360042044851",
+        "nom": "Comin - Bergalasse",
+        "slug": "comin-bergalasse",
+        "telephone": "05 53 40 23 00",
+        "site_web": "https://www.axenergie.eu/agences/83-sarl-comin-bergalasse",
+        "adresse": "45 Rte de Marchant, 47310 Roquefort",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17563445103463344759",
+        "nom": "CCP VITALE",
+        "slug": "ccp-vitale",
+        "telephone": "05 53 67 53 50",
+        "site_web": "https://www.plombier-chauffagiste-agen.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "35 Rte Mestre Marty, 47310 Estillac",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "12808082274365885724",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "05 53 47 09 27",
+        "site_web": "https://agence.engie-homeservices.fr/153-engie-home-services-agen?utm_source=gmb",
+        "adresse": "ZA La Plaine, All. des Mousquetaires, 47520 Le Passage",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13258860806896736075",
+        "nom": "CCP Vitale (Sarl)",
+        "slug": "ccp-vitale-sarl",
+        "telephone": "05 53 67 53 50",
+        "site_web": "http://www.plombier-chauffagiste-agen.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2146806850033315193",
+        "nom": "BENOIT BIGOT ELECTRICITE CLIMATISATION",
+        "slug": "benoit-bigot-electricite-climatisation",
+        "telephone": "06 85 45 18 17",
+        "site_web": "https://www.facebook.com/p/SAS-BIGOT-Benoit-%C3%A9lectricit%C3%A9-100093330581931/",
+        "adresse": "ZA Les, Zone des Portes d’Estillac, 47310 Estillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "3676227600039561908",
+        "nom": "Joteix - Electricité & Plomberie",
+        "slug": "joteix-electricite-plomberie",
+        "telephone": "06 98 47 18 55",
+        "site_web": "https://joteix.fr/",
+        "adresse": "18 Rue des Glycines, 47310 Roquefort",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "5189098153621119221",
+        "nom": "GROUPE PECHAVY - Fournisseur d'énergies pour la mobilité et le chauffage des particuliers et professionnels",
+        "slug": "groupe-pechavy-fournisseur-denergies-pour-la-mobilite-et-le-chauffage-des-particuliers-et-professionnels",
+        "telephone": "05 53 47 24 24",
+        "site_web": "http://www.groupe-pechavy.fr/",
+        "adresse": "Zone Industrielle le Treil, 612 Av. du Bruilhois, 47520 Le Passage",
+        "note": 4.6,
+        "avis": 123,
+        "type": "Fournisseur d'énergie"
+      },
+      {
+        "id": "3753123149666739778",
+        "nom": "Piva SARL",
+        "slug": "piva-sarl",
+        "telephone": "05 53 96 03 73",
+        "site_web": "http://www.elmleblanc.fr/",
+        "adresse": "90 Av. Michelet, 47000 Agen",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15721426946637944880",
+        "nom": "Polloni magnolo",
+        "slug": "polloni-magnolo",
+        "telephone": "05 53 67 22 39",
+        "site_web": "http://www.polloni-magnolo.fr/",
+        "adresse": "27 Rte de Marchant, 47310 Roquefort",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "foulayronnes": {
+    "artisans": [
+      {
+        "id": "15275922433266652046",
+        "nom": "Robert Jones Electricité Générale SARL",
+        "slug": "robert-jones-electricite-generale-sarl",
+        "telephone": "06 81 98 43 22",
+        "site_web": "https://www.facebook.com/profile.php?id=100064906742185",
+        "adresse": "5 Rue des Métiers, 47510 Foulayronnes",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "4394677628274337093",
+        "nom": "Nouailles Epc",
+        "slug": "nouailles-epc",
+        "telephone": "05 53 95 99 33",
+        "site_web": null,
+        "adresse": "2 ZA le Rouge, 47510 Foulayronnes",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "1891422548086813504",
+        "nom": "Garonne Plomberie",
+        "slug": "garonne-plomberie",
+        "telephone": "05 53 68 24 91",
+        "site_web": "https://garonne-plomberie.fr/",
+        "adresse": "41 Rue Denfert Rochereau, 47000 Agen",
+        "note": 3.3,
+        "avis": 35,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "fourques-sur-garonne": {
+    "artisans": [
+      {
+        "id": "13512177624313113291",
+        "nom": "ACEP",
+        "slug": "acep",
+        "telephone": "05 53 89 33 33",
+        "site_web": "http://www.acep47.fr/",
+        "adresse": "Centre routier marmande sud, 47250 Samazan",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1603212602898241518",
+        "nom": "SAS Bonotto",
+        "slug": "sas-bonotto",
+        "telephone": "06 60 14 11 76",
+        "site_web": "https://www.sasbonotto-47.fr/",
+        "adresse": "Chem. Jean Bart, 47200 Marmande",
+        "note": 4.8,
+        "avis": 100,
+        "type": "Électricien"
+      },
+      {
+        "id": "32490614771380540",
+        "nom": "Scandiuzzi et Fils",
+        "slug": "scandiuzzi-et-fils",
+        "telephone": "05 53 93 67 06",
+        "site_web": "http://www.scandiuzzi.fr/",
+        "adresse": "14 impasse de Videaux, 47430 Caumont-sur-Garonne",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4854998359675895788",
+        "nom": "TotalEnergies Proxi Sud Ouest (Alvéa)",
+        "slug": "totalenergies-proxi-sud-ouest-alvea",
+        "telephone": "05 53 89 89 50",
+        "site_web": "https://www.proxi-totalenergies.fr/?at_campaign=Site_Web&at_custom1=TPSO&at_medium=Google_My_Business",
+        "adresse": "898 La Teinture, 47200 Montpouillan",
+        "note": 4.4,
+        "avis": 44,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "18062425925864719569",
+        "nom": "HEURTER ET FILS",
+        "slug": "heurter-et-fils",
+        "telephone": "05 53 79 92 58",
+        "site_web": "https://heurteretfils.fr/",
+        "adresse": "182 Chem. de Bernata, 47200 Fourques-sur-Garonne",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Plâtrier.ère"
+      },
+      {
+        "id": "14975547409257304388",
+        "nom": "Deville P2M Ecochauff Distributeur",
+        "slug": "deville-p2m-ecochauff-distributeur",
+        "telephone": "05 53 88 67 12",
+        "site_web": "https://www.facebook.com/devillemarmande47?utm_source=gmb",
+        "adresse": "25 impasse de Garonne Lieu-dit, 47200 Saint-Pardoux-du-Breuil",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "16563292567625336712",
+        "nom": "JVELEC MARMANDE",
+        "slug": "jvelec-marmande",
+        "telephone": "06 24 26 69 22",
+        "site_web": null,
+        "adresse": "182 Chem. de Bernata, 47200 Fourques-sur-Garonne",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "11720534462158555427",
+        "nom": "Rénovenergie France",
+        "slug": "renovenergie-france",
+        "telephone": "06 71 01 27 18",
+        "site_web": "https://xn--rnovenergie-bbb.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "10790044591865463666",
+        "nom": "CEGECLIM ENERGIES",
+        "slug": "cegeclim-energies",
+        "telephone": "05 33 09 23 90",
+        "site_web": "http://www.cegeclim-energies.com/",
+        "adresse": "ZAC Marmande Sud, 186 Rue Gutenberg, 47250 Samazan",
+        "note": 5,
+        "avis": 0,
+        "type": "Grossiste"
+      },
+      {
+        "id": "9377931949040768995",
+        "nom": "Sphere Elec",
+        "slug": "sphere-elec",
+        "telephone": "05 53 93 42 58",
+        "site_web": null,
+        "adresse": "ZAC, 47200 Saint-Pardoux-du-Breuil",
+        "note": 1,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "fumel": {
+    "artisans": [
+      {
+        "id": "4985911920036795800",
+        "nom": "Stéphane BRUN",
+        "slug": "stephane-brun",
+        "telephone": "06 82 30 37 28",
+        "site_web": null,
+        "adresse": "Lacouture, 47500 Montayral",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16583567478434073995",
+        "nom": "A.D.C 47",
+        "slug": "adc-47",
+        "telephone": "05 53 40 03 61",
+        "site_web": "http://adc47.e-monsite.com/",
+        "adresse": "Centre Commercial Florimont, 410 route Périgueux, 47500 Fumel",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6449132862623528662",
+        "nom": "Martin Fils SARL",
+        "slug": "martin-fils-sarl",
+        "telephone": "05 53 71 00 84",
+        "site_web": "http://www.martin-fils.com/?utm_source=gmb",
+        "adresse": "ZA du haut agenais, 47500 Montayral",
+        "note": 4.5,
+        "avis": 232,
+        "type": "Plombier"
+      },
+      {
+        "id": "10060653973445910998",
+        "nom": "E.D.I.F SARL",
+        "slug": "edif-sarl",
+        "telephone": "05 53 49 40 20",
+        "site_web": "http://edif-fumel47.fr/?utm_source=gmb",
+        "adresse": "8 Av. de l'Usine, 47500 Fumel",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1115151355868197557",
+        "nom": "BFA2 - Plomberie / Chauffage",
+        "slug": "bfa2-plomberie-chauffage",
+        "telephone": "06 49 46 92 19",
+        "site_web": "https://bfa2.fr/",
+        "adresse": "119 Rte de Périgueux, 47500 Fumel",
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "7996344883152149619",
+        "nom": "Sarl Campi Fulchic",
+        "slug": "sarl-campi-fulchic",
+        "telephone": "05 53 71 14 77",
+        "site_web": null,
+        "adresse": "560-706 Chem. de Peyrastoul, 47500 Fumel",
+        "note": 3.7,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "13524779304351659787",
+        "nom": "METI CHAUFFAGE ( Maintenance des Equipements Thermiques Individuels)",
+        "slug": "meti-chauffage-maintenance-des-equipements-thermiques-individuels",
+        "telephone": "06 70 09 28 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17022410851398698958",
+        "nom": "Rapid Plombier",
+        "slug": "rapid-plombier",
+        "telephone": "06 21 02 22 19",
+        "site_web": "http://www.facebook.com/Rapid-plombier-1300492196656124/?utm_source=gmb",
+        "adresse": "72 Av. de Libos, 47500 Montayral",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4197341975228088318",
+        "nom": "Esclafert Garrigue",
+        "slug": "esclafert-garrigue",
+        "telephone": "05 53 01 31 31",
+        "site_web": "https://www.esclafertgarrigue.fr/",
+        "adresse": "18 Rue Jarrou, 47500 Monsempron-Libos",
+        "note": 3.8,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14405101815789507003",
+        "nom": "ADEIC",
+        "slug": "adeic",
+        "telephone": "07 80 60 17 29",
+        "site_web": null,
+        "adresse": "8 Rue de Beauséjour, 47500 Monsempron-Libos",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "gontaud-de-nogaret": {
+    "artisans": [
+      {
+        "id": "10454866269915734199",
+        "nom": "NICODEMO",
+        "slug": "nicodemo",
+        "telephone": "05 53 83 47 11",
+        "site_web": "http://www.nicodemo.fr/",
+        "adresse": "13 Rue de la Poste, 47400 Gontaud-de-Nogaret",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "hautefage-la-tour": {
+    "artisans": [
+      {
+        "id": "15219479336886429039",
+        "nom": "Aussignac Bruno",
+        "slug": "aussignac-bruno",
+        "telephone": "05 53 40 77 83",
+        "site_web": null,
+        "adresse": "La Courbonne, 47340 Hautefage-la-Tour",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "lafox": {
+    "artisans": [
+      {
+        "id": "5842094395045854459",
+        "nom": "Entreprise Vinas SARL",
+        "slug": "entreprise-vinas-sarl",
+        "telephone": "05 53 68 51 51",
+        "site_web": null,
+        "adresse": "2 Ostande, 47240 Lafox",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "10110947942514996600",
+        "nom": "Fillastre",
+        "slug": "fillastre",
+        "telephone": "05 53 68 52 93",
+        "site_web": "http://www.fillastre.com/?utm_source=gmb",
+        "adresse": "491 Route d'Agen, 47240 Lafox",
+        "note": 3.3,
+        "avis": 46,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8713507957105177969",
+        "nom": "CR Habitat - Poêles à bois et granulés | Chauffagiste à Agen",
+        "slug": "cr-habitat-poeles-a-bois-et-granules-chauffagiste-a-agen",
+        "telephone": "05 53 95 48 74",
+        "site_web": "http://www.cr-habitat.com/",
+        "adresse": "691 route d'agen, 47240 Lafox",
+        "note": 4.5,
+        "avis": 43,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "8766633105697540601",
+        "nom": "EURL Allègre Sébastien",
+        "slug": "eurl-allegre-sebastien",
+        "telephone": "06 74 94 06 51",
+        "site_web": "http://www.vente-bois-47.com/",
+        "adresse": "6118 Rue Jacques Laffore, 47240 Castelculier",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "15866241702269004188",
+        "nom": "Genestet",
+        "slug": "genestet",
+        "telephone": "05 53 48 75 44",
+        "site_web": "http://agenestet.fr/",
+        "adresse": "273 Rue des artisans Za La Tuque, 47240 Castelculier",
+        "note": 4.7,
+        "avis": 35,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15597701446458128533",
+        "nom": "Perissinotto Jean-Pierre",
+        "slug": "perissinotto-jean-pierre",
+        "telephone": "05 53 68 51 19",
+        "site_web": "https://jeromeverney.fr/",
+        "adresse": "Chem. du Roc de Monteil, 47240 Lafox",
+        "note": 4,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "1887175813989169222",
+        "nom": "DL Plomberie 47",
+        "slug": "dl-plomberie-47",
+        "telephone": "06 08 04 80 98",
+        "site_web": "https://www.dlplomberie-climatisation47.fr/",
+        "adresse": null,
+        "note": 1,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16898991738140348406",
+        "nom": "Société Schmitt",
+        "slug": "societe-schmitt",
+        "telephone": "05 53 47 46 07",
+        "site_web": "http://www.societeschmitt.fr/",
+        "adresse": "58 Rue Denfert Rochereau, 47000 Agen",
+        "note": 4.1,
+        "avis": 41,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "14178497337989409535",
+        "nom": "Brisach Magasin de Poêles et Cheminées à Agen",
+        "slug": "brisach-magasin-de-poeles-et-cheminees-a-agen",
+        "telephone": "05 53 66 25 07",
+        "site_web": "https://www.brisach.com/store/brisach-agen/",
+        "adresse": "rd 813 terrefort, 47240 Lafox",
+        "note": 3.6,
+        "avis": 5,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9188708376964831098",
+        "nom": "Dep Elec",
+        "slug": "dep-elec",
+        "telephone": "05 53 96 00 15",
+        "site_web": null,
+        "adresse": "173 Chem. des Cèdres, 47240 Castelculier",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "laplume": {
+    "artisans": [
+      {
+        "id": "269727691448584842",
+        "nom": "Fauvel Bruno",
+        "slug": "fauvel-bruno",
+        "telephone": "05 53 67 85 39",
+        "site_web": null,
+        "adresse": "Lieu-dit Loubarot, 47310 Laplume",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4592533891614253154",
+        "nom": "MILHAU PLOMBERIE",
+        "slug": "milhau-plomberie",
+        "telephone": "06 31 32 64 70",
+        "site_web": null,
+        "adresse": "ça ira, Lieu-dit, 47310 Laplume",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15640219362445377607",
+        "nom": "B Alexis Thermique",
+        "slug": "b-alexis-thermique",
+        "telephone": "06 80 74 08 55",
+        "site_web": "http://www.alexis-thermique.fr/",
+        "adresse": "11 Chem. du Garron, 47310 Laplume",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5103102922550475869",
+        "nom": "DLM plomberie chauffage",
+        "slug": "dlm-plomberie-chauffage",
+        "telephone": "07 77 06 37 47",
+        "site_web": null,
+        "adresse": "8 Chem. de la Tuilerie, 32700 Pergain-Taillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12820498357502555599",
+        "nom": "Milhau Alexandre",
+        "slug": "milhau-alexandre",
+        "telephone": "05 53 48 34 66",
+        "site_web": null,
+        "adresse": "Ca Ira, 47310 Laplume",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "11369927984491441544",
+        "nom": "Carnac et Fils",
+        "slug": "carnac-et-fils",
+        "telephone": "05 53 98 18 47",
+        "site_web": null,
+        "adresse": "1600, 47310 Sainte-Colombe-en-Bruilhois",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "6455704843717342452",
+        "nom": "A.RCS MULTISERVICES",
+        "slug": "arcs-multiservices",
+        "telephone": "06 11 29 23 14",
+        "site_web": null,
+        "adresse": "Chem. du Garron, 47310 Sainte-Colombe-en-Bruilhois",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "41751602423075621",
+        "nom": "Peafrini Jean-Pierre",
+        "slug": "peafrini-jean-pierre",
+        "telephone": "05 53 67 88 49",
+        "site_web": null,
+        "adresse": "Castagnes, 47310 Laplume",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "lavardac": {
+    "artisans": [
+      {
+        "id": "5812237325828396651",
+        "nom": "Albret Energies",
+        "slug": "albret-energies",
+        "telephone": "05 35 55 93 52",
+        "site_web": "https://www.facebook.com/profile.php?id=100077550165562",
+        "adresse": "ZA Cugnerayre, D930, 47230 Lavardac",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16306279847936420244",
+        "nom": "SASU yohan BARBARA",
+        "slug": "sasu-yohan-barbara",
+        "telephone": "07 72 28 36 53",
+        "site_web": "https://yohan-barbara.fr/",
+        "adresse": "16 Chem. du Manistre, 47230 Barbaste",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "18319722110907793543",
+        "nom": "SARL Les 5 Élements",
+        "slug": "sarl-les-5-elements",
+        "telephone": "06 17 74 55 13",
+        "site_web": "http://les5elements.fr/",
+        "adresse": "7 Laprade, 47230 Lavardac",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "14399876168728887125",
+        "nom": "Frédéric Sigaut",
+        "slug": "frederic-sigaut",
+        "telephone": "06 70 10 70 31",
+        "site_web": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.facebook.com/profile.php%3Fid%3D61566406838591&ved=2ahUKEwjWhIOZlpOJAxVjfKQEHez3H3UQ9zB6BAgsEAM&authuser=2&usg=AOvVaw3bxdSqOUbrnLITjhRovqiD",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "laroque-timbaut": {
+    "artisans": [
+      {
+        "id": "7282762623279891312",
+        "nom": "Iod Gts",
+        "slug": "iod-gts",
+        "telephone": "05 53 95 78 30",
+        "site_web": "http://www.iodgts.com/",
+        "adresse": "Rue Aristide Salères, 47340 Laroque-Timbaut",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "2303205121741959148",
+        "nom": "BM Froid 47",
+        "slug": "bm-froid-47",
+        "telephone": "05 53 77 38 25",
+        "site_web": null,
+        "adresse": "47340 Laroque-Timbaut",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "ledat": {
+    "artisans": [
+      {
+        "id": "16498363619940067047",
+        "nom": "Aquitec Froid Courret",
+        "slug": "aquitec-froid-courret",
+        "telephone": "05 53 41 04 01",
+        "site_web": "https://www.aquitecfroidcourret.fr/",
+        "adresse": "382 impasse Peyremail, 47110 Sainte-Livrade-sur-Lot",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11337263198925593869",
+        "nom": "Laurent energies",
+        "slug": "laurent-energies",
+        "telephone": "06 74 70 06 96",
+        "site_web": "http://laurent-energies.com/",
+        "adresse": "ZI La Barbiere, 338 Rue Nicolas Leblanc, 47300 Villeneuve-sur-Lot",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9755856327657358859",
+        "nom": "VINCENT DUTAMBY",
+        "slug": "vincent-dutamby",
+        "telephone": "07 77 36 02 10",
+        "site_web": "http://chaudieredutamby.fr/",
+        "adresse": "Allez-et-Cazeneuve, 195 Imp. de Rioms, 47110 Ville",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "15673384048034561213",
+        "nom": "ACA Rénov'",
+        "slug": "aca-renov",
+        "telephone": "07 78 07 58 64",
+        "site_web": "https://www.acarenov.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 32,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "17221202197235568817",
+        "nom": "Ecolomique",
+        "slug": "ecolomique",
+        "telephone": "05 53 41 14 23",
+        "site_web": "http://www.ecolomique-renove.com/?utm_source=gmb",
+        "adresse": "3371 Av. de Bordeaux, 47300 Bias",
+        "note": 4.6,
+        "avis": 62,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "996993481048150419",
+        "nom": "IOD g.t.s",
+        "slug": "iod-gts",
+        "telephone": "05 53 71 87 41",
+        "site_web": "http://www.iodgts.com/",
+        "adresse": "9 Av. Jacques Bordeneuve, 47300 Villeneuve-sur-Lot",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17996687019816386085",
+        "nom": "AQUITAINE BOIS DE CHAUFFAGE",
+        "slug": "aquitaine-bois-de-chauffage",
+        "telephone": "06 89 88 59 71",
+        "site_web": "http://www.aquitaine-bois-chauffage.fr/",
+        "adresse": "borde basse, 47300 Lédat",
+        "note": 4,
+        "avis": 26,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "12963166331080941874",
+        "nom": "Zanatta services",
+        "slug": "zanatta-services",
+        "telephone": "06 82 46 08 39",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8266603824789081141",
+        "nom": "RMD Energies Climatisation Chauffage",
+        "slug": "rmd-energies-climatisation-chauffage",
+        "telephone": "07 83 60 31 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "14626988454013069796",
+        "nom": "COMIN SARL",
+        "slug": "comin-sarl",
+        "telephone": "05 53 40 23 00",
+        "site_web": "https://www.axenergie.eu/agences/82-sarl-comin-",
+        "adresse": "Las Tres Peyres, 47110 Allez-et-Cazeneuve",
+        "note": 3.5,
+        "avis": 45,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "layrac": {
+    "artisans": [
+      {
+        "id": "2339638917981711852",
+        "nom": "Climaf",
+        "slug": "climaf",
+        "telephone": "05 53 47 89 31",
+        "site_web": "https://climaf-47.fr/",
+        "adresse": "La Sablère, 47390 Layrac",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12128077404389057626",
+        "nom": "Dupin Gerlero Sarl",
+        "slug": "dupin-gerlero-sarl",
+        "telephone": "05 53 87 01 37",
+        "site_web": "https://www.dupin-gerlero.fr/",
+        "adresse": "4 ZAC la Roubiague, 47390 Layrac",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16482533634765992133",
+        "nom": "Dal Maso Patrick",
+        "slug": "dal-maso-patrick",
+        "telephone": "05 53 87 05 12",
+        "site_web": null,
+        "adresse": "Fontebeille, 47390 Layrac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "marmande": {
+    "artisans": [
+      {
+        "id": "10262137863096269645",
+        "nom": "SAS Larroche",
+        "slug": "sas-larroche",
+        "telephone": "06 88 21 60 10",
+        "site_web": "https://www.saslarroche.fr/",
+        "adresse": "380 Rue Jean Mermoz, 47200 Marmande",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Usine de panneaux solaires photovoltaïques"
+      },
+      {
+        "id": "15548944283859608861",
+        "nom": "POITEVIN ÉNERGIES",
+        "slug": "poitevin-energies",
+        "telephone": "06 82 94 93 60",
+        "site_web": "https://www.poitevinenergies.fr/",
+        "adresse": "Fizalié, Rte de la Geyre, 47180 Sainte-Bazeille",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "808968783245888789",
+        "nom": "CEDEO Marmande : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-marmande-sanitaire-chauffage-plomberie",
+        "telephone": "05 53 20 35 80",
+        "site_web": "https://www.cedeo.fr/infos-agence/marmande-cedeo-1470",
+        "adresse": "Rue Michel de Montaigne ZA Michelon, 47200 Marmande",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "16465368262086100170",
+        "nom": "Beauger et fils",
+        "slug": "beauger-et-fils",
+        "telephone": "06 01 14 04 32",
+        "site_web": null,
+        "adresse": "4 Av. Belle Colline, 47200 Beaupuy",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17263652964747897400",
+        "nom": "Ellouchi redouan",
+        "slug": "ellouchi-redouan",
+        "telephone": "06 45 11 07 34",
+        "site_web": null,
+        "adresse": "12rue Paul beme C4, 47200 Marmande",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14397179989807888430",
+        "nom": "SARL RIGO JEAN PIERRE",
+        "slug": "sarl-rigo-jean-pierre",
+        "telephone": "05 53 93 61 96",
+        "site_web": "http://www.rigo-chauffage-clim.com/",
+        "adresse": "1567 Rte de Bordeaux, 47180 Sainte-Bazeille",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6078186167401558118",
+        "nom": "sani-confort47",
+        "slug": "sani-confort47",
+        "telephone": "06 42 93 02 98",
+        "site_web": "https://www.plombiermarmande.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "3681231529470764887",
+        "nom": "Téréva Marmande",
+        "slug": "tereva-marmande",
+        "telephone": "05 53 20 28 65",
+        "site_web": "https://www.tereva.fr/document/A-394612--agence-tereva-marmande",
+        "adresse": "21 Rte de la Porte du Temps, 47200 Marmande",
+        "note": 4.6,
+        "avis": 27,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "4380333346387005321",
+        "nom": "CLIM'ELEC",
+        "slug": "climelec",
+        "telephone": "06 37 53 60 52",
+        "site_web": "https://www.clim-elec47.fr/",
+        "adresse": "12 Rue Bayle de Seyches, 47200 Marmande",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14120298334310683393",
+        "nom": "LPM Energies",
+        "slug": "lpm-energies",
+        "telephone": "05 53 94 47 47",
+        "site_web": "http://www.lpmenergies.com/",
+        "adresse": "5 Rue Albert Einstein, 47200 Marmande",
+        "note": 3.1,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "le-mas-d-agenais": {
+    "artisans": [
+      {
+        "id": "2436245167153590132",
+        "nom": "Heroux William",
+        "slug": "heroux-william",
+        "telephone": "06 66 83 60 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1981327931439856853",
+        "nom": "ec'eau energie",
+        "slug": "eceau-energie",
+        "telephone": "06 74 53 55 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8804878476613969755",
+        "nom": "EIRL Yannick Calmejane",
+        "slug": "eirl-yannick-calmejane",
+        "telephone": "06 40 47 59 40",
+        "site_web": null,
+        "adresse": "10 Chem. de venteuilh, 47430 Le Mas-d'Agenais",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "meilhan-sur-garonne": {
+    "artisans": [
+      {
+        "id": "15140943169594407034",
+        "nom": "Gestion Des Systemes Energetiques",
+        "slug": "gestion-des-systemes-energetiques",
+        "telephone": "07 86 62 13 74",
+        "site_web": null,
+        "adresse": "370 Route de Cangrand, 33190 Mongauzy",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9492182858711815430",
+        "nom": "DT Plomberie 33",
+        "slug": "dt-plomberie-33",
+        "telephone": "06 59 33 86 25",
+        "site_web": null,
+        "adresse": "2879 Rte de Bordeaux, 33190 Lamothe-Landerron",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "10327278147490833527",
+        "nom": "Patrick JOSSET",
+        "slug": "patrick-josset",
+        "telephone": "06 76 93 82 89",
+        "site_web": "http://bois-chauffage-marmande.fr/",
+        "adresse": "433 Imp. de la Gravière, 33190 Hure",
+        "note": 5,
+        "avis": 5,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "18399083551799424856",
+        "nom": "Langlois Jérémie",
+        "slug": "langlois-jeremie",
+        "telephone": "06 47 83 62 23",
+        "site_web": null,
+        "adresse": "39 Av. de Graveyron, 47180 Sainte-Bazeille",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8125921346637122693",
+        "nom": "Gaec Delage",
+        "slug": "gaec-delage",
+        "telephone": "05 53 94 30 53",
+        "site_web": null,
+        "adresse": "962 Rte des Saumars, 47180 Meilhan-sur-Garonne",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Agriculteur"
+      },
+      {
+        "id": "14371437565519518711",
+        "nom": "MTR Plomberie Chauffage climatisation",
+        "slug": "mtr-plomberie-chauffage-climatisation",
+        "telephone": "06 22 09 16 66",
+        "site_web": "https://www.facebook.com/profile.php?id=100085877287146",
+        "adresse": "783 route de saint michel, 33190 Saint-Michel-de-Lapujade",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "13327304175154944281",
+        "nom": "Toullec Yan",
+        "slug": "toullec-yan",
+        "telephone": "06 71 77 27 78",
+        "site_web": null,
+        "adresse": "26 Le Bourg, 33190 Bourdelles",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "14593367555675590604",
+        "nom": "L' ECHO DU FEU",
+        "slug": "l-echo-du-feu",
+        "telephone": "05 53 79 31 18",
+        "site_web": "http://www.lechodufeu.fr/",
+        "adresse": "Route de Marmande, 47180 Sainte-Bazeille",
+        "note": 4.2,
+        "avis": 20,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "1638661696022973470",
+        "nom": "Mayeur Ramonage",
+        "slug": "mayeur-ramonage",
+        "telephone": "05 53 83 33 83",
+        "site_web": "https://mayeur-ramonage.com/",
+        "adresse": "ZAC de la plaine 2, 47180 Sainte-Bazeille",
+        "note": 3.7,
+        "avis": 29,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "12336563872993020900",
+        "nom": "Entreprise Morassut Lionel",
+        "slug": "entreprise-morassut-lionel",
+        "telephone": "06 76 80 78 04",
+        "site_web": null,
+        "adresse": "25 Rte de Bel Air, 47180 Sainte-Bazeille",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "mezin": {
+    "artisans": [
+      {
+        "id": "15114416398172593373",
+        "nom": "PN Plomberie-chauffage",
+        "slug": "pn-plomberie-chauffage",
+        "telephone": "05 53 65 59 71",
+        "site_web": null,
+        "adresse": "346 Av. Jacques Bertrand, 47170 Mézin",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "10897676223703486932",
+        "nom": "Mendes Frédéric SARL",
+        "slug": "mendes-frederic-sarl",
+        "telephone": "05 53 97 09 91",
+        "site_web": "http://sarlmendesfrederic.com/",
+        "adresse": "lieu-dit Monplaisir, 47170 Réaup-Lisse",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "miramont-de-guyenne": {
+    "artisans": [
+      {
+        "id": "12585945578295415609",
+        "nom": "Enriquez Ferboeuf SASU",
+        "slug": "enriquez-ferboeuf-sasu",
+        "telephone": "05 53 88 09 55",
+        "site_web": "http://www.facebook.com/ENRIQUEZFERBOEUF?utm_source=gmb",
+        "adresse": "700 Av. Alfred Court, 47800 Miramont-de-Guyenne",
+        "note": 4,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "12135809540266614072",
+        "nom": "Guillot Emmanuel",
+        "slug": "guillot-emmanuel",
+        "telephone": "05 53 64 33 15",
+        "site_web": null,
+        "adresse": "1780 Rte du Genévrier, 47800 Miramont-de-Guyenne",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6334170552528696974",
+        "nom": "Peruch Freres Sarl",
+        "slug": "peruch-freres-sarl",
+        "telephone": "06 87 82 56 06",
+        "site_web": null,
+        "adresse": "69 Av. Joliot Curie, 47800 Miramont-de-Guyenne",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "15165240040066551891",
+        "nom": "BALDISSER THERMIQUE",
+        "slug": "baldisser-thermique",
+        "telephone": "06 85 68 83 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3567564148092909118",
+        "nom": "SJL PLOMBERIE CHAUFFAGE",
+        "slug": "sjl-plomberie-chauffage",
+        "telephone": "06 16 63 44 22",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "moirax": {
+    "artisans": [
+      {
+        "id": "15244930564329892298",
+        "nom": "SARL GREGOIRE",
+        "slug": "sarl-gregoire",
+        "telephone": "05 53 87 03 46",
+        "site_web": "https://sarlgregoire.fr/",
+        "adresse": "365 Chem. de Pujos, 47310 Moirax",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "4389355305471744130",
+        "nom": "Interstoves47",
+        "slug": "interstoves47",
+        "telephone": "06 47 96 33 30",
+        "site_web": null,
+        "adresse": "99 Av. de Bigorre, 47550 Boé",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10959926254724630427",
+        "nom": "PARTEDIS Chauffage Sanitaire - Agen",
+        "slug": "partedis-chauffage-sanitaire-agen",
+        "telephone": "05 53 98 26 26",
+        "site_web": "http://www.partedis.com/agence/agen-chauffage-sanitaire/",
+        "adresse": "1057 Av. du Midi, 47000 Agen",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16715184798330090829",
+        "nom": "Société 2G",
+        "slug": "societe-2g",
+        "telephone": "05 53 95 18 09",
+        "site_web": "http://societe2g.com/",
+        "adresse": "Le Caillou - Route de Condom, 47520 Le Passage",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2145766506595108847",
+        "nom": "Jordi",
+        "slug": "jordi",
+        "telephone": "06 71 36 10 35",
+        "site_web": "https://www.jordi-pac.fr/",
+        "adresse": "160 Chem. de Pujos, 47310 Moirax",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17903967909358585254",
+        "nom": "BADIE - Agen",
+        "slug": "badie-agen",
+        "telephone": "05 53 84 16 00",
+        "site_web": "https://badie-installateur.com/",
+        "adresse": "Espace Habitat : neuf et rénovation, 9003 Av. de l'Atlantique, 47000 Agen",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7081214873411766622",
+        "nom": "MILHAU PLOMBERIE",
+        "slug": "milhau-plomberie",
+        "telephone": "05 53 95 85 41",
+        "site_web": null,
+        "adresse": "1479 Av. d'Aquitaine, 47550 Boé",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "monflanquin": {
+    "artisans": [
+      {
+        "id": "18133949546515630592",
+        "nom": "Schellwat Olivier",
+        "slug": "schellwat-olivier",
+        "telephone": "05 53 41 23 29",
+        "site_web": null,
+        "adresse": "47150 Monflanquin",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "5693255517514316636",
+        "nom": "chauffagiste Bonnel - monflanquin",
+        "slug": "chauffagiste-bonnel-monflanquin",
+        "telephone": "07 88 20 99 68",
+        "site_web": null,
+        "adresse": "8 Rte de Savignac, 47150 Monflanquin",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7014938002194513226",
+        "nom": "Eco-Therm 47",
+        "slug": "eco-therm-47",
+        "telephone": "06 29 08 41 50",
+        "site_web": null,
+        "adresse": "24 Av. de la Libération, 47150 Monflanquin",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "penne-d-agenais": {
+    "artisans": [
+      {
+        "id": "11181690524403340014",
+        "nom": "BATI ZAP",
+        "slug": "bati-zap",
+        "telephone": "06 52 75 08 21",
+        "site_web": "http://batizap.fr/",
+        "adresse": "D159 Lotissement De La Gare 29, 47140 Penne-d'Agenais",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4333811675981118050",
+        "nom": "KMS Energie",
+        "slug": "kms-energie",
+        "telephone": "07 66 57 59 45",
+        "site_web": "https://www.facebook.com/profile.php?id=61552734368611",
+        "adresse": "203 ZI DE PAYSSEL, 47140 Penne-d'Agenais",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11768611036966781128",
+        "nom": "Rec Elec",
+        "slug": "rec-elec",
+        "telephone": null,
+        "site_web": "http://www.recelec.fr/",
+        "adresse": "306 Chem. de Loulmède, 47140 Auradou",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "3241837882227012881",
+        "nom": "Adep Service- chauffagiste",
+        "slug": "adep-service-chauffagiste",
+        "telephone": "05 53 41 35 67",
+        "site_web": "http://www.adepservice.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "10 Rue du Lot, 47140 Saint-Sylvestre-sur-Lot",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3372978956277573996",
+        "nom": "Aquitaine Energy",
+        "slug": "aquitaine-energy",
+        "telephone": "06 79 15 55 10",
+        "site_web": "https://www.climatisation-kolher-agen.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "542 Rte du Fontey, 47140 Penne-d'Agenais",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "15219479336886429039",
+        "nom": "Aussignac Bruno",
+        "slug": "aussignac-bruno",
+        "telephone": "05 53 40 77 83",
+        "site_web": null,
+        "adresse": "La Courbonne, 47340 Hautefage-la-Tour",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "10075670668958947584",
+        "nom": "Cabannes Thierry",
+        "slug": "cabannes-thierry",
+        "telephone": "05 53 41 74 24",
+        "site_web": null,
+        "adresse": "1132 Lot. de la Gare, 47140 Penne-d'Agenais",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "9317001967413271380",
+        "nom": "MT Plomberie",
+        "slug": "mt-plomberie",
+        "telephone": "07 80 31 72 80",
+        "site_web": "https://www.facebook.com/share/16d8jbHr2B/?mibextid=wwXIfr",
+        "adresse": "467 Rue de Piquemolle, 47140 Trentels",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "nerac": {
+    "artisans": [
+      {
+        "id": "17914875198985909023",
+        "nom": "Gilles DAUNAN",
+        "slug": "gilles-daunan",
+        "telephone": "06 31 55 69 95",
+        "site_web": "https://www.electricitedaunan.fr/",
+        "adresse": "95 bis Rue de Nazareth, 47600 Nérac",
+        "note": 4,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "8354966822758930860",
+        "nom": "Plombier Agen Nérac",
+        "slug": "plombier-agen-nerac",
+        "telephone": "06 98 09 42 90",
+        "site_web": "https://www.facebook.com/profile.php?id=61554489332278",
+        "adresse": "1 Pl. du Général de Gaulle, 47600 Nérac",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "10545173753617344189",
+        "nom": "Moulinié (SAS)",
+        "slug": "moulinie-sas",
+        "telephone": "05 53 65 06 26",
+        "site_web": "http://www.moulinie.fr/",
+        "adresse": "110 Av. Georges Clemenceau, 47600 Nérac",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16830343702903649264",
+        "nom": "Galatherm Sarl",
+        "slug": "galatherm-sarl",
+        "telephone": "05 53 65 34 48",
+        "site_web": "https://galatherm.com/",
+        "adresse": "Lieu dit Guilhem bas, Rue de Bordeaux, 47600 Nérac",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5305156383390832132",
+        "nom": "Albret Distribution Alain Véniel",
+        "slug": "albret-distribution-alain-veniel",
+        "telephone": "05 53 65 01 35",
+        "site_web": "http://www.albret-distribution.com/",
+        "adresse": "17 Bd Jean Darlan, 47600 Nérac",
+        "note": 3.7,
+        "avis": 29,
+        "type": null
+      },
+      {
+        "id": "9422832332440268957",
+        "nom": "Plomberie d'Albret",
+        "slug": "plomberie-dalbret",
+        "telephone": "05 53 97 37 58",
+        "site_web": null,
+        "adresse": "14 Rue du Laurier, 47600 Nérac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15658115210697623427",
+        "nom": "Chauff'O Eco",
+        "slug": "chauffo-eco",
+        "telephone": "06 81 57 21 41",
+        "site_web": "https://www.facebook.com/p/Chauffo-Eco-61567476178970/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "821679123383413646",
+        "nom": "Cerem - Radiant Gaz Infraconic",
+        "slug": "cerem-radiant-gaz-infraconic",
+        "telephone": "05 53 97 70 10",
+        "site_web": "http://www.cerem-infraconic.com/",
+        "adresse": "ZA Le caudan, 47600 Calignac",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2127486973350264396",
+        "nom": "SARL FAGOBOIS",
+        "slug": "sarl-fagobois",
+        "telephone": "06 15 45 47 04",
+        "site_web": null,
+        "adresse": "Z.A. Comblat, 47230 Barbaste",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "2855534525844972951",
+        "nom": "Noval Bois",
+        "slug": "noval-bois",
+        "telephone": "05 53 97 26 40",
+        "site_web": "http://www.noval-achat-bois.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 3.8,
+        "avis": 0,
+        "type": "Exploitation forestière"
+      }
+    ]
+  },
+  "le-passage": {
+    "artisans": [
+      {
+        "id": "1346865618009059317",
+        "nom": "NH dépann’ / AREO - Plomberie - Chauffage - Climatisation - Ventilation. Agen",
+        "slug": "nh-depann-areo-plomberie-chauffage-climatisation-ventilation-agen",
+        "telephone": "06 12 45 56 07",
+        "site_web": "https://nicolahamel.wixsite.com/nhdepann47",
+        "adresse": "46 Imp. Alexandre Dumas, 47000 Agen",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "montayral": {
+    "artisans": [
+      {
+        "id": "2902538387182792774",
+        "nom": "Clim concept47",
+        "slug": "clim-concept47",
+        "telephone": "07 72 06 35 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "casseneuil": {
+    "artisans": [
+      {
+        "id": "4667851249490813727",
+        "nom": "Mondini Jacques",
+        "slug": "mondini-jacques",
+        "telephone": "05 53 41 39 26",
+        "site_web": null,
+        "adresse": "Zone Artisanale Mayne, 47440 Casseneuil",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Tailleur de pierre"
+      },
+      {
+        "id": "6508705975103935258",
+        "nom": "Bois Bûche 47",
+        "slug": "bois-buche-47",
+        "telephone": "05 53 70 74 67",
+        "site_web": "http://www.boisbuche47.com/?utm_source=gmb",
+        "adresse": "480 Rte de Fongrave, 47380 Saint-Étienne-de-Fougères",
+        "note": 4.8,
+        "avis": 29,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "3497696424676362048",
+        "nom": "2M Electro",
+        "slug": "2m-electro",
+        "telephone": "05 53 01 56 85",
+        "site_web": null,
+        "adresse": "As Cassant, 47440 Casseneuil",
+        "note": 4,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "6290016817207279506",
+        "nom": "RENAULT CASSENEUIL - Garage Jérôme RIEUCAUD",
+        "slug": "renault-casseneuil-garage-jerome-rieucaud",
+        "telephone": "05 53 41 01 75",
+        "site_web": "https://www.renault.fr/",
+        "adresse": "Larigale, 47440 Casseneuil",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Atelier de réparation automobile"
+      }
+    ]
+  },
+  "buzet-sur-baise": {
+    "artisans": [
+      {
+        "id": "6438251622818472420",
+        "nom": "Alvéa",
+        "slug": "alvea",
+        "telephone": "05 53 79 65 56",
+        "site_web": null,
+        "adresse": "Réservoir, 47160 Damazan",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "6829538277483018899",
+        "nom": "Comin - D'Ambroso",
+        "slug": "comin-dambroso",
+        "telephone": "05 53 40 23 00",
+        "site_web": "https://www.axenergie.eu/agences/88-sarl-comin-d-ambroso",
+        "adresse": "22 Rte de Mahourat, 47160 Damazan",
+        "note": 3.5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17428659413088841092",
+        "nom": "Pascutto Christian",
+        "slug": "pascutto-christian",
+        "telephone": "05 53 88 71 03",
+        "site_web": null,
+        "adresse": "47160 Saint-Léger",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "5942316186966131665",
+        "nom": "A et M CLIM PAC",
+        "slug": "a-et-m-clim-pac",
+        "telephone": "07 50 01 87 54",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5722923090331123721",
+        "nom": "ENERGIE RENOUVELABLE LABAT",
+        "slug": "energie-renouvelable-labat",
+        "telephone": "05 61 48 20 28",
+        "site_web": "http://www.energie-renouvelable-labat.com/",
+        "adresse": "29 Chemin du Parc, ZA AL CROS, 31660 Buzet-sur-Tarn",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4180515082430638497",
+        "nom": "Chauffage Central Sanitaire",
+        "slug": "chauffage-central-sanitaire",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "250 D108, 47160 Damazan",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2275047989046591199",
+        "nom": "Prata Christian",
+        "slug": "prata-christian",
+        "telephone": "05 53 88 77 87",
+        "site_web": null,
+        "adresse": "250 D108, 47160 Damazan",
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cancon": {
+    "artisans": [
+      {
+        "id": "4204760058944797969",
+        "nom": "SARL AVINERGIE",
+        "slug": "sarl-avinergie",
+        "telephone": "05 53 01 72 18",
+        "site_web": null,
+        "adresse": "ZI Lagatte, 47290 Cancon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12592084358597683301",
+        "nom": "Cierneski Nicolas",
+        "slug": "cierneski-nicolas",
+        "telephone": "05 53 01 22 41",
+        "site_web": null,
+        "adresse": "Rue du Pigeonnier, 47290 Cancon",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15952454882732745649",
+        "nom": "Climxpert",
+        "slug": "climxpert",
+        "telephone": "07 83 62 54 30",
+        "site_web": null,
+        "adresse": "6 Av. du Parc des Sports, 47290 Cancon",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13249839209618908921",
+        "nom": "Sarl Logique Eco Trade",
+        "slug": "sarl-logique-eco-trade",
+        "telephone": "06 81 46 44 14",
+        "site_web": "https://www.logique-eco-trade.fr/",
+        "adresse": "11 Rue du Pigeonnier, 47290 Cancon",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5932210664501723491",
+        "nom": "Léger Bernard",
+        "slug": "leger-bernard",
+        "telephone": "07 56 97 21 50",
+        "site_web": "http://barran-danibois.com/",
+        "adresse": "12 Rue de la Briotte, 47290 Cancon",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "brax": {
+    "artisans": [
+      {
+        "id": "13554524098776288046",
+        "nom": "De Sousa José",
+        "slug": "de-sousa-jose",
+        "telephone": "06 70 54 19 55",
+        "site_web": "http://www.elec-clim-dsj.fr/?utm_source=gmb",
+        "adresse": "21 Rue des Acacias, 47310 Brax",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13290916451502910320",
+        "nom": "CHAUFLEUR Plomberie",
+        "slug": "chaufleur-plomberie",
+        "telephone": "07 67 71 08 58",
+        "site_web": null,
+        "adresse": "Av. des Landes, 47310 Brax",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "8249331611002981677",
+        "nom": "Lafargue Serge",
+        "slug": "lafargue-serge",
+        "telephone": "05 53 68 72 03",
+        "site_web": null,
+        "adresse": "12 Chem. de Carabin, 47310 Brax",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "14175869982069111160",
+        "nom": "IDEM CLIMATISATION à BRAX (47)",
+        "slug": "idem-climatisation-a-brax-47",
+        "telephone": "07 78 46 26 24",
+        "site_web": "http://www.idem-climatisation.fr/",
+        "adresse": "18 All. des Cerisiers, 47310 Brax",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17085845330023924883",
+        "nom": "PLOMB’ENERGIES 31 à Brax",
+        "slug": "plombenergies-31-a-brax",
+        "telephone": "06 85 85 18 15",
+        "site_web": "https://www.plombier-energies31.fr/",
+        "adresse": "40 Rue du Château, 31490 Brax",
+        "note": 5,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "7902625090933098809",
+        "nom": "ACCS",
+        "slug": "accs",
+        "telephone": "06 81 44 85 24",
+        "site_web": null,
+        "adresse": "1 Chem. du Barrail, 47310 Brax",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": "05 53 67 89 08",
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Ld Lamothe, 733 Rte de Manau, 47310 Sainte-Colombe-en-Bruilhois",
+        "note": 4.6,
+        "avis": 34,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "astaffort": {
+    "artisans": [
+      {
+        "id": "8259083448534042745",
+        "nom": "plomberie générale du batiment dépannage et entretien de chaudière zinguerie DA ROCHA Jérome",
+        "slug": "plomberie-generale-du-batiment-depannage-et-entretien-de-chaudiere-zinguerie-da-rocha-jerome",
+        "telephone": "07 82 12 10 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2041163641145913138",
+        "nom": "ELEC-PLOMB DEPANN'",
+        "slug": "elec-plomb-depann",
+        "telephone": "06 32 99 35 12",
+        "site_web": null,
+        "adresse": "47220 Astaffort",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "9343079017905669361",
+        "nom": "Sarl Grattieri-Esteve - Plaquiste",
+        "slug": "sarl-grattieri-esteve-plaquiste",
+        "telephone": "06 15 07 75 95",
+        "site_web": "https://grattieri-esteve-batiment.fr/",
+        "adresse": "Chem. de Pouchiou, 47220 Astaffort",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "22121430312101553",
+        "nom": "Relano Antonio",
+        "slug": "relano-antonio",
+        "telephone": "05 53 87 86 53",
+        "site_web": null,
+        "adresse": "5 Av. de la Plateforme, 47220 Astaffort",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "agen": {
+    "artisans": [
+      {
+        "id": "2677277650408377431",
+        "nom": "CIRRUS MAINTENANCE ( Climatisation - chauffage - ventilation )",
+        "slug": "cirrus-maintenance-climatisation-chauffage-ventilation",
+        "telephone": "05 53 47 54 35",
+        "site_web": "https://www.cirrus-maintenance.fr/",
+        "adresse": "100 Av. Dr Jean Bru avenue du, 47000 Agen",
+        "note": 4.5,
+        "avis": 44,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13712476085743446298",
+        "nom": "IOD g.t.s",
+        "slug": "iod-gts",
+        "telephone": "05 53 98 37 00",
+        "site_web": "http://www.iodgts.com/",
+        "adresse": "99 Av. Jean Jaurès, 47000 Agen",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "5018311432136209605",
+        "nom": "Les Gars des Eaux",
+        "slug": "les-gars-des-eaux",
+        "telephone": "09 70 72 39 73",
+        "site_web": "https://www.lesgarsdeseaux.com/agence/solution-degats-des-eaux-lot-et-garonne-47",
+        "adresse": "17 Cr Victor Hugo, 47000 Agen",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "casteljaloux": {
+    "artisans": [
+      {
+        "id": "3818268346566020787",
+        "nom": "Badie - Dépannage Plus",
+        "slug": "badie-depannage-plus",
+        "telephone": "05 53 64 90 19",
+        "site_web": "https://badie-installateur.com/depannage_badie.php",
+        "adresse": "11 Pl. Jean Jaurès, 47700 Casteljaloux",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16538487402765794605",
+        "nom": "Dufieux Négoce Dérivés De Bois",
+        "slug": "dufieux-negoce-derives-de-bois",
+        "telephone": "05 53 93 02 69",
+        "site_web": null,
+        "adresse": "6885 Chem. Noir, 47700 Casteljaloux",
+        "note": 5,
+        "avis": 0,
+        "type": "Services de stockage d'archives"
+      },
+      {
+        "id": "4167275155604866399",
+        "nom": "Despin et Fils",
+        "slug": "despin-et-fils",
+        "telephone": "06 80 57 12 32",
+        "site_web": "https://www.despin-chauffage-plomberie.fr/",
+        "adresse": "8 Rue du Tren, 47700 Casteljaloux",
+        "note": 4.8,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "6338670462379242256",
+        "nom": "CLOUPEAU SARL",
+        "slug": "cloupeau-sarl",
+        "telephone": "05 53 79 65 35",
+        "site_web": "https://cloupeau.fr/",
+        "adresse": "39 Grande Rue, 47700 Casteljaloux",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14517125742345760747",
+        "nom": "CPL Lanzutti",
+        "slug": "cpl-lanzutti",
+        "telephone": "06 07 14 68 97",
+        "site_web": "https://www.cpl-lanzutti.fr/",
+        "adresse": "70 Imp. de Nibon, 47700 Casteljaloux",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13262419025398297479",
+        "nom": "ATH SERVICES",
+        "slug": "ath-services",
+        "telephone": "05 56 35 33 89",
+        "site_web": "https://www.ath-services.fr/",
+        "adresse": "4 Av. d'Albret, 47700 Casteljaloux",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7447617812582059998",
+        "nom": "Al Tech Energies",
+        "slug": "al-tech-energies",
+        "telephone": "05 53 93 94 43",
+        "site_web": "https://www.altechenergies.fr/",
+        "adresse": "50 Rte du Moulin, 47700 Poussignac",
+        "note": 5,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "9188928805749141882",
+        "nom": "Laloubère Electric Services SARL",
+        "slug": "laloubere-electric-services-sarl",
+        "telephone": "06 70 27 65 13",
+        "site_web": "https://christianlaloubere.wixsite.com/sarl",
+        "adresse": "6 Rue de Lestage, 47700 Casteljaloux",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "aiguillon": {
+    "artisans": [
+      {
+        "id": "3227580763125575129",
+        "nom": "CLOUPEAU SARL",
+        "slug": "cloupeau-sarl",
+        "telephone": "05 53 79 65 35",
+        "site_web": "http://cloupeau.fr/",
+        "adresse": "11 Rue Lucie Aubrac, 47190 Aiguillon",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17066161243422226236",
+        "nom": "Burattini-Larrey",
+        "slug": "burattini-larrey",
+        "telephone": "05 53 79 64 80",
+        "site_web": "https://www.chauffage-burattini-larrey-aiguillon.fr/",
+        "adresse": "11 Av. du Stade, 47190 Aiguillon",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1073750673320264969",
+        "nom": "AJ Plomberie",
+        "slug": "aj-plomberie",
+        "telephone": "07 82 17 46 17",
+        "site_web": "https://ajplomberie.fr/",
+        "adresse": "Rue les, Rue des Jardins de Salomon, 47190 Aiguillon",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "8942604090830189503",
+        "nom": "Bousquet Bernard",
+        "slug": "bousquet-bernard",
+        "telephone": "05 53 79 66 30",
+        "site_web": null,
+        "adresse": "4 Rue Jules-Ferry, 47190 Aiguillon",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16675380488543463670",
+        "nom": "Bousquet jean marc eurl",
+        "slug": "bousquet-jean-marc-eurl",
+        "telephone": "06 15 31 43 19",
+        "site_web": "https://www.bousquetjeanmarc.fr/contact",
+        "adresse": "8 Rue des Frères-Andrieu, 47190 Aiguillon",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "barbaste": {
+    "artisans": [
+      {
+        "id": "6760362718648771611",
+        "nom": "Tortelli Denis",
+        "slug": "tortelli-denis",
+        "telephone": "05 53 65 59 39",
+        "site_web": null,
+        "adresse": "Le Balesté, 47230 Barbaste",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1844208672151009548",
+        "nom": "CT Electricité",
+        "slug": "ct-electricite",
+        "telephone": "05 53 97 54 60",
+        "site_web": "https://www.ctelectricite-capeletto.fr/",
+        "adresse": "120 zone artisanale de comblat, 47230 Barbaste",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "bias": {
+    "artisans": [
+      {
+        "id": "14966082341964821415",
+        "nom": "Wendel Villeneuve-sur-Lot",
+        "slug": "wendel-villeneuve-sur-lot",
+        "telephone": "05 53 70 05 83",
+        "site_web": "https://www.wendel.fr/",
+        "adresse": "Av. de Bordeaux, 47300 Bias",
+        "note": 4,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "13400128054806939366",
+        "nom": "HNE / Habitat Nouvelles Energie",
+        "slug": "hne-habitat-nouvelles-energie",
+        "telephone": "09 84 58 50 96",
+        "site_web": null,
+        "adresse": "15 Rue Thiers, 47300 Villeneuve-sur-Lot",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12020551899873575506",
+        "nom": "Proxiserve",
+        "slug": "proxiserve",
+        "telephone": "05 53 41 33 99",
+        "site_web": "https://www.proxiserve.fr/",
+        "adresse": "11 Bd de la République, 47300 Villeneuve-sur-Lot",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4218301792311822081",
+        "nom": "MNI Chauffage",
+        "slug": "mni-chauffage",
+        "telephone": "06 73 89 26 96",
+        "site_web": "http://www.mnichauffage.fr/",
+        "adresse": "1 avenue du mal de lattre de tassigny, 47300 Villeneuve-sur-Lot",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17864336893224740004",
+        "nom": "Abr 47 MAISON CONFORT VIEL",
+        "slug": "abr-47-maison-confort-viel",
+        "telephone": "05 53 01 91 83",
+        "site_web": "https://www.maison-confort-viel.fr/",
+        "adresse": "69 Av. du Maréchal Leclerc, 47300 Villeneuve-sur-Lot",
+        "note": 4.1,
+        "avis": 24,
+        "type": "Cheministe"
+      },
+      {
+        "id": "13154012438685407539",
+        "nom": "PIERRE PLOMBERIE & RENOVATION - Plombier à Villeneuve sur lot",
+        "slug": "pierre-plomberie-renovation-plombier-a-villeneuve-sur-lot",
+        "telephone": "07 80 43 25 36",
+        "site_web": "https://pierre-plomberie-renovation.fr/",
+        "adresse": "5 Rue de la Gravette Villa 3, 47300 Villeneuve-sur-Lot",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14572449159922418213",
+        "nom": "Invicta Shop Villeneuve sur Lot",
+        "slug": "invicta-shop-villeneuve-sur-lot",
+        "telephone": "05 53 40 03 23",
+        "site_web": null,
+        "adresse": "294 Av. de Bordeaux, 47300 Bias",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "3086128473614021642",
+        "nom": "TotalEnergies Proxi Sud Ouest (Alvéa)",
+        "slug": "totalenergies-proxi-sud-ouest-alvea",
+        "telephone": "05 53 83 08 30",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/alvea-villeneuve-sur-lot?at_campaign=Site_Web&at_custom1=TPSO&at_medium=Google_My_Business",
+        "adresse": "8 Bd Danton, 47300 Villeneuve-sur-Lot",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "3518948890114655966",
+        "nom": "LOUBRIAT SAS",
+        "slug": "loubriat-sas",
+        "telephone": "05 53 70 15 50",
+        "site_web": "http://www.elecauto-47.fr/",
+        "adresse": "2309 Av. de Bordeaux, 47300 Bias",
+        "note": 4.4,
+        "avis": 58,
+        "type": "Électricien automobile"
+      },
+      {
+        "id": "8839216661137128752",
+        "nom": "CEDEO Villeneuve sur Lot : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-villeneuve-sur-lot-sanitaire-chauffage-plomberie",
+        "telephone": "05 53 36 24 50",
+        "site_web": "https://www.cedeo.fr/infos-agence/villeneuve-sur-lot-cedeo-1121",
+        "adresse": "841 Av. de Bordeaux, 47300 Bias",
+        "note": 4.6,
+        "avis": 16,
+        "type": "Magasin d'articles de salle de bains"
+      }
+    ]
+  },
+  "boe": {
+    "artisans": [
+      {
+        "id": "17353572737146542923",
+        "nom": "CEDEO Boé : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-boe-sanitaire-chauffage-plomberie",
+        "telephone": "05 53 68 39 36",
+        "site_web": "https://www.cedeo.fr/infos-agence/agen-boe-cedeo-1453",
+        "adresse": "Av. Georges Guignard, 47550 Boé",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "1559531004018722573",
+        "nom": "Kbane",
+        "slug": "kbane",
+        "telephone": "05 54 54 80 84",
+        "site_web": "https://www.kbane.com/nos-agences/agence-031?utm_campaign=agences&utm_medium=cta&utm_source=google-my-business",
+        "adresse": "72 Rue de Lacarrerotes, 47550 Boé",
+        "note": 4.4,
+        "avis": 137,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "2354993204010227104",
+        "nom": "Clim+ Agen : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-agen-climatisation-ventilation-chauffage",
+        "telephone": "05 53 77 71 02",
+        "site_web": "https://www.climplus.com/infos-agence/agen-clim-5381",
+        "adresse": "Av. Georges Guignard, 47550 Boé",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16705048296084033757",
+        "nom": "Poêle Et Cheminée Deville Agen",
+        "slug": "poele-et-cheminee-deville-agen",
+        "telephone": "05 53 66 11 99",
+        "site_web": "http://www.deville.fr/",
+        "adresse": "Zone Artisanale Trenque, Av. d'Aquitaine, 47550 Boé",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "3847660173811560885",
+        "nom": "Euro Tech",
+        "slug": "euro-tech",
+        "telephone": "05 53 48 11 10",
+        "site_web": "http://www.eurotech47.fr/",
+        "adresse": "Zac, 12 rue de la Poste, Rue de Rigoulet, 47550 Boé",
+        "note": 4.8,
+        "avis": 44,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "beaupuy": {
+    "artisans": [
+      {
+        "id": "5711932940838438194",
+        "nom": "Boréal Plomberie",
+        "slug": "boreal-plomberie",
+        "telephone": "07 81 82 73 94",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bon-encontre": {
+    "artisans": [
+      {
+        "id": "3631610362272241795",
+        "nom": "JEAN-PIERRE CHAUVEAU",
+        "slug": "jean-pierre-chauveau",
+        "telephone": "06 09 11 88 77",
+        "site_web": "http://chauveau-chauffage.fr/",
+        "adresse": "379 Rue Léo Lagrange, 47240 Bon-Encontre",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "castillonnes": {
+    "artisans": [
+      {
+        "id": "13025097286363358130",
+        "nom": "Ecsjj",
+        "slug": "ecsjj",
+        "telephone": "06 61 24 34 41",
+        "site_web": "https://www.ecs-jj.fr/",
+        "adresse": "359 Rte du Levant, 47330 Montauriol",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "10541497169922334966",
+        "nom": "Pôle energie",
+        "slug": "pole-energie",
+        "telephone": "07 80 90 40 24",
+        "site_web": "https://pole-energie47.fr/",
+        "adresse": "930 Rte de Lauzun, 47330 Cahuzac",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "9435251112032006863",
+        "nom": "Ostermann Bruno",
+        "slug": "ostermann-bruno",
+        "telephone": "05 53 24 13 77",
+        "site_web": "http://www.bruno-ostermann.fr/",
+        "adresse": "Rue Grand Rue, 24560 Issigeac",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "virazeil": {
+    "artisans": [
+      {
+        "id": "13353522841626400062",
+        "nom": "NICODEMO",
+        "slug": "nicodemo",
+        "telephone": "05 53 83 47 11",
+        "site_web": "http://www.nicodemo.fr/",
+        "adresse": "257 rue de la zone artisanale, 47200 Virazeil",
+        "note": 4,
+        "avis": 0,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "5076128301173446649",
+        "nom": "GC SERVICES",
+        "slug": "gc-services",
+        "telephone": "07 80 93 74 21",
+        "site_web": null,
+        "adresse": "1464, Route de Miramont de Guyenne, 47200 Virazeil",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15531839269116012289",
+        "nom": "Angeles SAS",
+        "slug": "angeles-sas",
+        "telephone": "05 53 79 79 80",
+        "site_web": "https://angeles-plomberie-chauffage.fr/",
+        "adresse": "141 Zone d'Activité du Mayne, 47400 Fauillet",
+        "note": 4.9,
+        "avis": 66,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16465368262086100170",
+        "nom": "Beauger et fils",
+        "slug": "beauger-et-fils",
+        "telephone": "06 01 14 04 32",
+        "site_web": null,
+        "adresse": "4 Av. Belle Colline, 47200 Beaupuy",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10015473964282449313",
+        "nom": "Doux Bruno EURL",
+        "slug": "doux-bruno-eurl",
+        "telephone": "06 33 53 10 02",
+        "site_web": "http://www.plombier-marmande.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3567564148092909118",
+        "nom": "SJL PLOMBERIE CHAUFFAGE",
+        "slug": "sjl-plomberie-chauffage",
+        "telephone": "06 16 63 44 22",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "2436245167153590132",
+        "nom": "Heroux William",
+        "slug": "heroux-william",
+        "telephone": "06 66 83 60 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6078186167401558118",
+        "nom": "sani-confort47",
+        "slug": "sani-confort47",
+        "telephone": "06 42 93 02 98",
+        "site_web": "https://www.plombiermarmande.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "roquefort": {
+    "artisans": [
+      {
+        "id": "12808082274365885724",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "05 53 47 09 27",
+        "site_web": "https://agence.engie-homeservices.fr/153-engie-home-services-agen?utm_source=gmb",
+        "adresse": "ZA La Plaine, All. des Mousquetaires, 47520 Le Passage",
+        "note": 4.2,
+        "avis": 190,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15721426946637944880",
+        "nom": "Polloni magnolo",
+        "slug": "polloni-magnolo",
+        "telephone": "05 53 67 22 39",
+        "site_web": "http://www.polloni-magnolo.fr/",
+        "adresse": "27 Rte de Marchant, 47310 Roquefort",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1244575286876328859",
+        "nom": "L'Artisan du Bâtiment",
+        "slug": "lartisan-du-batiment",
+        "telephone": "06 33 71 20 04",
+        "site_web": "https://lartisandubatiment.fr/",
+        "adresse": "13 Rue de Françounette, 47310 Roquefort",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13460483852630244369",
+        "nom": "SARL SANI CHAUFF",
+        "slug": "sarl-sani-chauff",
+        "telephone": "05 53 95 98 07",
+        "site_web": "http://www.sanichauff47.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1112493360042044851",
+        "nom": "Comin - Bergalasse",
+        "slug": "comin-bergalasse",
+        "telephone": "05 53 40 23 00",
+        "site_web": "https://www.axenergie.eu/agences/83-sarl-comin-bergalasse",
+        "adresse": "45 Rte de Marchant, 47310 Roquefort",
+        "note": 4.3,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15640219362445377607",
+        "nom": "B Alexis Thermique",
+        "slug": "b-alexis-thermique",
+        "telephone": "06 80 74 08 55",
+        "site_web": "http://www.alexis-thermique.fr/",
+        "adresse": "11 Chem. du Garron, 47310 Laplume",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13290916451502910320",
+        "nom": "CHAUFLEUR Plomberie",
+        "slug": "chaufleur-plomberie",
+        "telephone": "07 67 71 08 58",
+        "site_web": null,
+        "adresse": "Av. des Landes, 47310 Brax",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10215724592284656627",
+        "nom": "Sedeuil Frères Sarl",
+        "slug": "sedeuil-freres-sarl",
+        "telephone": "05 58 45 57 16",
+        "site_web": null,
+        "adresse": "820 Chem. de Pontaillat, 40120 Roquefort",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "6455704843717342452",
+        "nom": "A.RCS MULTISERVICES",
+        "slug": "arcs-multiservices",
+        "telephone": "06 11 29 23 14",
+        "site_web": null,
+        "adresse": "Chem. du Garron, 47310 Sainte-Colombe-en-Bruilhois",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9721093292368334186",
+        "nom": "Gilles Paillas SARL",
+        "slug": "gilles-paillas-sarl",
+        "telephone": "06 45 74 01 63",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "port-sainte-marie": {
+    "artisans": [
+      {
+        "id": "18292215207618234252",
+        "nom": "Sas Séguès et Fils",
+        "slug": "sas-segues-et-fils",
+        "telephone": "05 53 87 26 36",
+        "site_web": null,
+        "adresse": "7 Rue du Bac, 47130 Port-Sainte-Marie",
+        "note": 3.8,
+        "avis": 12,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "sainte-colombe-en-bruilhois": {
+    "artisans": [
+      {
+        "id": "8498128915885397323",
+        "nom": "Balzac Froid 47",
+        "slug": "balzac-froid-47",
+        "telephone": "05 53 67 89 08",
+        "site_web": "http://www.balzac-froid-47.fr/?utm_source=gmb",
+        "adresse": "Ld Lamothe, 733 Rte de Manau, 47310 Sainte-Colombe-en-Bruilhois",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15658115210697623427",
+        "nom": "Chauff'O Eco",
+        "slug": "chauffo-eco",
+        "telephone": "06 81 57 21 41",
+        "site_web": "https://www.facebook.com/p/Chauffo-Eco-61567476178970/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "15535293494490037614",
+        "nom": "AJM Plomberie Services",
+        "slug": "ajm-plomberie-services",
+        "telephone": "06 22 51 12 41",
+        "site_web": "http://www.ajm-plomberie-services.fr/",
+        "adresse": "975 route de la crête, 47270 Saint-Jean-de-Thurac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15898076101199034058",
+        "nom": "Audureau Cyrille",
+        "slug": "audureau-cyrille",
+        "telephone": "06 01 74 31 39",
+        "site_web": null,
+        "adresse": "Lieu dit roubis, 47310 Sainte-Colombe-en-Bruilhois",
+        "note": 4,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "13523074188966730458",
+        "nom": "Alexandre Van-Den-Kerkhof",
+        "slug": "alexandre-van-den-kerkhof",
+        "telephone": "06 80 37 02 87",
+        "site_web": "https://alexvdk.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14954365775302327221",
+        "nom": "Poli Christian",
+        "slug": "poli-christian",
+        "telephone": "05 53 48 25 76",
+        "site_web": "http://poli-christian.chauffagiste-viessmann.fr/",
+        "adresse": "Lescloupet, 47240 Bon-Encontre",
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "7731753490502568256",
+        "nom": "Poêles et évolution",
+        "slug": "poeles-et-evolution",
+        "telephone": "07 81 40 89 26",
+        "site_web": "https://www.poeles-et-evolution.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11036230113059357345",
+        "nom": "Viv’energies",
+        "slug": "vivenergies",
+        "telephone": "06 88 20 40 03",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7672476707630842492",
+        "nom": "Brunet&Sentis",
+        "slug": "brunetsentis",
+        "telephone": "05 53 67 02 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8733254324920766706",
+        "nom": "Christian Boudon",
+        "slug": "christian-boudon",
+        "telephone": "06 03 40 90 76",
+        "site_web": null,
+        "adresse": "2550 Av. du Bruilhois, 47310 Sérignac-sur-Garonne",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sainte-bazeille": {
+    "artisans": [
+      {
+        "id": "14593367555675590604",
+        "nom": "L' ECHO DU FEU",
+        "slug": "l-echo-du-feu",
+        "telephone": "05 53 79 31 18",
+        "site_web": "http://www.lechodufeu.fr/",
+        "adresse": "Route de Marmande, 47180 Sainte-Bazeille",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "15548944283859608861",
+        "nom": "POITEVIN ÉNERGIES",
+        "slug": "poitevin-energies",
+        "telephone": "06 82 94 93 60",
+        "site_web": "https://www.poitevinenergies.fr/",
+        "adresse": "Fizalié, Rte de la Geyre, 47180 Sainte-Bazeille",
+        "note": 4.9,
+        "avis": 62,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14397179989807888430",
+        "nom": "SARL RIGO JEAN PIERRE",
+        "slug": "sarl-rigo-jean-pierre",
+        "telephone": "05 53 93 61 96",
+        "site_web": "http://www.rigo-chauffage-clim.com/",
+        "adresse": "1567 Rte de Bordeaux, 47180 Sainte-Bazeille",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18399083551799424856",
+        "nom": "Langlois Jérémie",
+        "slug": "langlois-jeremie",
+        "telephone": "06 47 83 62 23",
+        "site_web": null,
+        "adresse": "39 Av. de Graveyron, 47180 Sainte-Bazeille",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1638661696022973470",
+        "nom": "Mayeur Ramonage",
+        "slug": "mayeur-ramonage",
+        "telephone": "05 53 83 33 83",
+        "site_web": "https://mayeur-ramonage.com/",
+        "adresse": "ZAC de la plaine 2, 47180 Sainte-Bazeille",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "1603212602898241518",
+        "nom": "SAS Bonotto",
+        "slug": "sas-bonotto",
+        "telephone": "06 60 14 11 76",
+        "site_web": "https://www.sasbonotto-47.fr/",
+        "adresse": "Chem. Jean Bart, 47200 Marmande",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "12668595084767847150",
+        "nom": "MGN Fermeture Elec Plomberie Chauffage",
+        "slug": "mgn-fermeture-elec-plomberie-chauffage",
+        "telephone": "05 53 64 17 09",
+        "site_web": "http://www.facebook.com/mgnfermeturelec/?utm_source=gmb",
+        "adresse": "27 Route de Meilhan, 47180 Couthures-sur-Garonne",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12336563872993020900",
+        "nom": "Entreprise Morassut Lionel",
+        "slug": "entreprise-morassut-lionel",
+        "telephone": "06 76 80 78 04",
+        "site_web": null,
+        "adresse": "25 Rte de Bel Air, 47180 Sainte-Bazeille",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7984596335029749925",
+        "nom": "LG47",
+        "slug": "lg47",
+        "telephone": "05 53 65 70 29",
+        "site_web": "http://www.socomex-47.fr/",
+        "adresse": "2108 Rte de Bordeaux, 47180 Sainte-Bazeille",
+        "note": 3.3,
+        "avis": 16,
+        "type": "Fabricant de cheminées"
+      },
+      {
+        "id": "7358655888518175693",
+        "nom": "Mcbatiment",
+        "slug": "mcbatiment",
+        "telephone": "06 30 96 90 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-pardoux-isaac": {
+    "artisans": [
+      {
+        "id": "6334170552528696974",
+        "nom": "Peruch Freres Sarl",
+        "slug": "peruch-freres-sarl",
+        "telephone": "06 87 82 56 06",
+        "site_web": null,
+        "adresse": "69 Av. Joliot Curie, 47800 Miramont-de-Guyenne",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "13498976798859798267",
+        "nom": "Marraud Patrick",
+        "slug": "marraud-patrick",
+        "telephone": "05 53 20 69 50",
+        "site_web": null,
+        "adresse": "Moulin de Laubarède, 47800 Saint-Pardoux-Isaac",
+        "note": 1,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "12585945578295415609",
+        "nom": "Enriquez Ferboeuf SASU",
+        "slug": "enriquez-ferboeuf-sasu",
+        "telephone": "05 53 88 09 55",
+        "site_web": "http://www.facebook.com/ENRIQUEZFERBOEUF?utm_source=gmb",
+        "adresse": "700 Av. Alfred Court, 47800 Miramont-de-Guyenne",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7502366889995356847",
+        "nom": "L'Écho du Feu",
+        "slug": "lecho-du-feu",
+        "telephone": "05 53 89 74 76",
+        "site_web": "http://www.lechodufeu.fr/",
+        "adresse": "2 Av. de Paris, 47800 Saint-Pardoux-Isaac",
+        "note": 3.8,
+        "avis": 44,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "7903123136256785794",
+        "nom": "Vincent Patrice E.c.s Sarl",
+        "slug": "vincent-patrice-ecs-sarl",
+        "telephone": "05 53 83 07 73",
+        "site_web": "https://patricevincentecs.fr/",
+        "adresse": "Le Poteau, 47800 Roumagne",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "8298537897022751778",
+        "nom": "Swindo Piscine et Spa Saint Pardoux Isaac",
+        "slug": "swindo-piscine-et-spa-saint-pardoux-isaac",
+        "telephone": "05 53 64 63 59",
+        "site_web": "https://www.magasin-piscine.com/",
+        "adresse": "ZA Le Rébéquet, 47800 Saint-Pardoux-Isaac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Société de construction de piscine"
+      },
+      {
+        "id": "15165240040066551891",
+        "nom": "BALDISSER THERMIQUE",
+        "slug": "baldisser-thermique",
+        "telephone": "06 85 68 83 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13950502230276943238",
+        "nom": "Intermarché station-service Saint-Pardoux Isaac",
+        "slug": "intermarche-station-service-saint-pardoux-isaac",
+        "telephone": "05 53 93 89 02",
+        "site_web": "https://www.intermarche.com/magasin?pdvref=11821&pdvref=11821&utm_source=gbp",
+        "adresse": "Au Rébéquet, 47800 Saint-Pardoux-Isaac",
+        "note": 3.9,
+        "avis": 56,
+        "type": "Station-service"
+      }
+    ]
+  },
+  "saint-hilaire-de-lusignan": {
+    "artisans": [
+      {
+        "id": "425839297284126641",
+        "nom": "Eco-Home 47",
+        "slug": "eco-home-47",
+        "telephone": "09 67 09 75 06",
+        "site_web": null,
+        "adresse": "Rte de Labarthe, 47450 Colayrac-Saint-Cirq",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8206975219848281919",
+        "nom": "Dutrouilh Stephane",
+        "slug": "dutrouilh-stephane",
+        "telephone": "06 78 80 41 96",
+        "site_web": null,
+        "adresse": "Ferran, 47450 Saint-Hilaire-de-Lusignan",
+        "note": 2.2,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "16218114419505374575",
+        "nom": "La Maison Du Gainable Agen",
+        "slug": "la-maison-du-gainable-agen",
+        "telephone": "05 86 30 63 06",
+        "site_web": "http://www.la-maison-du-gainable.fr/",
+        "adresse": "895 Av. Jean-François Poncet, 47450 Saint-Hilaire-de-Lusignan",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12294194264119695203",
+        "nom": "ADS agen dépannage service plomberie électricité",
+        "slug": "ads-agen-depannage-service-plomberie-electricite",
+        "telephone": "06 69 07 20 17",
+        "site_web": null,
+        "adresse": "Rte du Bedat, 47450 Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 24,
+        "type": "Plombier"
+      },
+      {
+        "id": "2237570568533548710",
+        "nom": "David Georges SA",
+        "slug": "david-georges-sa",
+        "telephone": "05 53 87 51 31",
+        "site_web": "https://g-david.fr/?utm_source=gmb",
+        "adresse": "Le Rey, 2268 route Agen, Rte Nationale 113, 47450 Colayrac-Saint-Cirq",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "16378796993090857322",
+        "nom": "Pepe Thierry",
+        "slug": "pepe-thierry",
+        "telephone": "05 53 67 12 01",
+        "site_web": null,
+        "adresse": "717 Route de St Hilaire, 47450 Colayrac-Saint-Cirq",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2970732049540530144",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": "06 29 44 91 04",
+        "site_web": "https://agen.maclem.fr/",
+        "adresse": "2742 Rte d'Agen, 47450 Colayrac-Saint-Cirq",
+        "note": 4.9,
+        "avis": 92,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7968210791430665368",
+        "nom": "Sarl Regade",
+        "slug": "sarl-regade",
+        "telephone": "05 53 66 40 96",
+        "site_web": "https://sarlregade.fr/",
+        "adresse": "864 Rte d'Agen, 47450 Colayrac-Saint-Cirq",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "2375865552942608352",
+        "nom": "INZA GROUPE - PHOTOVOLTAIQUE AGEN",
+        "slug": "inza-groupe-photovoltaique-agen",
+        "telephone": "05 35 55 98 44",
+        "site_web": "https://inzagroupe.com/",
+        "adresse": "1190 Rte d'Agen, 47450 Colayrac-Saint-Cirq",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "2384470366515084470",
+        "nom": "DM Plomberie47",
+        "slug": "dm-plomberie47",
+        "telephone": "07 67 08 62 91",
+        "site_web": "https://www.dmplomberie47-pompeachaleur.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Passage d'Agen (Le, 22 Rue de Ganet, 47520 Le Passage",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "pujols": {
+    "artisans": [
+      {
+        "id": "13176128416146637581",
+        "nom": "Plomberie Chauffagiste Pagès Xavier",
+        "slug": "plomberie-chauffagiste-pages-xavier",
+        "telephone": "06 84 49 40 68",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15995413080764442094",
+        "nom": "AQUI-THERM RAMONAGE - DEPANNAGE PLOMBERIE",
+        "slug": "aqui-therm-ramonage-depannage-plomberie",
+        "telephone": "05 53 41 14 56",
+        "site_web": "https://aquitherm.fr/",
+        "adresse": "10B Av. de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14626988454013069796",
+        "nom": "COMIN SARL",
+        "slug": "comin-sarl",
+        "telephone": "05 53 40 23 00",
+        "site_web": "https://www.axenergie.eu/agences/82-sarl-comin-",
+        "adresse": "Las Tres Peyres, 47110 Allez-et-Cazeneuve",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4218301792311822081",
+        "nom": "MNI Chauffage",
+        "slug": "mni-chauffage",
+        "telephone": "06 73 89 26 96",
+        "site_web": "http://www.mnichauffage.fr/",
+        "adresse": "1 avenue du mal de lattre de tassigny, 47300 Villeneuve-sur-Lot",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11360959395216016764",
+        "nom": "PUJOL et Fils",
+        "slug": "pujol-et-fils",
+        "telephone": "05 61 89 32 07",
+        "site_web": "http://www.pujol31.fr/",
+        "adresse": "37 Ter Rte Sainte-Germaine, 31800 Miramont-de-Comminges",
+        "note": 4.7,
+        "avis": 50,
+        "type": "Plombier"
+      },
+      {
+        "id": "5500014236902189790",
+        "nom": "Sarl Lompech-Tesquet",
+        "slug": "sarl-lompech-tesquet",
+        "telephone": "05 53 70 07 61",
+        "site_web": "http://www.lompech-tesquet.fr/",
+        "adresse": "30 Chem. de fauché, 47300 Villeneuve-sur-Lot",
+        "note": 3.4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7801850828174058000",
+        "nom": "Le Comptoir Des Services",
+        "slug": "le-comptoir-des-services",
+        "telephone": "06 88 63 08 01",
+        "site_web": "https://www.lcds47.fr/",
+        "adresse": "47300 Pujols",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "13154012438685407539",
+        "nom": "PIERRE PLOMBERIE & RENOVATION - Plombier à Villeneuve sur lot",
+        "slug": "pierre-plomberie-renovation-plombier-a-villeneuve-sur-lot",
+        "telephone": "07 80 43 25 36",
+        "site_web": "https://pierre-plomberie-renovation.fr/",
+        "adresse": "5 Rue de la Gravette Villa 3, 47300 Villeneuve-sur-Lot",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13400128054806939366",
+        "nom": "HNE / Habitat Nouvelles Energie",
+        "slug": "hne-habitat-nouvelles-energie",
+        "telephone": "09 84 58 50 96",
+        "site_web": null,
+        "adresse": "15 Rue Thiers, 47300 Villeneuve-sur-Lot",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4018031540731286770",
+        "nom": "BT SERVICE - Plombier/Electricien à proximité de Villeneuve sur lot et Fumel",
+        "slug": "bt-service-plombierelectricien-a-proximite-de-villeneuve-sur-lot-et-fumel",
+        "telephone": "06 98 39 20 75",
+        "site_web": "https://www.facebook.com/profile.php?id=61556210168952&locale=fr_FR",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 44,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-sylvestre-sur-lot": {
+    "artisans": [
+      {
+        "id": "3241837882227012881",
+        "nom": "Adep Service- chauffagiste",
+        "slug": "adep-service-chauffagiste",
+        "telephone": "05 53 41 35 67",
+        "site_web": "http://www.adepservice.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "10 Rue du Lot, 47140 Saint-Sylvestre-sur-Lot",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4333811675981118050",
+        "nom": "KMS Energie",
+        "slug": "kms-energie",
+        "telephone": "07 66 57 59 45",
+        "site_web": "https://www.facebook.com/profile.php?id=61552734368611",
+        "adresse": "203 ZI DE PAYSSEL, 47140 Penne-d'Agenais",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "le-temple-sur-lot": {
+    "artisans": [
+      {
+        "id": "2478112786496791648",
+        "nom": "Nadoui ENR",
+        "slug": "nadoui-enr",
+        "telephone": "06 46 69 68 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.6,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14685460505010535113",
+        "nom": "Attouk Energie",
+        "slug": "attouk-energie",
+        "telephone": "05 53 76 06 47",
+        "site_web": "https://www.attouk-energie.fr/",
+        "adresse": "106 allée Laffargue ZA de, 106 Lafargue, 47110 Le Temple-sur-Lot",
+        "note": 4.5,
+        "avis": 20,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10580963402335300721",
+        "nom": "Gungui plomberie chauffage climatisation",
+        "slug": "gungui-plomberie-chauffage-climatisation",
+        "telephone": "06 16 60 54 99",
+        "site_web": "https://gungui-plomberie-chauffage-climatisation-47.fr/",
+        "adresse": "66 Route de Monclar d'Agenais, 47380 Saint-Étienne-de-Fougères",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "11050271348704907019",
+        "nom": "Mascarin",
+        "slug": "mascarin",
+        "telephone": "05 53 01 08 03",
+        "site_web": null,
+        "adresse": "STATION TOTAL, 1585 Avenue de Bordeaux, 47110 Le Temple-sur-Lot",
+        "note": 4.7,
+        "avis": 85,
+        "type": "Station-service"
+      }
+    ]
+  },
+  "sainte-livrade-sur-lot": {
+    "artisans": [
+      {
+        "id": "7273933131426923852",
+        "nom": "Bernard Renzema",
+        "slug": "bernard-renzema",
+        "telephone": "05 53 01 13 05",
+        "site_web": "https://bernardrenzema.com/",
+        "adresse": "95 Av. d'Agen, 47110 Sainte-Livrade-sur-Lot",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1146327361245454780",
+        "nom": "Sos Climelec",
+        "slug": "sos-climelec",
+        "telephone": "05 53 01 41 98",
+        "site_web": null,
+        "adresse": "Roche, 47110 Allez-et-Cazeneuve",
+        "note": 4.7,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "17766949843223258241",
+        "nom": "Elec et Plus 47",
+        "slug": "elec-et-plus-47",
+        "telephone": "06 95 56 87 04",
+        "site_web": null,
+        "adresse": "ZA Nombel, 47110 Sainte-Livrade-sur-Lot",
+        "note": 5,
+        "avis": 7,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "2970857328309618572",
+        "nom": "Labrousse Guy",
+        "slug": "labrousse-guy",
+        "telephone": "05 53 71 72 12",
+        "site_web": null,
+        "adresse": "Colombier Haut, 47110 Sainte-Livrade-sur-Lot",
+        "note": 1,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16201726168225750413",
+        "nom": "News Electricité Plomberie Chauffage",
+        "slug": "news-electricite-plomberie-chauffage",
+        "telephone": "07 68 57 82 60",
+        "site_web": null,
+        "adresse": "8 Rue Malfourat, 47110 Sainte-Livrade-sur-Lot",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16498363619940067047",
+        "nom": "Aquitec Froid Courret",
+        "slug": "aquitec-froid-courret",
+        "telephone": "05 53 41 04 01",
+        "site_web": "https://www.aquitecfroidcourret.fr/",
+        "adresse": "382 impasse Peyremail, 47110 Sainte-Livrade-sur-Lot",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "5549835490649784717",
+        "nom": "sos depannage",
+        "slug": "sos-depannage",
+        "telephone": "06 95 53 70 13",
+        "site_web": "https://www.sos-depannage-pompe-a-chaleur-climatisation.fr/",
+        "adresse": "2302 Rte de Casseneuil, 47110 Sainte-Livrade-sur-Lot",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "seyches": {
+    "artisans": [
+      {
+        "id": "10262137863096269645",
+        "nom": "SAS Larroche",
+        "slug": "sas-larroche",
+        "telephone": "06 88 21 60 10",
+        "site_web": "https://www.saslarroche.fr/",
+        "adresse": "380 Rue Jean Mermoz, 47200 Marmande",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Usine de panneaux solaires photovoltaïques"
+      },
+      {
+        "id": "6370438601118912380",
+        "nom": "Faugere kevin climatique",
+        "slug": "faugere-kevin-climatique",
+        "telephone": "06 83 51 73 59",
+        "site_web": null,
+        "adresse": "36 Rue des Écoles, 47350 Seyches",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16521381005810250846",
+        "nom": "APC DEPANNAGE",
+        "slug": "apc-depannage",
+        "telephone": "07 85 71 23 58",
+        "site_web": null,
+        "adresse": "Imp. de Roubertou, 47350 Puymiclan",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6308965044098406360",
+        "nom": "boulon richard",
+        "slug": "boulon-richard",
+        "telephone": "06 70 29 49 82",
+        "site_web": "https://www.boulon-richard.fr/",
+        "adresse": "245 Impasse Roubertou Bellevue, 47350 Puymiclan",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "12135809540266614072",
+        "nom": "Guillot Emmanuel",
+        "slug": "guillot-emmanuel",
+        "telephone": "05 53 64 33 15",
+        "site_web": null,
+        "adresse": "1780 Rte du Genévrier, 47800 Miramont-de-Guyenne",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "9303659083188692525",
+        "nom": "Patrice élec",
+        "slug": "patrice-elec",
+        "telephone": "06 24 04 38 57",
+        "site_web": "http://patrice-elec.com/",
+        "adresse": "5 Ham. du Grand Guillem, 47350 Peyrière",
+        "note": 5,
+        "avis": 24,
+        "type": "Électricien"
+      },
+      {
+        "id": "15638055758959069552",
+        "nom": "Sarlat Eric",
+        "slug": "sarlat-eric",
+        "telephone": "05 53 20 91 33",
+        "site_web": null,
+        "adresse": "Bley, 47200 Mauvezin-sur-Gupie",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-vite": {
+    "artisans": [
+      {
+        "id": "3521046630006051886",
+        "nom": "Plomberie , Climatisation et Chauffage",
+        "slug": "plomberie-climatisation-et-chauffage",
+        "telephone": "06 75 03 21 38",
+        "site_web": "https://www.plomberie-jardin.fr/contact.php?lng=fr&tconfig=0",
+        "adresse": "8 Av. de Villeneuve, 47500 Condezaygues",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16583567478434073995",
+        "nom": "A.D.C 47",
+        "slug": "adc-47",
+        "telephone": "05 53 40 03 61",
+        "site_web": "http://adc47.e-monsite.com/",
+        "adresse": "Centre Commercial Florimont, 410 route Périgueux, 47500 Fumel",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4197341975228088318",
+        "nom": "Esclafert Garrigue",
+        "slug": "esclafert-garrigue",
+        "telephone": "05 53 01 31 31",
+        "site_web": "https://www.esclafertgarrigue.fr/",
+        "adresse": "18 Rue Jarrou, 47500 Monsempron-Libos",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13524779304351659787",
+        "nom": "METI CHAUFFAGE ( Maintenance des Equipements Thermiques Individuels)",
+        "slug": "meti-chauffage-maintenance-des-equipements-thermiques-individuels",
+        "telephone": "06 70 09 28 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "35698054684126673",
+        "nom": "Wendel Fumel - Saint Vite",
+        "slug": "wendel-fumel-saint-vite",
+        "telephone": "05 54 00 04 75",
+        "site_web": "https://www.wendel.fr/magasins/wendel-fumel/",
+        "adresse": "ZA du Mayne, Av. de Tournon, 47500 Saint-Vite",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6449132862623528662",
+        "nom": "Martin Fils SARL",
+        "slug": "martin-fils-sarl",
+        "telephone": "05 53 71 00 84",
+        "site_web": "http://www.martin-fils.com/?utm_source=gmb",
+        "adresse": "ZA du haut agenais, 47500 Montayral",
+        "note": 4.5,
+        "avis": 232,
+        "type": "Plombier"
+      },
+      {
+        "id": "14405101815789507003",
+        "nom": "ADEIC",
+        "slug": "adeic",
+        "telephone": "07 80 60 17 29",
+        "site_web": null,
+        "adresse": "8 Rue de Beauséjour, 47500 Monsempron-Libos",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1115151355868197557",
+        "nom": "BFA2 - Plomberie / Chauffage",
+        "slug": "bfa2-plomberie-chauffage",
+        "telephone": "06 49 46 92 19",
+        "site_web": "https://bfa2.fr/",
+        "adresse": "119 Rte de Périgueux, 47500 Fumel",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17022410851398698958",
+        "nom": "Rapid Plombier",
+        "slug": "rapid-plombier",
+        "telephone": "06 21 02 22 19",
+        "site_web": "http://www.facebook.com/Rapid-plombier-1300492196656124/?utm_source=gmb",
+        "adresse": "72 Av. de Libos, 47500 Montayral",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "11870946734114758151",
+        "nom": "I.G Métal",
+        "slug": "ig-metal",
+        "telephone": "06 67 52 72 18",
+        "site_web": "https://www.igmetal-47.fr/",
+        "adresse": "717 Rte de Lapronquière, 47370 Saint-Georges",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "tonneins": {
+    "artisans": [
+      {
+        "id": "10853512255298468517",
+        "nom": "BADIE - Tonneins",
+        "slug": "badie-tonneins",
+        "telephone": "05 53 84 16 03",
+        "site_web": "http://www.badie-installateur.com/",
+        "adresse": "11 Av. Pierre Mendès France, 47400 Tonneins",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8647176749161054232",
+        "nom": "Duhamel-Granprey Ludovic",
+        "slug": "duhamel-granprey-ludovic",
+        "telephone": "06 70 52 17 86",
+        "site_web": null,
+        "adresse": "Caillaud, 47400 Tonneins",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "12777124295919220363",
+        "nom": "ETS DUPLAN",
+        "slug": "ets-duplan",
+        "telephone": "05 53 88 82 19",
+        "site_web": "http://www.mours-duplan-chauffagiste.fr/",
+        "adresse": "37 Rue Tarride, 47400 Tonneins",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8358706473409999226",
+        "nom": "CARESMEL",
+        "slug": "caresmel",
+        "telephone": "05 53 84 40 90",
+        "site_web": "http://www.caresmelpatricechauffagiste.com/",
+        "adresse": "Rue Henri Fabre, 47400 Tonneins",
+        "note": 3.9,
+        "avis": 36,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15852509177518862808",
+        "nom": "VERARDO SAS",
+        "slug": "verardo-sas",
+        "telephone": "05 53 83 48 66",
+        "site_web": "http://www.verardo.fr/",
+        "adresse": "10 Rue Edouard Branly, 47400 Tonneins",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4972616382710343378",
+        "nom": "Pilone Philippe",
+        "slug": "pilone-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "25 Av. de Beauregard, 47400 Tonneins",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5397760681971172566",
+        "nom": "JORIS ENERGIE (SARL)",
+        "slug": "joris-energie-sarl",
+        "telephone": "06 74 04 46 98",
+        "site_web": "https://www.joris-energie.fr/",
+        "adresse": "Av. Blanche Peyron, 47400 Tonneins",
+        "note": 5,
+        "avis": 1,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "2324886409648255983",
+        "nom": "Miermont Alain",
+        "slug": "miermont-alain",
+        "telephone": "05 53 79 30 92",
+        "site_web": null,
+        "adresse": "32 Av. de Lattre de Tassigny, 47400 Tonneins",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "5249306199045673723",
+        "nom": "PCE CONFORT",
+        "slug": "pce-confort",
+        "telephone": "06 45 50 74 68",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2860185594400834807",
+        "nom": "Vector-Systems",
+        "slug": "vector-systems",
+        "telephone": "06 82 73 11 63",
+        "site_web": "http://www.vector-systems.fr/",
+        "adresse": "Ayet, 47400 Tonneins",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "villeneuve-sur-lot": {
+    "artisans": [
+      {
+        "id": "12020551899873575506",
+        "nom": "Proxiserve",
+        "slug": "proxiserve",
+        "telephone": "05 53 41 33 99",
+        "site_web": "https://www.proxiserve.fr/",
+        "adresse": "11 Bd de la République, 47300 Villeneuve-sur-Lot",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17864336893224740004",
+        "nom": "Abr 47 MAISON CONFORT VIEL",
+        "slug": "abr-47-maison-confort-viel",
+        "telephone": "05 53 01 91 83",
+        "site_web": "https://www.maison-confort-viel.fr/",
+        "adresse": "69 Av. du Maréchal Leclerc, 47300 Villeneuve-sur-Lot",
+        "note": 4.1,
+        "avis": 24,
+        "type": "Cheministe"
+      },
+      {
+        "id": "18101714895526144533",
+        "nom": "Téréva Villeneuve-sur-Lot",
+        "slug": "tereva-villeneuve-sur-lot",
+        "telephone": "05 53 49 68 70",
+        "site_web": "https://www.tereva.fr/document/A-394642--agence-tereva-villeneuve-sur-lot",
+        "adresse": "121 Rte de Fumel, 47300 Villeneuve-sur-Lot",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "11880168729073148680",
+        "nom": "bois de chauffage villeneuvois",
+        "slug": "bois-de-chauffage-villeneuvois",
+        "telephone": "05 53 01 69 18",
+        "site_web": "https://www.boischauffagevilleneuvois.com/",
+        "adresse": "Rue Henri Barbusse, 47300 Villeneuve-sur-Lot",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "3086128473614021642",
+        "nom": "TotalEnergies Proxi Sud Ouest (Alvéa)",
+        "slug": "totalenergies-proxi-sud-ouest-alvea",
+        "telephone": "05 53 83 08 30",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/alvea-villeneuve-sur-lot?at_campaign=Site_Web&at_custom1=TPSO&at_medium=Google_My_Business",
+        "adresse": "8 Bd Danton, 47300 Villeneuve-sur-Lot",
+        "note": 4.7,
+        "avis": 71,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "9184940625408452005",
+        "nom": "Atelier Technique Froid Climatisation - Climatisation Villeneuve-sur-Lot",
+        "slug": "atelier-technique-froid-climatisation-climatisation-villeneuve-sur-lot",
+        "telephone": "06 62 62 68 83",
+        "site_web": "https://atfc.fr/",
+        "adresse": "6753 route de Lacaussade, 47300 Villeneuve-sur-Lot",
+        "note": 4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8839216661137128752",
+        "nom": "CEDEO Villeneuve sur Lot : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-villeneuve-sur-lot-sanitaire-chauffage-plomberie",
+        "telephone": "05 53 36 24 50",
+        "site_web": "https://www.cedeo.fr/infos-agence/villeneuve-sur-lot-cedeo-1121",
+        "adresse": "841 Av. de Bordeaux, 47300 Bias",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "15589273209233145531",
+        "nom": "NC Bât",
+        "slug": "nc-bat",
+        "telephone": "06 30 89 39 23",
+        "site_web": "http://www.ncbat.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3894242819308651205",
+        "nom": "Etablissements Fontanie",
+        "slug": "etablissements-fontanie",
+        "telephone": "05 53 70 05 60",
+        "site_web": "http://www.froid-fontanie.fr/?utm_source=gmb",
+        "adresse": "ZI La Bouldene, 954 Rue Alfred Nobel, 47300 Villeneuve-sur-Lot",
+        "note": 4.6,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "villereal": {
+    "artisans": [
+      {
+        "id": "145759087237047560",
+        "nom": "Etablissements Julien",
+        "slug": "etablissements-julien",
+        "telephone": "05 53 36 61 59",
+        "site_web": null,
+        "adresse": "16 Bd de Plaisance, 47210 Villeréal",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15508454270190660727",
+        "nom": "Roman Bois - Bois de chauffage et exploitation forestière",
+        "slug": "roman-bois-bois-de-chauffage-et-exploitation-forestiere",
+        "telephone": "06 47 77 42 23",
+        "site_web": "http://roman-bois.fr/",
+        "adresse": "210 ZA de caillou, 47210 Villeréal",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "15874691592397319298",
+        "nom": "Alvea",
+        "slug": "alvea",
+        "telephone": "05 53 36 00 07",
+        "site_web": null,
+        "adresse": "Bd de Plaisance, 47210 Villeréal",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Menuisier"
+      }
+    ]
+  }
+}

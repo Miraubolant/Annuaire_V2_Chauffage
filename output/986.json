@@ -1,0 +1,814 @@
+{
+  "departement": {
+    "code": "986",
+    "nom": "986",
+    "slug": "986",
+    "population_totale": 11151
+  },
+  "region": {},
+  "voisins": [],
+  "communes_count": 3,
+  "communes": [
+    {
+      "code_insee": "98611",
+      "nom": "Alo",
+      "nom_a": null,
+      "nom_de": null,
+      "slug": "alo",
+      "code_postal": "98610",
+      "population": 1875,
+      "superficie_km2": 4431.43,
+      "latitude": -14.3042,
+      "longitude": -178.0792,
+      "villes_proches": [
+        {
+          "code_insee": "98612",
+          "nom": "Sigave",
+          "slug": "sigave",
+          "code_postal": "98620",
+          "population": 1188,
+          "superficie_km2": 1987.32,
+          "latitude": -14.2743,
+          "longitude": -178.1584,
+          "distance_km": 9.16
+        },
+        {
+          "code_insee": "98613",
+          "nom": "Uvea",
+          "slug": "uvea",
+          "code_postal": "98600",
+          "population": 8088,
+          "superficie_km2": 7585.28,
+          "latitude": -13.2846,
+          "longitude": -176.2065,
+          "distance_km": 231.84
+        },
+        {
+          "code_insee": "98728",
+          "nom": "Maupiti",
+          "slug": "maupiti",
+          "code_postal": "98732",
+          "population": 1302,
+          "superficie_km2": 2005.43,
+          "latitude": -16.78,
+          "longitude": -153.9401,
+          "distance_km": 2598.97
+        },
+        {
+          "code_insee": "98743",
+          "nom": "Rimatara",
+          "slug": "rimatara",
+          "code_postal": "98752",
+          "population": 893,
+          "superficie_km2": 865.08,
+          "latitude": -22.6457,
+          "longitude": -152.822,
+          "distance_km": 2815.53
+        },
+        {
+          "code_insee": "98714",
+          "nom": "Bora-Bora",
+          "slug": "bora-bora",
+          "code_postal": "98730",
+          "population": 10758,
+          "superficie_km2": 4026.18,
+          "latitude": -16.4376,
+          "longitude": -151.7585,
+          "distance_km": 2830.02
+        },
+        {
+          "code_insee": "98745",
+          "nom": "Tahaa",
+          "slug": "tahaa",
+          "code_postal": "98733",
+          "population": 5296,
+          "superficie_km2": 9157.77,
+          "latitude": -16.6197,
+          "longitude": -151.4907,
+          "distance_km": 2859.03
+        },
+        {
+          "code_insee": "98758",
+          "nom": "Uturoa",
+          "slug": "uturoa",
+          "code_postal": "98735",
+          "population": 3663,
+          "superficie_km2": 1605.2,
+          "latitude": -16.7425,
+          "longitude": -151.4544,
+          "distance_km": 2863.27
+        },
+        {
+          "code_insee": "98754",
+          "nom": "Tumaraa",
+          "slug": "tumaraa",
+          "code_postal": "98735",
+          "population": 3718,
+          "superficie_km2": 7214.57,
+          "latitude": -16.8301,
+          "longitude": -151.453,
+          "distance_km": 2863.72
+        },
+        {
+          "code_insee": "98750",
+          "nom": "Taputapuatea",
+          "slug": "taputapuatea",
+          "code_postal": "98735",
+          "population": 5007,
+          "superficie_km2": 8482.85,
+          "latitude": -16.8208,
+          "longitude": -151.395,
+          "distance_km": 2869.86
+        },
+        {
+          "code_insee": "98724",
+          "nom": "Huahine",
+          "slug": "huahine",
+          "code_postal": "98731",
+          "population": 6263,
+          "superficie_km2": 7529.32,
+          "latitude": -16.7517,
+          "longitude": -150.996,
+          "distance_km": 2912.09
+        },
+        {
+          "code_insee": "98744",
+          "nom": "Rurutu",
+          "slug": "rurutu",
+          "code_postal": "98753",
+          "population": 2163,
+          "superficie_km2": 3447.75,
+          "latitude": -22.4437,
+          "longitude": -151.3771,
+          "distance_km": 2954.07
+        },
+        {
+          "code_insee": "98729",
+          "nom": "Moorea-Maiao",
+          "slug": "moorea-maiao",
+          "code_postal": "98728",
+          "population": 18201,
+          "superficie_km2": 14650.69,
+          "latitude": -17.506,
+          "longitude": -149.9179,
+          "distance_km": 3029.69
+        },
+        {
+          "code_insee": "98712",
+          "nom": "Arue",
+          "slug": "arue",
+          "code_postal": "98701",
+          "population": 10322,
+          "superficie_km2": 2078.43,
+          "latitude": -17.0496,
+          "longitude": -149.5463,
+          "distance_km": 3067.2
+        },
+        {
+          "code_insee": "98715",
+          "nom": "Faaa",
+          "slug": "faaa",
+          "code_postal": "98704",
+          "population": 29826,
+          "superficie_km2": 3638.08,
+          "latitude": -17.5843,
+          "longitude": -149.56,
+          "distance_km": 3068.0
+        },
+        {
+          "code_insee": "98735",
+          "nom": "Papeete",
+          "slug": "papeete",
+          "code_postal": "98714",
+          "population": 26654,
+          "superficie_km2": 1773.66,
+          "latitude": -17.5572,
+          "longitude": -149.5555,
+          "distance_km": 3068.33
+        },
+        {
+          "code_insee": "98738",
+          "nom": "Punaauia",
+          "slug": "punaauia",
+          "code_postal": "98703",
+          "population": 28781,
+          "superficie_km2": 7864.72,
+          "latitude": -17.618,
+          "longitude": -149.5486,
+          "distance_km": 3069.38
+        },
+        {
+          "code_insee": "98733",
+          "nom": "Paea",
+          "slug": "paea",
+          "code_postal": "98711",
+          "population": 12756,
+          "superficie_km2": 6250.17,
+          "latitude": -17.6961,
+          "longitude": -149.5485,
+          "distance_km": 3069.82
+        },
+        {
+          "code_insee": "98736",
+          "nom": "Pirae",
+          "slug": "pirae",
+          "code_postal": "98716",
+          "population": 14068,
+          "superficie_km2": 3377.49,
+          "latitude": -17.5699,
+          "longitude": -149.5223,
+          "distance_km": 3071.92
+        },
+        {
+          "code_insee": "98734",
+          "nom": "Papara",
+          "slug": "papara",
+          "code_postal": "98712",
+          "population": 11743,
+          "superficie_km2": 9290.64,
+          "latitude": -17.7119,
+          "longitude": -149.508,
+          "distance_km": 3074.19
+        },
+        {
+          "code_insee": "98725",
+          "nom": "Mahina",
+          "slug": "mahina",
+          "code_postal": "98709",
+          "population": 14623,
+          "superficie_km2": 5203.55,
+          "latitude": -17.5575,
+          "longitude": -149.4753,
+          "distance_km": 3076.83
+        }
+      ],
+      "zonage_abc": null,
+      "reclassement_abc": null,
+      "codes_postaux": [
+        {
+          "code_postal": "98610",
+          "libelle_acheminement": "ALO"
+        }
+      ],
+      "logement": null,
+      "artisans": {
+        "monte_escalier": 0,
+        "chauffage_pac_clim": 0,
+        "isolation": 0,
+        "menuiserie": 0,
+        "fenetres_velux": 0,
+        "couverture_toiture": 0,
+        "facade_peinture": 0,
+        "portes_volets": 0,
+        "piscine": 0,
+        "vmc_ventilation": 0,
+        "assainissement": 0
+      },
+      "revenus": {
+        "revenu_median": null,
+        "part_menages_imposes": null,
+        "taux_pauvrete": null
+      },
+      "aides_etat": {
+        "zone_climatique": null,
+        "qpv": false,
+        "action_coeur_de_ville": false,
+        "petites_villes_de_demain": false
+      }
+    },
+    {
+      "code_insee": "98612",
+      "nom": "Sigave",
+      "nom_a": null,
+      "nom_de": null,
+      "slug": "sigave",
+      "code_postal": "98620",
+      "population": 1188,
+      "superficie_km2": 1987.32,
+      "latitude": -14.2743,
+      "longitude": -178.1584,
+      "villes_proches": [
+        {
+          "code_insee": "98611",
+          "nom": "Alo",
+          "slug": "alo",
+          "code_postal": "98610",
+          "population": 1875,
+          "superficie_km2": 4431.43,
+          "latitude": -14.3042,
+          "longitude": -178.0792,
+          "distance_km": 9.16
+        },
+        {
+          "code_insee": "98613",
+          "nom": "Uvea",
+          "slug": "uvea",
+          "code_postal": "98600",
+          "population": 8088,
+          "superficie_km2": 7585.28,
+          "latitude": -13.2846,
+          "longitude": -176.2065,
+          "distance_km": 237.79
+        },
+        {
+          "code_insee": "98728",
+          "nom": "Maupiti",
+          "slug": "maupiti",
+          "code_postal": "98732",
+          "population": 1302,
+          "superficie_km2": 2005.43,
+          "latitude": -16.78,
+          "longitude": -153.9401,
+          "distance_km": 2607.93
+        },
+        {
+          "code_insee": "98743",
+          "nom": "Rimatara",
+          "slug": "rimatara",
+          "code_postal": "98752",
+          "population": 893,
+          "superficie_km2": 865.08,
+          "latitude": -22.6457,
+          "longitude": -152.822,
+          "distance_km": 2824.69
+        },
+        {
+          "code_insee": "98714",
+          "nom": "Bora-Bora",
+          "slug": "bora-bora",
+          "code_postal": "98730",
+          "population": 10758,
+          "superficie_km2": 4026.18,
+          "latitude": -16.4376,
+          "longitude": -151.7585,
+          "distance_km": 2838.95
+        },
+        {
+          "code_insee": "98745",
+          "nom": "Tahaa",
+          "slug": "tahaa",
+          "code_postal": "98733",
+          "population": 5296,
+          "superficie_km2": 9157.77,
+          "latitude": -16.6197,
+          "longitude": -151.4907,
+          "distance_km": 2867.97
+        },
+        {
+          "code_insee": "98758",
+          "nom": "Uturoa",
+          "slug": "uturoa",
+          "code_postal": "98735",
+          "population": 3663,
+          "superficie_km2": 1605.2,
+          "latitude": -16.7425,
+          "longitude": -151.4544,
+          "distance_km": 2872.22
+        },
+        {
+          "code_insee": "98754",
+          "nom": "Tumaraa",
+          "slug": "tumaraa",
+          "code_postal": "98735",
+          "population": 3718,
+          "superficie_km2": 7214.57,
+          "latitude": -16.8301,
+          "longitude": -151.453,
+          "distance_km": 2872.68
+        },
+        {
+          "code_insee": "98750",
+          "nom": "Taputapuatea",
+          "slug": "taputapuatea",
+          "code_postal": "98735",
+          "population": 5007,
+          "superficie_km2": 8482.85,
+          "latitude": -16.8208,
+          "longitude": -151.395,
+          "distance_km": 2878.82
+        },
+        {
+          "code_insee": "98724",
+          "nom": "Huahine",
+          "slug": "huahine",
+          "code_postal": "98731",
+          "population": 6263,
+          "superficie_km2": 7529.32,
+          "latitude": -16.7517,
+          "longitude": -150.996,
+          "distance_km": 2921.04
+        },
+        {
+          "code_insee": "98744",
+          "nom": "Rurutu",
+          "slug": "rurutu",
+          "code_postal": "98753",
+          "population": 2163,
+          "superficie_km2": 3447.75,
+          "latitude": -22.4437,
+          "longitude": -151.3771,
+          "distance_km": 2963.23
+        },
+        {
+          "code_insee": "98729",
+          "nom": "Moorea-Maiao",
+          "slug": "moorea-maiao",
+          "code_postal": "98728",
+          "population": 18201,
+          "superficie_km2": 14650.69,
+          "latitude": -17.506,
+          "longitude": -149.9179,
+          "distance_km": 3038.69
+        },
+        {
+          "code_insee": "98712",
+          "nom": "Arue",
+          "slug": "arue",
+          "code_postal": "98701",
+          "population": 10322,
+          "superficie_km2": 2078.43,
+          "latitude": -17.0496,
+          "longitude": -149.5463,
+          "distance_km": 3076.17
+        },
+        {
+          "code_insee": "98715",
+          "nom": "Faaa",
+          "slug": "faaa",
+          "code_postal": "98704",
+          "population": 29826,
+          "superficie_km2": 3638.08,
+          "latitude": -17.5843,
+          "longitude": -149.56,
+          "distance_km": 3077.0
+        },
+        {
+          "code_insee": "98735",
+          "nom": "Papeete",
+          "slug": "papeete",
+          "code_postal": "98714",
+          "population": 26654,
+          "superficie_km2": 1773.66,
+          "latitude": -17.5572,
+          "longitude": -149.5555,
+          "distance_km": 3077.34
+        },
+        {
+          "code_insee": "98738",
+          "nom": "Punaauia",
+          "slug": "punaauia",
+          "code_postal": "98703",
+          "population": 28781,
+          "superficie_km2": 7864.72,
+          "latitude": -17.618,
+          "longitude": -149.5486,
+          "distance_km": 3078.39
+        },
+        {
+          "code_insee": "98733",
+          "nom": "Paea",
+          "slug": "paea",
+          "code_postal": "98711",
+          "population": 12756,
+          "superficie_km2": 6250.17,
+          "latitude": -17.6961,
+          "longitude": -149.5485,
+          "distance_km": 3078.83
+        },
+        {
+          "code_insee": "98736",
+          "nom": "Pirae",
+          "slug": "pirae",
+          "code_postal": "98716",
+          "population": 14068,
+          "superficie_km2": 3377.49,
+          "latitude": -17.5699,
+          "longitude": -149.5223,
+          "distance_km": 3080.92
+        },
+        {
+          "code_insee": "98734",
+          "nom": "Papara",
+          "slug": "papara",
+          "code_postal": "98712",
+          "population": 11743,
+          "superficie_km2": 9290.64,
+          "latitude": -17.7119,
+          "longitude": -149.508,
+          "distance_km": 3083.2
+        },
+        {
+          "code_insee": "98725",
+          "nom": "Mahina",
+          "slug": "mahina",
+          "code_postal": "98709",
+          "population": 14623,
+          "superficie_km2": 5203.55,
+          "latitude": -17.5575,
+          "longitude": -149.4753,
+          "distance_km": 3085.83
+        }
+      ],
+      "zonage_abc": null,
+      "reclassement_abc": null,
+      "codes_postaux": [
+        {
+          "code_postal": "98620",
+          "libelle_acheminement": "SIGAVE"
+        }
+      ],
+      "logement": null,
+      "artisans": {
+        "monte_escalier": 0,
+        "chauffage_pac_clim": 0,
+        "isolation": 0,
+        "menuiserie": 0,
+        "fenetres_velux": 0,
+        "couverture_toiture": 0,
+        "facade_peinture": 0,
+        "portes_volets": 0,
+        "piscine": 0,
+        "vmc_ventilation": 0,
+        "assainissement": 0
+      },
+      "revenus": {
+        "revenu_median": null,
+        "part_menages_imposes": null,
+        "taux_pauvrete": null
+      },
+      "aides_etat": {
+        "zone_climatique": null,
+        "qpv": false,
+        "action_coeur_de_ville": false,
+        "petites_villes_de_demain": false
+      }
+    },
+    {
+      "code_insee": "98613",
+      "nom": "Uvea",
+      "nom_a": null,
+      "nom_de": null,
+      "slug": "uvea",
+      "code_postal": "98600",
+      "population": 8088,
+      "superficie_km2": 7585.28,
+      "latitude": -13.2846,
+      "longitude": -176.2065,
+      "villes_proches": [
+        {
+          "code_insee": "98611",
+          "nom": "Alo",
+          "slug": "alo",
+          "code_postal": "98610",
+          "population": 1875,
+          "superficie_km2": 4431.43,
+          "latitude": -14.3042,
+          "longitude": -178.0792,
+          "distance_km": 231.84
+        },
+        {
+          "code_insee": "98612",
+          "nom": "Sigave",
+          "slug": "sigave",
+          "code_postal": "98620",
+          "population": 1188,
+          "superficie_km2": 1987.32,
+          "latitude": -14.2743,
+          "longitude": -178.1584,
+          "distance_km": 237.79
+        },
+        {
+          "code_insee": "98728",
+          "nom": "Maupiti",
+          "slug": "maupiti",
+          "code_postal": "98732",
+          "population": 1302,
+          "superficie_km2": 2005.43,
+          "latitude": -16.78,
+          "longitude": -153.9401,
+          "distance_km": 2421.11
+        },
+        {
+          "code_insee": "98714",
+          "nom": "Bora-Bora",
+          "slug": "bora-bora",
+          "code_postal": "98730",
+          "population": 10758,
+          "superficie_km2": 4026.18,
+          "latitude": -16.4376,
+          "longitude": -151.7585,
+          "distance_km": 2649.13
+        },
+        {
+          "code_insee": "98743",
+          "nom": "Rimatara",
+          "slug": "rimatara",
+          "code_postal": "98752",
+          "population": 893,
+          "superficie_km2": 865.08,
+          "latitude": -22.6457,
+          "longitude": -152.822,
+          "distance_km": 2678.68
+        },
+        {
+          "code_insee": "98745",
+          "nom": "Tahaa",
+          "slug": "tahaa",
+          "code_postal": "98733",
+          "population": 5296,
+          "superficie_km2": 9157.77,
+          "latitude": -16.6197,
+          "longitude": -151.4907,
+          "distance_km": 2679.16
+        },
+        {
+          "code_insee": "98758",
+          "nom": "Uturoa",
+          "slug": "uturoa",
+          "code_postal": "98735",
+          "population": 3663,
+          "superficie_km2": 1605.2,
+          "latitude": -16.7425,
+          "longitude": -151.4544,
+          "distance_km": 2684.13
+        },
+        {
+          "code_insee": "98754",
+          "nom": "Tumaraa",
+          "slug": "tumaraa",
+          "code_postal": "98735",
+          "population": 3718,
+          "superficie_km2": 7214.57,
+          "latitude": -16.8301,
+          "longitude": -151.453,
+          "distance_km": 2685.12
+        },
+        {
+          "code_insee": "98750",
+          "nom": "Taputapuatea",
+          "slug": "taputapuatea",
+          "code_postal": "98735",
+          "population": 5007,
+          "superficie_km2": 8482.85,
+          "latitude": -16.8208,
+          "longitude": -151.395,
+          "distance_km": 2691.18
+        },
+        {
+          "code_insee": "98724",
+          "nom": "Huahine",
+          "slug": "huahine",
+          "code_postal": "98731",
+          "population": 6263,
+          "superficie_km2": 7529.32,
+          "latitude": -16.7517,
+          "longitude": -150.996,
+          "distance_km": 2732.86
+        },
+        {
+          "code_insee": "98744",
+          "nom": "Rurutu",
+          "slug": "rurutu",
+          "code_postal": "98753",
+          "population": 2163,
+          "superficie_km2": 3447.75,
+          "latitude": -22.4437,
+          "longitude": -151.3771,
+          "distance_km": 2812.97
+        },
+        {
+          "code_insee": "98729",
+          "nom": "Moorea-Maiao",
+          "slug": "moorea-maiao",
+          "code_postal": "98728",
+          "population": 18201,
+          "superficie_km2": 14650.69,
+          "latitude": -17.506,
+          "longitude": -149.9179,
+          "distance_km": 2854.56
+        },
+        {
+          "code_insee": "98712",
+          "nom": "Arue",
+          "slug": "arue",
+          "code_postal": "98701",
+          "population": 10322,
+          "superficie_km2": 2078.43,
+          "latitude": -17.0496,
+          "longitude": -149.5463,
+          "distance_km": 2889.27
+        },
+        {
+          "code_insee": "98715",
+          "nom": "Faaa",
+          "slug": "faaa",
+          "code_postal": "98704",
+          "population": 29826,
+          "superficie_km2": 3638.08,
+          "latitude": -17.5843,
+          "longitude": -149.56,
+          "distance_km": 2893.19
+        },
+        {
+          "code_insee": "98735",
+          "nom": "Papeete",
+          "slug": "papeete",
+          "code_postal": "98714",
+          "population": 26654,
+          "superficie_km2": 1773.66,
+          "latitude": -17.5572,
+          "longitude": -149.5555,
+          "distance_km": 2893.36
+        },
+        {
+          "code_insee": "98738",
+          "nom": "Punaauia",
+          "slug": "punaauia",
+          "code_postal": "98703",
+          "population": 28781,
+          "superficie_km2": 7864.72,
+          "latitude": -17.618,
+          "longitude": -149.5486,
+          "distance_km": 2894.77
+        },
+        {
+          "code_insee": "98733",
+          "nom": "Paea",
+          "slug": "paea",
+          "code_postal": "98711",
+          "population": 12756,
+          "superficie_km2": 6250.17,
+          "latitude": -17.6961,
+          "longitude": -149.5485,
+          "distance_km": 2895.66
+        },
+        {
+          "code_insee": "98736",
+          "nom": "Pirae",
+          "slug": "pirae",
+          "code_postal": "98716",
+          "population": 14068,
+          "superficie_km2": 3377.49,
+          "latitude": -17.5699,
+          "longitude": -149.5223,
+          "distance_km": 2897.01
+        },
+        {
+          "code_insee": "98734",
+          "nom": "Papara",
+          "slug": "papara",
+          "code_postal": "98712",
+          "population": 11743,
+          "superficie_km2": 9290.64,
+          "latitude": -17.7119,
+          "longitude": -149.508,
+          "distance_km": 2900.11
+        },
+        {
+          "code_insee": "98725",
+          "nom": "Mahina",
+          "slug": "mahina",
+          "code_postal": "98709",
+          "population": 14623,
+          "superficie_km2": 5203.55,
+          "latitude": -17.5575,
+          "longitude": -149.4753,
+          "distance_km": 2901.83
+        }
+      ],
+      "zonage_abc": null,
+      "reclassement_abc": null,
+      "codes_postaux": [
+        {
+          "code_postal": "98600",
+          "libelle_acheminement": "UVEA"
+        }
+      ],
+      "logement": null,
+      "artisans": {
+        "monte_escalier": 0,
+        "chauffage_pac_clim": 3,
+        "isolation": 0,
+        "menuiserie": 1,
+        "fenetres_velux": 1,
+        "couverture_toiture": 1,
+        "facade_peinture": 0,
+        "portes_volets": 1,
+        "piscine": 3,
+        "vmc_ventilation": 1,
+        "assainissement": 5
+      },
+      "revenus": {
+        "revenu_median": null,
+        "part_menages_imposes": null,
+        "taux_pauvrete": null
+      },
+      "aides_etat": {
+        "zone_climatique": null,
+        "qpv": false,
+        "action_coeur_de_ville": false,
+        "petites_villes_de_demain": false
+      }
+    }
+  ]
+}

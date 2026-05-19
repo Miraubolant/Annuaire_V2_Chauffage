@@ -1,0 +1,280 @@
+{
+  "departement": {
+    "code": "989",
+    "nom": "989",
+    "slug": "989",
+    "population_totale": 0
+  },
+  "region": {},
+  "voisins": [],
+  "communes_count": 1,
+  "communes": [
+    {
+      "code_insee": "98901",
+      "nom": "Île de Clipperton",
+      "nom_a": null,
+      "nom_de": null,
+      "slug": "ile-de-clipperton",
+      "code_postal": "98799",
+      "population": 0,
+      "superficie_km2": 890.9,
+      "latitude": 10.3034,
+      "longitude": -109.2172,
+      "villes_proches": [
+        {
+          "code_insee": "98723",
+          "nom": "Hiva-Oa",
+          "slug": "hiva-oa",
+          "code_postal": "98741",
+          "population": 2371,
+          "superficie_km2": 32381.21,
+          "latitude": -9.7286,
+          "longitude": -138.9803,
+          "distance_km": 3975.15
+        },
+        {
+          "code_insee": "98756",
+          "nom": "Ua-Huka",
+          "slug": "ua-huka",
+          "code_postal": "98744",
+          "population": 719,
+          "superficie_km2": 8647.12,
+          "latitude": -8.9098,
+          "longitude": -139.5493,
+          "distance_km": 3978.8
+        },
+        {
+          "code_insee": "98718",
+          "nom": "Fatu-Hiva",
+          "slug": "fatu-hiva",
+          "code_postal": "98740",
+          "population": 600,
+          "superficie_km2": 8501.61,
+          "latitude": -10.4657,
+          "longitude": -138.6088,
+          "distance_km": 3987.08
+        },
+        {
+          "code_insee": "98746",
+          "nom": "Tahuata",
+          "slug": "tahuata",
+          "code_postal": "98743",
+          "population": 595,
+          "superficie_km2": 6972.1,
+          "latitude": -9.9575,
+          "longitude": -139.0833,
+          "distance_km": 3998.57
+        },
+        {
+          "code_insee": "98757",
+          "nom": "Ua-Pou",
+          "slug": "ua-pou",
+          "code_postal": "98745",
+          "population": 2168,
+          "superficie_km2": 10631.37,
+          "latitude": -9.4092,
+          "longitude": -140.0731,
+          "distance_km": 4056.95
+        },
+        {
+          "code_insee": "98731",
+          "nom": "Nuku-Hiva",
+          "slug": "nuku-hiva",
+          "code_postal": "98742",
+          "population": 3025,
+          "superficie_km2": 38477.88,
+          "latitude": -8.6775,
+          "longitude": -140.6052,
+          "distance_km": 4064.63
+        },
+        {
+          "code_insee": "98737",
+          "nom": "Pukapuka",
+          "slug": "pukapuka",
+          "code_postal": "98774",
+          "population": 137,
+          "superficie_km2": 627.32,
+          "latitude": -14.8202,
+          "longitude": -138.8203,
+          "distance_km": 4294.99
+        },
+        {
+          "code_insee": "98742",
+          "nom": "Reao",
+          "slug": "reao",
+          "code_postal": "98779",
+          "population": 513,
+          "superficie_km2": 1758.26,
+          "latitude": -18.4685,
+          "longitude": -136.4666,
+          "distance_km": 4378.63
+        },
+        {
+          "code_insee": "98751",
+          "nom": "Tatakoto",
+          "slug": "tatakoto",
+          "code_postal": "98783",
+          "population": 180,
+          "superficie_km2": 736.69,
+          "latitude": -17.3513,
+          "longitude": -138.3941,
+          "distance_km": 4442.22
+        },
+        {
+          "code_insee": "98730",
+          "nom": "Napuka",
+          "slug": "napuka",
+          "code_postal": "98772",
+          "population": 307,
+          "superficie_km2": 857.93,
+          "latitude": -14.1661,
+          "longitude": -141.2747,
+          "distance_km": 4460.92
+        },
+        {
+          "code_insee": "98717",
+          "nom": "Fangatau",
+          "slug": "fangatau",
+          "code_postal": "98765",
+          "population": 323,
+          "superficie_km2": 1404.6,
+          "latitude": -15.9797,
+          "longitude": -140.17,
+          "distance_km": 4488.53
+        },
+        {
+          "code_insee": "98732",
+          "nom": "Nukutavake",
+          "slug": "nukutavake",
+          "code_postal": "98773",
+          "population": 287,
+          "superficie_km2": 1233.66,
+          "latitude": -18.7825,
+          "longitude": -138.8598,
+          "distance_km": 4585.37
+        },
+        {
+          "code_insee": "98719",
+          "nom": "Gambier",
+          "slug": "gambier",
+          "code_postal": "98755",
+          "population": 1570,
+          "superficie_km2": 5987.58,
+          "latitude": -22.0353,
+          "longitude": -136.186,
+          "distance_km": 4645.58
+        },
+        {
+          "code_insee": "98721",
+          "nom": "Hikueru",
+          "slug": "hikueru",
+          "code_postal": "98768",
+          "population": 199,
+          "superficie_km2": 2018.31,
+          "latitude": -17.611,
+          "longitude": -142.5538,
+          "distance_km": 4800.12
+        },
+        {
+          "code_insee": "98726",
+          "nom": "Makemo",
+          "slug": "makemo",
+          "code_postal": "98769",
+          "population": 1391,
+          "superficie_km2": 7232.83,
+          "latitude": -16.6551,
+          "longitude": -143.3857,
+          "distance_km": 4806.75
+        },
+        {
+          "code_insee": "98749",
+          "nom": "Takaroa",
+          "slug": "takaroa",
+          "code_postal": "98781",
+          "population": 1050,
+          "superficie_km2": 3316.01,
+          "latitude": -14.494,
+          "longitude": -144.989,
+          "distance_km": 4811.72
+        },
+        {
+          "code_insee": "98720",
+          "nom": "Hao",
+          "slug": "hao",
+          "code_postal": "98767",
+          "population": 1227,
+          "superficie_km2": 6693.7,
+          "latitude": -18.7199,
+          "longitude": -141.8698,
+          "distance_km": 4820.48
+        },
+        {
+          "code_insee": "98755",
+          "nom": "Tureia",
+          "slug": "tureia",
+          "code_postal": "98784",
+          "population": 261,
+          "superficie_km2": 2745.81,
+          "latitude": -21.8794,
+          "longitude": -139.0412,
+          "distance_km": 4836.45
+        },
+        {
+          "code_insee": "98727",
+          "nom": "Manihi",
+          "slug": "manihi",
+          "code_postal": "98770",
+          "population": 1138,
+          "superficie_km2": 2627.32,
+          "latitude": -14.4453,
+          "longitude": -146.0776,
+          "distance_km": 4907.66
+        },
+        {
+          "code_insee": "98711",
+          "nom": "Anaa",
+          "slug": "anaa",
+          "code_postal": "98760",
+          "population": 970,
+          "superficie_km2": 4641.81,
+          "latitude": -16.8951,
+          "longitude": -144.8758,
+          "distance_km": 4951.19
+        }
+      ],
+      "zonage_abc": null,
+      "reclassement_abc": null,
+      "codes_postaux": [
+        {
+          "code_postal": "98799",
+          "libelle_acheminement": "ILE DE CLIPPERTON"
+        }
+      ],
+      "logement": null,
+      "artisans": {
+        "monte_escalier": 0,
+        "chauffage_pac_clim": 0,
+        "isolation": 0,
+        "menuiserie": 0,
+        "fenetres_velux": 0,
+        "couverture_toiture": 0,
+        "facade_peinture": 0,
+        "portes_volets": 0,
+        "piscine": 0,
+        "vmc_ventilation": 0,
+        "assainissement": 0
+      },
+      "revenus": {
+        "revenu_median": null,
+        "part_menages_imposes": null,
+        "taux_pauvrete": null
+      },
+      "aides_etat": {
+        "zone_climatique": null,
+        "qpv": false,
+        "action_coeur_de_ville": false,
+        "petites_villes_de_demain": false
+      }
+    }
+  ]
+}

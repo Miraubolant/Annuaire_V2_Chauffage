@@ -1,0 +1,1401 @@
+{
+  "murat": {
+    "artisans": [
+      {
+        "id": "7638511987358437545",
+        "nom": "SARL VILLARET",
+        "slug": "sarl-villaret",
+        "telephone": "04 71 20 02 97",
+        "site_web": "http://www.villaret.fr/",
+        "adresse": "48 Rue du Faubourg Notre Dame, 15300 Murat",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "neussargues-en-pinatelle": {
+    "artisans": [
+      {
+        "id": "653970854094566034",
+        "nom": "Buche Christophe",
+        "slug": "buche-christophe",
+        "telephone": "04 71 20 99 64",
+        "site_web": null,
+        "adresse": "14 Bis Rte de Murat, 15170 Neussargues-Moissac",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "naucelles": {
+    "artisans": [
+      {
+        "id": "13579164578118979702",
+        "nom": "Chambon Nicolas",
+        "slug": "chambon-nicolas",
+        "telephone": "04 71 63 00 97",
+        "site_web": null,
+        "adresse": "Lacamp, 15250 Naucelles",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "495818920572264702",
+        "nom": "Barbé Michel Eurl",
+        "slug": "barbe-michel-eurl",
+        "telephone": "04 71 48 70 74",
+        "site_web": "http://www.michel-barbe.fr/",
+        "adresse": "38 Rue Paul Doumer, 15000 Aurillac",
+        "note": 3.4,
+        "avis": 12,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6074714134557003752",
+        "nom": "AS Energie Aurillac",
+        "slug": "as-energie-aurillac",
+        "telephone": "06 49 69 06 71",
+        "site_web": "http://chauffage-as-energie.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "8 Toulousette, 15000 Aurillac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18341100741993975990",
+        "nom": "Maroncle Marc",
+        "slug": "maroncle-marc",
+        "telephone": "04 71 47 27 12",
+        "site_web": null,
+        "adresse": "25 Rue de l'Authre, 15250 Naucelles",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "neuveglise-sur-truyere": {
+    "artisans": [
+      {
+        "id": "8653137539911593807",
+        "nom": "Cordesse",
+        "slug": "cordesse",
+        "telephone": "04 71 23 80 53",
+        "site_web": "https://www.cordesse-chauffage.fr/",
+        "adresse": "Petit Cordesse, 15260 Neuvéglise-sur-Truyère",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "746253176482420155",
+        "nom": "SAS CORDESSE",
+        "slug": "sas-cordesse",
+        "telephone": "04 71 23 80 53",
+        "site_web": "http://www.cordesse-chauffage.fr/",
+        "adresse": "1 Rue des Artisans ZONE ARTISANALE, 15260 Neuvéglise-sur-Truyère",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "le-rouget-pers": {
+    "artisans": [
+      {
+        "id": "6146524744381869021",
+        "nom": "Regis Troupel EURL",
+        "slug": "regis-troupel-eurl",
+        "telephone": "07 69 29 39 34",
+        "site_web": "https://www.facebook.com/profile.php?id=100089839486276&utm_source=gmb",
+        "adresse": "23 Rue du Gué Bouliaga, 15000 Aurillac",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13097815532793799387",
+        "nom": "EURL Ruhier",
+        "slug": "eurl-ruhier",
+        "telephone": "06 76 60 71 08",
+        "site_web": null,
+        "adresse": "24 Rue de la Côté Blanche, 15000 Aurillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11733832834071003504",
+        "nom": "Landré Mickaël SASU",
+        "slug": "landre-mickael-sasu",
+        "telephone": "06 87 31 96 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14701951198540375779",
+        "nom": "M.D.S. Axenergie Cantal (Maintenance Dépannage Services)",
+        "slug": "mds-axenergie-cantal-maintenance-depannage-services",
+        "telephone": "04 71 48 48 44",
+        "site_web": "https://www.axenergie.eu/agences/33-mds-cantal",
+        "adresse": "ZI de Sistrières II, Rue Félix Daguerre, 15000 Aurillac",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11233614928007065310",
+        "nom": "Auri'Gaz",
+        "slug": "aurigaz",
+        "telephone": "04 71 48 26 66",
+        "site_web": null,
+        "adresse": "3 Av. de Tivoli, 15000 Aurillac",
+        "note": 4,
+        "avis": 16,
+        "type": "Gazier"
+      },
+      {
+        "id": "14124942284117795060",
+        "nom": "Baissac Gérard Eurl",
+        "slug": "baissac-gerard-eurl",
+        "telephone": "04 71 46 16 54",
+        "site_web": null,
+        "adresse": "3 Imp. du Fourgues, 15290 Le Rouget-Pers",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12078576458616469979",
+        "nom": "P.E.A Plomberie Chauffage Climatisation",
+        "slug": "pea-plomberie-chauffage-climatisation",
+        "telephone": "06 70 76 17 42",
+        "site_web": "https://peaplomberiechauff.wixsite.com/pea-plomberie-cc?utm_source=gmb",
+        "adresse": "1200 All. de Conros, 15130 Arpajon-sur-Cère",
+        "note": 4.8,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "17365975753504675053",
+        "nom": "RCThermique",
+        "slug": "rcthermique",
+        "telephone": "06 02 11 82 93",
+        "site_web": "http://rcthermique.e-monsite.com/",
+        "adresse": null,
+        "note": 2.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6618233657660390511",
+        "nom": "EURL Samuel Astier",
+        "slug": "eurl-samuel-astier",
+        "telephone": "04 71 64 04 23",
+        "site_web": "https://www.eurlsamuelastier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "5881127384584090507",
+        "nom": "Artisan 148",
+        "slug": "artisan-148",
+        "telephone": "01 80 91 95 80",
+        "site_web": "https://artisan-148.opti.page/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "mauriac": {
+    "artisans": [
+      {
+        "id": "606394586709821809",
+        "nom": "Bellanger SARL",
+        "slug": "bellanger-sarl",
+        "telephone": "04 71 67 33 19",
+        "site_web": null,
+        "adresse": "Rue Blaise Pascal, 15200 Mauriac",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2021146540197312806",
+        "nom": "CEDEO Mauriac : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-mauriac-sanitaire-chauffage-plomberie",
+        "telephone": "04 71 68 30 87",
+        "site_web": "https://www.cedeo.fr/infos-agence/mauriac-cedeo-1859",
+        "adresse": "Rue Blaise Pascal, 15200 Mauriac",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "3834072925007061376",
+        "nom": "RSM",
+        "slug": "rsm",
+        "telephone": "04 71 68 04 99",
+        "site_web": "http://www.chauffage-salvary.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "17446667977421028163",
+        "nom": "Chauvet Didier",
+        "slug": "chauvet-didier",
+        "telephone": "04 71 67 32 04",
+        "site_web": null,
+        "adresse": "Choumanou, 15200 Le Vigean",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5501376585776418065",
+        "nom": "RSM Salvary",
+        "slug": "rsm-salvary",
+        "telephone": "04 71 68 04 99",
+        "site_web": "https://www.chauffage-salvary.fr/contact",
+        "adresse": "7 Chem. du Mirondel, 15200 Mauriac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5554744716059438748",
+        "nom": "Badal JP",
+        "slug": "badal-jp",
+        "telephone": "04 71 68 02 69",
+        "site_web": null,
+        "adresse": "7 Av. Augustin Chauvet, 15200 Mauriac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "5893393485515813550",
+        "nom": "Raoux Jean-Claude",
+        "slug": "raoux-jean-claude",
+        "telephone": "04 71 67 34 95",
+        "site_web": null,
+        "adresse": "11 Rue Maurice Bergeron, 15200 Mauriac",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "8678415962318115349",
+        "nom": "Poêles et Cheminées RITOU",
+        "slug": "poeles-et-cheminees-ritou",
+        "telephone": "04 71 68 67 21",
+        "site_web": "http://www.cheminee-cantal.fr/",
+        "adresse": "9 Rue d'Enchalade, 15200 Mauriac",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16579634965142322938",
+        "nom": "Chauf-Aér'eau-Therm",
+        "slug": "chauf-aereau-therm",
+        "telephone": "06 80 10 02 96",
+        "site_web": null,
+        "adresse": "25 Av. Charles Perie, 15200 Mauriac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "massiac": {
+    "artisans": [
+      {
+        "id": "16738776994818839170",
+        "nom": "Bresson & Fils",
+        "slug": "bresson-fils",
+        "telephone": "04 71 23 16 19",
+        "site_web": "http://www.facebook.com/SARL-Bresson-FILS-181037752798828/",
+        "adresse": "36 Rue Jean Lépine, 15500 Massiac",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17377906459329663525",
+        "nom": "A L'EAU PLOMBIER",
+        "slug": "a-leau-plombier",
+        "telephone": "06 68 59 49 55",
+        "site_web": null,
+        "adresse": "6 impasse de l'Alagnon, 15500 Massiac",
+        "note": 3.1,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "maurs": {
+    "artisans": [
+      {
+        "id": "6263868057887720849",
+        "nom": "Bourg Eric",
+        "slug": "bourg-eric",
+        "telephone": "06 07 34 95 91",
+        "site_web": null,
+        "adresse": "68 Tour de ville, 15600 Maurs",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11308809043452387022",
+        "nom": "CHATAIGNERAIE PLOMBERIE RAMONAGE CPRC",
+        "slug": "chataigneraie-plomberie-ramonage-cprc",
+        "telephone": "04 71 45 06 70",
+        "site_web": null,
+        "adresse": "21 Rte d'Aurillac, 15600 Saint-Étienne-de-Maurs",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "3105551432721551429",
+        "nom": "vanhoye plomberie eirl",
+        "slug": "vanhoye-plomberie-eirl",
+        "telephone": "06 32 11 34 57",
+        "site_web": null,
+        "adresse": "7 Les Tuileries, 15600 Saint-Étienne-de-Maurs",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1840287454426653756",
+        "nom": "BIEDERMANN SAS",
+        "slug": "biedermann-sas",
+        "telephone": "06 76 83 67 96",
+        "site_web": "http://biedermannsas.site-solocal.com/",
+        "adresse": "3 Bois de l'Estang, 15600 Maurs",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "polminhac": {
+    "artisans": [
+      {
+        "id": "6713524460290655515",
+        "nom": "CRANTELLE FREDERIC",
+        "slug": "crantelle-frederic",
+        "telephone": "06 78 76 27 64",
+        "site_web": "https://plombier-aurillac-crantelle.fr/",
+        "adresse": "23 Rue Promenade, 15800 Polminhac",
+        "note": 2,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "reilhac": {
+    "artisans": [
+      {
+        "id": "6928850576610780859",
+        "nom": "SARL CARCY",
+        "slug": "sarl-carcy",
+        "telephone": "04 71 47 21 57",
+        "site_web": null,
+        "adresse": "2 Rue de Lestoubeyre, 15250 Reilhac",
+        "note": 4.8,
+        "avis": 18,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "pleaux": {
+    "artisans": [
+      {
+        "id": "3360237801453430525",
+        "nom": "SARL PARSOIRE ELECTRICITE",
+        "slug": "sarl-parsoire-electricite",
+        "telephone": "04 71 40 40 32",
+        "site_web": "http://www.parsoire-electricite.fr/",
+        "adresse": "11 Zone d'Activités - Avenue des Estourocs, 15700 Pleaux",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "7413737861235421191",
+        "nom": "Baduel Sarl",
+        "slug": "baduel-sarl",
+        "telephone": "04 71 69 00 70",
+        "site_web": "http://plombier-baduel.fr/",
+        "adresse": "Rte de Mauriac, 15700 Ally",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7471387276828553985",
+        "nom": "Lavergne André",
+        "slug": "lavergne-andre",
+        "telephone": "04 71 40 40 93",
+        "site_web": null,
+        "adresse": "Av. des Estourocs, 15700 Pleaux",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "roannes-saint-mary": {
+    "artisans": [
+      {
+        "id": "7463055511955178301",
+        "nom": "Sarl Henniaux Manuel",
+        "slug": "sarl-henniaux-manuel",
+        "telephone": "06 07 96 37 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "17431921952927235531",
+        "nom": "Courbouleix Stéphane",
+        "slug": "courbouleix-stephane",
+        "telephone": "06 72 76 84 18",
+        "site_web": "https://cantalfroidclim.fr/",
+        "adresse": "1 Chem. de Ste Barbe, 15220 Roannes-Saint-Mary",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1788687949556744499",
+        "nom": "Gimenez David",
+        "slug": "gimenez-david",
+        "telephone": "04 71 62 81 93",
+        "site_web": null,
+        "adresse": "Le Bourg, 15220 Roannes-Saint-Mary",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17351549818490620205",
+        "nom": "CEDEO Aurillac : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-aurillac-sanitaire-chauffage-plomberie",
+        "telephone": "04 71 63 82 00",
+        "site_web": "https://www.cedeo.fr/infos-agence/aurillac-cedeo-1455",
+        "adresse": "2 Impasse Antoine LAVOISIER, 15130 Ytrac",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "2654228854680862512",
+        "nom": "ETPF Entreprise de Travaux Publics et Forestiers",
+        "slug": "etpf-entreprise-de-travaux-publics-et-forestiers",
+        "telephone": "06 70 79 20 88",
+        "site_web": "https://www.facebook.com/profile.php?id=100092322607838",
+        "adresse": "Monloubou, 15220 Roannes-Saint-Mary",
+        "note": 0,
+        "avis": 0,
+        "type": "Société de travaux publics"
+      }
+    ]
+  },
+  "saint-flour": {
+    "artisans": [
+      {
+        "id": "6413928530919580537",
+        "nom": "HNT ÉCO-LOGIS Saint-Flour",
+        "slug": "hnt-eco-logis-saint-flour",
+        "telephone": "04 71 50 05 00",
+        "site_web": "https://hntauvergne.fr/",
+        "adresse": "20 Rue Léopold Chastang, 15100 Saint-Flour",
+        "note": 3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9896152228108349296",
+        "nom": "SAS TARDIEU Joel",
+        "slug": "sas-tardieu-joel",
+        "telephone": "04 71 60 00 17",
+        "site_web": "https://www.seguin-saint-flour.com/",
+        "adresse": "27 Rue Henri Rassemusse, 15100 Saint-Flour",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6773299739547004854",
+        "nom": "Calmels PETITFOUR",
+        "slug": "calmels-petitfour",
+        "telephone": "04 71 60 02 63",
+        "site_web": "http://www.societecalmelspetitfour.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "21 Av. du Commandant Delorme, 15100 Saint-Flour",
+        "note": 3.9,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "11692475408076963985",
+        "nom": "SARL Ruat Jonathan Urgence Plomberie",
+        "slug": "sarl-ruat-jonathan-urgence-plomberie",
+        "telephone": "07 45 06 93 23",
+        "site_web": "https://www.facebook.com/profile.php?id=100089098675095&locale=fr_FR&utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4706403089116294264",
+        "nom": "S3M",
+        "slug": "s3m",
+        "telephone": "04 71 60 49 92",
+        "site_web": null,
+        "adresse": "8 Rue Baptiste Rozières, 15100 Saint-Flour",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14386803872620723754",
+        "nom": "Rodier Philippe",
+        "slug": "rodier-philippe",
+        "telephone": "04 71 60 72 35",
+        "site_web": null,
+        "adresse": "4 Rue Anatole Feuillet, 15100 Saint-Flour",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "10409830058144793830",
+        "nom": "CEDEO Saint-Flour : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-saint-flour-sanitaire-chauffage-plomberie",
+        "telephone": "04 71 60 12 53",
+        "site_web": "https://www.cedeo.fr/infos-agence/st-flour-cedeo-1482",
+        "adresse": "7 ZAC de Montplain, Les Adrets, 15100 Andelat",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "4017739866440356802",
+        "nom": "Mourgues Serge SARL",
+        "slug": "mourgues-serge-sarl",
+        "telephone": "04 71 60 05 91",
+        "site_web": "https://www.mourguesserge.com/",
+        "adresse": "3 Rue de la Planèze, 15100 Saint-Flour",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "17463471280969634024",
+        "nom": "Jotul Saint-Flour",
+        "slug": "jotul-saint-flour",
+        "telephone": "04 71 60 69 98",
+        "site_web": "https://magasin.jotul.fr/saint-flour/",
+        "adresse": "Centre Cial de, La Fontlong, 15100 Saint-Flour",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "15966463537521971323",
+        "nom": "ENERGIES SANFLORAINES",
+        "slug": "energies-sanfloraines",
+        "telephone": "04 71 60 15 22",
+        "site_web": "https://energies-sanfloraines.fr/",
+        "adresse": "10 Av. de la Fontlong, 15100 Saint-Flour",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Fournisseur de carburant"
+      }
+    ]
+  },
+  "saint-cernin": {
+    "artisans": [
+      {
+        "id": "5833610850076658025",
+        "nom": "Sas Viguier",
+        "slug": "sas-viguier",
+        "telephone": "04 71 47 67 93",
+        "site_web": "https://www.viguier-sas.fr/",
+        "adresse": "D43, 15310 Saint-Cernin",
+        "note": 2.8,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "13257783355971047611",
+        "nom": "Lesmarie Victor",
+        "slug": "lesmarie-victor",
+        "telephone": "04 71 47 68 61",
+        "site_web": null,
+        "adresse": "2 Lot. de Saint-Martin de Valois, 15310 Saint-Cernin",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "riom-es-montagnes": {
+    "artisans": [
+      {
+        "id": "17903220150901553084",
+        "nom": "Labbelec",
+        "slug": "labbelec",
+        "telephone": "04 71 78 76 93",
+        "site_web": "http://www.electricien-cantal.fr/",
+        "adresse": "25 Rue de la Gentiane, 15400 Riom-ès-Montagnes",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "3976163575421749699",
+        "nom": "CHAUMEIL FRÈRES",
+        "slug": "chaumeil-freres",
+        "telephone": "06 01 81 96 87",
+        "site_web": "http://sarl-chaumeil-freres.fr/",
+        "adresse": "4 WIDE STREET, 15400 Riom-ès-Montagnes",
+        "note": 3,
+        "avis": 2,
+        "type": "Entreprise de domotique"
+      },
+      {
+        "id": "14019883073071126009",
+        "nom": "Veschambre Jean-Françoi",
+        "slug": "veschambre-jean-francoi",
+        "telephone": "04 71 78 96 21",
+        "site_web": null,
+        "adresse": "15 Rue Pierre Jean Rémy, 15400 Riom-ès-Montagnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5809440783174877268",
+        "nom": "PRO&Cie - Ent. Chaumeil Electroménager",
+        "slug": "procie-ent-chaumeil-electromenager",
+        "telephone": "04 71 68 76 09",
+        "site_web": "https://www.procie.com/",
+        "adresse": "4 Av. Fernand Brun, 15400 Riom-ès-Montagnes",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "17872179002099143406",
+        "nom": "Veschambre Jean françois",
+        "slug": "veschambre-jean-francois",
+        "telephone": "07 75 10 79 08",
+        "site_web": null,
+        "adresse": "8 rue georges bataille, 15400 Riom-ès-Montagnes",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11491114101097313599",
+        "nom": "Cantal Renov' 15",
+        "slug": "cantal-renov-15",
+        "telephone": "07 66 84 39 85",
+        "site_web": null,
+        "adresse": "All. des Anémones, 15400 Riom-ès-Montagnes",
+        "note": 5,
+        "avis": 1,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-georges": {
+    "artisans": [
+      {
+        "id": "12716278011396789135",
+        "nom": "SARL Ladoux",
+        "slug": "sarl-ladoux",
+        "telephone": "04 71 47 43 40",
+        "site_web": "http://www.chauffage-sanitaire-cantal.fr/",
+        "adresse": "ZA de Comblat le Chateau, 18 Rue du Puy Griou, 15800 Vic-sur-Cère",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16158219381101826702",
+        "nom": "GMG Froid",
+        "slug": "gmg-froid",
+        "telephone": "04 71 73 71 42",
+        "site_web": "http://www.gmgfroid.fr/",
+        "adresse": null,
+        "note": 3.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3282967226442576074",
+        "nom": "D'alexandry D'orengiani Olivier",
+        "slug": "dalexandry-dorengiani-olivier",
+        "telephone": "04 71 60 33 76",
+        "site_web": null,
+        "adresse": "15100 Vabres",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "10779716888250164160",
+        "nom": "GEDIMAT François Matériaux - Saint Flour",
+        "slug": "gedimat-francois-materiaux-saint-flour",
+        "telephone": "04 71 60 03 44",
+        "site_web": "https://www.gedimat.fr/2446-magasin-gedimat-francois-materiaux-saint-flour.htm",
+        "adresse": "Zi De Montplain, Rue Henri Fressange, 15100 Saint-Flour",
+        "note": 4.2,
+        "avis": 53,
+        "type": "Fournisseur de matériaux de construction"
+      },
+      {
+        "id": "16348945045919208301",
+        "nom": "Autos République",
+        "slug": "autos-republique",
+        "telephone": "04 71 60 01 81",
+        "site_web": "https://www.renault-saintflour.fr/",
+        "adresse": "18 Crozatier Z.a.c du, 15100 Saint-Georges",
+        "note": 4,
+        "avis": 216,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "18342795366559217517",
+        "nom": "Boule de poil",
+        "slug": "boule-de-poil",
+        "telephone": "04 71 60 40 49",
+        "site_web": null,
+        "adresse": "16 bis Pl. de la Liberté, 15100 Saint-Flour",
+        "note": 5,
+        "avis": 0,
+        "type": "Toiletteur"
+      },
+      {
+        "id": "10117092378211605559",
+        "nom": "PULSAT",
+        "slug": "pulsat",
+        "telephone": "04 71 60 33 85",
+        "site_web": "https://magasins.pulsat.fr/120-pulsat-saint-flour?utm_source=gmb",
+        "adresse": "13 Av. de la République, 15100 Saint-Flour",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "11809242823270567286",
+        "nom": "Maison Saint Flour",
+        "slug": "maison-saint-flour",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Rte du Château, 15100 Anglards-de-Saint-Flour",
+        "note": 0,
+        "avis": 0,
+        "type": "Résidence"
+      },
+      {
+        "id": "4453060082135674615",
+        "nom": "Cuisin'Vraie Saint Flour",
+        "slug": "cuisinvraie-saint-flour",
+        "telephone": "06 78 88 50 58",
+        "site_web": "https://www.cuisinvraie.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 26,
+        "type": "Cuisiniste"
+      }
+    ]
+  },
+  "saint-mamet-la-salvetat": {
+    "artisans": [
+      {
+        "id": "17623611414965711272",
+        "nom": "SARL François BELAUBRE",
+        "slug": "sarl-francois-belaubre",
+        "telephone": "07 77 07 59 45",
+        "site_web": "https://belaubre-plombier-chauffagiste.fr/",
+        "adresse": "La Croix Blanche, 15220 Saint-Mamet-la-Salvetat",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vic-sur-cere": {
+    "artisans": [
+      {
+        "id": "13160935992785927643",
+        "nom": "JB RISPAL",
+        "slug": "jb-rispal",
+        "telephone": "06 85 67 08 86",
+        "site_web": null,
+        "adresse": "Pl. de l'Égalité, 15800 Vic-sur-Cère",
+        "note": 0,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3550338815867752163",
+        "nom": "Hubert Prat Sarl",
+        "slug": "hubert-prat-sarl",
+        "telephone": "04 71 47 45 45",
+        "site_web": null,
+        "adresse": "Lot. ZA de Comblat, 15800 Vic-sur-Cère",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-paul-des-landes": {
+    "artisans": [
+      {
+        "id": "4941465180591832949",
+        "nom": "Canches Fils plombier/chauffagiste",
+        "slug": "canches-fils-plombierchauffagiste",
+        "telephone": "06 83 35 65 42",
+        "site_web": "https://www.facebook.com/canchesfils?utm_source=gmb",
+        "adresse": "Rue de Lacamp de Garrigoux, 15250 Saint-Paul-des-Landes",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12574820213953617334",
+        "nom": "Billoux Patrick",
+        "slug": "billoux-patrick",
+        "telephone": "04 71 46 44 97",
+        "site_web": "https://billoux-plomberie-aurillac.fr/",
+        "adresse": "15250 Saint-Paul-des-Landes",
+        "note": 3,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-simon": {
+    "artisans": [
+      {
+        "id": "420393030042705666",
+        "nom": "SARL GAUDY",
+        "slug": "sarl-gaudy",
+        "telephone": "04 71 47 93 62",
+        "site_web": null,
+        "adresse": "3 Cité les Campagnes, 15590 Velzic",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "495818920572264702",
+        "nom": "Barbé Michel Eurl",
+        "slug": "barbe-michel-eurl",
+        "telephone": "04 71 48 70 74",
+        "site_web": "http://www.michel-barbe.fr/",
+        "adresse": "38 Rue Paul Doumer, 15000 Aurillac",
+        "note": 3.4,
+        "avis": 12,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4440151351474809459",
+        "nom": "Valet Ets - chauffagiste",
+        "slug": "valet-ets-chauffagiste",
+        "telephone": "09 74 56 38 94",
+        "site_web": "http://www.chauffage-valet-15.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "15 Rue Jean Mermoz, 15000 Aurillac",
+        "note": 4.4,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6713524460290655515",
+        "nom": "CRANTELLE FREDERIC",
+        "slug": "crantelle-frederic",
+        "telephone": "06 78 76 27 64",
+        "site_web": "https://plombier-aurillac-crantelle.fr/",
+        "adresse": "23 Rue Promenade, 15800 Polminhac",
+        "note": 2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6928850576610780859",
+        "nom": "SARL CARCY",
+        "slug": "sarl-carcy",
+        "telephone": "04 71 47 21 57",
+        "site_web": null,
+        "adresse": "2 Rue de Lestoubeyre, 15250 Reilhac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17250372663861774858",
+        "nom": "Rt Fluides",
+        "slug": "rt-fluides",
+        "telephone": "06 15 59 16 61",
+        "site_web": "https://m.facebook.com/SasRTFLuides/?__tn__=%2As-R",
+        "adresse": "39 Rte d'Esmoles, 15130 Arpajon-sur-Cère",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "12699636120291648302",
+        "nom": "André Lac",
+        "slug": "andre-lac",
+        "telephone": "04 71 64 56 99",
+        "site_web": null,
+        "adresse": "9 Chem. du Barra, 15000 Aurillac",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4183251430256460186",
+        "nom": "Julien Cantournet - Plomberie",
+        "slug": "julien-cantournet-plomberie",
+        "telephone": "06 47 42 06 33",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "11796777306828444804",
+        "nom": "Escassut Jean-Michel",
+        "slug": "escassut-jean-michel",
+        "telephone": "04 71 46 30 38",
+        "site_web": "http://escassut-plomberiechauffage.fr/",
+        "adresse": "31 Rue de Bellevue, 15130 Ytrac",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sansac-de-marmiesse": {
+    "artisans": [
+      {
+        "id": "1520668035126466263",
+        "nom": "Julien Laubie",
+        "slug": "julien-laubie",
+        "telephone": "07 86 59 06 50",
+        "site_web": "https://www.julien-laubie-electromenager.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "5 CHEMIN DE LA FROMENTAL, 15130 Sansac-de-Marmiesse",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "17623611414965711272",
+        "nom": "SARL François BELAUBRE",
+        "slug": "sarl-francois-belaubre",
+        "telephone": "07 77 07 59 45",
+        "site_web": "https://belaubre-plombier-chauffagiste.fr/",
+        "adresse": "La Croix Blanche, 15220 Saint-Mamet-la-Salvetat",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17341174724046520081",
+        "nom": "Deguirard Electricité Générale SARL",
+        "slug": "deguirard-electricite-generale-sarl",
+        "telephone": "06 81 20 65 83",
+        "site_web": "http://www.deguirard-electricien.fr/",
+        "adresse": "8 Rue des Artisans, 15130 Sansac-de-Marmiesse",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "7579149601438722168",
+        "nom": "TotalEnergies Proxi Sud Ouest (Alvéa)",
+        "slug": "totalenergies-proxi-sud-ouest-alvea",
+        "telephone": "05 53 83 08 30",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/alvea-ytrac?at_campaign=Site_Web&at_custom1=TPSO&at_medium=Google_My_Business",
+        "adresse": "46 Rte de Toulouse, 15130 Ytrac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "4039084287054450580",
+        "nom": "GÉRARD TEULADE",
+        "slug": "gerard-teulade",
+        "telephone": "04 71 46 95 08",
+        "site_web": null,
+        "adresse": "25 Rue du Lac Pavin, 15130 Ytrac",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "3315291755662182000",
+        "nom": "Auvergne Carburants",
+        "slug": "auvergne-carburants",
+        "telephone": "09 64 46 70 50",
+        "site_web": null,
+        "adresse": "Zone d'aménagement concerté Puy d'esban, 15130 Ytrac",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "17134927786019088090",
+        "nom": "Piqueronies SAS",
+        "slug": "piqueronies-sas",
+        "telephone": "04 71 64 06 79",
+        "site_web": null,
+        "adresse": "2 Rue des Amandiers, 15130 Ytrac",
+        "note": 3,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "16172120954284608019",
+        "nom": "Cecile Dépannage Plomberie",
+        "slug": "cecile-depannage-plomberie",
+        "telephone": "06 60 08 45 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vezac": {
+    "artisans": [
+      {
+        "id": "9571000535685017261",
+        "nom": "Arpajon bois | Le spécialiste du bois de chauffage dans la ville d'Arpajon sur Cère, et de ses environs.",
+        "slug": "arpajon-bois-le-specialiste-du-bois-de-chauffage-dans-la-ville-darpajon-sur-cere-et-de-ses-environs",
+        "telephone": "06 37 78 13 01",
+        "site_web": "https://www.arpajon-bois.com/",
+        "adresse": "560 Rue du Four à Pain, 15130 Arpajon-sur-Cère",
+        "note": 2.3,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "11669376835052805043",
+        "nom": "Ntc",
+        "slug": "ntc",
+        "telephone": "04 71 63 77 88",
+        "site_web": "http://www.facebook.com/sarlntc",
+        "adresse": "14 Bd de Lescudilliers, 15000 Aurillac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17297079157305389379",
+        "nom": "Fournier Roger",
+        "slug": "fournier-roger",
+        "telephone": "04 71 49 42 51",
+        "site_web": "http://www.cantal-bois.fr/",
+        "adresse": "470 Rue du Four à Pain, Imbert, 15130 Arpajon-sur-Cère",
+        "note": 3.4,
+        "avis": 18,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "ydes": {
+    "artisans": [
+      {
+        "id": "1812784803575690064",
+        "nom": "Papon Dominique",
+        "slug": "papon-dominique",
+        "telephone": "04 71 67 90 50",
+        "site_web": null,
+        "adresse": "6 bis Imp. Martial Lapeyre, 15210 Ydes",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "2143673660913707684",
+        "nom": "Baduel Cedric",
+        "slug": "baduel-cedric",
+        "telephone": "04 71 40 84 90",
+        "site_web": null,
+        "adresse": "13 Rue Jean Racine, 15210 Ydes",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "6446224017585214133",
+        "nom": "Tazé SAS",
+        "slug": "taze-sas",
+        "telephone": "04 71 67 93 50",
+        "site_web": "http://www.taze.fr/",
+        "adresse": "12 Av. Roger Besse, 15210 Ydes",
+        "note": 4,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "2192700841788116090",
+        "nom": "Christian Van-Dijk - Chauffage Sanitaire Electricité",
+        "slug": "christian-van-dijk-chauffage-sanitaire-electricite",
+        "telephone": "04 71 40 89 26",
+        "site_web": null,
+        "adresse": "16 Av. de la Libération, 15210 Ydes",
+        "note": 5,
+        "avis": 5,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "ytrac": {
+    "artisans": [
+      {
+        "id": "13830699073307250778",
+        "nom": "RAMONAGE Delmas Thierry EURL ytrac le rouget , Maurs , Figeac ,vic sur cere ,vezac ,la feuillade",
+        "slug": "ramonage-delmas-thierry-eurl-ytrac-le-rouget-maurs-figeac-vic-sur-cere-vezac-la-feuillade",
+        "telephone": "06 83 50 58 29",
+        "site_web": "https://www.facebook.com/profile.php?id=100082327467256&locale=fr_FR",
+        "adresse": "22 Rte de Tulle, 15130 Ytrac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Ramoneur"
+      }
+    ]
+  },
+  "champs-sur-tarentaine-marchal": {
+    "artisans": [
+      {
+        "id": "16136668126624147080",
+        "nom": "Champs Energies",
+        "slug": "champs-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue des Glycines, 15270 Champs-sur-Tarentaine-Marchal",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "lanobre": {
+    "artisans": [
+      {
+        "id": "12129252126387441076",
+        "nom": "Espinasse Laurent",
+        "slug": "espinasse-laurent",
+        "telephone": "04 71 40 37 59",
+        "site_web": null,
+        "adresse": "Le Fraisse, 15270 Lanobre",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "champagnac": {
+    "artisans": [
+      {
+        "id": "4869808665525591094",
+        "nom": "BOUYGE PASCAL",
+        "slug": "bouyge-pascal",
+        "telephone": "06 29 15 16 84",
+        "site_web": null,
+        "adresse": "Le Bourg, 19160 Sérandon",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18273905252534989281",
+        "nom": "Sumatic Artense Sarl",
+        "slug": "sumatic-artense-sarl",
+        "telephone": "05 55 96 70 33",
+        "site_web": "https://www.sumatic.fr/",
+        "adresse": "185 Rue des Deux Eaux, 19110 Bort-les-Orgues",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "3051011010516467407",
+        "nom": "CHAMPS ENERGIES",
+        "slug": "champs-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "D3, 15240 Antignac",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "12321783519257715427",
+        "nom": "gite la grange",
+        "slug": "gite-la-grange",
+        "telephone": "06 84 18 57 73",
+        "site_web": null,
+        "adresse": "Montruc, 15350 Champagnac",
+        "note": 5,
+        "avis": 0,
+        "type": "Lodge"
+      },
+      {
+        "id": "10110065649776817675",
+        "nom": "Moreau Ets",
+        "slug": "moreau-ets",
+        "telephone": "04 71 40 20 34",
+        "site_web": null,
+        "adresse": "Pyrouse, 15240 Vebret",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "12597747214647374348",
+        "nom": "SARL Jean-Claude DUPORT",
+        "slug": "sarl-jean-claude-duport",
+        "telephone": "06 30 89 05 98",
+        "site_web": "https://facebook.com/sarljeanclaudeduportetfils",
+        "adresse": "Lempret, 15350 Champagnac",
+        "note": 4,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8477421156109399654",
+        "nom": "ADMR Champagnac",
+        "slug": "admr-champagnac",
+        "telephone": "04 71 67 35 41",
+        "site_web": "http://www.admr.org/",
+        "adresse": "15350 Champagnac",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Aide à domicile"
+      },
+      {
+        "id": "12129252126387441076",
+        "nom": "Espinasse Laurent",
+        "slug": "espinasse-laurent",
+        "telephone": "04 71 40 37 59",
+        "site_web": null,
+        "adresse": "Le Fraisse, 15270 Lanobre",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13243710195766653015",
+        "nom": "Flamelios",
+        "slug": "flamelios",
+        "telephone": "04 71 40 92 38",
+        "site_web": null,
+        "adresse": "22 Av. Roger Besse, 15210 Ydes",
+        "note": 1,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16136668126624147080",
+        "nom": "Champs Energies",
+        "slug": "champs-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue des Glycines, 15270 Champs-sur-Tarentaine-Marchal",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "jussac": {
+    "artisans": [
+      {
+        "id": "6102008463935787895",
+        "nom": "Gibert Sarl",
+        "slug": "gibert-sarl",
+        "telephone": "04 71 46 65 14",
+        "site_web": null,
+        "adresse": "8 Av. de la Plaine, 15250 Jussac",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "17957982878997560323",
+        "nom": "Sas Entreprise Barbet",
+        "slug": "sas-entreprise-barbet",
+        "telephone": "06 85 75 69 86",
+        "site_web": null,
+        "adresse": "25 Rte de Montplaisir, 15250 Jussac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "3870306944793384403",
+        "nom": "RF Forest",
+        "slug": "rf-forest",
+        "telephone": "06 87 69 19 52",
+        "site_web": null,
+        "adresse": "630 Limagne, 15250 Jussac",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "8264823062526688414",
+        "nom": "CSP 15",
+        "slug": "csp-15",
+        "telephone": "04 71 48 55 12",
+        "site_web": null,
+        "adresse": "13 Av. des Raux, 15250 Jussac",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17908767745783778223",
+        "nom": "Belaubre Didier Jean Claude",
+        "slug": "belaubre-didier-jean-claude",
+        "telephone": "04 71 46 61 14",
+        "site_web": null,
+        "adresse": "8 Renhac S, 15250 Jussac",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Couvreur"
+      }
+    ]
+  }
+}

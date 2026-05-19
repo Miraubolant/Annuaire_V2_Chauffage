@@ -1,0 +1,1381 @@
+{
+  "saint-vaury": {
+    "artisans": [
+      {
+        "id": "7682508081316936816",
+        "nom": "Sarl Pouzeaud",
+        "slug": "sarl-pouzeaud",
+        "telephone": "06 30 92 27 18",
+        "site_web": "http://www.sarl-pouzeaud.fr/",
+        "adresse": "Le Masbrenier, 23320 Saint-Vaury",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5911218081209899376",
+        "nom": "Gabor Fabrice - Plombier, Chauffagiste et Ramonage",
+        "slug": "gabor-fabrice-plombier-chauffagiste-et-ramonage",
+        "telephone": "05 55 80 46 59",
+        "site_web": "https://www.gabor-fabrice.fr/",
+        "adresse": "36 Rue de la Marche, 23320 Saint-Vaury",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14113298344664203966",
+        "nom": "Alexis Energies",
+        "slug": "alexis-energies",
+        "telephone": "06 25 87 77 43",
+        "site_web": null,
+        "adresse": "3 La Petite Sciauve, 23320 Saint-Vaury",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "boussac": {
+    "artisans": [
+      {
+        "id": "16486982118150850415",
+        "nom": "Dimitri Robert Plomberie",
+        "slug": "dimitri-robert-plomberie",
+        "telephone": "07 64 40 70 77",
+        "site_web": "https://www.facebook.com/pages/category/Plumbing-Service/Dimitri-Robert-Plomberie-109011103899468/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "15915692011038398872",
+        "nom": "Chauffage Central Plomberie Installation C.C.P.I",
+        "slug": "chauffage-central-plomberie-installation-ccpi",
+        "telephone": "06 66 27 77 80",
+        "site_web": null,
+        "adresse": "6 les alouettes, 23600 Saint-Pierre-le-Bost",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4984310818959318164",
+        "nom": "D.S.C.S",
+        "slug": "dscs",
+        "telephone": "06 76 08 28 92",
+        "site_web": "https://www.facebook.com/sarl.dscs/",
+        "adresse": "3 Rue des Tilleuls, 23270 Bétête",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5615098811893567826",
+        "nom": "Delemarle Chauffage ETS",
+        "slug": "delemarle-chauffage-ets",
+        "telephone": "03 20 32 71 38",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "14421642094489239773",
+        "nom": "Deschatre",
+        "slug": "deschatre",
+        "telephone": "05 55 65 80 90",
+        "site_web": null,
+        "adresse": "29 Av. Pierre Leroux, 23600 Boussac",
+        "note": 3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9102824085050652596",
+        "nom": "VE CHAUFFAGE",
+        "slug": "ve-chauffage",
+        "telephone": "06 19 92 89 65",
+        "site_web": "https://www.vechauffage.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8581182666156770478",
+        "nom": "Les Bons Artisans",
+        "slug": "les-bons-artisans",
+        "telephone": "09 70 70 52 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.1,
+        "avis": 41,
+        "type": "Artisanat"
+      },
+      {
+        "id": "13180353898677721878",
+        "nom": "Dechaume Plomberie Chauffage",
+        "slug": "dechaume-plomberie-chauffage",
+        "telephone": "06 49 31 68 65",
+        "site_web": "http://gratuit-4388156.webador.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10344402074507276284",
+        "nom": "LCE Confort",
+        "slug": "lce-confort",
+        "telephone": "09 84 53 22 13",
+        "site_web": "http://www.lceconfort.biz/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8703428343364773258",
+        "nom": "Pch plomberie",
+        "slug": "pch-plomberie",
+        "telephone": "07 78 35 38 37",
+        "site_web": "https://plombier-95.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "dun-le-palestel": {
+    "artisans": [
+      {
+        "id": "18322919473957712858",
+        "nom": "AZ conception 23",
+        "slug": "az-conception-23",
+        "telephone": "06 59 54 08 12",
+        "site_web": "https://www.az-conception23.com/",
+        "adresse": "10 Av. Auguste Lacote, 23800 Dun-le-Palestel",
+        "note": 5,
+        "avis": 0,
+        "type": "Artisanat"
+      },
+      {
+        "id": "17259273687972122509",
+        "nom": "LDI CENTRE FIOUL",
+        "slug": "ldi-centre-fioul",
+        "telephone": "05 55 89 24 49",
+        "site_web": "http://www.ldi-centrefioul.com/",
+        "adresse": "Av. d'Auvergne, 23800 Dun-le-Palestel",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de carburant"
+      },
+      {
+        "id": "8192595018508480585",
+        "nom": "Lafont Yvan",
+        "slug": "lafont-yvan",
+        "telephone": "05 55 89 15 77",
+        "site_web": "http://www.lafontyvan.fr/",
+        "adresse": "Z.A. DE, 23800 Dun-le-Palestel",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13571729840416884261",
+        "nom": "Alasnier William",
+        "slug": "alasnier-william",
+        "telephone": "05 55 89 24 90",
+        "site_web": "http://alasnierwilliampascal.site-solocal.com/",
+        "adresse": null,
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1425149013578686013",
+        "nom": "ADPC- Anthony Depriester Plomberie Chauffage",
+        "slug": "adpc-anthony-depriester-plomberie-chauffage",
+        "telephone": "05 19 71 07 23",
+        "site_web": "http://www.entreprise-adpc.com/",
+        "adresse": null,
+        "note": 3.8,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "14482736114456543499",
+        "nom": "ALS FRAPPAT",
+        "slug": "als-frappat",
+        "telephone": "06 85 64 40 13",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "bonnat": {
+    "artisans": [
+      {
+        "id": "12940649749954849379",
+        "nom": "Brunet Prudhomme SA",
+        "slug": "brunet-prudhomme-sa",
+        "telephone": "05 55 62 14 97",
+        "site_web": "https://www.facebook.com/SAS-Brunet-Prudhomme-100338048424505/?utm_source=gmb",
+        "adresse": "16 Rte de Guéret, 23220 Bonnat",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "9259982557874418959",
+        "nom": "l'artisan plombier",
+        "slug": "lartisan-plombier",
+        "telephone": "07 86 16 91 31",
+        "site_web": "https://sites.google.com/view/lartisanplombier?usp=sharing",
+        "adresse": "1 Les Contredis, 23220 Bonnat",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13367010994793993242",
+        "nom": "Barret Guy",
+        "slug": "barret-guy",
+        "telephone": "05 55 81 20 40",
+        "site_web": null,
+        "adresse": "4 Pl. du Foirail, 23220 Bonnat",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "auzances": {
+    "artisans": [
+      {
+        "id": "1269596269425196817",
+        "nom": "bc plomberie - rénovation",
+        "slug": "bc-plomberie-renovation",
+        "telephone": "06 60 11 39 65",
+        "site_web": null,
+        "adresse": "23 Rue Saint-Jacques, 23700 Auzances",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15813687130050918220",
+        "nom": "Chamignon Mickaël",
+        "slug": "chamignon-mickael",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "57 Rte de la Courtine, 23700 Auzances",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10196302175150663313",
+        "nom": "EnergieBois 23",
+        "slug": "energiebois-23",
+        "telephone": "06 44 26 51 43",
+        "site_web": null,
+        "adresse": "5, 23700 Auzances",
+        "note": 4,
+        "avis": 0,
+        "type": "Exploitation forestière"
+      }
+    ]
+  },
+  "bussiere-dunoise": {
+    "artisans": [
+      {
+        "id": "93245037086044063",
+        "nom": "Domo Confort",
+        "slug": "domo-confort",
+        "telephone": "05 87 15 00 48",
+        "site_web": "https://www.electricien-gueret.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4417775854975009797",
+        "nom": "Mauchaussat sarl",
+        "slug": "mauchaussat-sarl",
+        "telephone": "06 50 70 30 04",
+        "site_web": null,
+        "adresse": "8 Pl. de l'Église, 23320 Bussière-Dunoise",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9863485186425559257",
+        "nom": "SAS MRB",
+        "slug": "sas-mrb",
+        "telephone": "05 55 62 60 16",
+        "site_web": "http://sasmrb.fr/",
+        "adresse": "5 rue du Fontchinaud, 23320 Bussière-Dunoise",
+        "note": 4.9,
+        "avis": 28,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "bourganeuf": {
+    "artisans": [
+      {
+        "id": "3177926285139344842",
+        "nom": "Alain Cancalon",
+        "slug": "alain-cancalon",
+        "telephone": "05 55 64 18 76",
+        "site_web": null,
+        "adresse": "ZI du Rigour, 23400 Bourganeuf",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14474439612678022349",
+        "nom": "SAS LAFONT JONATHAN",
+        "slug": "sas-lafont-jonathan",
+        "telephone": "05 55 64 23 61",
+        "site_web": "https://sas-lafont-jonathan.fr/",
+        "adresse": "Rigour, 23400 Bourganeuf",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11292209091467385492",
+        "nom": "Les Bucherons Creusois",
+        "slug": "les-bucherons-creusois",
+        "telephone": "06 75 49 23 62",
+        "site_web": null,
+        "adresse": "14 All. Pablo Picasso, 23400 Bourganeuf",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "9226205556942509188",
+        "nom": "Coucaud Dominique",
+        "slug": "coucaud-dominique",
+        "telephone": "05 55 64 15 48",
+        "site_web": null,
+        "adresse": "Les Combettes 3, 23400 Bourganeuf",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "evaux-les-bains": {
+    "artisans": [
+      {
+        "id": "1879718329658872875",
+        "nom": "Ets André",
+        "slug": "ets-andre",
+        "telephone": "05 55 65 52 34",
+        "site_web": "http://www.ets-andre.fr/",
+        "adresse": "25 Rue de Rentière, 23110 Évaux-les-Bains",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "gouzon": {
+    "artisans": [
+      {
+        "id": "1681610869767007852",
+        "nom": "POQUET-électricien",
+        "slug": "poquet-electricien",
+        "telephone": "05 55 62 23 48",
+        "site_web": "https://www.poquet-sarl.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Bellevue Zac, 23230 Gouzon",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "6389335255090649821",
+        "nom": "Galland",
+        "slug": "galland",
+        "telephone": "05 55 80 91 19",
+        "site_web": "http://www.sas-galland.fr/",
+        "adresse": "12 Rue du Couderc, 23140 Jarnages",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2377116945280850967",
+        "nom": "Chauffage urbain de Grenoble",
+        "slug": "chauffage-urbain-de-grenoble",
+        "telephone": "04 76 33 23 60",
+        "site_web": "http://www.compagniedechauffage.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Société de transport routier"
+      },
+      {
+        "id": "14624424996553732974",
+        "nom": "rénopro",
+        "slug": "renopro",
+        "telephone": "06 72 98 81 79",
+        "site_web": "https://www.bing.com/ck/a?!&&p=116eeec668e0aa638cedb4904ea3aea2b3061a59f46847030e64515a887a9b27JmltdHM9MTc2MjIxNDQwMA&ptn=3&ver=2&hsh=4&fclid=215f3523-82e4-62de-0986-23548327630f&psq=renopro+bourges&u=a1aHR0cHM6Ly93d3cucmVub3Byby1wbG9tYmVyaWUuZnIv&ntb=1",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "268029304863545799",
+        "nom": "Ets St-Martin",
+        "slug": "ets-st-martin",
+        "telephone": "05 55 62 21 51",
+        "site_web": null,
+        "adresse": "1 Rue du Commerce, 23230 Gouzon",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Bar"
+      },
+      {
+        "id": "4847999010076972097",
+        "nom": "Socalec",
+        "slug": "socalec",
+        "telephone": "05 55 62 22 04",
+        "site_web": "http://www.vinci.com/",
+        "adresse": "Bellevue, 23230 Gouzon",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "6954562794297412539",
+        "nom": "JMS Eco Energies",
+        "slug": "jms-eco-energies",
+        "telephone": "06 03 33 58 74",
+        "site_web": "https://jms-eco-energies.webflow.io/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8317946185230951757",
+        "nom": "CMEO - Plombier",
+        "slug": "cmeo-plombier",
+        "telephone": "06 82 80 74 86",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5490482668739720680",
+        "nom": "M.E.M. Plomberie Services",
+        "slug": "mem-plomberie-services",
+        "telephone": "07 67 21 33 51",
+        "site_web": "https://m-e-m-plom-0bcb1v54anidzm.web.app/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4933923633354188984",
+        "nom": "Etablissements Deschatre",
+        "slug": "etablissements-deschatre",
+        "telephone": "05 55 62 50 12",
+        "site_web": null,
+        "adresse": "40 Pl. de l'Église, 23230 Gouzon",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "felletin": {
+    "artisans": [
+      {
+        "id": "3189996174611766853",
+        "nom": "Bruno Barlaud",
+        "slug": "bruno-barlaud",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Pl. Courtaud, 23500 Felletin",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5649453719211818757",
+        "nom": "SARL AP Plomberie",
+        "slug": "sarl-ap-plomberie",
+        "telephone": "06 68 64 87 53",
+        "site_web": null,
+        "adresse": "55 Les, Combes, 23500 Felletin",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6957857379140829391",
+        "nom": "ETS BARLAUD",
+        "slug": "ets-barlaud",
+        "telephone": "05 55 66 41 13",
+        "site_web": null,
+        "adresse": "4 Rte d'Aubusson, 23500 Felletin",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "17541932357058320228",
+        "nom": "Thibaut Clement Energies",
+        "slug": "thibaut-clement-energies",
+        "telephone": "06 12 88 79 30",
+        "site_web": "https://www.facebook.com/profile.php?id=100076198990441&utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12837006802034404198",
+        "nom": "Barlaud Bruno",
+        "slug": "barlaud-bruno",
+        "telephone": "05 55 66 41 13",
+        "site_web": "http://www.plombier-chauffagiste-felletin.fr/",
+        "adresse": "Bourg, 23500 Saint-Quentin-la-Chabanne",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6561822267563259947",
+        "nom": "EIRL POELE DE MASSE - AGT - GERMAIN-THOMAS",
+        "slug": "eirl-poele-de-masse-agt-germain-thomas",
+        "telephone": "06 38 27 58 75",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "le-grand-bourg": {
+    "artisans": [
+      {
+        "id": "7197621584388420147",
+        "nom": "CHAUFFAGE BOIS",
+        "slug": "chauffage-bois",
+        "telephone": "06 28 23 50 45",
+        "site_web": null,
+        "adresse": "Le Deniaud, 23320 Saint-Silvain-Montaigut",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "576632796935274185",
+        "nom": "Trullen Batiment",
+        "slug": "trullen-batiment",
+        "telephone": "05 55 81 14 84",
+        "site_web": "https://trullen-habitat.com/",
+        "adresse": "23240 ZA les Bois Verts, 23240 Le Grand-Bourg",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10316257629858012055",
+        "nom": "Gedimat Trullen - Le Grand Bourg",
+        "slug": "gedimat-trullen-le-grand-bourg",
+        "telephone": "05 55 80 44 23",
+        "site_web": "https://www.gedimat.fr/1951-magasin-gedimat-trullen-le-grand-bourg.htm",
+        "adresse": "Zone d'Activité les Bois Verts, 23240 Le Grand-Bourg",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "5147617742666964128",
+        "nom": "Artisan En Marche",
+        "slug": "artisan-en-marche",
+        "telephone": "06 87 65 93 53",
+        "site_web": null,
+        "adresse": "46 Rue du Pont de la Gartempe, 23240 Le Grand-Bourg",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3735418519561520865",
+        "nom": "Docflamm",
+        "slug": "docflamm",
+        "telephone": "07 88 49 43 93",
+        "site_web": "http://docflamm.fr/",
+        "adresse": "9 Lisle, 23240 Le Grand-Bourg",
+        "note": 5,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "1152581718805472434",
+        "nom": "AJC ECO - Plombier Chauffagiste en Creuse (23), Indre (36) et Haute-Vienne (87)",
+        "slug": "ajc-eco-plombier-chauffagiste-en-creuse-23-indre-36-et-haute-vienne-87",
+        "telephone": "05 55 62 64 41",
+        "site_web": "https://ajceco.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5241748979142747470",
+        "nom": "SARL MULTI VERT",
+        "slug": "sarl-multi-vert",
+        "telephone": "05 55 80 45 26",
+        "site_web": "http://www.multivert.fr/",
+        "adresse": "Meillassoux, 23240 Le Grand-Bourg",
+        "note": 1,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "16896572796379842457",
+        "nom": "Redondo Chauffage",
+        "slug": "redondo-chauffage",
+        "telephone": "05 55 52 13 72",
+        "site_web": "http://www.redondochauffage.fr/",
+        "adresse": "12 Le, Masgerot, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16395986985639616361",
+        "nom": "Carrefour Bois Limousin",
+        "slug": "carrefour-bois-limousin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23210 Bénévent-l'Abbaye",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "4176776543255288469",
+        "nom": "TOITURE CHARPENTE & SERVICES",
+        "slug": "toiture-charpente-services",
+        "telephone": "05 55 80 43 90",
+        "site_web": "https://www.toiture-charpente-services.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "11 Rue du Pont de la Gartempe, 23240 Le Grand-Bourg",
+        "note": 5,
+        "avis": 4,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "gueret": {
+    "artisans": [
+      {
+        "id": "17632215953246614097",
+        "nom": "Chauffagiste Izi confort, filiale EDF",
+        "slug": "chauffagiste-izi-confort-filiale-edf",
+        "telephone": "05 55 81 77 36",
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=gueret",
+        "adresse": "19 Bd Carnot, 23000 Guéret",
+        "note": 4.3,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11089914926036763459",
+        "nom": "DESCHAMPS ABEL",
+        "slug": "deschamps-abel",
+        "telephone": "05 55 52 78 19",
+        "site_web": "https://www.axenergie.eu/agences/16-deschamps-abel-fils",
+        "adresse": "15 Rue Marc Bloch, 23000 Guéret",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "74650411506897137",
+        "nom": "Le Confort en Marche",
+        "slug": "le-confort-en-marche",
+        "telephone": "05 55 41 05 05",
+        "site_web": "https://www.leconfortenmarche.com/",
+        "adresse": "46 Rue de Stalingrad, 23000 Guéret",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8634039720004607221",
+        "nom": "Entreprise Bonnyaud",
+        "slug": "entreprise-bonnyaud",
+        "telephone": "05 55 41 10 46",
+        "site_web": "https://www.facebook.com/entreprisebonnyaud/",
+        "adresse": "2 Rue Victor Hugo, 23000 Guéret",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10949408131234848785",
+        "nom": "Creuse plomberie",
+        "slug": "creuse-plomberie",
+        "telephone": "07 72 10 60 65",
+        "site_web": "http://creuseplomberie.com/?utm_source=gmb&utm_medium=referral",
+        "adresse": "2 Pl. du Puits, 23000 Guéret",
+        "note": 5,
+        "avis": 35,
+        "type": "Plombier"
+      },
+      {
+        "id": "13473614077766274786",
+        "nom": "D. PAROTON (Electricité - Chauffage - Plomberie - Climatisation)",
+        "slug": "d-paroton-electricite-chauffage-plomberie-climatisation",
+        "telephone": "05 55 52 98 04",
+        "site_web": null,
+        "adresse": "2 Rue Henri Rol-Tanguy, 23000 Guéret",
+        "note": 3.2,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "11811244512337477952",
+        "nom": "Magadoux Demarty",
+        "slug": "magadoux-demarty",
+        "telephone": "06 85 47 09 63",
+        "site_web": "http://www.sas-demarty.fr/?utm_source=gmb",
+        "adresse": "9 Rue Montplaisir, 23000 Guéret",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11096552732459412647",
+        "nom": "Téréva Guéret",
+        "slug": "tereva-gueret",
+        "telephone": "05 55 41 47 40",
+        "site_web": "https://www.tereva.fr/document/A-394531--agence-tereva-gueret",
+        "adresse": "Zone Artisanale Les Varennes, 23000 Guéret",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "16051885687854148086",
+        "nom": "Home Energie Solutions",
+        "slug": "home-energie-solutions",
+        "telephone": "05 44 30 80 91",
+        "site_web": "https://www.home-energiesolutions.fr/",
+        "adresse": "7 Rue Jean Auclair, 23000 Guéret",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "5033130795093531533",
+        "nom": "SOLECOBOIS",
+        "slug": "solecobois",
+        "telephone": "05 55 80 40 85",
+        "site_web": "https://solecobois.fr/",
+        "adresse": "12 Av. Fayolle, 23000 Guéret",
+        "note": 4.7,
+        "avis": 56,
+        "type": "Magasin de poêles à bois"
+      }
+    ]
+  },
+  "la-souterraine": {
+    "artisans": [
+      {
+        "id": "9267770131587705845",
+        "nom": "Confort En Marche",
+        "slug": "confort-en-marche",
+        "telephone": "05 55 63 10 78",
+        "site_web": "https://www.leconfortenmarche.com/",
+        "adresse": "2 Rue des Peupliers, 23300 La Souterraine",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "1268049623508521771",
+        "nom": "B.S.T",
+        "slug": "bst",
+        "telephone": "05 87 57 12 88",
+        "site_web": "https://www.bst-plomberiechauffage.fr/",
+        "adresse": "4 Le brajaud, 23300 Saint-Maurice-la-Souterraine",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "15873954903670133545",
+        "nom": "C.A.C (Chauffage Automatique Creusois)",
+        "slug": "cac-chauffage-automatique-creusois",
+        "telephone": "05 55 63 41 76",
+        "site_web": "https://www.facebook.com/pages/category/Business-Service/Chauffage-Automatique-Creusois-322827754809058",
+        "adresse": "ZA, Bd Belmont, 23300 La Souterraine",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10672908674475562016",
+        "nom": "D. PAROTON (Electricité - Chauffage - Plomberie - Climatisation)",
+        "slug": "d-paroton-electricite-chauffage-plomberie-climatisation",
+        "telephone": "05 55 52 98 04",
+        "site_web": null,
+        "adresse": "9 Bd Belmont, 23300 La Souterraine",
+        "note": 3,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "8275873417167409405",
+        "nom": "Téréva La Souterraine",
+        "slug": "tereva-la-souterraine",
+        "telephone": "05 55 63 14 58",
+        "site_web": "https://www.tereva.fr/document/A-394533--agence-tereva-la-souterraine",
+        "adresse": "8 Rue Henri Pluyaud, 23300 La Souterraine",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "2203752666713568631",
+        "nom": "Gerbaud Christophe",
+        "slug": "gerbaud-christophe",
+        "telephone": "05 55 63 42 54",
+        "site_web": null,
+        "adresse": "4b Rue René Gillet, 23300 La Souterraine",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17325415980775816181",
+        "nom": "Ets Goussaud",
+        "slug": "ets-goussaud",
+        "telephone": "05 55 63 07 47",
+        "site_web": "https://m.facebook.com/ets.goussaud/?ref=bookmarks",
+        "adresse": "25 Rue Henri Pluyaud, 23300 La Souterraine",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "8466156513898310331",
+        "nom": "LA MAISON DE L'ENERGIE LIMOUSIN AUVERGNE",
+        "slug": "la-maison-de-lenergie-limousin-auvergne",
+        "telephone": "05 55 89 87 81",
+        "site_web": null,
+        "adresse": "ZI DU CHEIX, 23300 La Souterraine",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "13255618920471300230",
+        "nom": "Carrefour du Bois Limousin",
+        "slug": "carrefour-du-bois-limousin",
+        "telephone": "05 55 63 72 45",
+        "site_web": "https://www.carrefour-bois-limousin.com/fr/",
+        "adresse": "15 Rue de Limoges, 23300 La Souterraine",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Exploitation forestière"
+      }
+    ]
+  },
+  "saint-agnant-de-versillat": {
+    "artisans": [
+      {
+        "id": "11359909332029443084",
+        "nom": "Dunet Loïc",
+        "slug": "dunet-loic",
+        "telephone": "05 55 63 16 23",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "414374706716559589",
+        "nom": "Toti Rocco Et Fils SAS",
+        "slug": "toti-rocco-et-fils-sas",
+        "telephone": "05 55 63 82 12",
+        "site_web": null,
+        "adresse": "11 Bis La Chenedière, 23300 Saint-Agnant-de-Versillat",
+        "note": 5,
+        "avis": 7,
+        "type": "Maçon"
+      },
+      {
+        "id": "7742222679567400594",
+        "nom": "Sherrard Nathan",
+        "slug": "sherrard-nathan",
+        "telephone": "06 72 61 31 79",
+        "site_web": "https://www.nspce.net/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8059240488546614037",
+        "nom": "Menuiserie ADAM SAS ( Conception, fabrication et pose de Menuiseries Bois - Alu - PVC )",
+        "slug": "menuiserie-adam-sas-conception-fabrication-et-pose-de-menuiseries-bois-alu-pvc",
+        "telephone": "05 55 63 11 08",
+        "site_web": "https://menuiseries-adam.fr/",
+        "adresse": "18 Rte de la Souterraine, 23300 Saint-Agnant-de-Versillat",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      }
+    ]
+  },
+  "sainte-feyre": {
+    "artisans": [
+      {
+        "id": "1936861603675459901",
+        "nom": "SOLUTION CONFORT & HABITAT",
+        "slug": "solution-confort-habitat",
+        "telephone": "07 86 58 90 03",
+        "site_web": "https://www.solutionconfortethabitat.fr/",
+        "adresse": "32 rue charles trenet, Le Petit Changon, 23000 Sainte-Feyre",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-dizier-masbaraud": {
+    "artisans": [
+      {
+        "id": "8226451490459094538",
+        "nom": "Gite en Creuse à la ferme, 10-11 pers: gite des Limousines",
+        "slug": "gite-en-creuse-a-la-ferme-10-11-pers-gite-des-limousines",
+        "telephone": "06 17 47 45 13",
+        "site_web": "https://www.clevacances.com/fr/locationvacances/limousin/creuse/saintdiziermasbaraud-82269/gite_des_limousines/62439",
+        "adresse": "6 Le Monteil, 23400 Saint-Dizier-Masbaraud",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Gîte"
+      },
+      {
+        "id": "4542875154058887948",
+        "nom": "Maix'entreprise",
+        "slug": "maixentreprise",
+        "telephone": "06 99 31 79 61",
+        "site_web": "https://www.facebook.com/plombier.chauffagiste23",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4142358693869394785",
+        "nom": "Ei Simon NANY",
+        "slug": "ei-simon-nany",
+        "telephone": "06 31 63 43 25",
+        "site_web": null,
+        "adresse": "3 Perlaurière, 23400 Saint-Dizier-Masbaraud",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17293132864641457969",
+        "nom": "La Demeure du Bost, Location gîte en Creuse",
+        "slug": "la-demeure-du-bost-location-gite-en-creuse",
+        "telephone": "06 62 54 89 19",
+        "site_web": "https://www.demeure-du-bost.com/",
+        "adresse": "Le, Bost Peyrussé, 23400",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Maison de vacances"
+      },
+      {
+        "id": "16416234958301203561",
+        "nom": "CL BOIS",
+        "slug": "cl-bois",
+        "telephone": "06 17 66 16 64",
+        "site_web": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.clbois.com/&ved=2ahUKEwj76tGFjPyJAxUvU6QEHVpQApoQ_Bd6BAhGEAM&authuser=1&usg=AOvVaw2cT-CyOHr6Fwpwz-R_cYuf",
+        "adresse": "1 Rue Bel air, 23400 Saint-Dizier-Masbaraud",
+        "note": 5,
+        "avis": 3,
+        "type": "Exploitation forestière"
+      },
+      {
+        "id": "10343487860392925121",
+        "nom": "Saint-Dizier-Masbaraud",
+        "slug": "saint-dizier-masbaraud",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23400 Saint-Dizier-Masbaraud",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "fursac": {
+    "artisans": [
+      {
+        "id": "16621135441916141215",
+        "nom": "Yvan Martin Artisan",
+        "slug": "yvan-martin-artisan",
+        "telephone": "05 55 63 52 20",
+        "site_web": "http://www.yvanmartin.fr/",
+        "adresse": "27 Chabanne Judeau, 23290 Fursac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16467104262804068024",
+        "nom": "De Matos Manuel",
+        "slug": "de-matos-manuel",
+        "telephone": "05 55 63 66 64",
+        "site_web": null,
+        "adresse": "20 Paulhac, 23290 Fursac",
+        "note": 5,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "1342862497612599610",
+        "nom": "Louzé Gwennael Plomberie du Limousin",
+        "slug": "louze-gwennael-plomberie-du-limousin",
+        "telephone": "06 16 87 37 55",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1086850578740451776",
+        "nom": "BST",
+        "slug": "bst",
+        "telephone": "05 87 57 12 88",
+        "site_web": "https://www.bst-plomberiechauffage.com/devis-gratuit-chauffagiste-plombier-climatisation-bst-a-saint-maurice-la-souterrain",
+        "adresse": "17 Bordessoule, 23300 Saint-Maurice-la-Souterraine",
+        "note": 5,
+        "avis": 1,
+        "type": null
+      }
+    ]
+  },
+  "saint-maurice-la-souterraine": {
+    "artisans": [
+      {
+        "id": "15692247234741295666",
+        "nom": "NSPCE",
+        "slug": "nspce",
+        "telephone": "06 72 61 31 79",
+        "site_web": "https://nathan-sherrard.fr/",
+        "adresse": "26 Grand Rue, 23300 Saint-Maurice-la-Souterraine",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3090293990351639194",
+        "nom": "TIGR",
+        "slug": "tigr",
+        "telephone": "05 55 76 23 73",
+        "site_web": "http://www.tigr.fr/",
+        "adresse": "P.A de, La Croisière, 23300 Saint-Maurice-la-Souterraine",
+        "note": 5,
+        "avis": 1,
+        "type": "Fabricant de constructions transportables"
+      }
+    ]
+  },
+  "saint-fiel": {
+    "artisans": [
+      {
+        "id": "9765231270260641153",
+        "nom": "DEBARD PATRICK",
+        "slug": "debard-patrick",
+        "telephone": "05 55 81 15 85",
+        "site_web": "https://www.patrick-debard.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "15 Lieu-dit, Les Vergnes, 23000 Sainte-Feyre",
+        "note": 5,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "289870376680167344",
+        "nom": "Saint-Fiel",
+        "slug": "saint-fiel",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "23000 Saint-Fiel",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "17719797196401761363",
+        "nom": "Guendouz Mohamed",
+        "slug": "guendouz-mohamed",
+        "telephone": "05 55 51 03 69",
+        "site_web": null,
+        "adresse": "29 Chignaroche, 23000 Anzême",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6548121076306450361",
+        "nom": "Technitoit Guéret",
+        "slug": "technitoit-gueret",
+        "telephone": "05 33 52 29 41",
+        "site_web": "https://www.technitoit.com/agence/technitoit-gueret?utm_source=google&utm_medium=gmb",
+        "adresse": "Z.A. Du Cher des Cerisiers, 1 All. des Prades, 23000 Saint-Fiel",
+        "note": 4.3,
+        "avis": 83,
+        "type": "Couvreur"
+      },
+      {
+        "id": "17480275457085813434",
+        "nom": "Tribet Sarl",
+        "slug": "tribet-sarl",
+        "telephone": "05 55 52 70 31",
+        "site_web": null,
+        "adresse": "11 Laschamps de Chavanat, 23000 Saint-Fiel",
+        "note": 3.8,
+        "avis": 8,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "saint-sulpice-le-gueretois": {
+    "artisans": [
+      {
+        "id": "3236174955040431227",
+        "nom": "SARL Gabor Fabrice",
+        "slug": "sarl-gabor-fabrice",
+        "telephone": "06 16 14 56 50",
+        "site_web": "https://www.gabor-fabrice.fr/",
+        "adresse": "22 Chamilloux, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8015201317940885029",
+        "nom": "Ramerand Bois",
+        "slug": "ramerand-bois",
+        "telephone": "07 80 94 08 40",
+        "site_web": "https://ramerandbois.fr/",
+        "adresse": "Station Avia Aire Monts Gueret, N145 RN 145, 2300, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9927199222413905584",
+        "nom": "Laroche Didier, DBS DEPANNGES 23",
+        "slug": "laroche-didier-dbs-depannges-23",
+        "telephone": "06 06 45 65 05",
+        "site_web": null,
+        "adresse": "1 Route de la Marché, 23000 Saint-Sulpice-le-Guérétois, 23000 Saint-Sulpice-le-Guérétois",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Ramoneur"
+      }
+    ]
+  },
+  "ahun": {
+    "artisans": [
+      {
+        "id": "12664182643760142135",
+        "nom": "Fayaubost Gérard",
+        "slug": "fayaubost-gerard",
+        "telephone": "05 55 62 41 94",
+        "site_web": "http://www.eurl-fayaubost.fr/",
+        "adresse": "53 Grande Rue, 23150 Ahun",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "ajain": {
+    "artisans": [
+      {
+        "id": "5316648929473432547",
+        "nom": "M. Chene Marc",
+        "slug": "m-chene-marc",
+        "telephone": "05 55 80 97 49",
+        "site_web": "https://www.pagesjaunes.fr/pros/04592407",
+        "adresse": "8 Rte de Glenic, 23380 Ajain",
+        "note": 3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5573290875753542132",
+        "nom": "Marcq James",
+        "slug": "marcq-james",
+        "telephone": "06 86 48 33 28",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "17402040092360389208",
+        "nom": "Creuse Dépannage",
+        "slug": "creuse-depannage",
+        "telephone": "07 78 07 16 96",
+        "site_web": "https://www.creuse-depannage.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4981558998281080969",
+        "nom": "Laroche Didier-Dbs Dépannages 23-Ramoneur,Plombier,Chauffagiste",
+        "slug": "laroche-didier-dbs-depannages-23-ramoneurplombierchauffagiste",
+        "telephone": "06 06 45 65 05",
+        "site_web": null,
+        "adresse": "2, 23140 Pionnat",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "14418309030852024937",
+        "nom": "Mignot-Roger SARL",
+        "slug": "mignot-roger-sarl",
+        "telephone": "06 59 98 76 49",
+        "site_web": "http://www.mignot-roger.com/",
+        "adresse": "3 Prenede, 23270 Roches",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "9932930978592036545",
+        "nom": "Percevault Patrick SARL",
+        "slug": "percevault-patrick-sarl",
+        "telephone": "05 55 81 15 41",
+        "site_web": "https://www.percevaultpatrick.fr/",
+        "adresse": "23150 Saint-Hilaire-la-Plaine",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12024529405485646523",
+        "nom": "Copper'Teck SAS",
+        "slug": "copperteck-sas",
+        "telephone": "07 87 98 54 96",
+        "site_web": "https://copper-teck.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "aubusson": {
+    "artisans": [
+      {
+        "id": "14060551316017498197",
+        "nom": "Sauvanet Mazuel",
+        "slug": "sauvanet-mazuel",
+        "telephone": "05 55 66 18 61",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.4,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3888379054562019585",
+        "nom": "MONSIEUR MATHIEU GARRAUD",
+        "slug": "monsieur-mathieu-garraud",
+        "telephone": "06 58 36 09 43",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8787590174580422193",
+        "nom": "L.L Ramoneur Professionnel - Ramonage en Creuse - Ramoneur Aubusson",
+        "slug": "ll-ramoneur-professionnel-ramonage-en-creuse-ramoneur-aubusson",
+        "telephone": "06 88 60 40 24",
+        "site_web": null,
+        "adresse": "75 Rue des Méris, 23200 Aubusson",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "12742861976922096920",
+        "nom": "Raix Michel",
+        "slug": "raix-michel",
+        "telephone": "05 55 66 13 73",
+        "site_web": null,
+        "adresse": "23200 Aubusson",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5129094373844799159",
+        "nom": "PUYBARET AUBUSSON",
+        "slug": "puybaret-aubusson",
+        "telephone": "05 55 83 86 22",
+        "site_web": "http://www.puybaret.com/",
+        "adresse": "Z.I. DU MONT, 23200 Aubusson",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "11699483595157920971",
+        "nom": "Deschamps Abel SAS",
+        "slug": "deschamps-abel-sas",
+        "telephone": "05 55 66 22 22",
+        "site_web": "http://www.abeldeschamps.fr/",
+        "adresse": "40 Grande R., 23200 Aubusson",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  }
+}

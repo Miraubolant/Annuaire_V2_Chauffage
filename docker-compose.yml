@@ -1,0 +1,16 @@
+services:
+  web:
+    build: .
+    container_name: vint-isolation
+    ports:
+      - "8011:80"
+    volumes:
+      - .:/var/www/html:rw
+    environment:
+      - SITE_URL=http://localhost:8011
+    command: >
+      bash -c "cp /var/www/html/docker/apache.conf /etc/apache2/conf-enabled/custom.conf &&
+               cd /var/www/html &&
+               (npm install --silent && npm run build 2>/dev/null || echo 'Tailwind build skipped — using existing app.min.css') &&
+               apache2-foreground"
+    restart: unless-stopped

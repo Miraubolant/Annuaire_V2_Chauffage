@@ -1,0 +1,324 @@
+{
+  "departement": {
+    "code": "75",
+    "nom": "Paris",
+    "slug": "paris",
+    "population_totale": 2133111
+  },
+  "region": {
+    "id": 11,
+    "code": "10",
+    "nom": "Île-de-France",
+    "slug": "ile-de-france"
+  },
+  "voisins": [
+    {
+      "dep_code": "77",
+      "dep_nom": "Seine-et-Marne",
+      "dep_slug": "seine-et-marne"
+    },
+    {
+      "dep_code": "78",
+      "dep_nom": "Yvelines",
+      "dep_slug": "yvelines"
+    },
+    {
+      "dep_code": "91",
+      "dep_nom": "Essonne",
+      "dep_slug": "essonne"
+    },
+    {
+      "dep_code": "92",
+      "dep_nom": "Hauts-de-Seine",
+      "dep_slug": "hauts-de-seine"
+    }
+  ],
+  "communes_count": 1,
+  "communes": [
+    {
+      "code_insee": "75056",
+      "nom": "Paris",
+      "nom_a": null,
+      "nom_de": null,
+      "slug": "paris",
+      "code_postal": "75000",
+      "population": 2133111,
+      "superficie_km2": 105.0,
+      "latitude": 48.8534,
+      "longitude": 2.3488,
+      "villes_proches": [
+        {
+          "code_insee": "94037",
+          "nom": "Gentilly",
+          "slug": "gentilly",
+          "code_postal": "94250",
+          "population": 19048,
+          "superficie_km2": 1.0,
+          "latitude": 48.8129997,
+          "longitude": 2.3440001,
+          "distance_km": 4.51
+        },
+        {
+          "code_insee": "92049",
+          "nom": "Montrouge",
+          "slug": "montrouge",
+          "code_postal": "92120",
+          "population": 47657,
+          "superficie_km2": 2.0,
+          "latitude": 48.8149986,
+          "longitude": 2.316,
+          "distance_km": 4.9
+        },
+        {
+          "code_insee": "94043",
+          "nom": "Le Kremlin-Bicêtre",
+          "slug": "le-kremlin-bicetre",
+          "code_postal": "94270",
+          "population": 24380,
+          "superficie_km2": 2.0,
+          "latitude": 48.8089981,
+          "longitude": 2.3570001,
+          "distance_km": 4.97
+        },
+        {
+          "code_insee": "94067",
+          "nom": "Saint-Mandé",
+          "slug": "saint-mande",
+          "code_postal": "94160",
+          "population": 21195,
+          "superficie_km2": 1.0,
+          "latitude": 48.8419991,
+          "longitude": 2.4189999,
+          "distance_km": 5.29
+        },
+        {
+          "code_insee": "94041",
+          "nom": "Ivry-sur-Seine",
+          "slug": "ivry-sur-seine",
+          "code_postal": "94200",
+          "population": 64001,
+          "superficie_km2": 6.0,
+          "latitude": 48.8129997,
+          "longitude": 2.388,
+          "distance_km": 5.33
+        },
+        {
+          "code_insee": "94003",
+          "nom": "Arcueil",
+          "slug": "arcueil",
+          "code_postal": "94110",
+          "population": 21557,
+          "superficie_km2": 2.0,
+          "latitude": 48.8059998,
+          "longitude": 2.3340001,
+          "distance_km": 5.38
+        },
+        {
+          "code_insee": "93061",
+          "nom": "Le Pré-Saint-Gervais",
+          "slug": "le-pre-saint-gervais",
+          "code_postal": "93310",
+          "population": 16865,
+          "superficie_km2": 1.0,
+          "latitude": 48.8849983,
+          "longitude": 2.405,
+          "distance_km": 5.41
+        },
+        {
+          "code_insee": "94018",
+          "nom": "Charenton-le-Pont",
+          "slug": "charenton-le-pont",
+          "code_postal": "94220",
+          "population": 29445,
+          "superficie_km2": 2.0,
+          "latitude": 48.8230019,
+          "longitude": 2.408,
+          "distance_km": 5.5
+        },
+        {
+          "code_insee": "92046",
+          "nom": "Malakoff",
+          "slug": "malakoff",
+          "code_postal": "92240",
+          "population": 30292,
+          "superficie_km2": 2.0,
+          "latitude": 48.8170013,
+          "longitude": 2.2969999,
+          "distance_km": 5.55
+        },
+        {
+          "code_insee": "93006",
+          "nom": "Bagnolet",
+          "slug": "bagnolet",
+          "code_postal": "93170",
+          "population": 39366,
+          "superficie_km2": 3.0,
+          "latitude": 48.8689995,
+          "longitude": 2.4230001,
+          "distance_km": 5.7
+        },
+        {
+          "code_insee": "92075",
+          "nom": "Vanves",
+          "slug": "vanves",
+          "code_postal": "92170",
+          "population": 28014,
+          "superficie_km2": 2.0,
+          "latitude": 48.8219986,
+          "longitude": 2.2869999,
+          "distance_km": 5.71
+        },
+        {
+          "code_insee": "93045",
+          "nom": "Les Lilas",
+          "slug": "les-lilas",
+          "code_postal": "93260",
+          "population": 23469,
+          "superficie_km2": 1.0,
+          "latitude": 48.882,
+          "longitude": 2.4200001,
+          "distance_km": 6.1
+        },
+        {
+          "code_insee": "93070",
+          "nom": "Saint-Ouen-sur-Seine",
+          "slug": "saint-ouen-sur-seine",
+          "code_postal": "93400",
+          "population": 53207,
+          "superficie_km2": 4.0,
+          "latitude": 48.9099999,
+          "longitude": 2.3329999,
+          "distance_km": 6.4
+        },
+        {
+          "code_insee": "92024",
+          "nom": "Clichy",
+          "slug": "clichy",
+          "code_postal": "92110",
+          "population": 64849,
+          "superficie_km2": 3.0,
+          "latitude": 48.9039993,
+          "longitude": 2.306,
+          "distance_km": 6.44
+        },
+        {
+          "code_insee": "92044",
+          "nom": "Levallois-Perret",
+          "slug": "levallois-perret",
+          "code_postal": "92300",
+          "population": 68009,
+          "superficie_km2": 2.0,
+          "latitude": 48.8950005,
+          "longitude": 2.2869999,
+          "distance_km": 6.47
+        },
+        {
+          "code_insee": "94080",
+          "nom": "Vincennes",
+          "slug": "vincennes",
+          "code_postal": "94300",
+          "population": 48798,
+          "superficie_km2": 2.0,
+          "latitude": 48.8470001,
+          "longitude": 2.438,
+          "distance_km": 6.57
+        },
+        {
+          "code_insee": "93055",
+          "nom": "Pantin",
+          "slug": "pantin",
+          "code_postal": "93500",
+          "population": 60800,
+          "superficie_km2": 5.0,
+          "latitude": 48.8979988,
+          "longitude": 2.4089999,
+          "distance_km": 6.63
+        },
+        {
+          "code_insee": "94076",
+          "nom": "Villejuif",
+          "slug": "villejuif",
+          "code_postal": "94800",
+          "population": 57753,
+          "superficie_km2": 5.0,
+          "latitude": 48.7929993,
+          "longitude": 2.3599999,
+          "distance_km": 6.77
+        },
+        {
+          "code_insee": "92007",
+          "nom": "Bagneux",
+          "slug": "bagneux",
+          "code_postal": "92220",
+          "population": 43699,
+          "superficie_km2": 4.0,
+          "latitude": 48.7980003,
+          "longitude": 2.3099999,
+          "distance_km": 6.78
+        },
+        {
+          "code_insee": "94016",
+          "nom": "Cachan",
+          "slug": "cachan",
+          "code_postal": "94230",
+          "population": 30592,
+          "superficie_km2": 3.0,
+          "latitude": 48.7919998,
+          "longitude": 2.332,
+          "distance_km": 6.94
+        }
+      ],
+      "zonage_abc": "Abis",
+      "reclassement_abc": "Non",
+      "codes_postaux": [],
+      "logement": {
+        "logements_total": 1399122,
+        "residences_principales": 1125472,
+        "logements_vacants": 136956,
+        "residences_secondaires": 136692,
+        "maisons": 10704,
+        "appartements": 1356475,
+        "proprietaires": 375594,
+        "locataires": 696303,
+        "hlm": 202692,
+        "construits_avant_1919": 351437,
+        "construits_1919_1945": 195323,
+        "construits_1946_1970": 222726,
+        "construits_1971_1990": 233486,
+        "construits_1991_2005": 81145,
+        "construits_2006_2019": 38220,
+        "chauffage_electrique": 474454,
+        "chauffage_fioul": 35389,
+        "chauffage_gaz_ville": 607534,
+        "chauffage_gaz_bouteille": 3185,
+        "chauffage_autre": 4908,
+        "menages": 1125472,
+        "logements_avant_1990": 1002972
+      },
+      "artisans": {
+        "monte_escalier": 0,
+        "chauffage_pac_clim": 0,
+        "isolation": 0,
+        "menuiserie": 0,
+        "fenetres_velux": 0,
+        "couverture_toiture": 0,
+        "facade_peinture": 0,
+        "portes_volets": 0,
+        "piscine": 0,
+        "vmc_ventilation": 0,
+        "assainissement": 0
+      },
+      "revenus": {
+        "revenu_median": 28790.0,
+        "part_menages_imposes": 69.0,
+        "taux_pauvrete": 15.0
+      },
+      "aides_etat": {
+        "zone_climatique": "H1",
+        "qpv": true,
+        "action_coeur_de_ville": false,
+        "petites_villes_de_demain": false
+      }
+    }
+  ]
+}

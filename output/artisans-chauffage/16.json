@@ -1,0 +1,4862 @@
+{
+  "balzac": {
+    "artisans": [
+      {
+        "id": "13999223071114791368",
+        "nom": "Sarl stephan plomberie chauffage et sanitaire",
+        "slug": "sarl-stephan-plomberie-chauffage-et-sanitaire",
+        "telephone": "07 80 40 67 21",
+        "site_web": "https://stephan-plombier-chauffagiste-angouleme.fr/",
+        "adresse": "Rue des Charmes, 16430 Champniers",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7999315169172661122",
+        "nom": "Home Charente Plomberie",
+        "slug": "home-charente-plomberie",
+        "telephone": "06 22 82 81 27",
+        "site_web": "https://charente-plomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1397044149262534365",
+        "nom": "plomberie chauffage climatisation E.S.I. Dépannage Installation",
+        "slug": "plomberie-chauffage-climatisation-esi-depannage-installation",
+        "telephone": "07 82 15 82 79",
+        "site_web": "http://esi-energie.fr/",
+        "adresse": "98 Rue des Chênes, 16430 Champniers",
+        "note": 5,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "418782370377849299",
+        "nom": "Artisan-Chauffagiste-Plombier",
+        "slug": "artisan-chauffagiste-plombier",
+        "telephone": "06 10 74 80 09",
+        "site_web": null,
+        "adresse": "30 Rte Ruelle, 16430 Champniers",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8039672038871535656",
+        "nom": "Cspe - Chauffage Sanitaire Plomberie Electricité Champniers",
+        "slug": "cspe-chauffage-sanitaire-plomberie-electricite-champniers",
+        "telephone": "05 45 69 84 54",
+        "site_web": "https://www.cspe-philippedavid-champniers.fr/",
+        "adresse": "363 Rue Lucien Deschamps, 16430 Champniers",
+        "note": 4.6,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "17715877879224381486",
+        "nom": "ABC du Chaud et Froid Plombier Chauffagiste",
+        "slug": "abc-du-chaud-et-froid-plombier-chauffagiste",
+        "telephone": "05 45 66 38 84",
+        "site_web": "https://www.abc-chaud-froid.fr/",
+        "adresse": "Parc de la rocade, Rte de Gond-Pontouvre, 16600 Ruelle-sur-Touvre",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6520995908092845651",
+        "nom": "Charente Energies Services",
+        "slug": "charente-energies-services",
+        "telephone": "06 46 13 00 46",
+        "site_web": "http://www.facebook.com/Charente-Energies-Services-101159631891915",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "8757419587299425427",
+        "nom": "ATC Bernard Plombier Chauffagiste",
+        "slug": "atc-bernard-plombier-chauffagiste",
+        "telephone": "05 45 65 41 49",
+        "site_web": "https://www.atcbernard.fr/",
+        "adresse": "9 Rue de l'Épargne, 16340 L'Isle-d'Espagnac",
+        "note": 4.1,
+        "avis": 92,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17513294592830456765",
+        "nom": "Demond Olivier - Rénovation, création de salle de bain, plomberie",
+        "slug": "demond-olivier-renovation-creation-de-salle-de-bain-plomberie",
+        "telephone": "06 61 56 11 99",
+        "site_web": "https://www.salle-de-bain-renovation.fr/",
+        "adresse": "54 Rte des Chabots, 16430 Balzac",
+        "note": 5,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "7897121397534650853",
+        "nom": "Coussy SAS",
+        "slug": "coussy-sas",
+        "telephone": "06 31 55 37 61",
+        "site_web": "http://www.coussy-freres.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 67,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "asnieres-sur-nouere": {
+    "artisans": [
+      {
+        "id": "3972560749237224837",
+        "nom": "X P Plomberie",
+        "slug": "x-p-plomberie",
+        "telephone": "07 83 85 17 17",
+        "site_web": "https://www.xp-plomberie.fr/",
+        "adresse": "102 Rte des Maréchaux, 16290 Asnières-sur-Nouère",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "644521888624418651",
+        "nom": "AEPC 16",
+        "slug": "aepc-16",
+        "telephone": "06 31 64 44 47",
+        "site_web": "https://aepc16-plombier-charente.fr/",
+        "adresse": "6 impasse du safran, 16290 Asnières-sur-Nouère",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18329275674440753589",
+        "nom": "ADPC - Anthony Dépannage Plomberie Chauffage",
+        "slug": "adpc-anthony-depannage-plomberie-chauffage",
+        "telephone": "06 68 70 19 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9560596497526112637",
+        "nom": "Etablissement Narcès",
+        "slug": "etablissement-narces",
+        "telephone": "05 45 65 08 09",
+        "site_web": "http://www.facebook.com/NARCES-Nicolas-170769016308101/",
+        "adresse": "lotissement les petits bois 16290, Asnières-sur-Nouère",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "aigre": {
+    "artisans": [
+      {
+        "id": "1566930880667924809",
+        "nom": "CLIMATECH ENERGIES 16",
+        "slug": "climatech-energies-16",
+        "telephone": "06 19 09 79 63",
+        "site_web": null,
+        "adresse": "9 L'Ouchelette, 16560 Tourriers",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1185186385583391002",
+        "nom": "MITAINE Plombier Chauffagiste",
+        "slug": "mitaine-plombier-chauffagiste",
+        "telephone": "05 45 30 30 92",
+        "site_web": null,
+        "adresse": "18 bis Rte d'Aigre, 16140 Charmé",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17489500325531161178",
+        "nom": "ETABLISSEMENTS SYLVESTRE",
+        "slug": "etablissements-sylvestre",
+        "telephone": "05 45 21 03 69",
+        "site_web": "https://www.sylvestre-energies.fr/",
+        "adresse": "Za De Villejésus, 16140 Aigre",
+        "note": 3.9,
+        "avis": 20,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "11294688135877310668",
+        "nom": "Plomberie Lemercier",
+        "slug": "plomberie-lemercier",
+        "telephone": "06 30 61 05 20",
+        "site_web": "https://plomberie-lemercier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "14025919242492090645",
+        "nom": "SAS Mitaine",
+        "slug": "sas-mitaine",
+        "telephone": "05 45 30 30 92",
+        "site_web": "http://www.facebook.com/plomberiemitaine/",
+        "adresse": null,
+        "note": 3.8,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "16216503717615651794",
+        "nom": "RDDP Maintenances plomberie chauffage",
+        "slug": "rddp-maintenances-plomberie-chauffage",
+        "telephone": "07 61 11 99 39",
+        "site_web": "https://rddp74.webnode.fr/",
+        "adresse": "28 Rue Eugène de Thiac, 16230 Puyréaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1367004414140399134",
+        "nom": "Ollier David",
+        "slug": "ollier-david",
+        "telephone": "05 45 96 80 99",
+        "site_web": null,
+        "adresse": "Rue des Maçons, 16140 Ambérac",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "2534905440771767065",
+        "nom": "Leopold Belghali",
+        "slug": "leopold-belghali",
+        "telephone": "06 76 39 57 49",
+        "site_web": "https://lb-clim-charente.fr/",
+        "adresse": null,
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "rivieres": {
+    "artisans": [
+      {
+        "id": "15176214081313591936",
+        "nom": "SARL VULFIN & frères",
+        "slug": "sarl-vulfin-freres",
+        "telephone": "06 14 30 62 99",
+        "site_web": "https://www.reseau-proeco-energies.fr/artisan/ets-vulfin-et-freres-1465",
+        "adresse": "Villemalet, 16110 La Rochette",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1840542043243154564",
+        "nom": "Dagnias-Laloi",
+        "slug": "dagnias-laloi",
+        "telephone": "05 45 63 93 82",
+        "site_web": null,
+        "adresse": "23Rue du Mainebeau, 16110 Rivières",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2240883488619554326",
+        "nom": "Qualit'EnR",
+        "slug": "qualitenr",
+        "telephone": "01 48 78 70 90",
+        "site_web": "https://www.qualit-enr.org/",
+        "adresse": "62 Rue de la Chau. d'Antin CS 50020, 75009 Paris",
+        "note": 4.1,
+        "avis": 482,
+        "type": "Association ou organisation"
+      },
+      {
+        "id": "15860804521107278103",
+        "nom": "HAEC",
+        "slug": "haec",
+        "telephone": "06 36 13 05 92",
+        "site_web": null,
+        "adresse": "375, rue des, Les Palisses de Mazat, 16110 Rivières",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16069028109676229007",
+        "nom": "Compagnie Française des Energies Nouvelles CFEN",
+        "slug": "compagnie-francaise-des-energies-nouvelles-cfen",
+        "telephone": "05 45 21 24 43",
+        "site_web": "http://www.cfen-16.com/?utm_source=gmb",
+        "adresse": "125 rue Pouyade, Lavaud Lieu Dit, 16110 Rivières",
+        "note": 4.9,
+        "avis": 155,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": "06 49 25 09 25",
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "7 Lot. Clos des Marronniers, 16110 La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "289870376680206560",
+        "nom": "Rivières",
+        "slug": "rivieres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16110 Rivières",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "14559646118495804209",
+        "nom": "Sarl Pereira Jose",
+        "slug": "sarl-pereira-jose",
+        "telephone": "05 45 23 76 87",
+        "site_web": null,
+        "adresse": "200 All. des Chateleaux, 16590 Brie",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "14961018438775480557",
+        "nom": "ANTHONY JUGANT",
+        "slug": "anthony-jugant",
+        "telephone": "06 38 82 06 83",
+        "site_web": "https://chauffagiste-anthony-jugant.fr/",
+        "adresse": "170 Rue des Châtaigniers, 16110 Rivières",
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14119824970535646866",
+        "nom": "ETS Jolly",
+        "slug": "ets-jolly",
+        "telephone": "06 61 99 56 54",
+        "site_web": "https://www.etsjolly.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "barbezieux-saint-hilaire": {
+    "artisans": [
+      {
+        "id": "7139000472284613333",
+        "nom": "Téréva Barbezieux",
+        "slug": "tereva-barbezieux",
+        "telephone": "05 45 79 08 05",
+        "site_web": "https://www.tereva.fr/document/A-394583--agence-tereva-barbezieux",
+        "adresse": "2 Rte de Chalais, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "8750330960498822489",
+        "nom": "Charente Dépannage Domestique",
+        "slug": "charente-depannage-domestique",
+        "telephone": "07 45 11 55 15",
+        "site_web": "https://www.facebook.com/profile.php?id=61556596808838",
+        "adresse": "5 Chem. des Douves, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "8251854129656950165",
+        "nom": "Chauffage Plomberie Carrara",
+        "slug": "chauffage-plomberie-carrara",
+        "telephone": "05 45 78 41 96",
+        "site_web": "http://www.cpc16.fr/",
+        "adresse": "ZA Plaisance, 2 Rue des Maines, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11042318392061965113",
+        "nom": "SARL AVEONE",
+        "slug": "sarl-aveone",
+        "telephone": "05 45 78 31 31",
+        "site_web": null,
+        "adresse": "23 Av. Vergne, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4848807439636910126",
+        "nom": "Eco'tech Confort",
+        "slug": "ecotech-confort",
+        "telephone": "05 16 53 07 98",
+        "site_web": "http://www.ecotechconfort.fr/",
+        "adresse": "18 Rue Victor Hugo, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.7,
+        "avis": 48,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "665472652739499682",
+        "nom": "L'Atre Barbezilien - JOTUL Barbezieux : Poêles et cheminées Scandinaves",
+        "slug": "latre-barbezilien-jotul-barbezieux-poeles-et-cheminees-scandinaves",
+        "telephone": "05 45 78 36 44",
+        "site_web": "https://magasin.jotul.fr/barbezieux-vaux-sur-mer/",
+        "adresse": "62 Rue de la République, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Cheministe"
+      },
+      {
+        "id": "14120991029688443886",
+        "nom": "Thermique Electricité",
+        "slug": "thermique-electricite",
+        "telephone": "05 45 78 70 14",
+        "site_web": null,
+        "adresse": "le bourg de st hilaire, 16300 Barbezieux-Saint-Hilaire",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "angouleme": {
+    "artisans": [
+      {
+        "id": "16479205954014664831",
+        "nom": "ADS MULOT ERIC",
+        "slug": "ads-mulot-eric",
+        "telephone": "09 74 56 35 25",
+        "site_web": null,
+        "adresse": "30 Rue des Cressonnières, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Plombier"
+      },
+      {
+        "id": "14432129887745828725",
+        "nom": "Atout Chauffage 16",
+        "slug": "atout-chauffage-16",
+        "telephone": "06 74 18 76 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 41,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": "06 16 38 98 40",
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "23 Imp. Leroy, 16000 Angoulême",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2982377415841606374",
+        "nom": "Mousnier DGM - Plombier Chauffagiste",
+        "slug": "mousnier-dgm-plombier-chauffagiste",
+        "telephone": "05 45 61 60 12",
+        "site_web": "https://www.mousnier-dgm.fr/",
+        "adresse": "119 Rue d'Angoulême, 16400 Puymoyen",
+        "note": 5,
+        "avis": 132,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16403545560589101998",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "05 45 95 61 62",
+        "site_web": "https://agence.engie-homeservices.fr/158-engie-home-services-angouleme?utm_source=gmb",
+        "adresse": "126 Avenue de Bretagne, 16000 Angoulême",
+        "note": 4.3,
+        "avis": 387,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14393074689791591037",
+        "nom": "Eco'tech confort",
+        "slug": "ecotech-confort",
+        "telephone": "05 16 53 07 98",
+        "site_web": "https://www.ecotechconfort.fr/?utm_source=google&utm_medium=Organic&utm_id=GBP_fiche_angouleme",
+        "adresse": "379 Rue de Bordeaux, 16000 Angoulême",
+        "note": 5,
+        "avis": 54,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10999740592854130106",
+        "nom": "2PHR ENERGY",
+        "slug": "2phr-energy",
+        "telephone": "07 56 90 50 58",
+        "site_web": "https://2phr-energy.fr/",
+        "adresse": "401 Rue de Bordeaux, 16000 Angoulême",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9630952549888412657",
+        "nom": "SODIMAC",
+        "slug": "sodimac",
+        "telephone": "05 45 92 41 60",
+        "site_web": "http://www.sodimac16.fr/",
+        "adresse": "193 Rue de la Tourgarnier, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 32,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7551496708866067679",
+        "nom": "Thermique Charente",
+        "slug": "thermique-charente",
+        "telephone": "05 45 95 57 00",
+        "site_web": null,
+        "adresse": "152 Bd Salvador Allende, 16340 L'Isle-d'Espagnac",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "14408083747214595314",
+        "nom": "COUSIN BOIS - Bois de chauffage - Granulés de bois - Ramonage - Exploitation forestière",
+        "slug": "cousin-bois-bois-de-chauffage-granules-de-bois-ramonage-exploitation-forestiere",
+        "telephone": "09 81 89 86 54",
+        "site_web": "http://www.cousin-bois-energie.fr/",
+        "adresse": "350 Rue de Bordeaux, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "dirac": {
+    "artisans": [
+      {
+        "id": "10846989850487531549",
+        "nom": "tbservices16",
+        "slug": "tbservices16",
+        "telephone": "06 61 80 06 41",
+        "site_web": null,
+        "adresse": "48 Sentier des Pierres Sèches, 16410 Dirac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1160725725241577226",
+        "nom": "EIRL JOUVELLIER ALEXIS",
+        "slug": "eirl-jouvellier-alexis",
+        "telephone": "06 60 46 81 01",
+        "site_web": null,
+        "adresse": "27 Rue de la Clef d'Or, 16410 Dignac",
+        "note": 5,
+        "avis": 35,
+        "type": "Plombier"
+      },
+      {
+        "id": "6270162158288707117",
+        "nom": "m2o entreprises",
+        "slug": "m2o-entreprises",
+        "telephone": "05 45 37 38 42",
+        "site_web": "https://www.m2o-entreprises.fr/",
+        "adresse": "105 ZE, Les Bois des Faye, 16410 Dirac",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15910748269157909609",
+        "nom": "APIC PLOMBERIE ET CHAUFFAGE",
+        "slug": "apic-plomberie-et-chauffage",
+        "telephone": "06 33 51 05 54",
+        "site_web": null,
+        "adresse": "9 Rue des Frères Pélissier Appartement 74, 16800 Soyaux",
+        "note": 5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7498486125552823361",
+        "nom": "CD Habitat",
+        "slug": "cd-habitat",
+        "telephone": "07 48 65 16 02",
+        "site_web": "http://cd-habitat.fr/",
+        "adresse": null,
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4322852861271094999",
+        "nom": "SARL DL CLIMATIQUE 16",
+        "slug": "sarl-dl-climatique-16",
+        "telephone": "06 46 21 07 05",
+        "site_web": "http://www.dl-climatique16.fr/",
+        "adresse": "608 Lieu-dit Haut de, Chem. des Hauts de Fontenelle, 16410 Sers",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13601452669256532107",
+        "nom": "Radoux 16 - Chauffage et électricien à Angoulème, Cognac",
+        "slug": "radoux-16-chauffage-et-electricien-a-angouleme-cognac",
+        "telephone": "05 45 61 20 64",
+        "site_web": null,
+        "adresse": "116 Rue d'Angoulême, 16400 Puymoyen",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "12668333478501949274",
+        "nom": "BERTHIER ET MERENNE",
+        "slug": "berthier-et-merenne",
+        "telephone": "05 45 95 45 96",
+        "site_web": null,
+        "adresse": "78 Av. du Général de Gaulle, 16800 Soyaux",
+        "note": 4.7,
+        "avis": 76,
+        "type": "Plombier"
+      },
+      {
+        "id": "14194696729791855686",
+        "nom": "SAS MARANDAT SCIERIE",
+        "slug": "sas-marandat-scierie",
+        "telephone": "05 45 24 52 32",
+        "site_web": "https://www.sas-marandat-scierie.fr/",
+        "adresse": "Le Pioure, Route de Périgueux, 16410 Dignac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Scierie"
+      }
+    ]
+  },
+  "baignes-sainte-radegonde": {
+    "artisans": [
+      {
+        "id": "3624452413736446913",
+        "nom": "Vulfin Energies Confort",
+        "slug": "vulfin-energies-confort",
+        "telephone": "06 73 94 75 56",
+        "site_web": "https://www.facebook.com/vulfinenergiesconfort.vulfin/?utm_source=gmb",
+        "adresse": "9 Rue J.C.H Entier Duroc, 16360 Baignes-Sainte-Radegonde",
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "boutiers-saint-trojan": {
+    "artisans": [
+      {
+        "id": "18003466887921725062",
+        "nom": "Gaborit Nathalie",
+        "slug": "gaborit-nathalie",
+        "telephone": "05 45 83 17 02",
+        "site_web": null,
+        "adresse": "2 Chem. du Brandat, 16100 Saint-Brice",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "14777166120465623063",
+        "nom": "Humaux Sébastien EURL IDE Bâtiment - Électricité, Plomberie, Chauffage, Climatisation, Pompe à Chaleur",
+        "slug": "humaux-sebastien-eurl-ide-batiment-electricite-plomberie-chauffage-climatisation-pompe-a-chaleur",
+        "telephone": "06 48 18 77 74",
+        "site_web": "http://www.ide-batiment.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 81,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8808784787269872310",
+        "nom": "SARL STG17",
+        "slug": "sarl-stg17",
+        "telephone": "06 85 69 42 25",
+        "site_web": null,
+        "adresse": "11 Place André GUILLOT 56 Rue carnot 17600 SAUJON, 16370 Val-de-Cognac",
+        "note": 1,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2045725085473462739",
+        "nom": "Sarl Etevenard / Giscos",
+        "slug": "sarl-etevenard-giscos",
+        "telephone": "05 45 35 35 78",
+        "site_web": null,
+        "adresse": "151 Bd Oscar Planat, 16100 Cognac",
+        "note": 4.4,
+        "avis": 43,
+        "type": "Plombier"
+      },
+      {
+        "id": "9537969245247857721",
+        "nom": "Sani-Chauf",
+        "slug": "sani-chauf",
+        "telephone": "05 45 32 69 56",
+        "site_web": "http://sanichauf1617.jimdofree.com/",
+        "adresse": "58 Rue Henri Fichon, 16100 Cognac",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "18406520020205080323",
+        "nom": "RBS plomberie chauffage",
+        "slug": "rbs-plomberie-chauffage",
+        "telephone": "06 98 16 55 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9778710010977799263",
+        "nom": "Macoin Sarl",
+        "slug": "macoin-sarl",
+        "telephone": "05 45 83 41 12",
+        "site_web": "https://www.macoin16.fr/",
+        "adresse": "20 Impasse des Champs Fosses, 16370 Mesnac",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6058988002379961399",
+        "nom": "Eurl Jauseau Patrice",
+        "slug": "eurl-jauseau-patrice",
+        "telephone": "06 69 76 30 78",
+        "site_web": "http://eurljauseaupatrice.site-solocal.com/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "16952817439680747928",
+        "nom": "DL Thermique",
+        "slug": "dl-thermique",
+        "telephone": "05 45 82 35 98",
+        "site_web": "http://www.dl-thermique.fr/",
+        "adresse": "1 Rue du Bois Merrains, 16100 Merpins",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "289870376680209984",
+        "nom": "Boutiers-Saint-Trojan",
+        "slug": "boutiers-saint-trojan",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16100 Boutiers-Saint-Trojan",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "brie": {
+    "artisans": [
+      {
+        "id": "2687401854983944516",
+        "nom": "Technic Froid Charente (TFC)",
+        "slug": "technic-froid-charente-tfc",
+        "telephone": "06 77 25 20 16",
+        "site_web": "https://www.facebook.com/profile.php?id=100090255770063",
+        "adresse": "130 Chem. des Ecuries, 16590 Brie",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17305210094126266206",
+        "nom": "Kupka à Brie",
+        "slug": "kupka-a-brie",
+        "telephone": "06 45 86 49 47",
+        "site_web": "https://www.kupka-plomberie-chauffage-brie.fr/contact",
+        "adresse": "15 Le Champ Pradaud, 16590 Brie",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11979877722636557866",
+        "nom": "Bati Confort Energies",
+        "slug": "bati-confort-energies",
+        "telephone": "05 45 21 72 83",
+        "site_web": null,
+        "adresse": "6 Les Forges, 16590 Brie",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "barret": {
+    "artisans": [
+      {
+        "id": "15091136273243260114",
+        "nom": "TRADITION INNOVATION BOIS",
+        "slug": "tradition-innovation-bois",
+        "telephone": "05 45 78 82 87",
+        "site_web": "https://tradition-innovation-bois-16.fr/",
+        "adresse": "9 Les Raisinettes, 16300 Barret",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Couvreur"
+      },
+      {
+        "id": "6831938748767833757",
+        "nom": "Barret",
+        "slug": "barret",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16300 Barret",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4277430814691592556",
+        "nom": "Merlet Energies Sarl",
+        "slug": "merlet-energies-sarl",
+        "telephone": "05 45 78 92 10",
+        "site_web": "https://www.merlet-energies.fr/",
+        "adresse": "938 route du terrage, 16300 Guimps",
+        "note": 4.3,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14182215511927577164",
+        "nom": "BARRET’EAU",
+        "slug": "barreteau",
+        "telephone": "06 58 97 55 28",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 110,
+        "type": "Plombier"
+      },
+      {
+        "id": "9315531407184267165",
+        "nom": "Lapetitechampagnederose",
+        "slug": "lapetitechampagnederose",
+        "telephone": "05 45 78 00 24",
+        "site_web": "https://www.chambres-hotes.fr/ch13061",
+        "adresse": "Chez Berteau, 16300 Barret",
+        "note": 4.8,
+        "avis": 11,
+        "type": "Chambre d'hôtes"
+      },
+      {
+        "id": "9885130253019543654",
+        "nom": "DuSolid Rénov'",
+        "slug": "dusolid-renov",
+        "telephone": "06 19 16 68 94",
+        "site_web": "https://www.facebook.com/profile.php?id=61556167251915",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "brigueuil": {
+    "artisans": [
+      {
+        "id": "8148614801962304137",
+        "nom": "A.C.E.",
+        "slug": "ace",
+        "telephone": "09 66 92 42 25",
+        "site_web": null,
+        "adresse": "27 Av. Gén de Gaulle, 16420 Brigueuil",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17610433986153117054",
+        "nom": "ABCH BELLAYER Cédric",
+        "slug": "abch-bellayer-cedric",
+        "telephone": "06 58 47 47 10",
+        "site_web": null,
+        "adresse": "11 Rue Saint-Georges, 16420 Brigueuil",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11687892968512598503",
+        "nom": "Ets Roy",
+        "slug": "ets-roy",
+        "telephone": "05 45 71 02 83",
+        "site_web": null,
+        "adresse": "Rte de Lesterps, 16420 Brigueuil",
+        "note": 4.7,
+        "avis": 13,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "chabanais": {
+    "artisans": [
+      {
+        "id": "8253018705665792911",
+        "nom": "GARRAUD SAS - Plombier - chauffagiste",
+        "slug": "garraud-sas-plombier-chauffagiste",
+        "telephone": "05 45 89 15 23",
+        "site_web": null,
+        "adresse": "6 Rue Gambetta, 16150 Chabanais",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chasseneuil-sur-bonnieure": {
+    "artisans": [
+      {
+        "id": "188433292199499940",
+        "nom": "Gacon Robert",
+        "slug": "gacon-robert",
+        "telephone": "05 45 39 61 47",
+        "site_web": null,
+        "adresse": "29 Rte d'Angoulême, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 3.7,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12880396147719371085",
+        "nom": "Afia Energies",
+        "slug": "afia-energies",
+        "telephone": "06 10 88 15 23",
+        "site_web": null,
+        "adresse": "Lieu-dit, Le Grand Pré, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "3565804981046764021",
+        "nom": "HB SYSTEME - Chasseneuil-sur-Bonnieure - L'Isle d'Espagnac",
+        "slug": "hb-systeme-chasseneuil-sur-bonnieure-lisle-despagnac",
+        "telephone": "06 59 12 78 69",
+        "site_web": "http://www.hbsysteme.fr/",
+        "adresse": "16260 Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "15718654012685557561",
+        "nom": "MC-Thermic EIRL Martzel Christophe",
+        "slug": "mc-thermic-eirl-martzel-christophe",
+        "telephone": "05 45 93 27 61",
+        "site_web": "https://www.facebook.com/930487297035274",
+        "adresse": null,
+        "note": 3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "chalais": {
+    "artisans": [
+      {
+        "id": "10788017202551353990",
+        "nom": "Gouwy Cyril",
+        "slug": "gouwy-cyril",
+        "telephone": "05 45 79 01 83",
+        "site_web": "https://cyril-gouwy.fr/?utm_source=gmb",
+        "adresse": "6 La Boissière, 16210 Saint-Romain",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "14637752375979745143",
+        "nom": "Silanès Energies",
+        "slug": "silanes-energies",
+        "telephone": "07 86 72 77 02",
+        "site_web": null,
+        "adresse": "21 Av. de la Gare, 16210 Chalais",
+        "note": 4.1,
+        "avis": 17,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "8130696326112308006",
+        "nom": "Desages Philippe",
+        "slug": "desages-philippe",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16210 Chalais",
+        "note": 3.7,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "11790673883491769755",
+        "nom": "Climabitat",
+        "slug": "climabitat",
+        "telephone": "07 57 57 91 54",
+        "site_web": "https://www.instagram.com/climabitat16/?utm_source=gmb",
+        "adresse": "67 Rte de Bordeaux, 16210 Chalais",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Fournisseur de fenêtres"
+      },
+      {
+        "id": "14509618604179560947",
+        "nom": "PROTELEC - PROTCLIM",
+        "slug": "protelec-protclim",
+        "telephone": "05 45 98 03 45",
+        "site_web": null,
+        "adresse": "Rte de Bordeaux, 16210 Chalais",
+        "note": 4.4,
+        "avis": 60,
+        "type": "Atelier de réparation automobile"
+      },
+      {
+        "id": "9334240737164106066",
+        "nom": "Proxi Confort - Silanes Christophe",
+        "slug": "proxi-confort-silanes-christophe",
+        "telephone": "05 45 98 10 60",
+        "site_web": "https://www.proxiconfort.fr/magasin/proxi-confort-chalais",
+        "adresse": "21 Av. de la Gare, 16210 Chalais",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "7257670177509508419",
+        "nom": "CAMUS ENERGIES 16",
+        "slug": "camus-energies-16",
+        "telephone": "06 60 12 08 69",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "champniers": {
+    "artisans": [
+      {
+        "id": "2659960425892189026",
+        "nom": "Mille Flammes",
+        "slug": "mille-flammes",
+        "telephone": "05 45 63 58 85",
+        "site_web": "https://www.mille-flammes.fr/",
+        "adresse": "1296 Rte des Platanes, 16430 Champniers",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "14066120009406259113",
+        "nom": "Picoty Tech 16-17 Champniers",
+        "slug": "picoty-tech-16-17-champniers",
+        "telephone": "05 45 68 25 25",
+        "site_web": "http://www.picoty.fr/",
+        "adresse": "1001 Rte des Platanes, 16430 Champniers",
+        "note": 3.5,
+        "avis": 26,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2084981907079486119",
+        "nom": "CEDEO Champniers : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-champniers-sanitaire-chauffage-plomberie",
+        "telephone": "05 45 68 13 44",
+        "site_web": "https://www.cedeo.fr/infos-agence/angouleme-champniers-cedeo-3956",
+        "adresse": "Rue de la Croix Blanche N10, 16430 Champniers",
+        "note": 4,
+        "avis": 22,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "17116509298336693500",
+        "nom": "Clim+ Angoulême : Climatisation - Ventilation - Chauffage",
+        "slug": "clim-angouleme-climatisation-ventilation-chauffage",
+        "telephone": "05 45 95 98 20",
+        "site_web": "https://www.climplus.com/infos-agence/angouleme-clim-5487",
+        "adresse": "27 Imp. de la Persienne, 16430 Champniers",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12421184131235105971",
+        "nom": "Périn Jean-François",
+        "slug": "perin-jean-francois",
+        "telephone": "05 45 65 79 22",
+        "site_web": null,
+        "adresse": "225 bis Av. de la République, 16340 L'Isle-d'Espagnac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9784948063225832819",
+        "nom": "PARTEDIS Chauffage Sanitaire - Angoulême",
+        "slug": "partedis-chauffage-sanitaire-angouleme",
+        "telephone": "05 45 95 46 82",
+        "site_web": "http://www.partedis.com/agence/angouleme-chauffage-sanitaire/",
+        "adresse": "Zone Industrielle, 3 Les Machenaudes, 16160 Gond-Pontouvre",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "chassors": {
+    "artisans": [
+      {
+        "id": "2186591663713523625",
+        "nom": "Idéal'Energie",
+        "slug": "idealenergie",
+        "telephone": "05 45 36 02 25",
+        "site_web": "https://www.ideal-energie.fr/",
+        "adresse": "1 Rue Pasteur, 16200 Jarnac",
+        "note": 4.4,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15086619504706875219",
+        "nom": "Etablissements Merlet",
+        "slug": "etablissements-merlet",
+        "telephone": "05 45 81 01 18",
+        "site_web": null,
+        "adresse": "4 Bis All. des Bouvents, 16200 Jarnac",
+        "note": 4.3,
+        "avis": 32,
+        "type": "Plombier"
+      },
+      {
+        "id": "7337538111619033764",
+        "nom": "Guintard Walter",
+        "slug": "guintard-walter",
+        "telephone": "05 45 36 27 41",
+        "site_web": "https://www.walter-guintard.fr/",
+        "adresse": "2 Rue du Vieux Chêne, 16200 Les Métairies",
+        "note": 5,
+        "avis": 3,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "1089855215966834425",
+        "nom": "Michaud Mathieu",
+        "slug": "michaud-mathieu",
+        "telephone": "05 45 32 30 51",
+        "site_web": null,
+        "adresse": "32 Rue des Écoles, 16200 Réparsac",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "16794461431678158204",
+        "nom": "Dorbe Alain",
+        "slug": "dorbe-alain",
+        "telephone": "05 45 35 21 40",
+        "site_web": null,
+        "adresse": "6 Chem. des Terrières, 16200 Jarnac",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "12095538539439103226",
+        "nom": "Lacoste Ludovic Chauffage Sanitaire",
+        "slug": "lacoste-ludovic-chauffage-sanitaire",
+        "telephone": "05 45 81 09 14",
+        "site_web": null,
+        "adresse": "20 Rte de Reparsac, 16200 Chassors",
+        "note": 3.8,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "16684399261367585233",
+        "nom": "Larbre Et Fils Sarl",
+        "slug": "larbre-et-fils-sarl",
+        "telephone": "05 45 81 28 49",
+        "site_web": null,
+        "adresse": "61 Rue de la Chaume, 16200 Nercillac",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "5201946088734493246",
+        "nom": "CHRISTOPHE BELLIA",
+        "slug": "christophe-bellia",
+        "telephone": "07 81 39 10 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18365397644186873150",
+        "nom": "La Bonne Chauffe",
+        "slug": "la-bonne-chauffe",
+        "telephone": "06 58 37 20 82",
+        "site_web": "http://labonnechauffe.com/",
+        "adresse": "9 Rue de la Distillerie, 16200 Chassors",
+        "note": 0,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "6885826705159790840",
+        "nom": "M.N.T Chauvet",
+        "slug": "mnt-chauvet",
+        "telephone": "06 22 08 58 92",
+        "site_web": null,
+        "adresse": "57 Rue Jacques Moreau, 16200 Jarnac",
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "chateaubernard": {
+    "artisans": [
+      {
+        "id": "456904256215793525",
+        "nom": "Etablissements Perot",
+        "slug": "etablissements-perot",
+        "telephone": "05 45 82 76 73",
+        "site_web": "https://perot-cognac.fr/",
+        "adresse": "6 Rue de l'Artisanat, 16100 Cognac",
+        "note": 4.5,
+        "avis": 26,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5837148950132039091",
+        "nom": "Entreprise Mallet",
+        "slug": "entreprise-mallet",
+        "telephone": "05 45 35 06 98",
+        "site_web": "https://www.mallet-cognac.fr/",
+        "adresse": "parc du fief du roy, Rue Pierre Latecoere, 16100 Châteaubernard",
+        "note": 3.5,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "12320104026332593047",
+        "nom": "Garanka Plombier Chauffagiste Cognac",
+        "slug": "garanka-plombier-chauffagiste-cognac",
+        "telephone": "05 45 36 37 38",
+        "site_web": "https://www.garanka.fr/agences/garanka-cognac/?utm_source=Yext&utm_medium=GMB&y_source=1_MTU2OTk2OTYtNzE1LWxvY2F0aW9uLndlYnNpdGU%3D",
+        "adresse": "27 bis Rue de la Commanderie, 16100 Châteaubernard",
+        "note": 3.6,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16868387336580990171",
+        "nom": "Eco Energie Concept",
+        "slug": "eco-energie-concept",
+        "telephone": "05 45 83 60 18",
+        "site_web": "http://www.eco-energie-concept.fr/",
+        "adresse": "16 Rue de Pons, 16100 Cognac",
+        "note": 4.4,
+        "avis": 77,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10779005767043039000",
+        "nom": "Téréva Cognac",
+        "slug": "tereva-cognac",
+        "telephone": "05 45 32 28 82",
+        "site_web": "https://www.tereva.fr/document/A-394547--agence-tereva-cognac",
+        "adresse": "du fief, 16100 Châteaubernard",
+        "note": 4.4,
+        "avis": 25,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "1942558176263607576",
+        "nom": "La Maison 3D",
+        "slug": "la-maison-3d",
+        "telephone": "05 45 71 82 85",
+        "site_web": "https://lamaison3d.fr/",
+        "adresse": "3 Rue du Vieux Pont, 16100 Cognac",
+        "note": 5,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12659884582811172284",
+        "nom": "DEPAN'FROID COGNAC",
+        "slug": "depanfroid-cognac",
+        "telephone": "06 33 12 13 80",
+        "site_web": "https://www.depan-froid-cognac.fr/",
+        "adresse": "23 Rue des Gélines, 16100 Châteaubernard",
+        "note": 5,
+        "avis": 1,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13725203856368172274",
+        "nom": "ADI GENIE CLIMATIQUE",
+        "slug": "adi-genie-climatique",
+        "telephone": "05 45 83 66 56",
+        "site_web": null,
+        "adresse": "33 Rue de Segonzac, 16100 Cognac",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Entreprise"
+      },
+      {
+        "id": "4224837894320265867",
+        "nom": "TotalEnergies Proxi Sud Ouest (Alvéa)",
+        "slug": "totalenergies-proxi-sud-ouest-alvea",
+        "telephone": "05 53 83 08 30",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/alvea-cognac?at_campaign=Site_Web&at_custom1=TPSO&at_medium=Google_My_Business",
+        "adresse": "70 Rue de la Pallue, 16100 Cognac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "11114586725638242213",
+        "nom": "CEDEO Cognac : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-cognac-sanitaire-chauffage-plomberie",
+        "telephone": "05 45 82 11 30",
+        "site_web": "https://www.cedeo.fr/infos-agence/cognac-cedeo-3997",
+        "adresse": "21 Rue de Segonzac, 16100 Cognac",
+        "note": 4.3,
+        "avis": 33,
+        "type": "Magasin d'articles de salle de bains"
+      }
+    ]
+  },
+  "chateauneuf-sur-charente": {
+    "artisans": [
+      {
+        "id": "3609009549597557517",
+        "nom": "Baspeyras Jean-Paul",
+        "slug": "baspeyras-jean-paul",
+        "telephone": "05 45 62 50 98",
+        "site_web": null,
+        "adresse": "1 Rte d'Angoulême, 16120 Châteauneuf-sur-Charente",
+        "note": 1,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11895515719959934578",
+        "nom": "Gironde Guillaume | Plomberie & Chauffage",
+        "slug": "gironde-guillaume-plomberie-chauffage",
+        "telephone": "06 26 57 81 96",
+        "site_web": "https://www.gironde-guillaume.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "8378485258297482962",
+        "nom": "Moreau Grégory Rénovation",
+        "slug": "moreau-gregory-renovation",
+        "telephone": "05 86 50 83 53",
+        "site_web": "http://www.mg-renovation.net/",
+        "adresse": "1 Rue Aristide Briand, 16120 Châteauneuf-sur-Charente",
+        "note": 5,
+        "avis": 29,
+        "type": "Plombier"
+      },
+      {
+        "id": "13581177368872191780",
+        "nom": "ETS JAUVIN",
+        "slug": "ets-jauvin",
+        "telephone": "05 45 97 10 96",
+        "site_web": null,
+        "adresse": "11 Bd Jean Moulin, 16120 Châteauneuf-sur-Charente",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "3542963391347893447",
+        "nom": "ACTIS-Energie",
+        "slug": "actis-energie",
+        "telephone": "05 16 09 41 93",
+        "site_web": "http://www.actis-energie.fr/",
+        "adresse": "La Croix Chadenne, 16120 Châteauneuf-sur-Charente",
+        "note": 3.5,
+        "avis": 4,
+        "type": "Consultant en ingénierie"
+      },
+      {
+        "id": "12320365375763230715",
+        "nom": "Sarl Castel Thermique",
+        "slug": "sarl-castel-thermique",
+        "telephone": "09 65 33 07 86",
+        "site_web": null,
+        "adresse": "6 Rue Antoine Descoffre, 16120 Châteauneuf-sur-Charente",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11069394912096237341",
+        "nom": "Entreprise Baspeyras Jean-Paul",
+        "slug": "entreprise-baspeyras-jean-paul",
+        "telephone": "05 45 62 50 98",
+        "site_web": null,
+        "adresse": "8 Rue Antoine Descoffre, 16120 Châteauneuf-sur-Charente",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11114529906803249748",
+        "nom": "LF-Services",
+        "slug": "lf-services",
+        "telephone": "06 62 38 00 56",
+        "site_web": "https://lf-services.fr/",
+        "adresse": "10 Rue de la Fontaine, 16120 Châteauneuf-sur-Charente",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "2929151620526141770",
+        "nom": "Jean-Marc Rousseau : Plombier, Électricien, Chauffagiste - R.Mag Energies",
+        "slug": "jean-marc-rousseau-plombier-electricien-chauffagiste-rmag-energies",
+        "telephone": "05 45 69 04 74",
+        "site_web": "http://rmag-energie.fr/",
+        "adresse": "Les Pellières, 16120 Mosnac-Saint-Simeux",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7863014190695168209",
+        "nom": "L'AGRIER",
+        "slug": "lagrier",
+        "telephone": "07 56 95 13 62",
+        "site_web": null,
+        "adresse": "80 Imp. de l'Agrier, 16120 Châteauneuf-sur-Charente",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "chazelles": {
+    "artisans": [
+      {
+        "id": "2081225133770608589",
+        "nom": "Chinvest",
+        "slug": "chinvest",
+        "telephone": "09 70 80 83 35",
+        "site_web": null,
+        "adresse": "Rte de Marthon, 16380 Chazelles",
+        "note": 3.4,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "12823506320678771879",
+        "nom": "Dam'elec",
+        "slug": "damelec",
+        "telephone": "06 75 20 32 77",
+        "site_web": null,
+        "adresse": "1 impasse des sables, chez Bâtisse, 16380 Chazelles",
+        "note": 4.3,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "1241525045059386110",
+        "nom": "Morisset Eric",
+        "slug": "morisset-eric",
+        "telephone": "06 81 98 78 20",
+        "site_web": null,
+        "adresse": "3 Rue de Chez Bâtisses, 16380 Chazelles",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "16509303582021411600",
+        "nom": "ASID Assistance Urgence Plomberie Charente",
+        "slug": "asid-assistance-urgence-plomberie-charente",
+        "telephone": "06 03 43 16 34",
+        "site_web": "https://www.asid-plomberie.fr/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=17837566710919441714",
+        "adresse": "54 All. Orée de la Braconne, 16600 Ruelle-sur-Touvre",
+        "note": 4.6,
+        "avis": 31,
+        "type": "Plombier"
+      },
+      {
+        "id": "8915227121546240362",
+        "nom": "EURL CHARLEMAGNE",
+        "slug": "eurl-charlemagne",
+        "telephone": "06 43 76 57 90",
+        "site_web": "https://eurl-charlemagne.fr/",
+        "adresse": "Lieu-dit les landes, 16380 Chazelles",
+        "note": 3,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "7758371147068941199",
+        "nom": "Chazelles Angoulême Cheminée, poêle à bois, poêle à granulés",
+        "slug": "chazelles-angouleme-cheminee-poele-a-bois-poele-a-granules",
+        "telephone": "05 45 23 66 66",
+        "site_web": "https://www.chazelles.com/store-locator/magasin/magasin-en-charente-cheminee-poele-insert-chazelles/",
+        "adresse": "40 Rue Saint-Antoine, 16160 Gond-Pontouvre",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fabricant de cheminées"
+      },
+      {
+        "id": "10445864348438793553",
+        "nom": "FONSECA PHILIPPE",
+        "slug": "fonseca-philippe",
+        "telephone": "06 33 70 20 43",
+        "site_web": null,
+        "adresse": "7 Rue de Chez Bâtisses, 16380 Chazelles",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "15678647935764611868",
+        "nom": "EBS 16 (Energie Batterie Service)",
+        "slug": "ebs-16-energie-batterie-service",
+        "telephone": "06 42 55 61 69",
+        "site_web": "http://batteries-industrie-chariot-elevateur.com/",
+        "adresse": "Route de Marthon, 16380 Chazelles",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Société d'import-export"
+      },
+      {
+        "id": "11024877901305441124",
+        "nom": "Charente éco gaz",
+        "slug": "charente-eco-gaz",
+        "telephone": "09 52 49 55 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11295801733423208745",
+        "nom": "Plomberie Innovation - Entretien Réparation Plomberie",
+        "slug": "plomberie-innovation-entretien-reparation-plomberie",
+        "telephone": "06 98 64 05 32",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "val-de-cognac": {
+    "artisans": [
+      {
+        "id": "13709883953473345001",
+        "nom": "Laurendeau Frederic sarl",
+        "slug": "laurendeau-frederic-sarl",
+        "telephone": "05 45 80 95 90",
+        "site_web": "https://laurendeaufrederic.jimdofree.com/",
+        "adresse": "6 Rue des Écoles, 16100 Javrezac",
+        "note": 3.7,
+        "avis": 11,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cognac": {
+    "artisans": [
+      {
+        "id": "17619670920746799764",
+        "nom": "Bois de Chauffage Cognac",
+        "slug": "bois-de-chauffage-cognac",
+        "telephone": "07 83 54 49 55",
+        "site_web": "https://boisdechauffagecognac.fr/",
+        "adresse": "9 Rue des Fossés de Jarnouzeau, 16100 Saint-Laurent-de-Cognac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "claix": {
+    "artisans": [
+      {
+        "id": "11092493980217457973",
+        "nom": "Plombier 2m plomberie chauffage",
+        "slug": "plombier-2m-plomberie-chauffage",
+        "telephone": "07 50 33 21 15",
+        "site_web": "https://2mplomberiechauffage.wixsite.com/my-site",
+        "adresse": "36 Route de Blanzac, 16440 Claix",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "confolens": {
+    "artisans": [
+      {
+        "id": "14660266985155638691",
+        "nom": "L'univers de la flamme",
+        "slug": "lunivers-de-la-flamme",
+        "telephone": "05 45 89 46 31",
+        "site_web": null,
+        "adresse": "6 Pl. de la Liberté, 16500 Confolens",
+        "note": 4.7,
+        "avis": 12,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "18313392672422875257",
+        "nom": "Thromas",
+        "slug": "thromas",
+        "telephone": "05 45 84 13 97",
+        "site_web": "https://www.thromas-sa.com/",
+        "adresse": "6 Rue de l'Ouillette, 16500 Confolens",
+        "note": 3.2,
+        "avis": 6,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "12045881266964790383",
+        "nom": "SAS DANGLADE",
+        "slug": "sas-danglade",
+        "telephone": "05 45 85 58 64",
+        "site_web": "https://www.dangladesas.fr/",
+        "adresse": "2 Chem. des Ceps, 16500 Saint-Maurice-des-Lions",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6753575242869013906",
+        "nom": "Proxi Confort - Sani Chauff Elec",
+        "slug": "proxi-confort-sani-chauff-elec",
+        "telephone": "05 45 85 96 81",
+        "site_web": "https://www.proxiconfort.fr/magasin/proxi-confort-confolens",
+        "adresse": "23 Av. de Saint-Germain, 16500 Confolens",
+        "note": 3.6,
+        "avis": 13,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "120776319176653636",
+        "nom": "SAEP",
+        "slug": "saep",
+        "telephone": "05 45 29 54 80",
+        "site_web": null,
+        "adresse": "7 Rue des Récollets, 16500 Confolens",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18308906915668533586",
+        "nom": "Soliveau Jonathan Bois De Chauffage",
+        "slug": "soliveau-jonathan-bois-de-chauffage",
+        "telephone": "06 75 30 71 45",
+        "site_web": null,
+        "adresse": "2 lieudit Les guillards, 16500 Lessac",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "17019643566697938393",
+        "nom": "Guillards Bois de chuffage",
+        "slug": "guillards-bois-de-chuffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16500 Lessac",
+        "note": 5,
+        "avis": 6,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "10075781468049045598",
+        "nom": "Entreprise Simon-Noble",
+        "slug": "entreprise-simon-noble",
+        "telephone": "05 45 84 05 71",
+        "site_web": "https://www.linkedin.com/company/dalalu",
+        "adresse": "Les Fossés, 16500 Manot",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "11937801911510667715",
+        "nom": "Avéone Desroches",
+        "slug": "aveone-desroches",
+        "telephone": "05 45 84 18 57",
+        "site_web": null,
+        "adresse": "10 Rue de la Croix Saint-Georges, 16500 Confolens",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "la-couronne": {
+    "artisans": [
+      {
+        "id": "15392437839294785707",
+        "nom": "Granet Bernard",
+        "slug": "granet-bernard",
+        "telephone": "05 45 67 16 26",
+        "site_web": null,
+        "adresse": "6 All. Frédéric Mistral, 16400 La Couronne",
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "17944452482641467608",
+        "nom": "S2T",
+        "slug": "s2t",
+        "telephone": "06 61 29 60 87",
+        "site_web": null,
+        "adresse": "15 Rue de Nige Chat, 16400 La Couronne",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "9686996128003754957",
+        "nom": "Sarl mn thermique",
+        "slug": "sarl-mn-thermique",
+        "telephone": "06 59 23 83 05",
+        "site_web": null,
+        "adresse": "6 Chemin du Lavoir de, Lafont, 16400 La Couronne",
+        "note": 5,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "7220346950182578532",
+        "nom": "hemeria",
+        "slug": "hemeria",
+        "telephone": "06 10 50 11 82",
+        "site_web": null,
+        "adresse": "13 Rue de la Libération, 16400 La Couronne",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17732070535960159311",
+        "nom": "Grimaud Jean-Baptiste",
+        "slug": "grimaud-jean-baptiste",
+        "telephone": "09 50 95 85 09",
+        "site_web": null,
+        "adresse": "16 Rue Victor Hugo, 16400 La Couronne",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "14607732746557326708",
+        "nom": "Technigaz 16",
+        "slug": "technigaz-16",
+        "telephone": "05 45 91 13 10",
+        "site_web": "http://technigaz16-hiersac.site-solocal.com/",
+        "adresse": "5 Rue de la Cour, 16290 Hiersac",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8573885173856938997",
+        "nom": "JMB Concept",
+        "slug": "jmb-concept",
+        "telephone": "05 45 92 57 02",
+        "site_web": null,
+        "adresse": "14 Rue du Pontreau, 16440 Nersac",
+        "note": 4.2,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "2689053418269066491",
+        "nom": "Sud Ouest Maintenance",
+        "slug": "sud-ouest-maintenance",
+        "telephone": "05 45 60 23 03",
+        "site_web": "http://www.sud-ouest-maintenance.fr/",
+        "adresse": "Rue Principale, 16400 Vœuil-et-Giget",
+        "note": 3.3,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "5289207072876577542",
+        "nom": "LeBatimentCharentais",
+        "slug": "lebatimentcharentais",
+        "telephone": "05 17 20 86 14",
+        "site_web": "http://www.batimentcharentais.com/",
+        "adresse": "135 Rte de Bordeaux, 16400 La Couronne",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "exideuil-sur-vienne": {
+    "artisans": [
+      {
+        "id": "4157471892325724410",
+        "nom": "AB Energies",
+        "slug": "ab-energies",
+        "telephone": "06 67 92 29 15",
+        "site_web": "https://www.ab16energies.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "6118510577519267988",
+        "nom": "MICK ELEC 16",
+        "slug": "mick-elec-16",
+        "telephone": "06 45 53 20 39",
+        "site_web": "https://www.mick-elec-16.fr/",
+        "adresse": "4 Chante Alouette, 16150 Exideuil-sur-Vienne",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "15917191890305198305",
+        "nom": "Les Petits Clos",
+        "slug": "les-petits-clos",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16150 Saint-Quentin-sur-Charente",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "18294314123641761777",
+        "nom": "Exideuil-sur-Vienne",
+        "slug": "exideuil-sur-vienne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16150 Exideuil-sur-Vienne",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "14524438013868347272",
+        "nom": "Téréva Roumazières-Loubert",
+        "slug": "tereva-roumazieres-loubert",
+        "telephone": "05 45 85 77 14",
+        "site_web": "https://www.tereva.fr/document/A-394591--agence-tereva-roumazieres-loubert",
+        "adresse": "23 Rue nationale, 16270 Terres-de-Haute-Charente",
+        "note": 4.3,
+        "avis": 16,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "500097441213043622",
+        "nom": "Maintenance Plomberie Chauffage",
+        "slug": "maintenance-plomberie-chauffage",
+        "telephone": "06 59 13 93 10",
+        "site_web": null,
+        "adresse": "16420 Lesterps",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3687851349739691295",
+        "nom": "PRESTAVAISSELLE",
+        "slug": "prestavaisselle",
+        "telephone": "06 28 93 69 30",
+        "site_web": null,
+        "adresse": "8 Terme des Goujons, 16150 Exideuil-sur-Vienne",
+        "note": 0,
+        "avis": 0,
+        "type": "Agence de location de matériel"
+      },
+      {
+        "id": "11145802018138172891",
+        "nom": "Dupairaud Maintenance",
+        "slug": "dupairaud-maintenance",
+        "telephone": "05 45 84 19 08",
+        "site_web": null,
+        "adresse": "Chantalouette, 16150 Exideuil-sur-Vienne",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Magasin de matériel de motoculture"
+      },
+      {
+        "id": "4591463600691159024",
+        "nom": "Baluteau Plomberie Chauffage",
+        "slug": "baluteau-plomberie-chauffage",
+        "telephone": "06 40 18 78 75",
+        "site_web": null,
+        "adresse": "le Peux Moutardon, 16700 Nanteuil-en-Vallée",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Plombier"
+      },
+      {
+        "id": "459444796783019632",
+        "nom": "Chez Cuss",
+        "slug": "chez-cuss",
+        "telephone": "06 25 55 38 05",
+        "site_web": null,
+        "adresse": "32 Rue de Binin, 16150 Exideuil-sur-Vienne",
+        "note": 4.8,
+        "avis": 172,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "dignac": {
+    "artisans": [
+      {
+        "id": "4728790411815668201",
+        "nom": "Lousteaud-rippe Sarl",
+        "slug": "lousteaud-rippe-sarl",
+        "telephone": "05 45 24 57 11",
+        "site_web": null,
+        "adresse": "3 Rte du Mas, 16410 Dignac",
+        "note": 1,
+        "avis": 1,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "mansle-les-fontaines": {
+    "artisans": [
+      {
+        "id": "1332786479501924384",
+        "nom": "Sarl pallot jean",
+        "slug": "sarl-pallot-jean",
+        "telephone": "05 45 22 70 34",
+        "site_web": null,
+        "adresse": "Les Grandes Chenevières, 16230 Mansle-les-Fontaines",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1148243586497973777",
+        "nom": "Agnès et Mérenne",
+        "slug": "agnes-et-merenne",
+        "telephone": "05 45 22 22 05",
+        "site_web": null,
+        "adresse": "29B Rue Grange du Chapitre, 16230 Mansle-les-Fontaines",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10312856471720076276",
+        "nom": "froid charente assistance",
+        "slug": "froid-charente-assistance",
+        "telephone": "06 60 26 52 44",
+        "site_web": null,
+        "adresse": "Les Chênes, 16230 Mansle-les-Fontaines",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "garat": {
+    "artisans": [
+      {
+        "id": "3444525964538788589",
+        "nom": "JP Entreprise Plomberie, Electricité, Chauffage",
+        "slug": "jp-entreprise-plomberie-electricite-chauffage",
+        "telephone": "06 02 43 17 81",
+        "site_web": "https://jpentreprise.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "5157172550066204316",
+        "nom": "LP16",
+        "slug": "lp16",
+        "telephone": "07 83 27 03 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "12149680385551512277",
+        "nom": "APPLIC FROID",
+        "slug": "applic-froid",
+        "telephone": "05 45 60 62 35",
+        "site_web": null,
+        "adresse": "Route Marthon, 16410 Garat",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11128128472721826337",
+        "nom": "STS Servi Tech Solutions / Pompes à chaleur et Panneaux photovoltaïques",
+        "slug": "sts-servi-tech-solutions-pompes-a-chaleur-et-panneaux-photovoltaiques",
+        "telephone": "06 61 55 64 69",
+        "site_web": "https://www.servitech-solutions-16.com/",
+        "adresse": "83 Av. de Montbron, 16340 L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16599137328130571493",
+        "nom": "CT Ren'eau",
+        "slug": "ct-reneau",
+        "telephone": null,
+        "site_web": "https://ctreneau.fr/",
+        "adresse": "26 Route de périgueux, 16410 Garat",
+        "note": 5,
+        "avis": 2,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "168505287637495288",
+        "nom": "Socarex Electricité",
+        "slug": "socarex-electricite",
+        "telephone": "05 45 68 60 91",
+        "site_web": null,
+        "adresse": "10 Rue Aristide Briand, 16600 Magnac-sur-Touvre",
+        "note": 4.1,
+        "avis": 13,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "fleac": {
+    "artisans": [
+      {
+        "id": "1350654830212143791",
+        "nom": "Sud Ouest Chauffage",
+        "slug": "sud-ouest-chauffage",
+        "telephone": "05 45 91 06 27",
+        "site_web": null,
+        "adresse": "Rue de la Motte, 16730 Trois-Palis",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18203709265024492371",
+        "nom": "Chauvet romain MVPS",
+        "slug": "chauvet-romain-mvps",
+        "telephone": "06 65 94 47 31",
+        "site_web": "http://www.mvps-depannage.fr/?utm_source=gmb",
+        "adresse": "15 Rue du Château d'Eau, 16730 Fléac",
+        "note": 5,
+        "avis": 63,
+        "type": "Menuisier"
+      },
+      {
+        "id": "5797268766028360282",
+        "nom": "François Frigoriste Expert",
+        "slug": "francois-frigoriste-expert",
+        "telephone": "06 63 46 73 65",
+        "site_web": "http://francois-frigoriste.fr/",
+        "adresse": "55 Rue de la Vergne, 16730 Fléac",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "9970076826287340096",
+        "nom": "Louis Confort",
+        "slug": "louis-confort",
+        "telephone": "06 82 09 48 48",
+        "site_web": "http://eirllouis.site-solocal.com/",
+        "adresse": "35 Chem. des Fregonnières, 16290 Saint-Saturnin",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4463057257881833397",
+        "nom": "Azur Thermique-DzP Thermique",
+        "slug": "azur-thermique-dzp-thermique",
+        "telephone": "05 45 25 26 59",
+        "site_web": null,
+        "adresse": "20 Rue des Vignes Jaunes, 16730 Fléac",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "gensac-la-pallue": {
+    "artisans": [
+      {
+        "id": "9337589257974879796",
+        "nom": "Sylo-v",
+        "slug": "sylo-v",
+        "telephone": "06 70 00 17 77",
+        "site_web": "https://www.sylo-v.com/",
+        "adresse": "14 Rte du Cognac, 16130 Gensac-la-Pallue",
+        "note": 5,
+        "avis": 9,
+        "type": "Chambre d'hôtes"
+      },
+      {
+        "id": "7209185025805602887",
+        "nom": "rbs plomberie chauffage",
+        "slug": "rbs-plomberie-chauffage",
+        "telephone": "06 98 16 55 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10055192725418931036",
+        "nom": "Benoit Lange EIRL",
+        "slug": "benoit-lange-eirl",
+        "telephone": "09 86 33 69 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 19,
+        "type": "Plombier"
+      },
+      {
+        "id": "5763307005331571134",
+        "nom": "Sarl JF Barny",
+        "slug": "sarl-jf-barny",
+        "telephone": "05 45 83 32 22",
+        "site_web": "https://barnyservices.fr/",
+        "adresse": "13 rue du coteau, 16130 Segonzac",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "53911709071972155",
+        "nom": "Artisan multiservices | Micka Multi-service",
+        "slug": "artisan-multiservices-micka-multi-service",
+        "telephone": "06 59 43 00 81",
+        "site_web": "https://www.mika-multi-service-16.fr/contact",
+        "adresse": "5 Rue de la rouche, 16130 Gensac-la-Pallue",
+        "note": 5,
+        "avis": 1,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14691901619213671445",
+        "nom": "CGB BOIS DE CHAUFFAGE",
+        "slug": "cgb-bois-de-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16200 Bourg-Charente",
+        "note": 3,
+        "avis": 1,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "2267019443960546301",
+        "nom": "Entreprise Carlet Hervé",
+        "slug": "entreprise-carlet-herve",
+        "telephone": "06 71 10 14 72",
+        "site_web": "http://www.carletsanitelec.fr/",
+        "adresse": "2 Roquefigey, 33890 Gensac",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14695858467388765472",
+        "nom": "Sarl Laborde Et Fils",
+        "slug": "sarl-laborde-et-fils",
+        "telephone": null,
+        "site_web": "https://www.labordeinox.fr/",
+        "adresse": "14 Rue du Mesnil, 16130 Gensac-la-Pallue",
+        "note": 0,
+        "avis": 0,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "4891078898887913177",
+        "nom": "Électricien / Domotique Pat'elec 16 Cognac Patrat Kévin Patelec 16",
+        "slug": "electricien-domotique-patelec-16-cognac-patrat-kevin-patelec-16",
+        "telephone": "06 79 55 61 17",
+        "site_web": "https://patelec16.fr/",
+        "adresse": "6 Rue de Chassors, 16200 Julienne",
+        "note": 5,
+        "avis": 12,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "mainxe-gondeville": {
+    "artisans": [
+      {
+        "id": "5308332462901431223",
+        "nom": "Demontoux Patrick",
+        "slug": "demontoux-patrick",
+        "telephone": "05 45 81 01 96",
+        "site_web": null,
+        "adresse": "2 Chem. des Granges, 16200 Jarnac",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "10496358984693446845",
+        "nom": "PASSION RENOV' PAYET",
+        "slug": "passion-renov-payet",
+        "telephone": "06 64 24 44 79",
+        "site_web": "http://www.passionrenov.fr/",
+        "adresse": "59 Av. du Général Leclerc, 16200 Jarnac",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "11792383609571592607",
+        "nom": "Bou'chaud Confort",
+        "slug": "bouchaud-confort",
+        "telephone": "05 45 81 23 86",
+        "site_web": "https://www.bouchaud-confort.fr/?utm_source=gmb",
+        "adresse": "32 Av. de l'Europe, 16200 Jarnac",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "14583236980631188584",
+        "nom": "A D Chaud Froid",
+        "slug": "a-d-chaud-froid",
+        "telephone": "09 81 21 69 11",
+        "site_web": null,
+        "adresse": "29 Rue des Velennes, 16200 Triac-Lautrait",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "17591051502501884512",
+        "nom": "Entreprise Sténégrie",
+        "slug": "entreprise-stenegrie",
+        "telephone": "06 14 61 46 09",
+        "site_web": "https://www.entreprise-stenegrie.fr/",
+        "adresse": "5 Chem. de la Grande Champagne, 16200 Mainxe-Gondeville",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9104651003290957169",
+        "nom": "l’Atelier Tascher",
+        "slug": "latelier-tascher",
+        "telephone": "06 58 82 84 24",
+        "site_web": null,
+        "adresse": "62 Av. du Général Leclerc, 16200 Jarnac",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "gond-pontouvre": {
+    "artisans": [
+      {
+        "id": "16404503777432584913",
+        "nom": "MG Habitat",
+        "slug": "mg-habitat",
+        "telephone": "05 46 90 39 28",
+        "site_web": "https://mg-habitat.fr/agence-mg-habitat-angouleme/",
+        "adresse": "22 Av. de la République, 16160 Gond-Pontouvre",
+        "note": 4.7,
+        "avis": 51,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "2200687310779521901",
+        "nom": "PARTEDIS Pièces Détachées - Angoulême",
+        "slug": "partedis-pieces-detachees-angouleme",
+        "telephone": "05 45 37 37 02",
+        "site_web": "http://www.partedis.com/agence/angouleme-pieces-detachees/",
+        "adresse": "Impasse des Machenaudes, Zone Industrielle 3, 16160 Gond-Pontouvre",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8069638607931653903",
+        "nom": "SARL Correia Frères",
+        "slug": "sarl-correia-freres",
+        "telephone": "05 45 24 56 99",
+        "site_web": null,
+        "adresse": "66 bis Rue Jean Jaurès, 16160 Gond-Pontouvre",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": "05 45 92 20 57",
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "115 Rte de Vars, 16160 Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3777580379908621121",
+        "nom": "2MD",
+        "slug": "2md",
+        "telephone": "09 86 41 57 31",
+        "site_web": null,
+        "adresse": "72 Avenue Maryse Bastié, ZI N°3, 16340 L'Isle-d'Espagnac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4322393628752228623",
+        "nom": "Sociéte Maintenance Energie Renouvelable",
+        "slug": "societe-maintenance-energie-renouvelable",
+        "telephone": "05 45 65 94 59",
+        "site_web": "https://www.smer-energies.fr/?utm_source=gmb",
+        "adresse": "275 Rte de Vars, 16160 Gond-Pontouvre",
+        "note": 4.5,
+        "avis": 79,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "804711396182934738",
+        "nom": "Avenir Planete Systeme",
+        "slug": "avenir-planete-systeme",
+        "telephone": "05 45 22 70 92",
+        "site_web": null,
+        "adresse": "273 Rte de Vars, 16160 Gond-Pontouvre",
+        "note": 3.6,
+        "avis": 57,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "val-des-vignes": {
+    "artisans": [
+      {
+        "id": "11092493980217457973",
+        "nom": "Plombier 2m plomberie chauffage",
+        "slug": "plombier-2m-plomberie-chauffage",
+        "telephone": "07 50 33 21 15",
+        "site_web": "https://2mplomberiechauffage.wixsite.com/my-site",
+        "adresse": "36 Route de Blanzac, 16440 Claix",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "10277383530435821126",
+        "nom": "BARREAU KÉVIN",
+        "slug": "barreau-kevin",
+        "telephone": "06 78 21 52 02",
+        "site_web": "http://barreau-plomberie-chauffage.fr/",
+        "adresse": "23 Chem. de Chez Maître Embois, 16300 Saint-Bonnet",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10555843625787797438",
+        "nom": "Fabien Marchand électricien",
+        "slug": "fabien-marchand-electricien",
+        "telephone": "06 44 78 01 02",
+        "site_web": "https://www.fabienmarchand-electricien.fr/",
+        "adresse": "Rue du Docteur Petit, 4 Impasse de la Barde, 16250",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "7668563508751173527",
+        "nom": "RAYNAUD CHARPENTE - COUVERTURE | Raynaud Gaël",
+        "slug": "raynaud-charpente-couverture-raynaud-gael",
+        "telephone": "06 23 79 87 66",
+        "site_web": "https://www.raynaud-toiture.fr/",
+        "adresse": "10 la Vozelle, 16250 Val des Vignes",
+        "note": 5,
+        "avis": 3,
+        "type": "Couvreur"
+      },
+      {
+        "id": "8676838777347246350",
+        "nom": "Dagnaud Thierry",
+        "slug": "dagnaud-thierry",
+        "telephone": "05 45 21 65 33",
+        "site_web": null,
+        "adresse": "Rue du Dr Petit, 16250 Coteaux-du-Blanzacais",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "12366236404023799268",
+        "nom": "GAUTHIER Michaël",
+        "slug": "gauthier-michael",
+        "telephone": "06 50 53 34 58",
+        "site_web": "https://www.facebook.com/michaelgauthierplomberiechauffage",
+        "adresse": "9 Chem. de la Chauveterie, 16440 Mouthiers-sur-Boëme",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16081352274925364435",
+        "nom": "Établissements AUGIER",
+        "slug": "etablissements-augier",
+        "telephone": "05 45 66 37 33",
+        "site_web": "http://www.augier-construction.fr/",
+        "adresse": "2 le Pouzat, 16250 Val des Vignes",
+        "note": 4.2,
+        "avis": 12,
+        "type": "Maçon"
+      },
+      {
+        "id": "3121611988203680509",
+        "nom": "SAS GENDRON",
+        "slug": "sas-gendron",
+        "telephone": "05 45 24 07 24",
+        "site_web": "http://www.gendrondavid.fr/",
+        "adresse": "1 ZONE DU MAINE BRUN, 16190 Montmoreau",
+        "note": 3.4,
+        "avis": 58,
+        "type": "Plombier"
+      },
+      {
+        "id": "3956734352157715254",
+        "nom": "Florant Francis",
+        "slug": "florant-francis",
+        "telephone": "05 45 78 84 80",
+        "site_web": null,
+        "adresse": "Le Bourg, 16300 Brie-sous-Barbezieux",
+        "note": 1.8,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "hiersac": {
+    "artisans": [
+      {
+        "id": "15132348957452059762",
+        "nom": "ADPC",
+        "slug": "adpc",
+        "telephone": "06 68 70 19 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "7002523868416558604",
+        "nom": "Chassaing Claude",
+        "slug": "chassaing-claude",
+        "telephone": "05 45 90 88 38",
+        "site_web": null,
+        "adresse": "18 Rue de la Charente, 16290 Hiersac",
+        "note": 3,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "jarnac": {
+    "artisans": [
+      {
+        "id": "1853736503693134727",
+        "nom": "Bricomarché Jarnac",
+        "slug": "bricomarche-jarnac",
+        "telephone": "05 45 83 15 82",
+        "site_web": "https://www.bricomarche.com/magasin/jarnac/04910?store=04910&utm_source=gmb",
+        "adresse": "73 Av. de l'Europe, 16200 Jarnac",
+        "note": 4.1,
+        "avis": 512,
+        "type": "Magasin de materiaux de construction"
+      }
+    ]
+  },
+  "l-isle-d-espagnac": {
+    "artisans": [
+      {
+        "id": "6954112649728488768",
+        "nom": "ADI Genie Climatique",
+        "slug": "adi-genie-climatique",
+        "telephone": "05 45 67 12 28",
+        "site_web": "http://www.adigenieclimatique.com/",
+        "adresse": "217 Av. de la République, 16340 L'Isle-d'Espagnac",
+        "note": 3.9,
+        "avis": 42,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11051256726300358355",
+        "nom": "CEDEO L'Isle-d'Espagnac : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-lisle-despagnac-sanitaire-chauffage-plomberie",
+        "telephone": "05 45 37 38 90",
+        "site_web": "https://www.cedeo.fr/infos-agence/angouleme-espagnac-cedeo-4389",
+        "adresse": "13 Av. du Maréchal Juin, 16340 L'Isle-d'Espagnac",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "11045209659056581215",
+        "nom": "Téréva Angoulême",
+        "slug": "tereva-angouleme",
+        "telephone": "05 45 38 61 10",
+        "site_web": "https://www.tereva.fr/document/A-394581--agence-tereva-angouleme",
+        "adresse": "Z.I. de la Madeleine, 16340 L'Isle-d'Espagnac",
+        "note": 4.4,
+        "avis": 43,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "1812156969442263141",
+        "nom": "ALL-IN-ONE RENOV",
+        "slug": "all-in-one-renov",
+        "telephone": "06 51 26 03 41",
+        "site_web": "http://allinonerenov.com/",
+        "adresse": "9 Rue du Souvenir, 16340 I'isle d'espagnac",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3773047094880758587",
+        "nom": "ENTREPRISE MARTIN & MARCHAND",
+        "slug": "entreprise-martin-marchand",
+        "telephone": "07 78 70 29 82",
+        "site_web": "https://www.entreprise-martin-marchand.fr/",
+        "adresse": "2 Rue Denis Papin, 16340 L'Isle-d'Espagnac",
+        "note": 5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8934553516649744450",
+        "nom": "HB Système",
+        "slug": "hb-systeme",
+        "telephone": "06 59 12 78 69",
+        "site_web": "http://www.hbsysteme.fr/?fbclid=IwAR0vCqUUS95vm7o0nlel1GFz90lBosaJ1VGimk27Y-Pi3cetPlrwtCUb6og",
+        "adresse": "124 Av. de la République, 16340 L'Isle-d'Espagnac",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "terres-de-haute-charente": {
+    "artisans": [
+      {
+        "id": "1498918757945538951",
+        "nom": "Ecobat 16",
+        "slug": "ecobat-16",
+        "telephone": "06 23 60 84 03",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3776953315409404198",
+        "nom": "Ecobat16",
+        "slug": "ecobat16",
+        "telephone": "06 23 60 84 03",
+        "site_web": "http://www.ecobat-energies.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "183675934526874821",
+        "nom": "Bozier Michel",
+        "slug": "bozier-michel",
+        "telephone": "05 45 71 18 09",
+        "site_web": null,
+        "adresse": "13 Rue des Sablons, 16270 Terres-de-Haute-Charente",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "9158302112368152412",
+        "nom": "Habitat Thermique Services",
+        "slug": "habitat-thermique-services",
+        "telephone": "07 49 32 42 36",
+        "site_web": null,
+        "adresse": "6 Rue de Chez le Four, 16450 Saint-Claud",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8558394290913532224",
+        "nom": "Charente Limousine de Distribution",
+        "slug": "charente-limousine-de-distribution",
+        "telephone": "05 45 71 30 74",
+        "site_web": null,
+        "adresse": "Rue des Côtes, 16450 Saint-Claud",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Fournisseur de carburant"
+      },
+      {
+        "id": "6467290995211322498",
+        "nom": "Charente Bois Energie",
+        "slug": "charente-bois-energie",
+        "telephone": "05 45 31 94 52",
+        "site_web": "https://www.charenteboisenergie.com/",
+        "adresse": "1 Route du stade, 16450 Saint-Laurent-de-Céris",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "13437920943990313336",
+        "nom": "Terreal",
+        "slug": "terreal",
+        "telephone": "05 45 71 80 00",
+        "site_web": "https://terreal.com/",
+        "adresse": "Rue nationale, 16270 Terres-de-Haute-Charente",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Fabricant"
+      },
+      {
+        "id": "18165249055793736907",
+        "nom": "Ecobat 16",
+        "slug": "ecobat-16",
+        "telephone": "06 23 60 84 03",
+        "site_web": "http://www.ecobat-energies.fr/",
+        "adresse": "16490 Ambernac",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "10290146191604140539",
+        "nom": "Atelier Bois",
+        "slug": "atelier-bois",
+        "telephone": "06 67 32 76 61",
+        "site_web": "https://www.facebook.com/atelierboisjs",
+        "adresse": "2 quater zone du bois de la marque, 16270 Terres-de-Haute-Charente",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1678740337649552249",
+        "nom": "Faure Eric Christophe",
+        "slug": "faure-eric-christophe",
+        "telephone": "05 45 71 10 28",
+        "site_web": "https://www.faure-eric.fr/",
+        "adresse": "32 Rue nationale, 16270 Roumazières Loubert",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Société de transport routier"
+      }
+    ]
+  },
+  "linars": {
+    "artisans": [
+      {
+        "id": "15191255667129140251",
+        "nom": "Larc elec",
+        "slug": "larc-elec",
+        "telephone": "07 65 55 04 82",
+        "site_web": "https://www.larc-elec-charente.fr/",
+        "adresse": "4 lotissement bois de la touche, 16730 Linars",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "11702178456094995328",
+        "nom": "construction dumas jean jacques",
+        "slug": "construction-dumas-jean-jacques",
+        "telephone": "05 45 91 18 43",
+        "site_web": null,
+        "adresse": "7 Rue du Petit Rouillac, 16730 Linars",
+        "note": 4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "15251318632185510244",
+        "nom": "BJM Électricité - Photovoltaïque - Climatisation",
+        "slug": "bjm-electricite-photovoltaique-climatisation",
+        "telephone": "05 45 23 67 64",
+        "site_web": "https://www.bjmelectricite.fr/",
+        "adresse": "41 Rue du Petit Rouillac, 16290 Saint-Saturnin",
+        "note": 5,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "788459228038654859",
+        "nom": "Mp plomberie 16",
+        "slug": "mp-plomberie-16",
+        "telephone": "06 51 37 15 29",
+        "site_web": null,
+        "adresse": "17 clos des pierrieres, 16290 Saint-Saturnin",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "magnac-sur-touvre": {
+    "artisans": [
+      {
+        "id": "18443139721774573277",
+        "nom": "R.thorin",
+        "slug": "rthorin",
+        "telephone": "06 74 71 83 92",
+        "site_web": null,
+        "adresse": "20 Rue d'Angoulême, 16600 Magnac-sur-Touvre",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16484035159984235168",
+        "nom": "Omelec 16",
+        "slug": "omelec-16",
+        "telephone": "06 24 13 75 62",
+        "site_web": "https://www.omelec16.fr/",
+        "adresse": "33 bis Rue Jean Jaurès, 16600 Magnac-sur-Touvre",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "5114280089676698943",
+        "nom": "Tournevis et CIE",
+        "slug": "tournevis-et-cie",
+        "telephone": "06 52 47 08 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "3387165082053129011",
+        "nom": "PLOMBIPLUS",
+        "slug": "plombiplus",
+        "telephone": "06 75 14 70 87",
+        "site_web": "https://www.facebook.com/share/1Dzbz2dsgD/",
+        "adresse": null,
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "11660881255375491399",
+        "nom": "Monsieur Rey - Électricien",
+        "slug": "monsieur-rey-electricien",
+        "telephone": "07 69 90 45 68",
+        "site_web": "https://monsieur-rey.fr/",
+        "adresse": "11 Rue Jean Mermoz, 16600 Magnac-sur-Touvre",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4698744253062457299",
+        "nom": "Pieret Jean-Gabriel",
+        "slug": "pieret-jean-gabriel",
+        "telephone": "06 26 20 48 55",
+        "site_web": null,
+        "adresse": "11 Rue de la Grange, 16600 Magnac-sur-Touvre",
+        "note": 3,
+        "avis": 5,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "montmoreau": {
+    "artisans": [
+      {
+        "id": "3896417968016631118",
+        "nom": "Carron Eric",
+        "slug": "carron-eric",
+        "telephone": "05 45 60 27 74",
+        "site_web": null,
+        "adresse": "23 Av. de l'Angoumois, 16190 Montmoreau",
+        "note": 3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7014838980509635926",
+        "nom": "Tarlé Distribution - Pellets/Carburants/Fioul",
+        "slug": "tarle-distribution-pelletscarburantsfioul",
+        "telephone": "05 45 60 30 38",
+        "site_web": "https://www.tarle-distribution.fr/",
+        "adresse": "ZA Bois et Garenne, derrière les silos, 16190 Montmoreau",
+        "note": 4.8,
+        "avis": 49,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "13238788475856651197",
+        "nom": "Guérin Didier",
+        "slug": "guerin-didier",
+        "telephone": "05 45 60 29 04",
+        "site_web": null,
+        "adresse": "9 Le Bourg, 16190 Montmoreau",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "merpins": {
+    "artisans": [
+      {
+        "id": "16011197710549381972",
+        "nom": "Idé-Clim - Sébastien Humaux - EURL IDE Bâtiment",
+        "slug": "ide-clim-sebastien-humaux-eurl-ide-batiment",
+        "telephone": "06 48 18 77 74",
+        "site_web": "https://ideclim.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6904979177078040962",
+        "nom": "Home Elec Confort",
+        "slug": "home-elec-confort",
+        "telephone": "07 82 35 24 48",
+        "site_web": "https://www.home-elec-confort.fr/",
+        "adresse": "95 Rue du Puits, 16100 Merpins",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "10454900028484997366",
+        "nom": "oli gal thermique",
+        "slug": "oli-gal-thermique",
+        "telephone": "06 07 25 76 25",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "montbron": {
+    "artisans": [
+      {
+        "id": "1716958425643702799",
+        "nom": "Valembois",
+        "slug": "valembois",
+        "telephone": "05 45 63 03 37",
+        "site_web": "http://valembois-sarl.com/",
+        "adresse": "Z.A. Les Coutures, Rte de Piégut, 16220 Montbron",
+        "note": 1,
+        "avis": 2,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "7882113900026295004",
+        "nom": "CAL'EAU Plombier Chauffagiste Climaticien",
+        "slug": "caleau-plombier-chauffagiste-climaticien",
+        "telephone": "05 45 96 40 89",
+        "site_web": "https://www.caleau.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "13670322889178121395",
+        "nom": "SOS GAZ",
+        "slug": "sos-gaz",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16220 Le Plantier, 16220 Montbron",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "329313114975288876",
+        "nom": "Fabien FONSECA EIRL",
+        "slug": "fabien-fonseca-eirl",
+        "telephone": "05 45 24 57 09",
+        "site_web": null,
+        "adresse": "22 Rue de Limoges, 16220 Montbron",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4252964379416129076",
+        "nom": "Thermoclim",
+        "slug": "thermoclim",
+        "telephone": "07 69 47 09 40",
+        "site_web": "http://www.thermoclim16.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 3.4,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "nersac": {
+    "artisans": [
+      {
+        "id": "7015145829131075586",
+        "nom": "Auto-home",
+        "slug": "auto-home",
+        "telephone": "07 80 96 31 60",
+        "site_web": "https://auto-home.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4138988352464609079",
+        "nom": "Vallade Jean-Christophe",
+        "slug": "vallade-jean-christophe",
+        "telephone": "05 45 90 94 48",
+        "site_web": null,
+        "adresse": "43 Rue Ampère, 16440 Nersac",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "269928829973496605",
+        "nom": "DOMUS RENOVATION 16",
+        "slug": "domus-renovation-16",
+        "telephone": "07 86 03 38 38",
+        "site_web": "https://www.leseternellesrenovation-16.fr/",
+        "adresse": "29 Rte de la Couronne, 16440 Nersac",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "1856332950799562540",
+        "nom": "Gouyoux Christophe",
+        "slug": "gouyoux-christophe",
+        "telephone": "05 45 90 66 86",
+        "site_web": null,
+        "adresse": "31 Rue Grande Rue, 16440 Nersac",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "5633869481282967266",
+        "nom": "Couvreur Nersac : Demoussage Toiture, Zingueur, Réparation Fuites, Dépannage Toit, Étanchéité",
+        "slug": "couvreur-nersac-demoussage-toiture-zingueur-reparation-fuites-depannage-toit-etancheite",
+        "telephone": "05 16 29 09 64",
+        "site_web": "https://couvreur-nersacdemoussagezingueur.ovh/",
+        "adresse": "6 Rue Grande Rue, 16440 Nersac",
+        "note": 5,
+        "avis": 8,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "nercillac": {
+    "artisans": [
+      {
+        "id": "16611196151041359886",
+        "nom": "BERTHONNAUD MULTI SERVICE SPECIALISTE ENTRETIEN EXTERIEUR COGNAC",
+        "slug": "berthonnaud-multi-service-specialiste-entretien-exterieur-cognac",
+        "telephone": "06 38 61 97 63",
+        "site_web": "https://www.facebook.com/Berthonnaud-multi-services-nercillac-112826488060495",
+        "adresse": "69 Imp. Marcel Joussaume, 16200 Nercillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "13583648300843888041",
+        "nom": "Cognac Chauffage",
+        "slug": "cognac-chauffage",
+        "telephone": "05 45 24 99 25",
+        "site_web": null,
+        "adresse": "Rue de la Fontaine, 16200 Courbillac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16386508140497766442",
+        "nom": "DAVID BERTHONNAUD DECOUPE ET LIVRAISON DE BOIS DE CHAUFFAGE COGNAC",
+        "slug": "david-berthonnaud-decoupe-et-livraison-de-bois-de-chauffage-cognac",
+        "telephone": "06 38 61 97 63",
+        "site_web": null,
+        "adresse": "69 Imp. Marcel Joussaume, 16200 Nercillac",
+        "note": 0,
+        "avis": 0,
+        "type": "Négociant en bois"
+      },
+      {
+        "id": "12611487092027789923",
+        "nom": "D.A.S plomberie",
+        "slug": "das-plomberie",
+        "telephone": "06 24 55 95 74",
+        "site_web": null,
+        "adresse": "6 ter, Rue des Borderies, 16200 Courbillac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bellevigne": {
+    "artisans": [
+      {
+        "id": "7910927469821386923",
+        "nom": "Sarl darquey",
+        "slug": "sarl-darquey",
+        "telephone": "06 26 63 59 10",
+        "site_web": null,
+        "adresse": "Route de touzac, 16120 Bellevigne",
+        "note": 4,
+        "avis": 1,
+        "type": "Plâtrier.ère"
+      }
+    ]
+  },
+  "puymoyen": {
+    "artisans": [
+      {
+        "id": "11591382120279103887",
+        "nom": "Jimenez Antonio",
+        "slug": "jimenez-antonio",
+        "telephone": "06 83 78 81 51",
+        "site_web": null,
+        "adresse": "308 Rue de Montmoreau, 16000 Angoulême",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "4267298257667348492",
+        "nom": "OPTIM +",
+        "slug": "optim",
+        "telephone": "06 77 86 03 00",
+        "site_web": null,
+        "adresse": "52 Rue de Tivoli, 16400 Vœuil-et-Giget",
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5567064535311219868",
+        "nom": "Thermique&cie",
+        "slug": "thermiquecie",
+        "telephone": "06 62 48 23 14",
+        "site_web": "https://thermiqueetcie.wixsite.com/thermique-cie",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "mornac": {
+    "artisans": [
+      {
+        "id": "9035041987717581295",
+        "nom": "Pack-sun",
+        "slug": "pack-sun",
+        "telephone": "05 45 93 56 62",
+        "site_web": "https://www.packsun.fr/",
+        "adresse": "23 Rte des Grands Champs, 16600 Mornac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "3670674710399230026",
+        "nom": "PREVOT ELEC",
+        "slug": "prevot-elec",
+        "telephone": "06 26 13 45 59",
+        "site_web": null,
+        "adresse": "14 Rte des Grottes, 16600 Mornac",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "mouthiers-sur-boeme": {
+    "artisans": [
+      {
+        "id": "12366236404023799268",
+        "nom": "GAUTHIER Michaël",
+        "slug": "gauthier-michael",
+        "telephone": "06 50 53 34 58",
+        "site_web": "https://www.facebook.com/michaelgauthierplomberiechauffage",
+        "adresse": "9 Chem. de la Chauveterie, 16440 Mouthiers-sur-Boëme",
+        "note": 5,
+        "avis": 21,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "nanteuil-en-vallee": {
+    "artisans": [
+      {
+        "id": "4591463600691159024",
+        "nom": "Baluteau Plomberie Chauffage",
+        "slug": "baluteau-plomberie-chauffage",
+        "telephone": "06 40 18 78 75",
+        "site_web": null,
+        "adresse": "le Peux Moutardon, 16700 Nanteuil-en-Vallée",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "voeuil-et-giget": {
+    "artisans": [
+      {
+        "id": "4267298257667348492",
+        "nom": "OPTIM +",
+        "slug": "optim",
+        "telephone": "06 77 86 03 00",
+        "site_web": null,
+        "adresse": "52 Rue de Tivoli, 16400 Vœuil-et-Giget",
+        "note": 3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15144123326975783958",
+        "nom": "E.K.A Confort",
+        "slug": "eka-confort",
+        "telephone": "05 45 69 24 13",
+        "site_web": "http://www.ekaconfort.com/",
+        "adresse": "80 Rte de Paris, 16160 Gond-Pontouvre",
+        "note": 4.8,
+        "avis": 39,
+        "type": "Plombier"
+      },
+      {
+        "id": "6860979952042225042",
+        "nom": "Couteau Christian",
+        "slug": "couteau-christian",
+        "telephone": "05 45 61 63 25",
+        "site_web": null,
+        "adresse": "3 Chem. de Poulet, 16400 Vœuil-et-Giget",
+        "note": 4,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "2689053418269066491",
+        "nom": "Sud Ouest Maintenance",
+        "slug": "sud-ouest-maintenance",
+        "telephone": "05 45 60 23 03",
+        "site_web": "http://www.sud-ouest-maintenance.fr/",
+        "adresse": "Rue Principale, 16400 Vœuil-et-Giget",
+        "note": 3.3,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "2982377415841606374",
+        "nom": "Mousnier DGM - Plombier Chauffagiste",
+        "slug": "mousnier-dgm-plombier-chauffagiste",
+        "telephone": "05 45 61 60 12",
+        "site_web": "https://www.mousnier-dgm.fr/",
+        "adresse": "119 Rue d'Angoulême, 16400 Puymoyen",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7895569482999720761",
+        "nom": "Imex - Pompe à chaleur - Photovoltaïque - Menuiseries - Isolation en Charente et Charente-Maritime",
+        "slug": "imex-pompe-a-chaleur-photovoltaique-menuiseries-isolation-en-charente-et-charente-maritime",
+        "telephone": "05 45 39 44 98",
+        "site_web": "https://imex16.fr/",
+        "adresse": "27 Rue de Tivoli, 16400 Vœuil-et-Giget",
+        "note": 4.8,
+        "avis": 144,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "14770517726671583090",
+        "nom": "HR THERMIQUE",
+        "slug": "hr-thermique",
+        "telephone": "06 63 45 44 91",
+        "site_web": "https://www.tiktok.com/@hr.thermique?_r=1&_t=ZN-92COJx5e926",
+        "adresse": "33 Rue du Maréchal Fayolle, 16000 Angoulême",
+        "note": 5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8818555393014960506",
+        "nom": "Contact Eco Energie",
+        "slug": "contact-eco-energie",
+        "telephone": "06 61 93 19 87",
+        "site_web": null,
+        "adresse": "2 Rue Vignes du Peyrat, 16320 Blanzaguet-Saint-Cybard",
+        "note": 5,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15176214081313591936",
+        "nom": "SARL VULFIN & frères",
+        "slug": "sarl-vulfin-freres",
+        "telephone": "06 14 30 62 99",
+        "site_web": "https://www.reseau-proeco-energies.fr/artisan/ets-vulfin-et-freres-1465",
+        "adresse": "Villemalet, 16110 La Rochette",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7498486125552823361",
+        "nom": "CD Habitat",
+        "slug": "cd-habitat",
+        "telephone": "07 48 65 16 02",
+        "site_web": "http://cd-habitat.fr/",
+        "adresse": null,
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "ruffec": {
+    "artisans": [
+      {
+        "id": "15995946475488314277",
+        "nom": "Elec Sol'Air",
+        "slug": "elec-solair",
+        "telephone": "05 45 71 58 45",
+        "site_web": "https://www.elecsolair.com/",
+        "adresse": "7 Bd Duportal, 16700 Ruffec",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7800014459236748747",
+        "nom": "MAZAN/ DOMetVIE Pays du Ruffecois",
+        "slug": "mazan-dometvie-pays-du-ruffecois",
+        "telephone": "05 45 31 29 02",
+        "site_web": "http://www.m1983.com/",
+        "adresse": "8 Rue de l'Hôpital, 16700 Ruffec",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "2958392971874085130",
+        "nom": "Entreprise Jean-Claude Starcevic",
+        "slug": "entreprise-jean-claude-starcevic",
+        "telephone": "05 45 31 11 09",
+        "site_web": "https://www.sarl-jcstarcevic.fr/",
+        "adresse": "ZI Nord les, Chem. des Pinats, 16700 Ruffec",
+        "note": 3.7,
+        "avis": 25,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "roullet-saint-estephe": {
+    "artisans": [
+      {
+        "id": "11895515719959934578",
+        "nom": "Gironde Guillaume | Plomberie & Chauffage",
+        "slug": "gironde-guillaume-plomberie-chauffage",
+        "telephone": "06 26 57 81 96",
+        "site_web": "https://www.gironde-guillaume.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8573885173856938997",
+        "nom": "JMB Concept",
+        "slug": "jmb-concept",
+        "telephone": "05 45 92 57 02",
+        "site_web": null,
+        "adresse": "14 Rue du Pontreau, 16440 Nersac",
+        "note": 4.2,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "7551496708866067679",
+        "nom": "Thermique Charente",
+        "slug": "thermique-charente",
+        "telephone": "05 45 95 57 00",
+        "site_web": null,
+        "adresse": "152 Bd Salvador Allende, 16340 L'Isle-d'Espagnac",
+        "note": 4.6,
+        "avis": 29,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8757419587299425427",
+        "nom": "ATC Bernard Plombier Chauffagiste",
+        "slug": "atc-bernard-plombier-chauffagiste",
+        "telephone": "05 45 65 41 49",
+        "site_web": "https://www.atcbernard.fr/",
+        "adresse": "9 Rue de l'Épargne, 16340 L'Isle-d'Espagnac",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15132348957452059762",
+        "nom": "ADPC",
+        "slug": "adpc",
+        "telephone": "06 68 70 19 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "9970076826287340096",
+        "nom": "Louis Confort",
+        "slug": "louis-confort",
+        "telephone": "06 82 09 48 48",
+        "site_web": "http://eirllouis.site-solocal.com/",
+        "adresse": "35 Chem. des Fregonnières, 16290 Saint-Saturnin",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7015145829131075586",
+        "nom": "Auto-home",
+        "slug": "auto-home",
+        "telephone": "07 80 96 31 60",
+        "site_web": "https://auto-home.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7482016325329058463",
+        "nom": "Ayor Bathroom",
+        "slug": "ayor-bathroom",
+        "telephone": "05 45 66 43 46",
+        "site_web": "https://www.ayor.fr/",
+        "adresse": "2 Rue Gutenberg, 16440 Roullet-Saint-Estèphe",
+        "note": 3.8,
+        "avis": 48,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "3954720382387428136",
+        "nom": "Charente Plomberie Energies - Plomberie, Climatisation Angoulême",
+        "slug": "charente-plomberie-energies-plomberie-climatisation-angouleme",
+        "telephone": "06 50 50 52 44",
+        "site_web": "https://www.cpe-16.fr/",
+        "adresse": "17 ter, Rue des Lignes, 16000 Angoulême",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Plombier"
+      },
+      {
+        "id": "14393074689791591037",
+        "nom": "Eco'tech confort",
+        "slug": "ecotech-confort",
+        "telephone": "05 16 53 07 98",
+        "site_web": "https://www.ecotechconfort.fr/?utm_source=google&utm_medium=Organic&utm_id=GBP_fiche_angouleme",
+        "adresse": "379 Rue de Bordeaux, 16000 Angoulême",
+        "note": 5,
+        "avis": 54,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "la-rochefoucauld-en-angoumois": {
+    "artisans": [
+      {
+        "id": "4252964379416129076",
+        "nom": "Thermoclim",
+        "slug": "thermoclim",
+        "telephone": "07 69 47 09 40",
+        "site_web": "http://www.thermoclim16.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 3.4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1726156781860084646",
+        "nom": "La roche energie",
+        "slug": "la-roche-energie",
+        "telephone": "06 49 25 09 25",
+        "site_web": "http://la-roche-energie.fr/",
+        "adresse": "7 Lot. Clos des Marronniers, 16110 La Rochefoucauld-en-Angoumois",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16069028109676229007",
+        "nom": "Compagnie Française des Energies Nouvelles CFEN",
+        "slug": "compagnie-francaise-des-energies-nouvelles-cfen",
+        "telephone": "05 45 21 24 43",
+        "site_web": "http://www.cfen-16.com/?utm_source=gmb",
+        "adresse": "125 rue Pouyade, Lavaud Lieu Dit, 16110 Rivières",
+        "note": 4.9,
+        "avis": 155,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "2158140966935034085",
+        "nom": "AVENIR CONFORT Faugeroux Frédéric",
+        "slug": "avenir-confort-faugeroux-frederic",
+        "telephone": "05 45 67 01 62",
+        "site_web": "http://www.avenirconfort.fr/",
+        "adresse": "40bis Zone d'activité Bandiat Tardoire, 16110 La Rochefoucauld-en-Angoumois",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "6520995908092845651",
+        "nom": "Charente Energies Services",
+        "slug": "charente-energies-services",
+        "telephone": "06 46 13 00 46",
+        "site_web": "http://www.facebook.com/Charente-Energies-Services-101159631891915",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 17,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-michel": {
+    "artisans": [
+      {
+        "id": "4088720410994990439",
+        "nom": "S.o.s Gaz",
+        "slug": "sos-gaz",
+        "telephone": "05 45 69 18 18",
+        "site_web": "https://www.sosgaz-16.fr/",
+        "adresse": "Les Savis, 16160 Gond-Pontouvre",
+        "note": 3.6,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "16403545560589101998",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "05 45 95 61 62",
+        "site_web": "https://agence.engie-homeservices.fr/158-engie-home-services-angouleme?utm_source=gmb",
+        "adresse": "126 Avenue de Bretagne, 16000 Angoulême",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17709085736680543757",
+        "nom": "Plombier 16",
+        "slug": "plombier-16",
+        "telephone": "06 33 82 72 71",
+        "site_web": "https://www.plombier16.com/",
+        "adresse": "107 Rue Abbé Rousselot, 16000 Angoulême",
+        "note": 4.9,
+        "avis": 138,
+        "type": "Plombier"
+      },
+      {
+        "id": "16011397343308712822",
+        "nom": "AMC Climatisation",
+        "slug": "amc-climatisation",
+        "telephone": "06 16 38 98 40",
+        "site_web": "https://amc-climatisation-angouleme.fr/?utm_source=gmb",
+        "adresse": "23 Imp. Leroy, 16000 Angoulême",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18258341331968894074",
+        "nom": "TLC",
+        "slug": "tlc",
+        "telephone": "06 80 64 09 61",
+        "site_web": "http://lebraultthomas.site-solocal.com/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18139524367796485836",
+        "nom": "TOPGAZ",
+        "slug": "topgaz",
+        "telephone": "05 45 94 29 29",
+        "site_web": "http://www.facebook.com/TOPGAZ16/",
+        "adresse": "225 bis Av. de la République, 16340 L'Isle-d'Espagnac",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "10039613537865390085",
+        "nom": "Ekoconfort",
+        "slug": "ekoconfort",
+        "telephone": "07 78 04 97 40",
+        "site_web": null,
+        "adresse": "56 ter Rue Alphonse Aulard, 16000 Angoulême",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "637779332223624549",
+        "nom": "F2C Froid Charente Climatisation",
+        "slug": "f2c-froid-charente-climatisation",
+        "telephone": "05 45 92 20 57",
+        "site_web": "https://f2c-16.fr/",
+        "adresse": "115 Rte de Vars, 16160 Gond-Pontouvre",
+        "note": 5,
+        "avis": 31,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9516036822756260088",
+        "nom": "Froid Chauffage Climatisation F2C",
+        "slug": "froid-chauffage-climatisation-f2c",
+        "telephone": "05 45 92 20 57",
+        "site_web": "https://f2c.site/",
+        "adresse": "8 Le Qur de la Loge, 16590 Brie",
+        "note": 4.8,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15964595891400796858",
+        "nom": "Adac",
+        "slug": "adac",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "168 Rue de Limoges, 16006 Angoulême",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "saint-amant-de-boixe": {
+    "artisans": [
+      {
+        "id": "8263487337560120192",
+        "nom": "Julien Texier",
+        "slug": "julien-texier",
+        "telephone": "06 82 23 27 66",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7999315169172661122",
+        "nom": "Home Charente Plomberie",
+        "slug": "home-charente-plomberie",
+        "telephone": "06 22 82 81 27",
+        "site_web": "https://charente-plomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11688642168667572895",
+        "nom": "PRESTA16",
+        "slug": "presta16",
+        "telephone": "05 45 39 25 15",
+        "site_web": "https://www.presta16.com/",
+        "adresse": "806 Rte de la Touche, 16560 Anais",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "11365051494874303013",
+        "nom": "Groupe AFD",
+        "slug": "groupe-afd",
+        "telephone": "09 70 72 39 73",
+        "site_web": "https://www.groupeafd.com/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 15,
+        "type": "Entrepreneur spécialisé dans la restauration après dégât des eaux"
+      },
+      {
+        "id": "12825779512085649951",
+        "nom": "SARL Stasiak",
+        "slug": "sarl-stasiak",
+        "telephone": "05 45 39 83 74",
+        "site_web": null,
+        "adresse": "23 Rue Principale, 16330 Xambes",
+        "note": 4,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "1874980890299210545",
+        "nom": "Charrier Elec",
+        "slug": "charrier-elec",
+        "telephone": "06 23 46 07 04",
+        "site_web": "https://www.charrier-elec.fr/",
+        "adresse": "5 Rue du Clos, 16330 Saint-Amant-de-Boixe",
+        "note": 5,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "6463539508851811722",
+        "nom": "DAVID MULTI SERVICES",
+        "slug": "david-multi-services",
+        "telephone": "06 58 32 60 95",
+        "site_web": null,
+        "adresse": "Rue du Romarin, 16330 La Boixe",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "10826658943704523679",
+        "nom": "Plombeo Energy",
+        "slug": "plombeo-energy",
+        "telephone": "05 45 91 97 29",
+        "site_web": null,
+        "adresse": "Combe des Martins, 16230 Maine-de-Boixe",
+        "note": 3,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "1050527531937352103",
+        "nom": "JB ELEC 16",
+        "slug": "jb-elec-16",
+        "telephone": "06 73 67 27 98",
+        "site_web": "https://www.facebook.com/profile.php?id=100076381354646",
+        "adresse": "12 Rue de la Barriere, 16330 La Boixe",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "2833370596320585455",
+        "nom": "Fabrication Aéraulique de la Boixe",
+        "slug": "fabrication-aeraulique-de-la-boixe",
+        "telephone": "05 45 95 78 64",
+        "site_web": null,
+        "adresse": "Zone Emploi La Gagnerie, 16330 Saint-Amant-de-Boixe",
+        "note": 5,
+        "avis": 6,
+        "type": null
+      }
+    ]
+  },
+  "ruelle-sur-touvre": {
+    "artisans": [
+      {
+        "id": "3387165082053129011",
+        "nom": "PLOMBIPLUS",
+        "slug": "plombiplus",
+        "telephone": "06 75 14 70 87",
+        "site_web": "https://www.facebook.com/share/1Dzbz2dsgD/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6756275848463866939",
+        "nom": "Laurent Petit EURL",
+        "slug": "laurent-petit-eurl",
+        "telephone": "05 45 61 48 07",
+        "site_web": "http://www.eurlpetit.fr/",
+        "adresse": "342 Rue du Champ de Tir, 16600 Ruelle-sur-Touvre",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Fournisseur d'électricité"
+      },
+      {
+        "id": "17715877879224381486",
+        "nom": "ABC du Chaud et Froid Plombier Chauffagiste",
+        "slug": "abc-du-chaud-et-froid-plombier-chauffagiste",
+        "telephone": "05 45 66 38 84",
+        "site_web": "https://www.abc-chaud-froid.fr/",
+        "adresse": "Parc de la rocade, Rte de Gond-Pontouvre, 16600 Ruelle-sur-Touvre",
+        "note": 4.8,
+        "avis": 122,
+        "type": "Plombier"
+      },
+      {
+        "id": "14119824970535646866",
+        "nom": "ETS Jolly",
+        "slug": "ets-jolly",
+        "telephone": "06 61 99 56 54",
+        "site_web": "https://www.etsjolly.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 29,
+        "type": "Plombier"
+      },
+      {
+        "id": "418782370377849299",
+        "nom": "Artisan-Chauffagiste-Plombier",
+        "slug": "artisan-chauffagiste-plombier",
+        "telephone": "06 10 74 80 09",
+        "site_web": null,
+        "adresse": "30 Rte Ruelle, 16430 Champniers",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6900441094188935910",
+        "nom": "Enedis",
+        "slug": "enedis",
+        "telephone": "05 45 92 36 58",
+        "site_web": "https://www.enedis.fr/",
+        "adresse": "Rue du Pont Neuf, 16600 Ruelle-sur-Touvre",
+        "note": 3.3,
+        "avis": 18,
+        "type": "Fournisseur d'électricité"
+      },
+      {
+        "id": "1397044149262534365",
+        "nom": "plomberie chauffage climatisation E.S.I. Dépannage Installation",
+        "slug": "plomberie-chauffage-climatisation-esi-depannage-installation",
+        "telephone": "07 82 15 82 79",
+        "site_web": "http://esi-energie.fr/",
+        "adresse": "98 Rue des Chênes, 16430 Champniers",
+        "note": 5,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "3056524818840958565",
+        "nom": "PULSAT",
+        "slug": "pulsat",
+        "telephone": "05 45 68 09 64",
+        "site_web": "https://magasins.pulsat.fr/117-pulsat-ruelle-sur-touvre?utm_source=gmb",
+        "adresse": "463 Av. Jean Jaurès, 16600 Ruelle-sur-Touvre",
+        "note": 4.4,
+        "avis": 73,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "12421184131235105971",
+        "nom": "Périn Jean-François",
+        "slug": "perin-jean-francois",
+        "telephone": "05 45 65 79 22",
+        "site_web": null,
+        "adresse": "225 bis Av. de la République, 16340 L'Isle-d'Espagnac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9784948063225832819",
+        "nom": "PARTEDIS Chauffage Sanitaire - Angoulême",
+        "slug": "partedis-chauffage-sanitaire-angouleme",
+        "telephone": "05 45 95 46 82",
+        "site_web": "http://www.partedis.com/agence/angouleme-chauffage-sanitaire/",
+        "adresse": "Zone Industrielle, 3 Les Machenaudes, 16160 Gond-Pontouvre",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "rouillac": {
+    "artisans": [
+      {
+        "id": "12026762639004222660",
+        "nom": "Tarlé - Livraison granulés de bois vrac par camion souffleur",
+        "slug": "tarle-livraison-granules-de-bois-vrac-par-camion-souffleur",
+        "telephone": "05 45 21 70 29",
+        "site_web": "https://www.tarle-distribution.fr/4-bois-energie",
+        "adresse": "ROUTE DE, Rue de Genac, 16170 Rouillac",
+        "note": 5,
+        "avis": 38,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "13950301004694758605",
+        "nom": "JC Thermie",
+        "slug": "jc-thermie",
+        "telephone": "06 64 00 69 13",
+        "site_web": null,
+        "adresse": "40 Rue de Chez Grelaud, 16170 Rouillac",
+        "note": 4.9,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1735552006421861772",
+        "nom": "Brandy Lilian Didier",
+        "slug": "brandy-lilian-didier",
+        "telephone": "06 07 39 36 38",
+        "site_web": null,
+        "adresse": "39 Rue d'Angoulême, 16170 Rouillac",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8803262857241476181",
+        "nom": "Tarlé Distribution",
+        "slug": "tarle-distribution",
+        "telephone": "05 45 21 70 29",
+        "site_web": "https://www.tarle-distribution.fr/?utm_source=gmb",
+        "adresse": "534 Rue de Genac, 16170 Rouillac",
+        "note": 4.8,
+        "avis": 78,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "10993061889904149920",
+        "nom": "Tarlé Services - Ramonage/Nettoyage silo granulés",
+        "slug": "tarle-services-ramonagenettoyage-silo-granules",
+        "telephone": "05 45 21 70 29",
+        "site_web": "https://www.tarle-distribution.fr/content/17-services-tarle-distribution",
+        "adresse": "Rue de Genac, 16170 Rouillac",
+        "note": 4,
+        "avis": 1,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "14436188896780798188",
+        "nom": "Tyré Jean-Marie",
+        "slug": "tyre-jean-marie",
+        "telephone": "05 45 21 38 75",
+        "site_web": null,
+        "adresse": "282 Av. Paul Ricard, 16170 Rouillac",
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "7896576919729351804",
+        "nom": "Rougier Bruno",
+        "slug": "rougier-bruno",
+        "telephone": "05 45 60 39 50",
+        "site_web": null,
+        "adresse": "4 Rue d'Angoulême, 16170 Rouillac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-claud": {
+    "artisans": [
+      {
+        "id": "4927921892752506594",
+        "nom": "Ets Dutrieux Bruno",
+        "slug": "ets-dutrieux-bruno",
+        "telephone": "05 45 71 30 44",
+        "site_web": null,
+        "adresse": "11 bis Rue Victor Hugo, 16450 Saint-Claud",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "9158302112368152412",
+        "nom": "Habitat Thermique Services",
+        "slug": "habitat-thermique-services",
+        "telephone": "07 49 32 42 36",
+        "site_web": null,
+        "adresse": "6 Rue de Chez le Four, 16450 Saint-Claud",
+        "note": 5,
+        "avis": 14,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "val-de-bonnieure": {
+    "artisans": [
+      {
+        "id": "3565804981046764021",
+        "nom": "HB SYSTEME - Chasseneuil-sur-Bonnieure - L'Isle d'Espagnac",
+        "slug": "hb-systeme-chasseneuil-sur-bonnieure-lisle-despagnac",
+        "telephone": "06 59 12 78 69",
+        "site_web": "http://www.hbsysteme.fr/",
+        "adresse": "16260 Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "15718654012685557561",
+        "nom": "MC-Thermic EIRL Martzel Christophe",
+        "slug": "mc-thermic-eirl-martzel-christophe",
+        "telephone": "05 45 93 27 61",
+        "site_web": "https://www.facebook.com/930487297035274",
+        "adresse": null,
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1815028012074773905",
+        "nom": "MNT16",
+        "slug": "mnt16",
+        "telephone": "07 85 69 29 37",
+        "site_web": "https://www.mnt16.fr/?utm_source=gmb",
+        "adresse": "Rte des Garennes, 16260 Les Pins",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "8998464034926693674",
+        "nom": "ma maison ergonomique",
+        "slug": "ma-maison-ergonomique",
+        "telephone": "06 99 49 93 81",
+        "site_web": null,
+        "adresse": "1 Rue du Champ de Foire, 16230 Val-de-Bonnieure",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "12880396147719371085",
+        "nom": "Afia Energies",
+        "slug": "afia-energies",
+        "telephone": "06 10 88 15 23",
+        "site_web": null,
+        "adresse": "Lieu-dit, Le Grand Pré, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 5,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "3992236531297946774",
+        "nom": "Do Cima Georges",
+        "slug": "do-cima-georges",
+        "telephone": "06 50 28 29 89",
+        "site_web": null,
+        "adresse": "3 Rte de la Plaine, 16260 La Tâche",
+        "note": 2.5,
+        "avis": 2,
+        "type": "Exploitation forestière"
+      },
+      {
+        "id": "1148243586497973777",
+        "nom": "Agnès et Mérenne",
+        "slug": "agnes-et-merenne",
+        "telephone": "05 45 22 22 05",
+        "site_web": null,
+        "adresse": "29B Rue Grange du Chapitre, 16230 Mansle-les-Fontaines",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "188433292199499940",
+        "nom": "Gacon Robert",
+        "slug": "gacon-robert",
+        "telephone": "05 45 39 61 47",
+        "site_web": null,
+        "adresse": "29 Rte d'Angoulême, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 3.7,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7191440291533063437",
+        "nom": "H service",
+        "slug": "h-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Chez Cherves, 16260 Cellefrouin",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "10398331660622125933",
+        "nom": "SOS Gaz",
+        "slug": "sos-gaz",
+        "telephone": "05 45 39 55 58",
+        "site_web": "https://www.sosgaz-16.fr/",
+        "adresse": "1 Rue Bir'hacheim, 16260 Chasseneuil-sur-Bonnieure",
+        "note": 4,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-meme-les-carrieres": {
+    "artisans": [
+      {
+        "id": "8808784787269872310",
+        "nom": "SARL STG17",
+        "slug": "sarl-stg17",
+        "telephone": "06 85 69 42 25",
+        "site_web": null,
+        "adresse": "11 Place André GUILLOT 56 Rue carnot 17600 SAUJON, 16370 Val-de-Cognac",
+        "note": 1,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10251404275621562187",
+        "nom": "Saint-Même-les-Carrières",
+        "slug": "saint-meme-les-carrieres",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "16720 Saint-Même-les-Carrières",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "2982541718557515987",
+        "nom": "ENTREPRISE MALHOUROUX",
+        "slug": "entreprise-malhouroux",
+        "telephone": "09 79 03 40 12",
+        "site_web": "https://www.ent-malhouroux.fr/",
+        "adresse": "0 Bois Charente, 16720 Saint-Même-les-Carrières",
+        "note": 4,
+        "avis": 1,
+        "type": "Carreleur"
+      },
+      {
+        "id": "8946299187313668928",
+        "nom": "EURL Douchet - Couvreur Jarnac",
+        "slug": "eurl-douchet-couvreur-jarnac",
+        "telephone": "06 63 88 32 46",
+        "site_web": null,
+        "adresse": "Rte de la Tonnellé, 16720 Saint-Même-les-Carrières",
+        "note": 5,
+        "avis": 16,
+        "type": "Couvreur"
+      },
+      {
+        "id": "10496358984693446845",
+        "nom": "PASSION RENOV' PAYET",
+        "slug": "passion-renov-payet",
+        "telephone": "06 64 24 44 79",
+        "site_web": "http://www.passionrenov.fr/",
+        "adresse": "59 Av. du Général Leclerc, 16200 Jarnac",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "16794461431678158204",
+        "nom": "Dorbe Alain",
+        "slug": "dorbe-alain",
+        "telephone": "05 45 35 21 40",
+        "site_web": null,
+        "adresse": "6 Chem. des Terrières, 16200 Jarnac",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "5308332462901431223",
+        "nom": "Demontoux Patrick",
+        "slug": "demontoux-patrick",
+        "telephone": "05 45 81 01 96",
+        "site_web": null,
+        "adresse": "2 Chem. des Granges, 16200 Jarnac",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "11792383609571592607",
+        "nom": "Bou'chaud Confort",
+        "slug": "bouchaud-confort",
+        "telephone": "05 45 81 23 86",
+        "site_web": "https://www.bouchaud-confort.fr/?utm_source=gmb",
+        "adresse": "32 Av. de l'Europe, 16200 Jarnac",
+        "note": 5,
+        "avis": 22,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "7337538111619033764",
+        "nom": "Guintard Walter",
+        "slug": "guintard-walter",
+        "telephone": "05 45 36 27 41",
+        "site_web": "https://www.walter-guintard.fr/",
+        "adresse": "2 Rue du Vieux Chêne, 16200 Les Métairies",
+        "note": 5,
+        "avis": 3,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "14583236980631188584",
+        "nom": "A D Chaud Froid",
+        "slug": "a-d-chaud-froid",
+        "telephone": "09 81 21 69 11",
+        "site_web": null,
+        "adresse": "29 Rue des Velennes, 16200 Triac-Lautrait",
+        "note": 4,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "sireuil": {
+    "artisans": [
+      {
+        "id": "13580968018882141316",
+        "nom": "Gerard Pivetaud Sarl",
+        "slug": "gerard-pivetaud-sarl",
+        "telephone": "05 45 90 54 00",
+        "site_web": "https://www.pivetaudgerard-combustible.fr/",
+        "adresse": "Bellevue, 16440 Sireuil",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "1856332950799562540",
+        "nom": "Gouyoux Christophe",
+        "slug": "gouyoux-christophe",
+        "telephone": "05 45 90 66 86",
+        "site_web": null,
+        "adresse": "31 Rue Grande Rue, 16440 Nersac",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "17944452482641467608",
+        "nom": "S2T",
+        "slug": "s2t",
+        "telephone": "06 61 29 60 87",
+        "site_web": null,
+        "adresse": "15 Rue de Nige Chat, 16400 La Couronne",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "4138988352464609079",
+        "nom": "Vallade Jean-Christophe",
+        "slug": "vallade-jean-christophe",
+        "telephone": "05 45 90 94 48",
+        "site_web": null,
+        "adresse": "43 Rue Ampère, 16440 Nersac",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "11092493980217457973",
+        "nom": "Plombier 2m plomberie chauffage",
+        "slug": "plombier-2m-plomberie-chauffage",
+        "telephone": "07 50 33 21 15",
+        "site_web": "https://2mplomberiechauffage.wixsite.com/my-site",
+        "adresse": "36 Route de Blanzac, 16440 Claix",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-saturnin": {
+    "artisans": [
+      {
+        "id": "788459228038654859",
+        "nom": "Mp plomberie 16",
+        "slug": "mp-plomberie-16",
+        "telephone": "06 51 37 15 29",
+        "site_web": null,
+        "adresse": "17 clos des pierrieres, 16290 Saint-Saturnin",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14607732746557326708",
+        "nom": "Technigaz 16",
+        "slug": "technigaz-16",
+        "telephone": "05 45 91 13 10",
+        "site_web": "http://technigaz16-hiersac.site-solocal.com/",
+        "adresse": "5 Rue de la Cour, 16290 Hiersac",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15251318632185510244",
+        "nom": "BJM Électricité - Photovoltaïque - Climatisation",
+        "slug": "bjm-electricite-photovoltaique-climatisation",
+        "telephone": "05 45 23 67 64",
+        "site_web": "https://www.bjmelectricite.fr/",
+        "adresse": "41 Rue du Petit Rouillac, 16290 Saint-Saturnin",
+        "note": 5,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "3972560749237224837",
+        "nom": "X P Plomberie",
+        "slug": "x-p-plomberie",
+        "telephone": "07 83 85 17 17",
+        "site_web": "https://www.xp-plomberie.fr/",
+        "adresse": "102 Rte des Maréchaux, 16290 Asnières-sur-Nouère",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "salles-d-angles": {
+    "artisans": [
+      {
+        "id": "7209185025805602887",
+        "nom": "rbs plomberie chauffage",
+        "slug": "rbs-plomberie-chauffage",
+        "telephone": "06 98 16 55 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18406520020205080323",
+        "nom": "RBS plomberie chauffage",
+        "slug": "rbs-plomberie-chauffage",
+        "telephone": "06 98 16 55 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "16952817439680747928",
+        "nom": "DL Thermique",
+        "slug": "dl-thermique",
+        "telephone": "05 45 82 35 98",
+        "site_web": "http://www.dl-thermique.fr/",
+        "adresse": "1 Rue du Bois Merrains, 16100 Merpins",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "6058988002379961399",
+        "nom": "Eurl Jauseau Patrice",
+        "slug": "eurl-jauseau-patrice",
+        "telephone": "06 69 76 30 78",
+        "site_web": "http://eurljauseaupatrice.site-solocal.com/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5961062937605626070",
+        "nom": "Alex-CES énergies",
+        "slug": "alex-ces-energies",
+        "telephone": "06 48 14 77 53",
+        "site_web": "https://alex-ces-energies.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5907634550400650453",
+        "nom": "Plomberie chauffage CD 17",
+        "slug": "plomberie-chauffage-cd-17",
+        "telephone": "06 12 04 87 55",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "8881708063408618503",
+        "nom": "Richard Bruno",
+        "slug": "richard-bruno",
+        "telephone": "05 46 70 05 36",
+        "site_web": null,
+        "adresse": "9 Rue Galiot de Genouillac, 17520 Lonzac",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6633605939869516585",
+        "nom": "Antargaz",
+        "slug": "antargaz",
+        "telephone": "05 45 82 27 50",
+        "site_web": null,
+        "adresse": "La Dorederie, 16130 Gimeux",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "38780497058441364",
+        "nom": "Sarl M G S",
+        "slug": "sarl-m-g-s",
+        "telephone": "05 45 83 76 54",
+        "site_web": null,
+        "adresse": "16130 Salles-d'Angles",
+        "note": 5,
+        "avis": 1,
+        "type": "Chaudronnerie"
+      },
+      {
+        "id": "6712522292493418409",
+        "nom": "Allin - Salles D'Angles (CM Services)",
+        "slug": "allin-salles-dangles-cm-services",
+        "telephone": "05 45 82 55 11",
+        "site_web": "https://www.ouvrard.com/cm-services-fr-fr.htm",
+        "adresse": "ZA Le Pont Neuf, 16130 Salles-d'Angles",
+        "note": 4,
+        "avis": 20,
+        "type": "Fournisseur de matériel agricole"
+      }
+    ]
+  },
+  "saint-yrieix-sur-charente": {
+    "artisans": [
+      {
+        "id": "4121111955528678901",
+        "nom": "MCI",
+        "slug": "mci",
+        "telephone": null,
+        "site_web": "https://mci.fr/",
+        "adresse": "211B Rue des Mesniers, 16710 Saint-Yrieix-sur-Charente",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17588446922941827424",
+        "nom": "Entreprise ALLARD",
+        "slug": "entreprise-allard",
+        "telephone": "05 45 21 44 35",
+        "site_web": "http://www.ent-allard.com/",
+        "adresse": "350 Rue de Saint-Jean d'Angély, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.5,
+        "avis": 16,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17516313800794331486",
+        "nom": "Homemaitre SARL",
+        "slug": "homemaitre-sarl",
+        "telephone": "07 50 48 00 58",
+        "site_web": "http://www.homemaitre.fr/?utm_source=gmb",
+        "adresse": "32 Rue Raoul Verlet, 16710 Saint-Yrieix-sur-Charente",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "14408083747214595314",
+        "nom": "COUSIN BOIS - Bois de chauffage - Granulés de bois - Ramonage - Exploitation forestière",
+        "slug": "cousin-bois-bois-de-chauffage-granules-de-bois-ramonage-exploitation-forestiere",
+        "telephone": "09 81 89 86 54",
+        "site_web": "http://www.cousin-bois-energie.fr/",
+        "adresse": "350 Rue de Bordeaux, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 585,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "6991115651907317673",
+        "nom": "Delta Chauffage",
+        "slug": "delta-chauffage",
+        "telephone": "05 45 68 69 29",
+        "site_web": null,
+        "adresse": "16 Rue du Rampaud, 16710 Saint-Yrieix-sur-Charente",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7793018619367793376",
+        "nom": "DÉTECT’ FUITES SERVICES",
+        "slug": "detect-fuites-services",
+        "telephone": "06 79 38 36 90",
+        "site_web": null,
+        "adresse": "1 Rue Jean Marvaud, 16710 Saint-Yrieix-sur-Charente",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16479205954014664831",
+        "nom": "ADS MULOT ERIC",
+        "slug": "ads-mulot-eric",
+        "telephone": "09 74 56 35 25",
+        "site_web": null,
+        "adresse": "30 Rue des Cressonnières, 16000 Angoulême",
+        "note": 4.4,
+        "avis": 29,
+        "type": "Plombier"
+      },
+      {
+        "id": "16404503777432584913",
+        "nom": "MG Habitat",
+        "slug": "mg-habitat",
+        "telephone": "05 46 90 39 28",
+        "site_web": "https://mg-habitat.fr/agence-mg-habitat-angouleme/",
+        "adresse": "22 Av. de la République, 16160 Gond-Pontouvre",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "804711396182934738",
+        "nom": "Avenir Planete Systeme",
+        "slug": "avenir-planete-systeme",
+        "telephone": "05 45 22 70 92",
+        "site_web": null,
+        "adresse": "273 Rte de Vars, 16160 Gond-Pontouvre",
+        "note": 3.6,
+        "avis": 57,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4322393628752228623",
+        "nom": "Sociéte Maintenance Energie Renouvelable",
+        "slug": "societe-maintenance-energie-renouvelable",
+        "telephone": "05 45 65 94 59",
+        "site_web": "https://www.smer-energies.fr/?utm_source=gmb",
+        "adresse": "275 Rte de Vars, 16160 Gond-Pontouvre",
+        "note": 4.5,
+        "avis": 79,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "segonzac": {
+    "artisans": [
+      {
+        "id": "16622833919749986706",
+        "nom": "SASU COURTIN",
+        "slug": "sasu-courtin",
+        "telephone": "06 98 55 33 36",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5763307005331571134",
+        "nom": "Sarl JF Barny",
+        "slug": "sarl-jf-barny",
+        "telephone": "05 45 83 32 22",
+        "site_web": "https://barnyservices.fr/",
+        "adresse": "13 rue du coteau, 16130 Segonzac",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10055192725418931036",
+        "nom": "Benoit Lange EIRL",
+        "slug": "benoit-lange-eirl",
+        "telephone": "09 86 33 69 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 19,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "touvre": {
+    "artisans": [
+      {
+        "id": "8039672038871535656",
+        "nom": "Cspe - Chauffage Sanitaire Plomberie Electricité Champniers",
+        "slug": "cspe-chauffage-sanitaire-plomberie-electricite-champniers",
+        "telephone": "05 45 69 84 54",
+        "site_web": "https://www.cspe-philippedavid-champniers.fr/",
+        "adresse": "363 Rue Lucien Deschamps, 16430 Champniers",
+        "note": 4.6,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "236991599640042479",
+        "nom": "Charente Dépannage Electromenager",
+        "slug": "charente-depannage-electromenager",
+        "telephone": "06 64 47 91 46",
+        "site_web": "https://charentedepanelec.wixsite.com/c-d-e",
+        "adresse": "12 Rue du Piquier, 16600 Touvre",
+        "note": 4.8,
+        "avis": 49,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "3444525964538788589",
+        "nom": "JP Entreprise Plomberie, Electricité, Chauffage",
+        "slug": "jp-entreprise-plomberie-electricite-chauffage",
+        "telephone": "06 02 43 17 81",
+        "site_web": "https://jpentreprise.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "168505287637495288",
+        "nom": "Socarex Electricité",
+        "slug": "socarex-electricite",
+        "telephone": "05 45 68 60 91",
+        "site_web": null,
+        "adresse": "10 Rue Aristide Briand, 16600 Magnac-sur-Touvre",
+        "note": 4.1,
+        "avis": 13,
+        "type": "Électricien"
+      },
+      {
+        "id": "5157172550066204316",
+        "nom": "LP16",
+        "slug": "lp16",
+        "telephone": "07 83 27 03 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vindelle": {
+    "artisans": [
+      {
+        "id": "17001422627982104574",
+        "nom": "Entreprise Burgaud",
+        "slug": "entreprise-burgaud",
+        "telephone": "05 45 68 71 80",
+        "site_web": "https://entreprise-burgaud-16.fr/",
+        "adresse": "81 Rue des Martinets, 16430 Champniers",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "3907415896623557240",
+        "nom": "GREG GENIE CLIMATIQUE",
+        "slug": "greg-genie-climatique",
+        "telephone": "06 65 26 48 17",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13999223071114791368",
+        "nom": "Sarl stephan plomberie chauffage et sanitaire",
+        "slug": "sarl-stephan-plomberie-chauffage-et-sanitaire",
+        "telephone": "07 80 40 67 21",
+        "site_web": "https://stephan-plombier-chauffagiste-angouleme.fr/",
+        "adresse": "Rue des Charmes, 16430 Champniers",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "644521888624418651",
+        "nom": "AEPC 16",
+        "slug": "aepc-16",
+        "telephone": "06 31 64 44 47",
+        "site_web": "https://aepc16-plombier-charente.fr/",
+        "adresse": "6 impasse du safran, 16290 Asnières-sur-Nouère",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17513294592830456765",
+        "nom": "Demond Olivier - Rénovation, création de salle de bain, plomberie",
+        "slug": "demond-olivier-renovation-creation-de-salle-de-bain-plomberie",
+        "telephone": "06 61 56 11 99",
+        "site_web": "https://www.salle-de-bain-renovation.fr/",
+        "adresse": "54 Rte des Chabots, 16430 Balzac",
+        "note": 5,
+        "avis": 1,
+        "type": "Spécialiste de la salle de bains"
+      }
+    ]
+  },
+  "taponnat-fleurignac": {
+    "artisans": [
+      {
+        "id": "4252964379416129076",
+        "nom": "Thermoclim",
+        "slug": "thermoclim",
+        "telephone": "07 69 47 09 40",
+        "site_web": "http://www.thermoclim16.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 3.4,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "soyaux": {
+    "artisans": [
+      {
+        "id": "8108483437631391874",
+        "nom": "TURBO FONTE Angoulême - Poêles et Cheminées",
+        "slug": "turbo-fonte-angouleme-poeles-et-cheminees",
+        "telephone": "05 45 95 70 00",
+        "site_web": "https://magasins.turbofonte.com/angouleme?utm_source=google&utm_medium=organic&utm_campaign=gmb_angouleme",
+        "adresse": "ZAC LES EFFAMIERS, 284 Av. du Général de Gaulle, 16800 Soyaux",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "12668333478501949274",
+        "nom": "BERTHIER ET MERENNE",
+        "slug": "berthier-et-merenne",
+        "telephone": "05 45 95 45 96",
+        "site_web": null,
+        "adresse": "78 Av. du Général de Gaulle, 16800 Soyaux",
+        "note": 4.7,
+        "avis": 76,
+        "type": "Plombier"
+      },
+      {
+        "id": "6426174860711277404",
+        "nom": "Dalkia France",
+        "slug": "dalkia-france",
+        "telephone": "05 45 38 88 10",
+        "site_web": null,
+        "adresse": "Rue des Artisans, 16800 Soyaux",
+        "note": 2.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11713995949057094438",
+        "nom": "Forteix",
+        "slug": "forteix",
+        "telephone": "06 20 74 44 87",
+        "site_web": "http://www.forteix.fr/",
+        "adresse": "Chemin du Bressour, 16800 Soyaux",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "8237818269079021029",
+        "nom": "Cjl Services",
+        "slug": "cjl-services",
+        "telephone": "06 74 18 75 20",
+        "site_web": "https://www.cjl-electricite.fr/?utm_source=gmb",
+        "adresse": "3 Pl. Jacques Cartier, 16800 Soyaux",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "13682501253731139848",
+        "nom": "BIOMOTIK KMJ HABITAT",
+        "slug": "biomotik-kmj-habitat",
+        "telephone": "05 45 69 70 37",
+        "site_web": "https://revendeur.rika.fr/46-rika-charente-biomotik-kmj-habitat-soyaux?utm_source=gmb",
+        "adresse": "32 Rue D'Epagnac, Le Poirier Cadet, 16800 Soyaux",
+        "note": 4.6,
+        "avis": 36,
+        "type": "Magasin de poêles à bois"
+      }
+    ]
+  },
+  "vars": {
+    "artisans": [
+      {
+        "id": "1566930880667924809",
+        "nom": "CLIMATECH ENERGIES 16",
+        "slug": "climatech-energies-16",
+        "telephone": "06 19 09 79 63",
+        "site_web": null,
+        "adresse": "9 L'Ouchelette, 16560 Tourriers",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11039139616622733877",
+        "nom": "Séb'Elec",
+        "slug": "sebelec",
+        "telephone": "06 71 61 66 36",
+        "site_web": null,
+        "adresse": "4 Rte de l'Hermitage, 16330 Vars",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "6064339904282127882",
+        "nom": "Berenguer Tony",
+        "slug": "berenguer-tony",
+        "telephone": "05 45 95 29 96",
+        "site_web": null,
+        "adresse": "4 Chez Brard, 16330 La Boixe",
+        "note": 3.3,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "13562907012647761053",
+        "nom": "RESPEC'",
+        "slug": "respec",
+        "telephone": "05 45 20 79 47",
+        "site_web": "https://www.facebook.com/profile.php?id=100076026185404",
+        "adresse": "Rte de Paris, 16560 Tourriers",
+        "note": 3.1,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7800842965960669559",
+        "nom": "Sobea",
+        "slug": "sobea",
+        "telephone": "06 12 51 80 39",
+        "site_web": "https://www.sobea-charente.fr/",
+        "adresse": "27 Rue du Port de la Matte, 16330 La Boixe",
+        "note": 3.6,
+        "avis": 14,
+        "type": "Carreleur"
+      },
+      {
+        "id": "1437686679258891037",
+        "nom": "Ad Elec",
+        "slug": "ad-elec",
+        "telephone": "05 45 97 53 86",
+        "site_web": null,
+        "adresse": "6 rue du Puit de la France, 16330",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "15322396001888772503",
+        "nom": "Charles Frederic",
+        "slug": "charles-frederic",
+        "telephone": "05 45 61 58 28",
+        "site_web": null,
+        "adresse": "Rue de Chez Joumier, 16570 Marsac",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  }
+}

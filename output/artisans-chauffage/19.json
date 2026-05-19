@@ -1,0 +1,2591 @@
+{
+  "voutezac": {
+    "artisans": [
+      {
+        "id": "7393419205159447167",
+        "nom": "Correz'ambiance",
+        "slug": "correzambiance",
+        "telephone": "07 85 97 10 32",
+        "site_web": "https://www.correzambiance.fr/",
+        "adresse": "3001 Rte de la Vézère, 19130 Voutezac",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "chamberet": {
+    "artisans": [
+      {
+        "id": "6416551371950131242",
+        "nom": "Extra - Chèze Patrice Sarl",
+        "slug": "extra-cheze-patrice-sarl",
+        "telephone": "05 55 98 39 21",
+        "site_web": "https://magasin.extra.fr/magasin/extra-chamberet",
+        "adresse": "3 Pl. du Monument, 19370 Chamberet",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "10762424991954388636",
+        "nom": "Les Ateliers du Puy Grand et de la Vézère",
+        "slug": "les-ateliers-du-puy-grand-et-de-la-vezere",
+        "telephone": "06 30 69 32 03",
+        "site_web": "http://boischauffage-correze-limousin.fr/",
+        "adresse": "Les Jardines, 19260 Treignac",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "8715132024237218295",
+        "nom": "Entreprise Mazaleyrat",
+        "slug": "entreprise-mazaleyrat",
+        "telephone": "05 55 98 07 35",
+        "site_web": null,
+        "adresse": "3 La Haute Vigne, 19260 Treignac",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "11319043216316207012",
+        "nom": "SARL MAURY et fils",
+        "slug": "sarl-maury-et-fils",
+        "telephone": "06 22 77 13 22",
+        "site_web": null,
+        "adresse": "2o6, rte de limoges19370, Chamberet",
+        "note": 4,
+        "avis": 2,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "cornil": {
+    "artisans": [
+      {
+        "id": "16558770292524607058",
+        "nom": "Apc Lavialle",
+        "slug": "apc-lavialle",
+        "telephone": "07 60 64 35 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9384082168794498702",
+        "nom": "AD Chauffage Systeme Energies",
+        "slug": "ad-chauffage-systeme-energies",
+        "telephone": "06 18 53 09 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3834445850593367435",
+        "nom": "Volt'eau",
+        "slug": "volteau",
+        "telephone": "06 21 53 25 43",
+        "site_web": "https://www.volteau.net/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18274385063814760966",
+        "nom": "Lacouture Franck",
+        "slug": "lacouture-franck",
+        "telephone": "06 26 13 64 95",
+        "site_web": null,
+        "adresse": "18 lotissement le Barry Haut, Pass. des Vignes, 19190 Aubazines",
+        "note": 1,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5128186163232597626",
+        "nom": "Antoine Gourmez",
+        "slug": "antoine-gourmez",
+        "telephone": "06 73 51 75 82",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "chamboulive": {
+    "artisans": [
+      {
+        "id": "9143911758954412224",
+        "nom": "SLPC Plomberie Chauffage",
+        "slug": "slpc-plomberie-chauffage",
+        "telephone": "07 68 00 15 30",
+        "site_web": null,
+        "adresse": "Au bourg, 19800 Meyrignac-l'Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5387553882683701570",
+        "nom": "RT CHAUFFAGE PLOMBIER SEILHAC",
+        "slug": "rt-chauffage-plombier-seilhac",
+        "telephone": "05 55 26 92 26",
+        "site_web": null,
+        "adresse": "10 Av. nationale, 19700 Seilhac",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16116094750620326806",
+        "nom": "Jeremy multi services 19",
+        "slug": "jeremy-multi-services-19",
+        "telephone": "06 62 11 35 04",
+        "site_web": null,
+        "adresse": "19450 Chamboulive",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "10117742064252349092",
+        "nom": "Eco Fluides",
+        "slug": "eco-fluides",
+        "telephone": "06 44 87 18 40",
+        "site_web": "https://www.eco-fluides.fr/",
+        "adresse": "10 rue des entrepreneurs, 19470 Le Lonzac",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4117757549732806340",
+        "nom": "AP ENERGIES",
+        "slug": "ap-energies",
+        "telephone": "06 80 84 26 34",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9546943225919671638",
+        "nom": "Chp'elec",
+        "slug": "chpelec",
+        "telephone": "06 87 58 39 45",
+        "site_web": "https://www.facebook.com/profile.php?id=100083319229495",
+        "adresse": "58 La Cambuse, 19450 Chamboulive",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "1440854565013337149",
+        "nom": "CORREZE PLOMBERIE",
+        "slug": "correze-plomberie",
+        "telephone": "06 52 82 71 57",
+        "site_web": null,
+        "adresse": "33 Vieillemarette, 19800 Gimel-les-Cascades",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "7393419205159447167",
+        "nom": "Correz'ambiance",
+        "slug": "correzambiance",
+        "telephone": "07 85 97 10 32",
+        "site_web": "https://www.correzambiance.fr/",
+        "adresse": "3001 Rte de la Vézère, 19130 Voutezac",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4566501411514731395",
+        "nom": "VERT David",
+        "slug": "vert-david",
+        "telephone": "06 31 71 12 32",
+        "site_web": "https://vertdavid.wixsite.com/vert-david",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "802505248689848056",
+        "nom": "Vackier-Delbos",
+        "slug": "vackier-delbos",
+        "telephone": "05 55 26 11 25",
+        "site_web": null,
+        "adresse": "Espace Commercial de Cueille, 19000 Tulle",
+        "note": 4.1,
+        "avis": 17,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cosnac": {
+    "artisans": [
+      {
+        "id": "18024402731286861609",
+        "nom": "SDCP",
+        "slug": "sdcp",
+        "telephone": "06 24 32 28 85",
+        "site_web": "https://www.qualit-enr.org/entreprises/sas-sdcp/",
+        "adresse": "710 Lestrade, 19360 Cosnac",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "3818663517221085007",
+        "nom": "Entreprise Fortunato Victor",
+        "slug": "entreprise-fortunato-victor",
+        "telephone": "06 75 72 99 85",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16286356702035510496",
+        "nom": "SPRO-plomberie, Électricité ,Clim, sanitaire",
+        "slug": "spro-plomberie-electricite-clim-sanitaire",
+        "telephone": "06 77 13 90 89",
+        "site_web": null,
+        "adresse": "28 route de Laumont, 19100 Brive-la-Gaillarde",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "8413935431197606466",
+        "nom": "SVSC",
+        "slug": "svsc",
+        "telephone": "06 30 04 17 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17358101599082982539",
+        "nom": "FAUGERAS THERMIQUE SANITAIRE Sarl",
+        "slug": "faugeras-thermique-sanitaire-sarl",
+        "telephone": "05 55 24 15 13",
+        "site_web": "http://www.fts-faugeras.fr/",
+        "adresse": "5 Rue Gasperi, 19100 Brive-la-Gaillarde",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5796985068362279199",
+        "nom": "Crémoux et Fils",
+        "slug": "cremoux-et-fils",
+        "telephone": "05 55 87 34 40",
+        "site_web": null,
+        "adresse": "22 Av. des 3 Astronautes, 19360 Malemort",
+        "note": 3.1,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "15753143252415923438",
+        "nom": "SBCS (Société Brive Chauffage Sanitaire)",
+        "slug": "sbcs-societe-brive-chauffage-sanitaire",
+        "telephone": "06 22 12 09 85",
+        "site_web": "https://m.facebook.com/SBCS19",
+        "adresse": "658 Av. du Tour de Loyre, 19360 Malemort",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "17624314406199106684",
+        "nom": "FCCE BOUSCASSE AGENCE CORREZE",
+        "slug": "fcce-bouscasse-agence-correze",
+        "telephone": "05 55 88 09 95",
+        "site_web": "https://www.bouscasse.fr/",
+        "adresse": "14 Av. du Capitaine Fernand Taurisson, 19360 Malemort",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16556973732068400746",
+        "nom": "Frantz Bourroux",
+        "slug": "frantz-bourroux",
+        "telephone": "05 55 85 10 18",
+        "site_web": null,
+        "adresse": "73 Av. Maillard, 19100 Brive-la-Gaillarde",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "4663118074145498131",
+        "nom": "Valade Bruno",
+        "slug": "valade-bruno",
+        "telephone": "05 55 74 36 66",
+        "site_web": null,
+        "adresse": "Montplaisir, 19360 Cosnac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chameyrat": {
+    "artisans": [
+      {
+        "id": "14953775777752488385",
+        "nom": "Sanitaire Chauffage Service",
+        "slug": "sanitaire-chauffage-service",
+        "telephone": "05 55 29 19 25",
+        "site_web": null,
+        "adresse": "4 All. des Camélias, 19330 Saint-Mexant",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9706410081015049232",
+        "nom": "France Distribution Biomasse",
+        "slug": "france-distribution-biomasse",
+        "telephone": "06 63 92 42 64",
+        "site_web": "https://fdbvichy.wixsite.com/france-distribution",
+        "adresse": "Brossard, 50 Rue de Chameyrat Lieu dit, 19000 Tulle",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4907236482674457520",
+        "nom": "RT CHAUFFAGE",
+        "slug": "rt-chauffage",
+        "telephone": "05 55 20 08 96",
+        "site_web": "https://www.rtchauffage.fr/",
+        "adresse": "15 Av. Winston Churchill, 19000 Tulle",
+        "note": 4,
+        "avis": 31,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8682618361963943604",
+        "nom": "Surget et Fils",
+        "slug": "surget-et-fils",
+        "telephone": "05 55 26 12 81",
+        "site_web": "https://www.surget-chauffage-sanitaire-elec.fr/",
+        "adresse": "27 Pl. du Dr Maschat, 19000 Tulle",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9796347349832588080",
+        "nom": "Geneste Chauffage",
+        "slug": "geneste-chauffage",
+        "telephone": "05 55 20 36 21",
+        "site_web": "http://www.geneste-chauffage.com/",
+        "adresse": "27 Quai de Rigny, 19000 Tulle",
+        "note": 3.7,
+        "avis": 39,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2218639076583818534",
+        "nom": "SARL COUTURAS",
+        "slug": "sarl-couturas",
+        "telephone": "05 55 26 31 81",
+        "site_web": "https://www.axenergie.eu/agences/110-couturas-favars",
+        "adresse": "ZA, Les Alleux, 19330 Favars",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9304115802690855676",
+        "nom": "Alliance Energies",
+        "slug": "alliance-energies",
+        "telephone": "05 44 41 08 98",
+        "site_web": "https://alliance-energies19.fr/",
+        "adresse": "11 bis Av. Victor Hugo, 19000 Tulle",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14044368692425227869",
+        "nom": "BEYNAT ROCHE",
+        "slug": "beynat-roche",
+        "telephone": "05 55 28 09 14",
+        "site_web": "https://www.beynatroche.fr/?utm_source=gmb",
+        "adresse": "7 Rue Pierre Larenaudie, 19000 Tulle",
+        "note": 4,
+        "avis": 1,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "7116474290186886684",
+        "nom": "HBE HELIOS BÂTIMENT ÉNERGIE",
+        "slug": "hbe-helios-batiment-energie",
+        "telephone": "07 69 83 77 71",
+        "site_web": null,
+        "adresse": "22 Rue du 9 Juin 1944, 19000 Tulle",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "12676871582469514379",
+        "nom": "Bonhommet Plomberie",
+        "slug": "bonhommet-plomberie",
+        "telephone": "06 20 48 47 85",
+        "site_web": null,
+        "adresse": "722 Route de, La Valeyrie, 19330 Saint-Germain-les-Vergnes",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cublac": {
+    "artisans": [
+      {
+        "id": "1000682587819283577",
+        "nom": "Victorien JOUFFRE",
+        "slug": "victorien-jouffre",
+        "telephone": "06 77 26 21 66",
+        "site_web": "https://victorienjouffre.now.site/",
+        "adresse": null,
+        "note": 3.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10539692733555472879",
+        "nom": "Da Silva Antonio Antonio",
+        "slug": "da-silva-antonio-antonio",
+        "telephone": "05 55 85 14 84",
+        "site_web": null,
+        "adresse": "31 Rue Basse Riviere, 19520 Cublac",
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "10266416792004599668",
+        "nom": "Brignac Chauffage Maintenance",
+        "slug": "brignac-chauffage-maintenance",
+        "telephone": "06 24 89 04 01",
+        "site_web": "http://www.brignac-chauffage-maintenance.fr/",
+        "adresse": "Maury les Marnas, 19310 Brignac-la-Plaine",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15597831523123565356",
+        "nom": "AMB CHAUFFAGE",
+        "slug": "amb-chauffage",
+        "telephone": "05 53 50 58 97",
+        "site_web": "http://www.sideec.fr/",
+        "adresse": "72 Av. Victor Hugo, 24120 Terrasson-Lavilledieu",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "137201766272206250",
+        "nom": "Chauff-elec",
+        "slug": "chauff-elec",
+        "telephone": "05 53 51 04 11",
+        "site_web": "https://www.chauff-elec-didierlequeux.fr/",
+        "adresse": "Z.I. du Coutal, 24120 Terrasson-Lavilledieu",
+        "note": 2.9,
+        "avis": 19,
+        "type": "Plombier"
+      },
+      {
+        "id": "9405120544017469229",
+        "nom": "MSB TEIXEIRA",
+        "slug": "msb-teixeira",
+        "telephone": "06 46 40 09 86",
+        "site_web": "https://teixeira-renovations.fr/",
+        "adresse": "15 Rte de Cublac, 19520 Mansac",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10799665173405557410",
+        "nom": "TURRIAN NANS",
+        "slug": "turrian-nans",
+        "telephone": "05 53 50 14 76",
+        "site_web": null,
+        "adresse": "30 Av. Victor Hugo, 24120 Terrasson-Lavilledieu",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "2696542987304718693",
+        "nom": "franck chauffage 24",
+        "slug": "franck-chauffage-24",
+        "telephone": "06 40 44 12 92",
+        "site_web": "http://www.franck-chauffage24.fr/",
+        "adresse": null,
+        "note": 3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5558903124260260917",
+        "nom": "IED Energies",
+        "slug": "ied-energies",
+        "telephone": "06 76 25 28 73",
+        "site_web": "https://www.ied-energies.com/",
+        "adresse": "9 Rue du Suquat, 19520 Mansac",
+        "note": 5,
+        "avis": 5,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "452292486379663037",
+        "nom": "David DUMAS",
+        "slug": "david-dumas",
+        "telephone": "06 11 48 73 32",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "correze": {
+    "artisans": [
+      {
+        "id": "6350653807680747829",
+        "nom": "Techni-Clim",
+        "slug": "techni-clim",
+        "telephone": "05 55 23 16 59",
+        "site_web": "http://www.techni-clim.com/",
+        "adresse": "19800 Corrèze",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5557316074163653344",
+        "nom": "Soubranne SAS",
+        "slug": "soubranne-sas",
+        "telephone": "05 55 93 05 92",
+        "site_web": "https://plombier-soubranne-egletons.fr/",
+        "adresse": "83 Av. Ventadour, 19300 Égletons",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6255614434993917091",
+        "nom": "Chauffagiste Izi confort, groupe EDF",
+        "slug": "chauffagiste-izi-confort-groupe-edf",
+        "telephone": "05 55 18 20 00",
+        "site_web": "https://www.iziconfort.com/chauffagiste/chauffagiste-brive/?at_medium=Gmb&at_campaign=brive",
+        "adresse": "Av. du 4 Juillet 1776, 19100 Brive-la-Gaillarde",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17470132839575423866",
+        "nom": "Chauffage 19",
+        "slug": "chauffage-19",
+        "telephone": "05 55 28 08 73",
+        "site_web": "http://chauffage-19.fr/",
+        "adresse": "14 Rue Henri Dunant, 19400 Argentat-sur-Dordogne",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12501373699172721000",
+        "nom": "St Sylvain Chauffage",
+        "slug": "st-sylvain-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "4 Rue de la Croix Saint-Jean, 19000 Tulle",
+        "note": 5,
+        "avis": 4,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "17075991270846349120",
+        "nom": "Roussie Energie",
+        "slug": "roussie-energie",
+        "telephone": "05 55 18 91 89",
+        "site_web": "http://www.dormesnil.fr/",
+        "adresse": "78 Av. Honoré de Balzac, 19360 Malemort",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "8081359070582200040",
+        "nom": "DORMESNIL",
+        "slug": "dormesnil",
+        "telephone": "05 55 84 84 61",
+        "site_web": "http://servix.pro/",
+        "adresse": "6 Rue Becquerel, 19100 Brive-la-Gaillarde",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "donzenac": {
+    "artisans": [
+      {
+        "id": "13481692224739376470",
+        "nom": "Lepillier Energie Plus",
+        "slug": "lepillier-energie-plus",
+        "telephone": "06 43 26 38 05",
+        "site_web": null,
+        "adresse": "35 Av. Roger Tenèze, 19270 Donzenac",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7990397812658153077",
+        "nom": "Salomon Christophe",
+        "slug": "salomon-christophe",
+        "telephone": "05 55 85 78 17",
+        "site_web": null,
+        "adresse": "Le Bouchailloux, 19270 Donzenac",
+        "note": 3.5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "6778538361461025786",
+        "nom": "FCP",
+        "slug": "fcp",
+        "telephone": "05 82 84 09 00",
+        "site_web": null,
+        "adresse": "LIEU DIT LA GARE, 19270 Ussac",
+        "note": 4.9,
+        "avis": 265,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "15570910115175902825",
+        "nom": "Froidefond Vincent",
+        "slug": "froidefond-vincent",
+        "telephone": "05 55 85 60 10",
+        "site_web": null,
+        "adresse": "Gandoulène, 19270 Donzenac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3510389201305763779",
+        "nom": "TG'ELEC",
+        "slug": "tgelec",
+        "telephone": "06 01 80 53 18",
+        "site_web": "https://vu.fr/TGELEC",
+        "adresse": "505 chemins des murs de pierres, 19270 Donzenac",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "laguenne-sur-avalouze": {
+    "artisans": [
+      {
+        "id": "3645941156151369582",
+        "nom": "Barbazange Sarl",
+        "slug": "barbazange-sarl",
+        "telephone": "05 55 20 03 11",
+        "site_web": "http://chauffage-plomberie-barbazange.fr/",
+        "adresse": "19150 Laguenne-sur-Avalouze",
+        "note": 4,
+        "avis": 5,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "egletons": {
+    "artisans": [
+      {
+        "id": "5557316074163653344",
+        "nom": "Soubranne SAS",
+        "slug": "soubranne-sas",
+        "telephone": "05 55 93 05 92",
+        "site_web": "https://plombier-soubranne-egletons.fr/",
+        "adresse": "83 Av. Ventadour, 19300 Égletons",
+        "note": 5,
+        "avis": 20,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "lagrauliere": {
+    "artisans": [
+      {
+        "id": "12542127561378973864",
+        "nom": "Pierre Alain agri elec",
+        "slug": "pierre-alain-agri-elec",
+        "telephone": "05 55 98 46 77",
+        "site_web": null,
+        "adresse": "La Valette, 19700 Saint-Jal",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9594470873659016750",
+        "nom": "SAS TAGUET",
+        "slug": "sas-taguet",
+        "telephone": "05 55 27 92 47",
+        "site_web": "https://www.qualit-enr.org/entreprises/taguet/",
+        "adresse": "5 Le Champ aux Alouettes, 19700 Seilhac",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5389348109753722625",
+        "nom": "PCS GUILLOT",
+        "slug": "pcs-guillot",
+        "telephone": "05 32 14 15 31",
+        "site_web": null,
+        "adresse": "10 Rue du Champ Fleury, 19700 Lagraulière",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "509660740134701376",
+        "nom": "Einsargueix et Fils Ets",
+        "slug": "einsargueix-et-fils-ets",
+        "telephone": "05 55 73 07 70",
+        "site_web": "http://www.einsargueix.fr/",
+        "adresse": "Zi, La Gane Lachaud, 19140 Uzerche",
+        "note": 4.6,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4552378839592477996",
+        "nom": "Correze Froid & Chaleur",
+        "slug": "correze-froid-chaleur",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/CoolCorreze/?notif_id=1607364273183508&notif_t=page_fan&ref=notif",
+        "adresse": "3 Lignade du, Le Champ d'Eyrolle, 19700 Lagraulière",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "juillac": {
+    "artisans": [
+      {
+        "id": "7689014660883809121",
+        "nom": "Auvezere Chauffage Sanitaire",
+        "slug": "auvezere-chauffage-sanitaire",
+        "telephone": "05 53 52 42 65",
+        "site_web": null,
+        "adresse": "Le Champ, 24160 Salagnac",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17530169641392433757",
+        "nom": "TREILLE Services et Formation",
+        "slug": "treille-services-et-formation",
+        "telephone": "06 63 26 41 31",
+        "site_web": "https://societe-treille.fr/fr/page/nos-formations",
+        "adresse": "1053 Rte de la Mandrie, 19230 Saint-Sornin-Lavolps",
+        "note": 5,
+        "avis": 0,
+        "type": "Services aux entreprises"
+      },
+      {
+        "id": "17524509929296053349",
+        "nom": "Treille SAS",
+        "slug": "treille-sas",
+        "telephone": "05 55 73 35 33",
+        "site_web": "https://www.societe-treille.fr/",
+        "adresse": "1053 route De La Mandrie, 19230 Saint-Sornin-Lavolps",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18301664744152662734",
+        "nom": "Darfeuille",
+        "slug": "darfeuille",
+        "telephone": "06 13 90 91 33",
+        "site_web": "https://www.facebook.com/EurlDarfeuille",
+        "adresse": "1136 route de la nadalie, La Feradie, 19310 Yssandon",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3046067444223522148",
+        "nom": "sarl vivalda",
+        "slug": "sarl-vivalda",
+        "telephone": "07 86 52 40 85",
+        "site_web": "http://sarl-vivalda.fr/",
+        "adresse": "6, 19350 Chabrignac",
+        "note": 4.3,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "12457377585964038379",
+        "nom": "Golfier Ramonage",
+        "slug": "golfier-ramonage",
+        "telephone": "05 55 25 69 38",
+        "site_web": "https://www.pagesjaunes.fr/pros/50125745",
+        "adresse": null,
+        "note": 4,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "8140795356687794951",
+        "nom": "Lavaud Franck",
+        "slug": "lavaud-franck",
+        "telephone": "05 55 25 60 25",
+        "site_web": null,
+        "adresse": "4 Av. Nouvelle Avenue, 19350 Juillac",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "malemort": {
+    "artisans": [
+      {
+        "id": "162016787207915509",
+        "nom": "H2L",
+        "slug": "h2l",
+        "telephone": "05 55 25 00 67",
+        "site_web": "https://h2l.fr/",
+        "adresse": "83 Av. Honoré de Balzac, 19360 Malemort",
+        "note": 4.3,
+        "avis": 23,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14717966925858385936",
+        "nom": "TEILHOL PLOMBERIE CHAUFFAGE CLIMATISATION",
+        "slug": "teilhol-plomberie-chauffage-climatisation",
+        "telephone": "07 80 97 86 63",
+        "site_web": "https://teilhol-plomberie.fr/",
+        "adresse": "25 Rue de Turenne, 19100 Brive-la-Gaillarde",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8642143701256935635",
+        "nom": "Chauffeco19",
+        "slug": "chauffeco19",
+        "telephone": "06 95 69 47 63",
+        "site_web": "https://malemort-chauffeco-nice-site.lovable.app/",
+        "adresse": "8 Av. Molière, 19360 Malemort",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9750857490359040398",
+        "nom": "Delmas SAS",
+        "slug": "delmas-sas",
+        "telephone": "07 67 28 36 72",
+        "site_web": "http://sasdelmas.fr/?utm_source=gmb",
+        "adresse": "24 Rue des Rocs, 19360 Malemort",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6159148425314166842",
+        "nom": "Pinto Energie Froid & Clim",
+        "slug": "pinto-energie-froid-clim",
+        "telephone": "06 52 75 46 87",
+        "site_web": "https://www.pintoenergie.fr/",
+        "adresse": "105 Rue de la Gare, 19360 Malemort",
+        "note": 5,
+        "avis": 13,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4216207060893496132",
+        "nom": "Dsr Chaufclim",
+        "slug": "dsr-chaufclim",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "69 Av. Honoré de Balzac, 19360 Malemort",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "11397839642356069135",
+        "nom": "Ruffet Chastanet Entreprise",
+        "slug": "ruffet-chastanet-entreprise",
+        "telephone": "05 55 24 04 11",
+        "site_web": "https://ruffet-chastanet.chauffagiste-viessmann.fr/",
+        "adresse": "30 Rue Général Dalton, 19100 Brive-la-Gaillarde",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18104946365443948156",
+        "nom": "ETS MANIERE - AVIA",
+        "slug": "ets-maniere-avia",
+        "telephone": "05 55 92 96 65",
+        "site_web": "https://www.maniere-energies-brive.com/",
+        "adresse": "D44, 19360 Malemort",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "8661454058407835946",
+        "nom": "Invicta Shop",
+        "slug": "invicta-shop",
+        "telephone": "05 55 88 34 93",
+        "site_web": "https://www.invicta.fr/fr/",
+        "adresse": "47 Av. du Capitaine Fernand Taurisson, 19360 Malemort",
+        "note": 3.7,
+        "avis": 46,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "1130224996081922252",
+        "nom": "PLOMBERIE Corrézienne",
+        "slug": "plomberie-correzienne",
+        "telephone": "06 84 32 17 75",
+        "site_web": "http://www.plomberie-correzienne.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "larche": {
+    "artisans": [
+      {
+        "id": "17401019495924264343",
+        "nom": "Etablissement Sanconnie",
+        "slug": "etablissement-sanconnie",
+        "telephone": "05 55 85 11 85",
+        "site_web": null,
+        "adresse": "65 Rue du Pont de Bedenas, 19600 Larche",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9576813118878992461",
+        "nom": "Vitrat Sarl",
+        "slug": "vitrat-sarl",
+        "telephone": "05 55 85 30 35",
+        "site_web": null,
+        "adresse": "ZA de l'escurade, 19600 Saint-Cernin-de-Larche",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2866136455213719399",
+        "nom": "Vigier Dominique",
+        "slug": "vigier-dominique",
+        "telephone": "05 55 88 32 50",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "lubersac": {
+    "artisans": [
+      {
+        "id": "9891191256142381660",
+        "nom": "Babola Christian",
+        "slug": "babola-christian",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Ribat, 19210 Lubersac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8045419998154282115",
+        "nom": "Plomb Elec Système",
+        "slug": "plomb-elec-systeme",
+        "telephone": "05 55 23 78 21",
+        "site_web": "https://p-e-s.fr/",
+        "adresse": "1 bis avenue du 8 mai 1945, 19210 Lubersac",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de VRD"
+      },
+      {
+        "id": "1237592258265188941",
+        "nom": "MARSAC SARL",
+        "slug": "marsac-sarl",
+        "telephone": "05 55 73 61 67",
+        "site_web": "http://www.marsac-electricite.fr/",
+        "adresse": "10 Rue de la Redondia, 19210 Lubersac",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "12524131393460622152",
+        "nom": "Energies Locales",
+        "slug": "energies-locales",
+        "telephone": "06 84 99 76 20",
+        "site_web": "https://energieslocales.wordpress.com/",
+        "adresse": "645 Chanoncle, 87500 Coussac-Bonneval",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7086345215948839010",
+        "nom": "SCEP - Société Corrézienne d'Electricité et Plomberie",
+        "slug": "scep-societe-correzienne-delectricite-et-plomberie",
+        "telephone": "05 55 98 55 54",
+        "site_web": "https://scep-19.fr/?utm_source=gmb",
+        "adresse": "67 allée de la minoterie, 19230 Arnac-Pompadour",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "1839710467875114537",
+        "nom": "A.Pydo",
+        "slug": "apydo",
+        "telephone": "06 72 15 70 48",
+        "site_web": "http://a.pydo.free.fr/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8322888649582298305",
+        "nom": "EURL Corrèze Thermique",
+        "slug": "eurl-correze-thermique",
+        "telephone": "07 67 07 93 91",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1856293185201134708",
+        "nom": "Mazy Entretien Ramonage",
+        "slug": "mazy-entretien-ramonage",
+        "telephone": "06 28 77 12 97",
+        "site_web": null,
+        "adresse": "19210 Lubersac",
+        "note": 4.4,
+        "avis": 13,
+        "type": "Ramoneur"
+      }
+    ]
+  },
+  "meyssac": {
+    "artisans": [
+      {
+        "id": "1263779130924896437",
+        "nom": "Reyjal Eric",
+        "slug": "reyjal-eric",
+        "telephone": "06 32 03 31 15",
+        "site_web": "http://plomberie-reyjal.fr/",
+        "adresse": "Le Clauzel, 19500 Saint-Julien-Maumont",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16419336936047506466",
+        "nom": "Laurent Soulier Plomberie",
+        "slug": "laurent-soulier-plomberie",
+        "telephone": "06 78 35 60 74",
+        "site_web": "https://www.soulierplomberie.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14661236358333841271",
+        "nom": "GS Plomberie",
+        "slug": "gs-plomberie",
+        "telephone": "06 20 56 09 90",
+        "site_web": null,
+        "adresse": "Le Bourg, 19500 Saillac",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "5594303687993150152",
+        "nom": "Proxi Confort - Lacoste Pierre",
+        "slug": "proxi-confort-lacoste-pierre",
+        "telephone": "05 55 25 40 48",
+        "site_web": "https://www.proxiconfort.fr/magasin/proxi-confort-meyssac",
+        "adresse": "60 Bd du Quercy Avenue DU, 19500 Meyssac",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "13786789636988359150",
+        "nom": "Soulier Laurent",
+        "slug": "soulier-laurent",
+        "telephone": "06 78 35 60 74",
+        "site_web": "https://www.soulierplomberie.com/?utm_source=gmb",
+        "adresse": "350 Charlat, 350 route de Charlat Haut, 19500 Collonges-la-Rouge",
+        "note": 2,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "rosiers-d-egletons": {
+    "artisans": [
+      {
+        "id": "13708129885214825707",
+        "nom": "PCE - Plomberie Chauffage Egletonnaise",
+        "slug": "pce-plomberie-chauffage-egletonnaise",
+        "telephone": "07 49 26 38 54",
+        "site_web": "https://pce19-egletons.com/",
+        "adresse": "12 Bd du Chambrel, 19300 Égletons",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "meymac": {
+    "artisans": [
+      {
+        "id": "8578876341260641447",
+        "nom": "Jérémie Le Plombier",
+        "slug": "jeremie-le-plombier",
+        "telephone": "06 04 15 81 94",
+        "site_web": null,
+        "adresse": "4 Le Mas Gimel, 19290 Millevaches",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11151882082068307395",
+        "nom": "adm 19",
+        "slug": "adm-19",
+        "telephone": "06 44 36 42 39",
+        "site_web": "https://www.adm19energie.fr/",
+        "adresse": "12 Bd des Artisans, 19250 Meymac",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepôt"
+      },
+      {
+        "id": "11677638870436344418",
+        "nom": "Malaquis Chauffage Services",
+        "slug": "malaquis-chauffage-services",
+        "telephone": "05 55 72 14 48",
+        "site_web": "https://www.malaquis-chauffage-services.com/",
+        "adresse": "ZA, Le Bois Saint-Michel, 19200 Ussel",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15686553247492727765",
+        "nom": "Félix Frédèric",
+        "slug": "felix-frederic",
+        "telephone": "05 55 94 29 76",
+        "site_web": null,
+        "adresse": "Les Flottes, 19250 Combressol",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3121400560939972727",
+        "nom": "Granulés du Plateau",
+        "slug": "granules-du-plateau",
+        "telephone": "06 37 71 08 94",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.4,
+        "avis": 0,
+        "type": "Fournisseur de bois"
+      },
+      {
+        "id": "8460985970423805318",
+        "nom": "Sas Pascal Puydupin",
+        "slug": "sas-pascal-puydupin",
+        "telephone": "05 55 95 12 24",
+        "site_web": "https://pascal-puydupin-meymac.fr/",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "2802159007674004347",
+        "nom": "Acrid Sarl",
+        "slug": "acrid-sarl",
+        "telephone": "06 50 57 16 82",
+        "site_web": "https://www.facebook.com/Acrid19250/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4490866392521642757",
+        "nom": "Energie bois",
+        "slug": "energie-bois",
+        "telephone": "06 77 27 16 35",
+        "site_web": null,
+        "adresse": "Imp. de l'Empereur, 19200 Ussel",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "5562072966312201295",
+        "nom": "Demay Joaquim Chaudière et Clim",
+        "slug": "demay-joaquim-chaudiere-et-clim",
+        "telephone": null,
+        "site_web": "http://chauffage.les-artisans-du-coin.fr/meymac",
+        "adresse": "2 Bd de la Ganoue, 19250 Meymac",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "naves": {
+    "artisans": [
+      {
+        "id": "288953996754597853",
+        "nom": "Electro tulle depannage",
+        "slug": "electro-tulle-depannage",
+        "telephone": "06 60 87 64 08",
+        "site_web": "http://facebook.com/fred19000",
+        "adresse": "67 Rue de la Barrussie, 19000 Tulle",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "objat": {
+    "artisans": [
+      {
+        "id": "5226773316856781607",
+        "nom": "Ent Francis Goulmy Plomb Sanit Chauffa",
+        "slug": "ent-francis-goulmy-plomb-sanit-chauffa",
+        "telephone": "09 65 32 07 11",
+        "site_web": null,
+        "adresse": "95 Rue Victor Hugo, 19130 Saint-Aulaire",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15881313370042843368",
+        "nom": "team services",
+        "slug": "team-services",
+        "telephone": "07 69 80 82 50",
+        "site_web": "https://www.teamservices19.fr/",
+        "adresse": "1 Av. Henri de Jouvenel, 19130 Objat",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "8901732409115629230",
+        "nom": "P.C.E.R Climatisation, chauffage et plomberie.",
+        "slug": "pcer-climatisation-chauffage-et-plomberie",
+        "telephone": "06 49 86 23 83",
+        "site_web": "https://www.facebook.com/aiemrobinPCER/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1792034293419606209",
+        "nom": "Delcambre& Successeurs",
+        "slug": "delcambre-successeurs",
+        "telephone": "05 55 25 82 75",
+        "site_web": null,
+        "adresse": "140 Rue de l'Industrie, 19130 Objat",
+        "note": 3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6626146777546964939",
+        "nom": "GROUPE ABF",
+        "slug": "groupe-abf",
+        "telephone": "05 55 25 57 44",
+        "site_web": "https://www.abf-groupe.fr/",
+        "adresse": "190 Av. de l'Industrie, 19130 Objat",
+        "note": 4.2,
+        "avis": 9,
+        "type": "Entrepreneur spécialisé dans l'isolation"
+      },
+      {
+        "id": "2970932552538603011",
+        "nom": "aquathermique19",
+        "slug": "aquathermique19",
+        "telephone": "06 88 97 42 13",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "neuvic": {
+    "artisans": [
+      {
+        "id": "16343307825078074850",
+        "nom": "THERMICOLD PLUS",
+        "slug": "thermicold-plus",
+        "telephone": "05 53 81 15 47",
+        "site_web": "https://thermicold-plus.com/",
+        "adresse": "41, ROUTE DU, 24190 Neuvic",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11296819220124017618",
+        "nom": "Soukup Chauffage Eco Pro",
+        "slug": "soukup-chauffage-eco-pro",
+        "telephone": "05 53 82 69 36",
+        "site_web": "http://www.soukup-chauffage.fr/?utm_source=gmb",
+        "adresse": "35 CHEMIN DU MOULIN, 24190 Neuvic",
+        "note": 5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2599112668358206982",
+        "nom": "veyssiere sas",
+        "slug": "veyssiere-sas",
+        "telephone": "05 55 96 20 31",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "2052647032835135501",
+        "nom": "Manzagol Jean Michel",
+        "slug": "manzagol-jean-michel",
+        "telephone": "05 55 95 95 61",
+        "site_web": null,
+        "adresse": "Les Bois Jeunes, 19160 Chirac-Bellevue",
+        "note": 1,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "14084946441349829864",
+        "nom": "Audebert et Fils",
+        "slug": "audebert-et-fils",
+        "telephone": "05 53 81 55 61",
+        "site_web": "https://www.sarl-audebert.fr/",
+        "adresse": "Rte de la Gare, 24190 Neuvic",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9339293504914781138",
+        "nom": "Rouffiange Jacques",
+        "slug": "rouffiange-jacques",
+        "telephone": "05 55 95 83 36",
+        "site_web": null,
+        "adresse": "Le Four, 19160 Lamazière-Basse",
+        "note": 5,
+        "avis": 1,
+        "type": "Agriculteur"
+      },
+      {
+        "id": "460124645112702614",
+        "nom": "Association des Gorges de la Haute-Dordogne (AGHD)",
+        "slug": "association-des-gorges-de-la-haute-dordogne-aghd",
+        "telephone": "05 55 95 08 39",
+        "site_web": "http://www.associationghd.com/",
+        "adresse": "Pl. de l'Église, 19160 Neuvic",
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "47876332812834423",
+        "nom": "SARL Pro Metal Chauffage",
+        "slug": "sarl-pro-metal-chauffage",
+        "telephone": "06 27 56 64 71",
+        "site_web": "http://www.pro-metal-chauffage.fr/",
+        "adresse": "8 mialaret, 19200 Saint-Victour",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "14583912491759299450",
+        "nom": "CIMA BOIS",
+        "slug": "cima-bois",
+        "telephone": "05 55 46 92 71",
+        "site_web": null,
+        "adresse": "8, rue de la tour des cinq pierres, 19160 Neuvic",
+        "note": 5,
+        "avis": 3,
+        "type": "Exploitation forestière"
+      },
+      {
+        "id": "3762784786032463330",
+        "nom": "Bétaille Lucien",
+        "slug": "betaille-lucien",
+        "telephone": "05 55 95 86 78",
+        "site_web": null,
+        "adresse": "19 Pass. des Granges, 19160 Neuvic",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-clement": {
+    "artisans": [
+      {
+        "id": "17182758394263611290",
+        "nom": "Dupuis Maçonnerie",
+        "slug": "dupuis-maconnerie",
+        "telephone": "06 62 78 59 91",
+        "site_web": null,
+        "adresse": "5 le puy des ferrieres, 19700 Saint-Clément",
+        "note": 0,
+        "avis": 0,
+        "type": "Maçon"
+      }
+    ]
+  },
+  "perpezac-le-noir": {
+    "artisans": [
+      {
+        "id": "109215019877395545",
+        "nom": "Chant'elec Électricité Générale",
+        "slug": "chantelec-electricite-generale",
+        "telephone": "06 95 37 77 64",
+        "site_web": "https://chantelec19.fr/",
+        "adresse": "19410 Perpezac-le-Noir",
+        "note": 0,
+        "avis": 0,
+        "type": "Ingénieur"
+      },
+      {
+        "id": "17348981566875463792",
+        "nom": "Monteil Et Masmalet",
+        "slug": "monteil-et-masmalet",
+        "telephone": "05 55 73 75 11",
+        "site_web": "http://www.sarl-monteil-masmalet.com/",
+        "adresse": "Rte de Tous Vents, 19410 Perpezac-le-Noir",
+        "note": 3.1,
+        "avis": 10,
+        "type": "Couvreur"
+      },
+      {
+        "id": "294431072442469890",
+        "nom": "Hebrard Bonnie Sarl",
+        "slug": "hebrard-bonnie-sarl",
+        "telephone": "05 55 73 70 28",
+        "site_web": null,
+        "adresse": "58 Rue Principale, 19410 Perpezac-le-Noir",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Boulangerie"
+      },
+      {
+        "id": "11231092384757903578",
+        "nom": "Laurent's",
+        "slug": "laurents",
+        "telephone": "06 83 75 23 74",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "arnac-pompadour": {
+    "artisans": [
+      {
+        "id": "1066249264621698520",
+        "nom": "DELCAMBRE",
+        "slug": "delcambre",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1855 Rte de Juillac, 19230 Saint-Sornin-Lavolps",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "seilhac": {
+    "artisans": [
+      {
+        "id": "5387553882683701570",
+        "nom": "RT CHAUFFAGE PLOMBIER SEILHAC",
+        "slug": "rt-chauffage-plombier-seilhac",
+        "telephone": "05 55 26 92 26",
+        "site_web": null,
+        "adresse": "10 Av. nationale, 19700 Seilhac",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "brive-la-gaillarde": {
+    "artisans": [
+      {
+        "id": "14259589201230860733",
+        "nom": "Acdep",
+        "slug": "acdep",
+        "telephone": "05 55 85 08 50",
+        "site_web": null,
+        "adresse": "36 Rue Pierre Chaumeil, 19100 Brive-la-Gaillarde",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10437677667387086599",
+        "nom": "Énergie 19",
+        "slug": "energie-19",
+        "telephone": "06 31 65 52 68",
+        "site_web": null,
+        "adresse": "10 Av. Jean-Jacques Rousseau, 19100 Brive-la-Gaillarde",
+        "note": 3.9,
+        "avis": 24,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16883903839475901372",
+        "nom": "Kitadi Energies",
+        "slug": "kitadi-energies",
+        "telephone": "06 16 87 15 41",
+        "site_web": "http://www.kitadi-energies.fr/",
+        "adresse": "18 Rue Martial Brigouleix, 19100 Brive-la-Gaillarde",
+        "note": 4.9,
+        "avis": 31,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13829901059078507085",
+        "nom": "Horizon énergies",
+        "slug": "horizon-energies",
+        "telephone": "05 55 92 03 82",
+        "site_web": "https://horizonenergies.com/",
+        "adresse": "121 Av. Ribot, 19100 Brive-la-Gaillarde",
+        "note": 4.9,
+        "avis": 57,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1111058951497616046",
+        "nom": "DELCAMBRE Chauffage Pompes à chaleur Climatisation Salle de bain",
+        "slug": "delcambre-chauffage-pompes-a-chaleur-climatisation-salle-de-bain",
+        "telephone": "05 55 87 37 70",
+        "site_web": null,
+        "adresse": "1 rue Louis Rodas, 19100 Brive-la-Gaillarde",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9182403095842159300",
+        "nom": "Clim Energie",
+        "slug": "clim-energie",
+        "telephone": "05 55 23 23 63",
+        "site_web": "https://www.clim-energie19.fr/",
+        "adresse": "56 Av. Maréchal Foch, 19100 Brive-la-Gaillarde",
+        "note": 4.6,
+        "avis": 30,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9604691943797836726",
+        "nom": "PARTEDIS Chauffage Sanitaire - Brive",
+        "slug": "partedis-chauffage-sanitaire-brive",
+        "telephone": "05 55 92 04 02",
+        "site_web": "http://www.partedis.com/agence/brive-chauffage-sanitaire/",
+        "adresse": "ZAC Brive Ouest, 23 Rue Jean Dallet, 19100 Brive-la-Gaillarde",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3722505688295999055",
+        "nom": "SARL COUTURAS - Chauffagiste Brive indépendant membre du réseau Axenergie",
+        "slug": "sarl-couturas-chauffagiste-brive-independant-membre-du-reseau-axenergie",
+        "telephone": "05 55 23 74 56",
+        "site_web": "https://www.axenergie.eu/agences/111-couturas-brive-la-gaillarde",
+        "adresse": "167 Av. Jacques et Bernadette Chirac, 19100 Brive-la-Gaillarde",
+        "note": 2.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11383787985060836244",
+        "nom": "Py thermique ( Entretien Dépannage Chaudière Gaz Fioul,Climatisation,PAC)",
+        "slug": "py-thermique-entretien-depannage-chaudiere-gaz-fioulclimatisationpac",
+        "telephone": "06 18 83 16 17",
+        "site_web": null,
+        "adresse": "22 Rue de Bel air, 19100 Brive-la-Gaillarde",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Service de réparation de chaudières"
+      }
+    ]
+  },
+  "beaulieu-sur-dordogne": {
+    "artisans": [
+      {
+        "id": "11842567556224082230",
+        "nom": "THIBAULD DÉFOSSEZ PLOMBERIE (TDP)",
+        "slug": "thibauld-defossez-plomberie-tdp",
+        "telephone": "09 74 56 10 70",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "1921487222332702954",
+        "nom": "Combelonge André",
+        "slug": "combelonge-andre",
+        "telephone": "05 55 91 15 11",
+        "site_web": null,
+        "adresse": "Chassac, 19120 Beaulieu-sur-Dordogne",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "beynat": {
+    "artisans": [
+      {
+        "id": "2096409385783634375",
+        "nom": "Feix Yves",
+        "slug": "feix-yves",
+        "telephone": "05 55 84 61 80",
+        "site_web": null,
+        "adresse": "Pierrefiche, 19190 Albignac",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14253079091152496472",
+        "nom": "Lefebvre Electricité générale",
+        "slug": "lefebvre-electricite-generale",
+        "telephone": "06 73 80 12 91",
+        "site_web": null,
+        "adresse": "Le Bois d'Orche, 19190 Sérilhac",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "9790841154756823986",
+        "nom": "Br",
+        "slug": "br",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Av. de la Gare, 19380 Saint-Chamant",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Fournisseur de matériel pétrolier"
+      },
+      {
+        "id": "9271942887464439647",
+        "nom": "Julien Faugeras Détection",
+        "slug": "julien-faugeras-detection",
+        "telephone": "06 76 25 90 98",
+        "site_web": "https://julienfaugeras-detection.jimdofree.com/",
+        "adresse": "652 Vianne, 19190 Lanteuil",
+        "note": 5,
+        "avis": 3,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "12563109324762578583",
+        "nom": "Koax",
+        "slug": "koax",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue de la Mairie, 19190 Beynat",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-hilaire-peyroux": {
+    "artisans": [
+      {
+        "id": "12142684491110313424",
+        "nom": "2L plomberie",
+        "slug": "2l-plomberie",
+        "telephone": "06 44 83 19 45",
+        "site_web": "https://www.allovoisins.com/p/zaffalonguillaume?from=offreurs&utm_source=product_transactionnel&utm_medium=share&utm_campaign=profile",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16776784703767821499",
+        "nom": "EVIDENCE BOIS",
+        "slug": "evidence-bois",
+        "telephone": "06 73 53 66 98",
+        "site_web": "https://www.evidencebois.com/",
+        "adresse": "La Gare d'Aubazine, 19560 Saint-Hilaire-Peyroux",
+        "note": 0,
+        "avis": 0,
+        "type": "Bois"
+      },
+      {
+        "id": "289870376680188864",
+        "nom": "Saint-Hilaire-Peyroux",
+        "slug": "saint-hilaire-peyroux",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "19560 Saint-Hilaire-Peyroux",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "bort-les-orgues": {
+    "artisans": [
+      {
+        "id": "5302364148049731591",
+        "nom": "Bort Décors",
+        "slug": "bort-decors",
+        "telephone": "05 55 96 71 05",
+        "site_web": "https://www.bortdecors.fr/",
+        "adresse": "291 Rue Guynemer, 19110 Bort-les-Orgues",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "18273905252534989281",
+        "nom": "Sumatic Artense Sarl",
+        "slug": "sumatic-artense-sarl",
+        "telephone": "05 55 96 70 33",
+        "site_web": "https://www.sumatic.fr/",
+        "adresse": "185 Rue des Deux Eaux, 19110 Bort-les-Orgues",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "7345696144947357628",
+        "nom": "Juillard Andre Jean Nicolas",
+        "slug": "juillard-andre-jean-nicolas",
+        "telephone": "04 71 78 77 21",
+        "site_web": null,
+        "adresse": "15270 Champs-sur-Tarentaine-Marchal",
+        "note": 2,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "3426214280730979908",
+        "nom": "Vaquez Stéphane",
+        "slug": "vaquez-stephane",
+        "telephone": "05 55 96 73 09",
+        "site_web": null,
+        "adresse": "300 Chem. des Peupliers, 19110 Bort-les-Orgues",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "16136668126624147080",
+        "nom": "Champs Energies",
+        "slug": "champs-energies",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue des Glycines, 15270 Champs-sur-Tarentaine-Marchal",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14539788804712592901",
+        "nom": "Proxi Confort - Blo Bricolage",
+        "slug": "proxi-confort-blo-bricolage",
+        "telephone": "05 55 96 84 83",
+        "site_web": "https://www.proxiconfort.fr/magasin/proxi-confort-bort-les-orgues-1",
+        "adresse": "zone de la tuilerie, 19110 Bort-les-Orgues",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "13945996056195005301",
+        "nom": "Tazé SAS",
+        "slug": "taze-sas",
+        "telephone": "05 55 46 04 20",
+        "site_web": "http://www.taze.fr/",
+        "adresse": "Rue de la Tuilerie, 19110 Bort-les-Orgues",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "sainte-fortunade": {
+    "artisans": [
+      {
+        "id": "14615297470435625313",
+        "nom": "CQFD 19",
+        "slug": "cqfd-19",
+        "telephone": "06 38 79 69 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "16928842004692625265",
+        "nom": "Alimentation et Branchement Electriques A.B.E",
+        "slug": "alimentation-et-branchement-electriques-abe",
+        "telephone": "06 77 75 53 81",
+        "site_web": null,
+        "adresse": "461 Chantemerle, 19490 Sainte-Fortunade",
+        "note": 2.9,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "9137653771772249296",
+        "nom": "HEAT'S COOL",
+        "slug": "heats-cool",
+        "telephone": "06 80 93 31 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "13569410033894701457",
+        "nom": "Magael CERON",
+        "slug": "magael-ceron",
+        "telephone": "06 76 32 59 42",
+        "site_web": null,
+        "adresse": "311 Ludier, 19490 Sainte-Fortunade",
+        "note": 1.5,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "10228041281820242356",
+        "nom": "LC Justplomberie",
+        "slug": "lc-justplomberie",
+        "telephone": "07 80 65 02 45",
+        "site_web": "https://lc-justplomberie.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12931438850484140310",
+        "nom": "Mialet Sarl",
+        "slug": "mialet-sarl",
+        "telephone": "05 55 27 12 50",
+        "site_web": "https://www.sarl-mialet.fr/",
+        "adresse": "55 route de tulle, 19490 Sainte-Fortunade",
+        "note": 4.6,
+        "avis": 43,
+        "type": "Entreprise de terrassement"
+      }
+    ]
+  },
+  "saint-germain-les-vergnes": {
+    "artisans": [
+      {
+        "id": "15869869523478463689",
+        "nom": "ddelec",
+        "slug": "ddelec",
+        "telephone": "06 13 76 29 86",
+        "site_web": null,
+        "adresse": "0 Le Peuch, 19330 Saint-Germain-les-Vergnes",
+        "note": 3,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-pantaleon-de-larche": {
+    "artisans": [
+      {
+        "id": "2472696655777871239",
+        "nom": "Bourdet Frédéric",
+        "slug": "bourdet-frederic",
+        "telephone": "05 55 86 98 26",
+        "site_web": null,
+        "adresse": "Lavarde, 19600 Saint-Pantaléon-de-Larche",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "7351334646487837284",
+        "nom": "Fabry Jean-Louis",
+        "slug": "fabry-jean-louis",
+        "telephone": "05 55 87 42 56",
+        "site_web": null,
+        "adresse": "332 Rue du 19 Mars 1962, 19600 Saint-Pantaléon-de-Larche",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4110302108697279904",
+        "nom": "JJSS Entreprise - ETS SOULIER",
+        "slug": "jjss-entreprise-ets-soulier",
+        "telephone": "05 55 29 08 12",
+        "site_web": "https://www.jjss-ets-soulier.fr/?fbclid=IwAR1n9z7cMqaZAgdTTbv9JyFpF7GIEVZW6FYEuTaUtZkRmJxqSe3fjmwhT9s",
+        "adresse": "Zone Industrielle de, 184 Avenue de la Marquisie, 19600 Saint-Pantaléon-de-Larche",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12505835737103622437",
+        "nom": "Patrick BROUSSE - Dépannage Plomberie",
+        "slug": "patrick-brousse-depannage-plomberie",
+        "telephone": "06 67 29 55 77",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10634581374851705277",
+        "nom": "Chaufferie GEB - Coriance",
+        "slug": "chaufferie-geb-coriance",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "19600 Saint-Pantaléon-de-Larche",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13714486460597856058",
+        "nom": "DAVID A VOTRE SERVICE",
+        "slug": "david-a-votre-service",
+        "telephone": "02 18 46 06 53",
+        "site_web": null,
+        "adresse": "22 Av. Alexis Jaubert, 19600 Saint-Pantaléon-de-Larche",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6892660423069755513",
+        "nom": "Cheminées 2 Oliveira SAS",
+        "slug": "cheminees-2-oliveira-sas",
+        "telephone": "05 87 49 69 74",
+        "site_web": "http://www.cheminees2oliveira.com/",
+        "adresse": "830 Chem. de la Galive, 19600 Saint-Pantaléon-de-Larche",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Fabricant de cheminées"
+      },
+      {
+        "id": "14456561543287700110",
+        "nom": "M'Eleec - Antoine Michaud",
+        "slug": "meleec-antoine-michaud",
+        "telephone": "06 27 79 58 88",
+        "site_web": null,
+        "adresse": "382 Rue du 8 Mai 1945, 19600 Saint-Pantaléon-de-Larche",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Électricien"
+      },
+      {
+        "id": "17159772056487420152",
+        "nom": "Cool Air Clim",
+        "slug": "cool-air-clim",
+        "telephone": "06 15 91 09 62",
+        "site_web": null,
+        "adresse": "225 Rue des Sabliers, 19600 Saint-Pantaléon-de-Larche",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "7848789051886569895",
+        "nom": "Cegeclim Energies",
+        "slug": "cegeclim-energies",
+        "telephone": "05 33 09 23 88",
+        "site_web": "https://cegeclim-energies.com/",
+        "adresse": "2 Rue Victor Hugo, 19600 Saint-Pantaléon-de-Larche",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "saint-privat": {
+    "artisans": [
+      {
+        "id": "3497720186680605386",
+        "nom": "Proxi Confort - Lajoinie",
+        "slug": "proxi-confort-lajoinie",
+        "telephone": "05 55 28 22 51",
+        "site_web": "https://www.proxiconfort.fr/magasin/proxi-confort-saint-privat",
+        "adresse": "53 Rue de la Xaintrie, 19220 Saint-Privat",
+        "note": 4.6,
+        "avis": 21,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "11657666267608545904",
+        "nom": "Sarl Francis PRAT",
+        "slug": "sarl-francis-prat",
+        "telephone": "06 85 69 73 13",
+        "site_web": "http://www.francisprat.fr/",
+        "adresse": "54 Rue de la Xaintrie, 19220 Saint-Privat",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12410909418146442523",
+        "nom": "SARL ACEVEDO Rémi",
+        "slug": "sarl-acevedo-remi",
+        "telephone": "09 78 80 65 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1899971008035661588",
+        "nom": "Dugauquier François",
+        "slug": "dugauquier-francois",
+        "telephone": "07 87 53 28 47",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13313468920872136776",
+        "nom": "Mathieu Jean-François",
+        "slug": "mathieu-jean-francois",
+        "telephone": "06 60 90 63 88",
+        "site_web": null,
+        "adresse": "4 Beix, 19220 Saint-Julien-aux-Bois",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "6379197134217883218",
+        "nom": "Hagueron et Fils",
+        "slug": "hagueron-et-fils",
+        "telephone": "05 55 28 21 33",
+        "site_web": null,
+        "adresse": "Rue des Quatre Fayards, 19220 Saint-Privat",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "treignac": {
+    "artisans": [
+      {
+        "id": "5055818028202139255",
+        "nom": "Vergne Technology",
+        "slug": "vergne-technology",
+        "telephone": "05 55 98 24 26",
+        "site_web": "https://www.vergnetechnology.com/",
+        "adresse": "Rue du Portail, 19260 Treignac",
+        "note": 2.2,
+        "avis": 0,
+        "type": "Fabricant"
+      }
+    ]
+  },
+  "saint-viance": {
+    "artisans": [
+      {
+        "id": "10403934959652881083",
+        "nom": "Maury thermique",
+        "slug": "maury-thermique",
+        "telephone": "05 55 84 26 37",
+        "site_web": "https://www.maurythermique.fr/",
+        "adresse": "33 Av. du 11 Novembre, 19240 Varetz",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "3341157520459460806",
+        "nom": "MAURY THERMIQUE",
+        "slug": "maury-thermique",
+        "telephone": "05 55 84 26 37",
+        "site_web": "http://maurythermique.fr/",
+        "adresse": "37 Av. Edmond Michelet, 19240 Varetz",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "ussac": {
+    "artisans": [
+      {
+        "id": "7173801127035786800",
+        "nom": "Axima Réfrigération / Groupe Equans",
+        "slug": "axima-refrigeration-groupe-equans",
+        "telephone": "05 55 84 72 40",
+        "site_web": "https://www.equans.fr/nos-solutions/refrigeration",
+        "adresse": "Rue de la Détente Les Lavauds, 19270 Ussac",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur d'équipements industriels"
+      },
+      {
+        "id": "2120364262301267690",
+        "nom": "Plomb Elec Système",
+        "slug": "plomb-elec-systeme",
+        "telephone": "05 55 24 52 81",
+        "site_web": "http://www.facebook.com/plombelecsysteme",
+        "adresse": "la Gare, 19270 Ussac",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4574466497791481939",
+        "nom": "USSAC ELEC",
+        "slug": "ussac-elec",
+        "telephone": "06 81 56 20 47",
+        "site_web": "http://ussacelec-brive.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "19270 Ussac",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "7006738330295742369",
+        "nom": "Pes",
+        "slug": "pes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "D170, 19270 Ussac",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17368614346471377321",
+        "nom": "Teixeira Jean",
+        "slug": "teixeira-jean",
+        "telephone": "05 55 86 94 38",
+        "site_web": "https://www.jean-teixeira-electricien.fr/",
+        "adresse": "Rue des Ecureuils, 19270 Ussac",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "ussel": {
+    "artisans": [
+      {
+        "id": "5923318705489467665",
+        "nom": "Faurie Electricite",
+        "slug": "faurie-electricite",
+        "telephone": "05 55 96 11 23",
+        "site_web": "http://www.faurie-elec.fr/",
+        "adresse": "ZI du Mazet, 19200 Ussel",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "16381704716178122448",
+        "nom": "TDMS",
+        "slug": "tdms",
+        "telephone": "06 29 67 56 54",
+        "site_web": "https://tdms19.fr/",
+        "adresse": "12 Rue du Château du Theil, 19200 Ussel",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3622228289174940715",
+        "nom": "SA MAGRIT",
+        "slug": "sa-magrit",
+        "telephone": "05 55 72 20 30",
+        "site_web": null,
+        "adresse": "1 Route du Gardet, 19200 Ussel",
+        "note": 4,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7701829455921177676",
+        "nom": "Confort energie",
+        "slug": "confort-energie",
+        "telephone": "07 71 10 21 52",
+        "site_web": null,
+        "adresse": "9 Av. Carnot, 19200 Ussel",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2573933799256187684",
+        "nom": "Antonin martin sas",
+        "slug": "antonin-martin-sas",
+        "telephone": "09 50 11 65 52",
+        "site_web": null,
+        "adresse": "48 Av. Carnot, 19200 Ussel",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15957830282267892812",
+        "nom": "Expo Chauffage",
+        "slug": "expo-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Av. Turgot, 19200 Ussel",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "1033935081480340349",
+        "nom": "PUYBARET USSEL",
+        "slug": "puybaret-ussel",
+        "telephone": "05 55 46 12 46",
+        "site_web": "http://www.puybaret.com/",
+        "adresse": "22 Av. Turgot, 19200 Ussel",
+        "note": 4.3,
+        "avis": 99,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10528246812500444513",
+        "nom": "CEDEO Ussel : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-ussel-sanitaire-chauffage-plomberie",
+        "telephone": "05 55 72 56 82",
+        "site_web": "https://www.cedeo.fr/infos-agence/ussel-cedeo-1489",
+        "adresse": "Av. de Champ Grand, 19200 Ussel",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "1589444996050667077",
+        "nom": "Fuel 19 Gathier Maury",
+        "slug": "fuel-19-gathier-maury",
+        "telephone": "05 55 96 24 20",
+        "site_web": "https://www.facebook.com/fuel19",
+        "adresse": "114 Av. Carnot, 19200 Ussel",
+        "note": 3.7,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "8442243633177396102",
+        "nom": "Rika Ussel",
+        "slug": "rika-ussel",
+        "telephone": "05 55 95 07 74",
+        "site_web": "http://rika-ussel.fr/",
+        "adresse": "9 Av. de Clermont, 19200 Ussel",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      }
+    ]
+  },
+  "varetz": {
+    "artisans": [
+      {
+        "id": "17480734136531711520",
+        "nom": "ECOCLIM19",
+        "slug": "ecoclim19",
+        "telephone": "06 25 49 80 83",
+        "site_web": "http://www.ecoclim19.fr/",
+        "adresse": "31 Bayat, 19240 Varetz",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "uzerche": {
+    "artisans": [
+      {
+        "id": "14982521183136097830",
+        "nom": "Bach Pierre",
+        "slug": "bach-pierre",
+        "telephone": "05 55 73 08 32",
+        "site_web": null,
+        "adresse": "14 Rue du Pont Turgot, 19140 Uzerche",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "6908180307842611038",
+        "nom": "SARL CHASTAGNIER",
+        "slug": "sarl-chastagnier",
+        "telephone": "05 55 97 95 74",
+        "site_web": "https://sarl-chastagnier.fr/",
+        "adresse": "6 Rte de la Goumandie, 19140 Uzerche",
+        "note": 2.8,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "9482589876277776124",
+        "nom": "SAS TAGUET",
+        "slug": "sas-taguet",
+        "telephone": "05 55 98 08 68",
+        "site_web": "https://www.qualit-enr.org/entreprises/taguet/",
+        "adresse": "16 Rue Pierre Mouly, 19140 Uzerche",
+        "note": 1,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11016584784624665608",
+        "nom": "SAS Besse Matthias",
+        "slug": "sas-besse-matthias",
+        "telephone": "06 22 52 51 15",
+        "site_web": null,
+        "adresse": "Zone Commerciale les Paturaux, 28 Imp. du Champ de Tulle, 19140 Uzerche",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de carburant"
+      },
+      {
+        "id": "9412676797516445865",
+        "nom": "Ets Chastagnier",
+        "slug": "ets-chastagnier",
+        "telephone": "05 55 97 95 74",
+        "site_web": "https://sarl-chastagnier.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "18163454619513539166",
+        "nom": "Eurl Rémi Domergue",
+        "slug": "eurl-remi-domergue",
+        "telephone": "07 49 94 23 12",
+        "site_web": null,
+        "adresse": "3 Rue du Pont des Malades, 19140 Uzerche",
+        "note": 4.9,
+        "avis": 17,
+        "type": "Couvreur"
+      }
+    ]
+  },
+  "sainte-fereole": {
+    "artisans": [
+      {
+        "id": "10469290347523304760",
+        "nom": "Adelse",
+        "slug": "adelse",
+        "telephone": "06 83 51 98 27",
+        "site_web": "http://www.adelse.fr/",
+        "adresse": "4 Av. de la République, 19270 Sainte-Féréole",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "vigeois": {
+    "artisans": [
+      {
+        "id": "11513538097840179094",
+        "nom": "Boulevard Des Energies - Chauffage, Climatisation, Plomberie, Electricité",
+        "slug": "boulevard-des-energies-chauffage-climatisation-plomberie-electricite",
+        "telephone": "05 87 09 06 70",
+        "site_web": "http://www.boulevarddesenergies.com/",
+        "adresse": "ZA Des Rivières, 69 Chem. des Cancous, 19240 Allassac",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "allassac": {
+    "artisans": [
+      {
+        "id": "16386864588020915099",
+        "nom": "BP LIGHT",
+        "slug": "bp-light",
+        "telephone": "07 67 47 03 35",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3895388401295940899",
+        "nom": "Au Coin Du Feu",
+        "slug": "au-coin-du-feu",
+        "telephone": "05 55 87 10 65",
+        "site_web": "http://www.aucoindufeu19.fr/",
+        "adresse": "Zone Artisanale Les Rivières, 19240 Allassac",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "4588237913936570964",
+        "nom": "C.E.S 19",
+        "slug": "ces-19",
+        "telephone": "06 27 51 93 40",
+        "site_web": null,
+        "adresse": "7 La Rivière, 19240 Allassac",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "13425087611801087664",
+        "nom": "AJ Electricité",
+        "slug": "aj-electricite",
+        "telephone": "05 55 84 91 29",
+        "site_web": null,
+        "adresse": "1 Pl. de la République, 19240 Allassac",
+        "note": 5,
+        "avis": 6,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "argentat-sur-dordogne": {
+    "artisans": [
+      {
+        "id": "14275293291461168319",
+        "nom": "SPECC Energie",
+        "slug": "specc-energie",
+        "telephone": "07 60 47 35 97",
+        "site_web": "https://www.specc-energie.fr/",
+        "adresse": "7 rte des 7 sources, 19400 Argentat-sur-Dordogne",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14521252596191417579",
+        "nom": "Le Papillon Jaune SAS",
+        "slug": "le-papillon-jaune-sas",
+        "telephone": "05 55 91 75 52",
+        "site_web": "https://www.facebook.com/lepapillonjaune/?utm_source=gmb",
+        "adresse": "10 ZA du Longour, 19400 Argentat-sur-Dordogne",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4633557856467723666",
+        "nom": "Enertek",
+        "slug": "enertek",
+        "telephone": "05 55 91 04 05",
+        "site_web": "http://www.enertek19.fr/",
+        "adresse": "10 ZA du, Le Longour, 19400 Argentat-sur-Dordogne",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  }
+}

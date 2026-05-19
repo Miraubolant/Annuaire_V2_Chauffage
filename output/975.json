@@ -1,0 +1,547 @@
+{
+  "departement": {
+    "code": "975",
+    "nom": "975",
+    "slug": "975",
+    "population_totale": 5790
+  },
+  "region": {},
+  "voisins": [],
+  "communes_count": 2,
+  "communes": [
+    {
+      "code_insee": "97501",
+      "nom": "Miquelon-Langlade",
+      "nom_a": null,
+      "nom_de": null,
+      "slug": "miquelon-langlade",
+      "code_postal": "97500",
+      "population": 596,
+      "superficie_km2": 20621.91,
+      "latitude": 46.9634,
+      "longitude": -56.3217,
+      "villes_proches": [
+        {
+          "code_insee": "97502",
+          "nom": "Saint-Pierre",
+          "slug": "saint-pierre",
+          "code_postal": "97500",
+          "population": 5194,
+          "superficie_km2": 2709.58,
+          "latitude": 46.788,
+          "longitude": -56.1805,
+          "distance_km": 22.26
+        },
+        {
+          "code_insee": "97801",
+          "nom": "Saint-Martin",
+          "slug": "saint-martin",
+          "code_postal": "97150",
+          "population": 31160,
+          "superficie_km2": 4890.51,
+          "latitude": 18.0859,
+          "longitude": -63.0619,
+          "distance_km": 3269.69
+        },
+        {
+          "code_insee": "97701",
+          "nom": "Saint-Barthélemy",
+          "slug": "saint-barthelemy",
+          "code_postal": "97133",
+          "population": 10660,
+          "superficie_km2": 2081.57,
+          "latitude": 17.9215,
+          "longitude": -62.8701,
+          "distance_km": 3284.48
+        },
+        {
+          "code_insee": "97102",
+          "nom": "Anse-Bertrand",
+          "slug": "anse-bertrand",
+          "code_postal": "97121",
+          "population": 4412,
+          "superficie_km2": 6419.28,
+          "latitude": 16.4668,
+          "longitude": -61.4698,
+          "distance_km": 3424.07
+        },
+        {
+          "code_insee": "97122",
+          "nom": "Port-Louis",
+          "slug": "port-louis",
+          "code_postal": "97117",
+          "population": 5607,
+          "superficie_km2": 4438.14,
+          "latitude": 16.4201,
+          "longitude": -61.488,
+          "distance_km": 3429.45
+        },
+        {
+          "code_insee": "97119",
+          "nom": "Petit-Canal",
+          "slug": "petit-canal",
+          "code_postal": "97131",
+          "population": 8212,
+          "superficie_km2": 7420.68,
+          "latitude": 16.3921,
+          "longitude": -61.4547,
+          "distance_km": 3432.12
+        },
+        {
+          "code_insee": "97117",
+          "nom": "Le Moule",
+          "slug": "le-moule",
+          "code_postal": "97160",
+          "population": 23014,
+          "superficie_km2": 8337.61,
+          "latitude": 16.3354,
+          "longitude": -61.36,
+          "distance_km": 3437.19
+        },
+        {
+          "code_insee": "97110",
+          "nom": "La Désirade",
+          "slug": "la-desirade",
+          "code_postal": "97127",
+          "population": 1306,
+          "superficie_km2": 2117.29,
+          "latitude": 16.2972,
+          "longitude": -61.0814,
+          "distance_km": 3438.04
+        },
+        {
+          "code_insee": "97116",
+          "nom": "Morne-à-l'Eau",
+          "slug": "morne-a-l-eau",
+          "code_postal": "97111",
+          "population": 16228,
+          "superficie_km2": 7000.94,
+          "latitude": 16.3212,
+          "longitude": -61.4988,
+          "distance_km": 3440.51
+        },
+        {
+          "code_insee": "97125",
+          "nom": "Saint-François",
+          "slug": "saint-francois",
+          "code_postal": "97118",
+          "population": 13942,
+          "superficie_km2": 6120.18,
+          "latitude": 16.2784,
+          "longitude": -61.2539,
+          "distance_km": 3442.18
+        },
+        {
+          "code_insee": "97111",
+          "nom": "Deshaies",
+          "slug": "deshaies",
+          "code_postal": "97126",
+          "population": 3710,
+          "superficie_km2": 3156.91,
+          "latitude": 16.3194,
+          "longitude": -61.7831,
+          "distance_km": 3444.44
+        },
+        {
+          "code_insee": "97129",
+          "nom": "Sainte-Rose",
+          "slug": "sainte-rose",
+          "code_postal": "97115",
+          "population": 17700,
+          "superficie_km2": 12310.66,
+          "latitude": 16.2937,
+          "longitude": -61.6836,
+          "distance_km": 3445.95
+        },
+        {
+          "code_insee": "97128",
+          "nom": "Sainte-Anne",
+          "slug": "sainte-anne",
+          "code_postal": "97180",
+          "population": 23973,
+          "superficie_km2": 8096.24,
+          "latitude": 16.2565,
+          "longitude": -61.3896,
+          "distance_km": 3446.27
+        },
+        {
+          "code_insee": "97101",
+          "nom": "Les Abymes",
+          "slug": "les-abymes",
+          "code_postal": "97139",
+          "population": 51055,
+          "superficie_km2": 7042.83,
+          "latitude": 16.2678,
+          "longitude": -61.4967,
+          "distance_km": 3446.38
+        },
+        {
+          "code_insee": "97103",
+          "nom": "Baie-Mahault",
+          "slug": "baie-mahault",
+          "code_postal": "97122",
+          "population": 30924,
+          "superficie_km2": 4673.72,
+          "latitude": 16.2498,
+          "longitude": -61.5951,
+          "distance_km": 3449.63
+        },
+        {
+          "code_insee": "97120",
+          "nom": "Pointe-à-Pitre",
+          "slug": "pointe-a-pitre",
+          "code_postal": "97110",
+          "population": 15040,
+          "superficie_km2": 277.55,
+          "latitude": 16.2351,
+          "longitude": -61.5379,
+          "distance_km": 3450.52
+        },
+        {
+          "code_insee": "97113",
+          "nom": "Le Gosier",
+          "slug": "le-gosier",
+          "code_postal": "97190",
+          "population": 27757,
+          "superficie_km2": 4575.06,
+          "latitude": 16.2274,
+          "longitude": -61.4749,
+          "distance_km": 3450.56
+        },
+        {
+          "code_insee": "97115",
+          "nom": "Lamentin",
+          "slug": "lamentin",
+          "code_postal": "97129",
+          "population": 18628,
+          "superficie_km2": 6579.54,
+          "latitude": 16.2443,
+          "longitude": -61.6695,
+          "distance_km": 3451.21
+        },
+        {
+          "code_insee": "97121",
+          "nom": "Pointe-Noire",
+          "slug": "pointe-noire",
+          "code_postal": "97116",
+          "population": 5762,
+          "superficie_km2": 6005.56,
+          "latitude": 16.227,
+          "longitude": -61.7651,
+          "distance_km": 3454.39
+        },
+        {
+          "code_insee": "97118",
+          "nom": "Petit-Bourg",
+          "slug": "petit-bourg",
+          "code_postal": "97170",
+          "population": 24665,
+          "superficie_km2": 13191.93,
+          "latitude": 16.1695,
+          "longitude": -61.658,
+          "distance_km": 3459.32
+        }
+      ],
+      "zonage_abc": null,
+      "reclassement_abc": null,
+      "codes_postaux": [
+        {
+          "code_postal": "97500",
+          "libelle_acheminement": "ST PIERRE ET MIQUELON"
+        }
+      ],
+      "logement": null,
+      "artisans": {
+        "monte_escalier": 0,
+        "chauffage_pac_clim": 0,
+        "isolation": 0,
+        "menuiserie": 0,
+        "fenetres_velux": 0,
+        "couverture_toiture": 0,
+        "facade_peinture": 0,
+        "portes_volets": 0,
+        "piscine": 1,
+        "vmc_ventilation": 0,
+        "assainissement": 0
+      },
+      "revenus": {
+        "revenu_median": null,
+        "part_menages_imposes": null,
+        "taux_pauvrete": null
+      },
+      "aides_etat": {
+        "zone_climatique": null,
+        "qpv": false,
+        "action_coeur_de_ville": false,
+        "petites_villes_de_demain": false
+      }
+    },
+    {
+      "code_insee": "97502",
+      "nom": "Saint-Pierre",
+      "nom_a": null,
+      "nom_de": null,
+      "slug": "saint-pierre",
+      "code_postal": "97500",
+      "population": 5194,
+      "superficie_km2": 2709.58,
+      "latitude": 46.788,
+      "longitude": -56.1805,
+      "villes_proches": [
+        {
+          "code_insee": "97501",
+          "nom": "Miquelon-Langlade",
+          "slug": "miquelon-langlade",
+          "code_postal": "97500",
+          "population": 596,
+          "superficie_km2": 20621.91,
+          "latitude": 46.9634,
+          "longitude": -56.3217,
+          "distance_km": 22.26
+        },
+        {
+          "code_insee": "97801",
+          "nom": "Saint-Martin",
+          "slug": "saint-martin",
+          "code_postal": "97150",
+          "population": 31160,
+          "superficie_km2": 4890.51,
+          "latitude": 18.0859,
+          "longitude": -63.0619,
+          "distance_km": 3253.18
+        },
+        {
+          "code_insee": "97701",
+          "nom": "Saint-Barthélemy",
+          "slug": "saint-barthelemy",
+          "code_postal": "97133",
+          "population": 10660,
+          "superficie_km2": 2081.57,
+          "latitude": 17.9215,
+          "longitude": -62.8701,
+          "distance_km": 3267.86
+        },
+        {
+          "code_insee": "97102",
+          "nom": "Anse-Bertrand",
+          "slug": "anse-bertrand",
+          "code_postal": "97121",
+          "population": 4412,
+          "superficie_km2": 6419.28,
+          "latitude": 16.4668,
+          "longitude": -61.4698,
+          "distance_km": 3406.68
+        },
+        {
+          "code_insee": "97122",
+          "nom": "Port-Louis",
+          "slug": "port-louis",
+          "code_postal": "97117",
+          "population": 5607,
+          "superficie_km2": 4438.14,
+          "latitude": 16.4201,
+          "longitude": -61.488,
+          "distance_km": 3412.08
+        },
+        {
+          "code_insee": "97119",
+          "nom": "Petit-Canal",
+          "slug": "petit-canal",
+          "code_postal": "97131",
+          "population": 8212,
+          "superficie_km2": 7420.68,
+          "latitude": 16.3921,
+          "longitude": -61.4547,
+          "distance_km": 3414.73
+        },
+        {
+          "code_insee": "97117",
+          "nom": "Le Moule",
+          "slug": "le-moule",
+          "code_postal": "97160",
+          "population": 23014,
+          "superficie_km2": 8337.61,
+          "latitude": 16.3354,
+          "longitude": -61.36,
+          "distance_km": 3419.75
+        },
+        {
+          "code_insee": "97110",
+          "nom": "La Désirade",
+          "slug": "la-desirade",
+          "code_postal": "97127",
+          "population": 1306,
+          "superficie_km2": 2117.29,
+          "latitude": 16.2972,
+          "longitude": -61.0814,
+          "distance_km": 3420.47
+        },
+        {
+          "code_insee": "97116",
+          "nom": "Morne-à-l'Eau",
+          "slug": "morne-a-l-eau",
+          "code_postal": "97111",
+          "population": 16228,
+          "superficie_km2": 7000.94,
+          "latitude": 16.3212,
+          "longitude": -61.4988,
+          "distance_km": 3423.13
+        },
+        {
+          "code_insee": "97125",
+          "nom": "Saint-François",
+          "slug": "saint-francois",
+          "code_postal": "97118",
+          "population": 13942,
+          "superficie_km2": 6120.18,
+          "latitude": 16.2784,
+          "longitude": -61.2539,
+          "distance_km": 3424.69
+        },
+        {
+          "code_insee": "97111",
+          "nom": "Deshaies",
+          "slug": "deshaies",
+          "code_postal": "97126",
+          "population": 3710,
+          "superficie_km2": 3156.91,
+          "latitude": 16.3194,
+          "longitude": -61.7831,
+          "distance_km": 3427.19
+        },
+        {
+          "code_insee": "97129",
+          "nom": "Sainte-Rose",
+          "slug": "sainte-rose",
+          "code_postal": "97115",
+          "population": 17700,
+          "superficie_km2": 12310.66,
+          "latitude": 16.2937,
+          "longitude": -61.6836,
+          "distance_km": 3428.65
+        },
+        {
+          "code_insee": "97128",
+          "nom": "Sainte-Anne",
+          "slug": "sainte-anne",
+          "code_postal": "97180",
+          "population": 23973,
+          "superficie_km2": 8096.24,
+          "latitude": 16.2565,
+          "longitude": -61.3896,
+          "distance_km": 3428.84
+        },
+        {
+          "code_insee": "97101",
+          "nom": "Les Abymes",
+          "slug": "les-abymes",
+          "code_postal": "97139",
+          "population": 51055,
+          "superficie_km2": 7042.83,
+          "latitude": 16.2678,
+          "longitude": -61.4967,
+          "distance_km": 3428.99
+        },
+        {
+          "code_insee": "97103",
+          "nom": "Baie-Mahault",
+          "slug": "baie-mahault",
+          "code_postal": "97122",
+          "population": 30924,
+          "superficie_km2": 4673.72,
+          "latitude": 16.2498,
+          "longitude": -61.5951,
+          "distance_km": 3432.29
+        },
+        {
+          "code_insee": "97120",
+          "nom": "Pointe-à-Pitre",
+          "slug": "pointe-a-pitre",
+          "code_postal": "97110",
+          "population": 15040,
+          "superficie_km2": 277.55,
+          "latitude": 16.2351,
+          "longitude": -61.5379,
+          "distance_km": 3433.15
+        },
+        {
+          "code_insee": "97113",
+          "nom": "Le Gosier",
+          "slug": "le-gosier",
+          "code_postal": "97190",
+          "population": 27757,
+          "superficie_km2": 4575.06,
+          "latitude": 16.2274,
+          "longitude": -61.4749,
+          "distance_km": 3433.17
+        },
+        {
+          "code_insee": "97115",
+          "nom": "Lamentin",
+          "slug": "lamentin",
+          "code_postal": "97129",
+          "population": 18628,
+          "superficie_km2": 6579.54,
+          "latitude": 16.2443,
+          "longitude": -61.6695,
+          "distance_km": 3433.91
+        },
+        {
+          "code_insee": "97121",
+          "nom": "Pointe-Noire",
+          "slug": "pointe-noire",
+          "code_postal": "97116",
+          "population": 5762,
+          "superficie_km2": 6005.56,
+          "latitude": 16.227,
+          "longitude": -61.7651,
+          "distance_km": 3437.13
+        },
+        {
+          "code_insee": "97118",
+          "nom": "Petit-Bourg",
+          "slug": "petit-bourg",
+          "code_postal": "97170",
+          "population": 24665,
+          "superficie_km2": 13191.93,
+          "latitude": 16.1695,
+          "longitude": -61.658,
+          "distance_km": 3442.0
+        }
+      ],
+      "zonage_abc": null,
+      "reclassement_abc": null,
+      "codes_postaux": [
+        {
+          "code_postal": "97500",
+          "libelle_acheminement": "ST PIERRE ET MIQUELON"
+        }
+      ],
+      "logement": null,
+      "artisans": {
+        "monte_escalier": 0,
+        "chauffage_pac_clim": 10,
+        "isolation": 3,
+        "menuiserie": 3,
+        "fenetres_velux": 3,
+        "couverture_toiture": 11,
+        "facade_peinture": 0,
+        "portes_volets": 3,
+        "piscine": 1,
+        "vmc_ventilation": 5,
+        "assainissement": 6
+      },
+      "revenus": {
+        "revenu_median": null,
+        "part_menages_imposes": null,
+        "taux_pauvrete": null
+      },
+      "aides_etat": {
+        "zone_climatique": null,
+        "qpv": false,
+        "action_coeur_de_ville": false,
+        "petites_villes_de_demain": false
+      }
+    }
+  ]
+}

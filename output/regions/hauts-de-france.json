@@ -1,0 +1,175 @@
+{
+    "region": {
+        "id": 10,
+        "code": "09",
+        "nom": "Hauts-de-France",
+        "slug": "hauts-de-france"
+    },
+    "departements": [
+        {
+            "code": "02",
+            "nom": "Aisne",
+            "slug": "aisne",
+            "population_totale": 525730,
+            "communes_count": 797,
+            "communes_avec_artisans": 86,
+            "artisans_chauffage": 493,
+            "voisins": [
+                {
+                    "dep_code": "59",
+                    "dep_nom": "Nord",
+                    "dep_slug": "nord"
+                },
+                {
+                    "dep_code": "60",
+                    "dep_nom": "Oise",
+                    "dep_slug": "oise"
+                },
+                {
+                    "dep_code": "62",
+                    "dep_nom": "Pas-de-Calais",
+                    "dep_slug": "pas-de-calais"
+                },
+                {
+                    "dep_code": "80",
+                    "dep_nom": "Somme",
+                    "dep_slug": "somme"
+                }
+            ]
+        },
+        {
+            "code": "59",
+            "nom": "Nord",
+            "slug": "nord",
+            "population_totale": 2611721,
+            "communes_count": 647,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "02",
+                    "dep_nom": "Aisne",
+                    "dep_slug": "aisne"
+                },
+                {
+                    "dep_code": "60",
+                    "dep_nom": "Oise",
+                    "dep_slug": "oise"
+                },
+                {
+                    "dep_code": "62",
+                    "dep_nom": "Pas-de-Calais",
+                    "dep_slug": "pas-de-calais"
+                },
+                {
+                    "dep_code": "80",
+                    "dep_nom": "Somme",
+                    "dep_slug": "somme"
+                }
+            ]
+        },
+        {
+            "code": "60",
+            "nom": "Oise",
+            "slug": "oise",
+            "population_totale": 828589,
+            "communes_count": 680,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "02",
+                    "dep_nom": "Aisne",
+                    "dep_slug": "aisne"
+                },
+                {
+                    "dep_code": "59",
+                    "dep_nom": "Nord",
+                    "dep_slug": "nord"
+                },
+                {
+                    "dep_code": "62",
+                    "dep_nom": "Pas-de-Calais",
+                    "dep_slug": "pas-de-calais"
+                },
+                {
+                    "dep_code": "80",
+                    "dep_nom": "Somme",
+                    "dep_slug": "somme"
+                }
+            ]
+        },
+        {
+            "code": "62",
+            "nom": "Pas-de-Calais",
+            "slug": "pas-de-calais",
+            "population_totale": 1460038,
+            "communes_count": 888,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "02",
+                    "dep_nom": "Aisne",
+                    "dep_slug": "aisne"
+                },
+                {
+                    "dep_code": "59",
+                    "dep_nom": "Nord",
+                    "dep_slug": "nord"
+                },
+                {
+                    "dep_code": "60",
+                    "dep_nom": "Oise",
+                    "dep_slug": "oise"
+                },
+                {
+                    "dep_code": "80",
+                    "dep_nom": "Somme",
+                    "dep_slug": "somme"
+                }
+            ]
+        },
+        {
+            "code": "80",
+            "nom": "Somme",
+            "slug": "somme",
+            "population_totale": 565107,
+            "communes_count": 771,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "02",
+                    "dep_nom": "Aisne",
+                    "dep_slug": "aisne"
+                },
+                {
+                    "dep_code": "59",
+                    "dep_nom": "Nord",
+                    "dep_slug": "nord"
+                },
+                {
+                    "dep_code": "60",
+                    "dep_nom": "Oise",
+                    "dep_slug": "oise"
+                },
+                {
+                    "dep_code": "62",
+                    "dep_nom": "Pas-de-Calais",
+                    "dep_slug": "pas-de-calais"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "communes_total": 3783,
+        "communes_avec_artisans": 86,
+        "artisans_chauffage": 493,
+        "population_totale": 5991185
+    },
+    "zones_climatiques": {
+        "H1": 3783
+    },
+    "zone_climatique_dominante": "H1"
+}

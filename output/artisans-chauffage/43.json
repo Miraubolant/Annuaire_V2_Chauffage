@@ -1,0 +1,4026 @@
+{
+  "aurec-sur-loire": {
+    "artisans": [
+      {
+        "id": "13017235724999700543",
+        "nom": "Meli Gaz",
+        "slug": "meli-gaz",
+        "telephone": "06 69 68 33 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9435462056432597757",
+        "nom": "A&L Energy",
+        "slug": "al-energy",
+        "telephone": "06 37 06 08 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17003414288462678729",
+        "nom": "T.P Plomberie",
+        "slug": "tp-plomberie",
+        "telephone": "07 82 23 56 96",
+        "site_web": "https://tp-plomberie43.fr/",
+        "adresse": "15 Rue du Pont Neuf, 43110 Aurec-sur-Loire",
+        "note": 5,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "3556390373681668886",
+        "nom": "Barroux Olivier",
+        "slug": "barroux-olivier",
+        "telephone": "04 77 35 25 86",
+        "site_web": null,
+        "adresse": "6 Rue de la Grande Boucle, 43110 Aurec-sur-Loire",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "8935536389142044222",
+        "nom": "Chassaing Fabrice",
+        "slug": "chassaing-fabrice",
+        "telephone": "04 77 35 49 11",
+        "site_web": null,
+        "adresse": "16 Av. de la Gare, 43110 Aurec-sur-Loire",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "9986349783098515082",
+        "nom": "ENTREPRISE LIMOUSIN LONGUET",
+        "slug": "entreprise-limousin-longuet",
+        "telephone": "04 77 35 41 83",
+        "site_web": "https://www.plombier-chauffagiste-haute-loire.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10013672655674881207",
+        "nom": "Les Frères Plombiers",
+        "slug": "les-freres-plombiers",
+        "telephone": "04 77 55 94 26",
+        "site_web": "https://lesfreresplombiers.fr/",
+        "adresse": "410 Rue de la Semène, 43330 Pont-Salomon",
+        "note": 4.9,
+        "avis": 55,
+        "type": "Plombier"
+      },
+      {
+        "id": "11286338808091520175",
+        "nom": "Aurec Ramonage Service",
+        "slug": "aurec-ramonage-service",
+        "telephone": "06 70 39 14 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.3,
+        "avis": 26,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "10375098956865556053",
+        "nom": "Instant services | Chaudière | Climatisation | Pompe à chaleur | Loire | Haute Loire",
+        "slug": "instant-services-chaudiere-climatisation-pompe-a-chaleur-loire-haute-loire",
+        "telephone": "09 82 22 54 43",
+        "site_web": "https://www.instant-services.fr/?utm_source=gmb",
+        "adresse": "22 Av. de la Libération, 43120 Monistrol-sur-Loire",
+        "note": 5,
+        "avis": 37,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "16977961626986551717",
+        "nom": "SARL LIMOUSIN LONGUET",
+        "slug": "sarl-limousin-longuet",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "337 Rue de la Flachère, 43110 Aurec-sur-Loire",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "aiguilhe": {
+    "artisans": [
+      {
+        "id": "4361526004442788236",
+        "nom": "S.A.V. Energie",
+        "slug": "sav-energie",
+        "telephone": "04 71 02 49 95",
+        "site_web": "https://assistance-gaz.fr/?utm_source=gmb",
+        "adresse": "35 Av. Maréchal Foch, 43000 Le Puy-en-Velay",
+        "note": 4.3,
+        "avis": 45,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5885036821651890468",
+        "nom": "arnold gaz",
+        "slug": "arnold-gaz",
+        "telephone": "04 71 04 17 54",
+        "site_web": "http://www.arnoldgaz.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5969948809326612435",
+        "nom": "AT Habitat ENERGIE Pompe à chaleur",
+        "slug": "at-habitat-energie-pompe-a-chaleur",
+        "telephone": "06 34 05 76 40",
+        "site_web": "https://at-habitat-energie.com/",
+        "adresse": "34 Chem. de Jalavoux, 43000 Aiguilhe",
+        "note": 5,
+        "avis": 47,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17415270788960755574",
+        "nom": "Axenergie Gaz Service ALTITHERM",
+        "slug": "axenergie-gaz-service-altitherm",
+        "telephone": "04 71 09 05 47",
+        "site_web": "https://www.axenergie.eu/agences/80-gaz-service-altitherm",
+        "adresse": "130 chemin de Chassende, 43000 Le Puy-en-Velay",
+        "note": 4.3,
+        "avis": 35,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15495914495920100601",
+        "nom": "Technitherm Puy en Velay, entretien chaudière, contrat maintenance, pompe à chaleur (Haute-Loire)",
+        "slug": "technitherm-puy-en-velay-entretien-chaudiere-contrat-maintenance-pompe-a-chaleur-haute-loire",
+        "telephone": "04 71 09 12 67",
+        "site_web": "https://www.technitherm43.fr/",
+        "adresse": "impasse de mussac, 43000 Polignac",
+        "note": 3.8,
+        "avis": 42,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "15941707597847334478",
+        "nom": "VINCENT MAUCHAUFFÉE",
+        "slug": "vincent-mauchauffee",
+        "telephone": "06 84 20 90 96",
+        "site_web": "http://www.plombier-mauchauffee.fr/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "4477071464158778741",
+        "nom": "Legrand",
+        "slug": "legrand",
+        "telephone": "04 71 02 54 04",
+        "site_web": "https://fr-fr.facebook.com/nicolas.legrand.plomberie.chauffage",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "568694707728465128",
+        "nom": "Altipac GEOTHERMIE",
+        "slug": "altipac-geothermie",
+        "telephone": "04 71 01 40 15",
+        "site_web": "https://www.altipac-geothermie.fr/",
+        "adresse": "643 Rue Jean-Baptiste Lamarck, 43700 Saint-Germain-Laprade",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11479817801361867904",
+        "nom": "EURL Cédric FILLERE",
+        "slug": "eurl-cedric-fillere",
+        "telephone": "06 77 17 36 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "15519215897735655362",
+        "nom": "Lasherme",
+        "slug": "lasherme",
+        "telephone": "04 71 09 15 05",
+        "site_web": "http://www.lasherme.fr/",
+        "adresse": "15 Rue de la Fonderie, 43000 Le Puy-en-Velay",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "saint-vincent": {
+    "artisans": [
+      {
+        "id": "241714701556076359",
+        "nom": "Ampilhac Julien",
+        "slug": "ampilhac-julien",
+        "telephone": "06 71 22 12 18",
+        "site_web": "http://ampilhac-chauffage.com/",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2064612619341171578",
+        "nom": "DEPANOX",
+        "slug": "depanox",
+        "telephone": "07 49 69 49 49",
+        "site_web": "http://depanox.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 92,
+        "type": "Entretien de machines"
+      },
+      {
+        "id": "12102260606275836563",
+        "nom": "LTR plomberie Saint-etienne | Pompe à chaleur | clim | chaudière gaz",
+        "slug": "ltr-plomberie-saint-etienne-pompe-a-chaleur-clim-chaudiere-gaz",
+        "telephone": "06 09 01 17 40",
+        "site_web": "https://www.ltr-plomberie.fr/",
+        "adresse": "8 Rue Charles Dupuy, 42000 Saint-Étienne",
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14586431840789927821",
+        "nom": "Bertrand Jean-Yves Sarl",
+        "slug": "bertrand-jean-yves-sarl",
+        "telephone": "04 71 00 44 78",
+        "site_web": null,
+        "adresse": "Le Bourg, 43350 Saint-Geneys-près-Saint-Paulien",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15362608202475879111",
+        "nom": "MAGNE Etanchéité Haute Loire",
+        "slug": "magne-etancheite-haute-loire",
+        "telephone": "06 64 39 24 90",
+        "site_web": "https://etancheitemagne.fr/",
+        "adresse": "8 ZA le cros de la gare, 43800 Saint-Vincent",
+        "note": 5,
+        "avis": 3,
+        "type": "Entreprise d'étanchéité"
+      },
+      {
+        "id": "1564503380513929576",
+        "nom": "Jerome Villevieille Sarl",
+        "slug": "jerome-villevieille-sarl",
+        "telephone": "04 71 57 41 26",
+        "site_web": null,
+        "adresse": "Gravy, 43800 Rosières",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "369583951791383455",
+        "nom": "Sarl Gosset Et Fils",
+        "slug": "sarl-gosset-et-fils",
+        "telephone": "02 43 97 85 10",
+        "site_web": null,
+        "adresse": "19 Bis Rue de la Métairie, 72600 Saint-Vincent-des-Prés",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "5486863584981837098",
+        "nom": "B.p.s.c OCEANE menuiseries PVC ALU BOIS BOIS/ALU haute loire",
+        "slug": "bpsc-oceane-menuiseries-pvc-alu-bois-boisalu-haute-loire",
+        "telephone": "04 71 01 31 56",
+        "site_web": "https://www.bpsc-oceane.fr/",
+        "adresse": "Zone Artisanale, Le Cros, 43800 Saint-Vincent",
+        "note": 4.6,
+        "avis": 30,
+        "type": "Menuisier"
+      },
+      {
+        "id": "12689282765115198774",
+        "nom": "Sarl Morbidelli",
+        "slug": "sarl-morbidelli",
+        "telephone": "06 79 01 13 06",
+        "site_web": "http://www.sarl-morbidelli.fr/",
+        "adresse": "49 Av. de la resistance, 43800 Lavoûte-sur-Loire",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14641944019807558206",
+        "nom": "FB+ Energies - SAS Frédéric Belledent",
+        "slug": "fb-energies-sas-frederic-belledent",
+        "telephone": "06 82 97 41 41",
+        "site_web": "https://www.fbplusenergies.fr/?utm_source=gmb",
+        "adresse": "753 Rue Jean-Baptiste Lamarck, 43700 Saint-Germain-Laprade",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "bas-en-basset": {
+    "artisans": [
+      {
+        "id": "8934934563788521196",
+        "nom": "Ecodidact",
+        "slug": "ecodidact",
+        "telephone": "06 85 94 62 80",
+        "site_web": null,
+        "adresse": "2 Rte des Granges, 43210 Bas-en-Basset",
+        "note": 2.5,
+        "avis": 13,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "3490308919976186934",
+        "nom": "Technic Chauffage",
+        "slug": "technic-chauffage",
+        "telephone": "04 71 66 91 97",
+        "site_web": "http://www.technic-chauffage43.fr/",
+        "adresse": "Za Pré, Prés du Milieu, 43210 Bas-en-Basset",
+        "note": 5,
+        "avis": 32,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17401795496619800916",
+        "nom": "SC Plomberie",
+        "slug": "sc-plomberie",
+        "telephone": "06 77 56 32 04",
+        "site_web": "https://www.facebook.com/SC-Plomberie-696459790775100/?ref=bookmarks",
+        "adresse": "10 Av. Alfred de Vissaguet, 43210 Bas-en-Basset",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "8923588496008459148",
+        "nom": "Grange Erick",
+        "slug": "grange-erick",
+        "telephone": "04 71 66 99 23",
+        "site_web": null,
+        "adresse": "99 Gourdon, 43210 Bas-en-Basset",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "13189473728237318922",
+        "nom": "Aubertin Loic",
+        "slug": "aubertin-loic",
+        "telephone": "06 64 25 37 42",
+        "site_web": null,
+        "adresse": "34 Av. Alfred de Vissaguet, 43210 Bas-en-Basset",
+        "note": 5,
+        "avis": 1,
+        "type": null
+      },
+      {
+        "id": "7116536295348771863",
+        "nom": "Tabillon Plomberie Chauffage",
+        "slug": "tabillon-plomberie-chauffage",
+        "telephone": "06 80 15 88 87",
+        "site_web": "http://www.tabillon-plomberie-chauffage.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "529 Rue des Artisans, 43590 Beauzac",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "15025285469908408578",
+        "nom": "Ciel Azur",
+        "slug": "ciel-azur",
+        "telephone": "04 71 66 37 48",
+        "site_web": "https://www.ciel-azur.fr/",
+        "adresse": "3 za, Le Patural, 43210 Bas-en-Basset",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Magasin"
+      },
+      {
+        "id": "5897439167207933976",
+        "nom": "C Frison",
+        "slug": "c-frison",
+        "telephone": "06 79 89 36 30",
+        "site_web": null,
+        "adresse": "1 Rte des Villages de la Montagne, 43210 Bas-en-Basset",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "4915943868753053610",
+        "nom": "Gerphagnon David",
+        "slug": "gerphagnon-david",
+        "telephone": "04 71 75 44 63",
+        "site_web": "https://www.david-gerphagnon.fr/",
+        "adresse": "Les Embessets, 43120 Monistrol-sur-Loire",
+        "note": 3.8,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "18292821831412412813",
+        "nom": "ALM Plomberie chauffage",
+        "slug": "alm-plomberie-chauffage",
+        "telephone": "06 25 27 85 81",
+        "site_web": "https://www.almplomberiechauffage.com/",
+        "adresse": "Le Moulin, 43590 Beauzac",
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bains": {
+    "artisans": [
+      {
+        "id": "17635439391789840640",
+        "nom": "iD Concept Bain",
+        "slug": "id-concept-bain",
+        "telephone": "06 13 42 04 91",
+        "site_web": "http://www.idconceptbain.fr/",
+        "adresse": "Monnac, 43260 Saint-Pierre-Eynac",
+        "note": 4.9,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "10363693559213261557",
+        "nom": "CROZE",
+        "slug": "croze",
+        "telephone": "04 71 09 39 26",
+        "site_web": null,
+        "adresse": "1 Imp. du Viaduc, 43700 Brives-Charensac",
+        "note": 4,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15312704198675382043",
+        "nom": "Chapon Patrice",
+        "slug": "chapon-patrice",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "33 lmpasse des chataignier, Cordes",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "12389331413303980004",
+        "nom": "Bâti Chapteuil",
+        "slug": "bati-chapteuil",
+        "telephone": "04 71 08 78 04",
+        "site_web": "https://www.chauffage-saint-julien-chapteuil.fr/",
+        "adresse": "43 rue des Artisans, 43260 Saint-Julien-Chapteuil",
+        "note": 4.4,
+        "avis": 25,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "495186368456225201",
+        "nom": "BPSL ENERGIE",
+        "slug": "bpsl-energie",
+        "telephone": "06 72 20 33 07",
+        "site_web": "https://www.bpsl-energie.com/contact",
+        "adresse": "5 Imp. des Esclops, 43320 Sanssac-l'Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "290830376680030992",
+        "nom": "Bains",
+        "slug": "bains",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "43370 Bains",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "10403830730459181199",
+        "nom": "La Cave-sbbm",
+        "slug": "la-cave-sbbm",
+        "telephone": "04 71 57 50 19",
+        "site_web": "https://www.lacavesbbm43.fr/",
+        "adresse": "84 route du pèlerin, 43370 Bains",
+        "note": 4.4,
+        "avis": 170,
+        "type": "Magasin de vins et spiritueux"
+      },
+      {
+        "id": "5317268508320709853",
+        "nom": "Graille Gregory",
+        "slug": "graille-gregory",
+        "telephone": "04 71 02 81 04",
+        "site_web": null,
+        "adresse": "43370 Bains",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "577187567072312751",
+        "nom": "BPSL Energie",
+        "slug": "bpsl-energie",
+        "telephone": "06 72 20 33 07",
+        "site_web": "https://www.facebook.com/520265421392598",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "lempdes-sur-allagnon": {
+    "artisans": [
+      {
+        "id": "5032961051499722340",
+        "nom": "CFDesolme",
+        "slug": "cfdesolme",
+        "telephone": "07 43 26 37 77",
+        "site_web": "https://cfdesolme.fr/",
+        "adresse": "17b Rte de Lubières, 43360 Vergongheon",
+        "note": 5,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2753477559532605321",
+        "nom": "BIOSYL Auvergne",
+        "slug": "biosyl-auvergne",
+        "telephone": "04 71 50 84 04",
+        "site_web": "https://www.biosyl.fr/",
+        "adresse": "Zone d'activités Sud Auvergne, 102 route d'Arvant, 43410 Lempdes-sur-Allagnon",
+        "note": 3.3,
+        "avis": 44,
+        "type": "Fabricant"
+      },
+      {
+        "id": "2814599683593159953",
+        "nom": "Cf2c Chastang",
+        "slug": "cf2c-chastang",
+        "telephone": "04 71 76 51 48",
+        "site_web": "https://cf2c.fr/chastang/",
+        "adresse": "Les Bonnes, 43410 Lempdes-sur-Allagnon",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "13095729608290468371",
+        "nom": "Bonnenfant",
+        "slug": "bonnenfant",
+        "telephone": "04 71 76 52 24",
+        "site_web": null,
+        "adresse": "26 Av. du Stade, 43410 Lempdes-sur-Allagnon",
+        "note": 2,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "3693811771647466370",
+        "nom": "Sarl Cornaire Et Fils",
+        "slug": "sarl-cornaire-et-fils",
+        "telephone": "04 71 76 13 41",
+        "site_web": "http://fr-fr.facebook.com/sarlcornaire/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "16106027663350207784",
+        "nom": "Julien Burande Plomberie Chauffagiste",
+        "slug": "julien-burande-plomberie-chauffagiste",
+        "telephone": "06 38 48 18 09",
+        "site_web": "http://plombier43.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "3822168940837059315",
+        "nom": "ISOLFRANCE Lempdes",
+        "slug": "isolfrance-lempdes",
+        "telephone": "04 12 04 12 12",
+        "site_web": null,
+        "adresse": "ZA, Les Bonnes, 43410 Lempdes-sur-Allagnon",
+        "note": 4,
+        "avis": 5,
+        "type": "Fabricant"
+      },
+      {
+        "id": "10455769385580528680",
+        "nom": "Mascart Jean-Bruno",
+        "slug": "mascart-jean-bruno",
+        "telephone": "04 71 76 65 06",
+        "site_web": "http://www.energies-vertes-mascart.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 20,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12242289090492322398",
+        "nom": "Petit Tony",
+        "slug": "petit-tony",
+        "telephone": "06 50 51 14 12",
+        "site_web": "http://petit.site-solocal.com/",
+        "adresse": "La Jarige, 43360 Vergongheon",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "arsac-en-velay": {
+    "artisans": [
+      {
+        "id": "8189249235016094106",
+        "nom": "sarl domergue",
+        "slug": "sarl-domergue",
+        "telephone": "04 71 05 05 23",
+        "site_web": "http://www.sarldomergue.fr/",
+        "adresse": "9A Rue du Soleil Levant, 43700 Saint-Germain-Laprade",
+        "note": 4.3,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12479921418045367379",
+        "nom": "Altet Lionel urgence dépannage entretien Plomberie Chauffage Electricité frigoriste 43",
+        "slug": "altet-lionel-urgence-depannage-entretien-plomberie-chauffage-electricite-frigoriste-43",
+        "telephone": "07 81 12 85 81",
+        "site_web": null,
+        "adresse": "19 Rue de Pranaud, 43700 Coubon",
+        "note": 4.5,
+        "avis": 38,
+        "type": "Siège social"
+      },
+      {
+        "id": "1539923513208041782",
+        "nom": "Arsac Jean-Paul",
+        "slug": "arsac-jean-paul",
+        "telephone": "04 71 03 81 49",
+        "site_web": null,
+        "adresse": "5B Av. Laurent Eynac, 43150 Le Monastier-sur-Gazeille",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "16077587618847669726",
+        "nom": "VELAY CHAUFFAGE",
+        "slug": "velay-chauffage",
+        "telephone": "04 71 02 63 04",
+        "site_web": "http://www.velay-chauffage.fr/",
+        "adresse": "13 Rue de Genebret, 43700 Brives-Charensac",
+        "note": 3.5,
+        "avis": 62,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "253371900642295672",
+        "nom": "Arnaud Plomberie",
+        "slug": "arnaud-plomberie",
+        "telephone": "06 83 73 48 33",
+        "site_web": null,
+        "adresse": "2 Rue des Vigeres, 43260 Lantriac",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "12276618070578797038",
+        "nom": "RICHARDSON : SANITAIRE- CHAUFFAGE - PLOMBERIE - PHOTOVOLTAÏQUE",
+        "slug": "richardson-sanitaire-chauffage-plomberie-photovoltaique",
+        "telephone": "04 71 05 68 88",
+        "site_web": "https://www.richardson.fr/tous-les-magasins/agence/le-puy-en-velay",
+        "adresse": "24 Rte de Coubon, 43700 Brives-Charensac",
+        "note": 3.7,
+        "avis": 56,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "2128176474107960251",
+        "nom": "Ets Iris Travaux de A à Z",
+        "slug": "ets-iris-travaux-de-a-a-z",
+        "telephone": "07 81 23 11 44",
+        "site_web": "https://iris-sanitaire.fr/",
+        "adresse": "Za De Taulhac, 142 Rue Ja Cubizolle, 43000 Le Puy-en-Velay",
+        "note": 5,
+        "avis": 24,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "5984899562013975913",
+        "nom": "Darne Alexis Bois de chauffage en bûches",
+        "slug": "darne-alexis-bois-de-chauffage-en-buches",
+        "telephone": "06 14 75 56 73",
+        "site_web": null,
+        "adresse": "43000 Le Puy-en-Velay",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "beaulieu": {
+    "artisans": [
+      {
+        "id": "7136449194241647204",
+        "nom": "BOYER THIERRY",
+        "slug": "boyer-thierry",
+        "telephone": "06 81 83 42 97",
+        "site_web": null,
+        "adresse": "Lieu-dit, Pieyre, 43800 Beaulieu",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "blavozy": {
+    "artisans": [
+      {
+        "id": "1929137283490648325",
+        "nom": "C2A Concept - Carrelage - Cuisine - Salle de Bain - Electricité - Chauffage Le Puy en Velay",
+        "slug": "c2a-concept-carrelage-cuisine-salle-de-bain-electricite-chauffage-le-puy-en-velay",
+        "telephone": "04 71 03 05 20",
+        "site_web": "https://www.c2aconcept.fr/",
+        "adresse": "ZAC de Bombe, Rue Lamarck Jean Baptiste, 43700 Saint-Germain-Laprade",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Magasin de carrelage"
+      },
+      {
+        "id": "557044591916823680",
+        "nom": "Aterno Le Puy-en-Velay",
+        "slug": "aterno-le-puy-en-velay",
+        "telephone": "04 15 74 00 09",
+        "site_web": "https://www.aterno.fr/nos-agences/agence-de-saint-germain-laprade.html?utm_source=GoogleMyBusiness&utm_medium=organic&utm_campaign=GMB_Auvergne&mc=SiteWeb_GMB_AUVERGNE",
+        "adresse": "1 Rue Maurice Schuman, 43700 Saint-Germain-Laprade",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7445390110812768679",
+        "nom": "SARL LHOSTE",
+        "slug": "sarl-lhoste",
+        "telephone": "04 71 05 25 98",
+        "site_web": null,
+        "adresse": "43700 Brives-Charensac",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17752111792579285316",
+        "nom": "Velay maintenance",
+        "slug": "velay-maintenance",
+        "telephone": "04 71 02 63 02",
+        "site_web": "https://www.velay-maintenance.fr/",
+        "adresse": "13 Rue de Genebret, 43700 Brives-Charensac",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "13672136172715768133",
+        "nom": "Hervé Thermique",
+        "slug": "herve-thermique",
+        "telephone": "04 71 07 00 70",
+        "site_web": "https://www.herve-thermique.com/",
+        "adresse": "21 rue maurice schuman, ZI Blavozy, 43700 Saint-Germain-Laprade",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "2770319723923017814",
+        "nom": "TotalEnergies Proxi Sud Est (CLMB)",
+        "slug": "totalenergies-proxi-sud-est-clmb",
+        "telephone": "04 71 02 60 22",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/clmb-brives?at_campaign=Site_Web&at_custom1=TPSE&at_medium=Google_My_Business",
+        "adresse": "48 Av. Pierre Farigoule, 43700 Brives-Charensac",
+        "note": 4.4,
+        "avis": 19,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "beauzac": {
+    "artisans": [
+      {
+        "id": "3299097683198656568",
+        "nom": "SLEC - Climatisation - Pompes à Chaleur - Bornes de Recharge Électrique - Électricien Professionnels et Industriels",
+        "slug": "slec-climatisation-pompes-a-chaleur-bornes-de-recharge-electrique-electricien-professionnels-et-industriels",
+        "telephone": "06 89 77 87 43",
+        "site_web": "http://sl-ec.fr/?utm_source=gmb",
+        "adresse": "ZA de Pirolles 2, Pirolles, 43590 Beauzac",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "bournoncle-saint-pierre": {
+    "artisans": [
+      {
+        "id": "806493000693184150",
+        "nom": "Plomberie JOUM",
+        "slug": "plomberie-joum",
+        "telephone": "07 68 82 83 31",
+        "site_web": "https://www.plomberie-joum.fr/",
+        "adresse": "13 Rue de Belgique, 43250 Sainte-Florine",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "3645904101756522739",
+        "nom": "Bonhomme Jacky Sarl",
+        "slug": "bonhomme-jacky-sarl",
+        "telephone": "04 71 76 95 57",
+        "site_web": null,
+        "adresse": "12 Rue Marcel Ustachon, 43360 Vergongheon",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "5044536803805226783",
+        "nom": "Alpha Chauffage",
+        "slug": "alpha-chauffage",
+        "telephone": "04 71 74 07 18",
+        "site_web": "http://www.facebook.com/Alpha-chauffage-538529442914344/",
+        "adresse": "Rte de Clermont, 43100 Cohade",
+        "note": 3.1,
+        "avis": 34,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "6902541525451526265",
+        "nom": "TotalEnergies Proxi Sud Est (CLMB)",
+        "slug": "totalenergies-proxi-sud-est-clmb",
+        "telephone": "04 71 50 11 43",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/clmb-paulhac?at_campaign=Site_Web&at_custom1=TPSE&at_medium=Google_My_Business",
+        "adresse": "Rte de Beaumont, 43100 Paulhac",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "9307959308422511762",
+        "nom": "Tixier Jean-Claude Cheminée et Poêle SAINTE-FLORINE",
+        "slug": "tixier-jean-claude-cheminee-et-poele-sainte-florine",
+        "telephone": "04 73 54 08 40",
+        "site_web": "https://jeanclaudetixier.com/",
+        "adresse": "ZI Arrest, Rue de Megecoste, 43250 Sainte-Florine",
+        "note": 4.2,
+        "avis": 28,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "6926679090366895965",
+        "nom": "Racher Christophe",
+        "slug": "racher-christophe",
+        "telephone": "04 71 76 28 00",
+        "site_web": "https://www.racher-christophe.fr/",
+        "adresse": "Rue des Chauds Basses, 43100 Cohade",
+        "note": 3,
+        "avis": 12,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "10455987968105408467",
+        "nom": "Ryckservices",
+        "slug": "ryckservices",
+        "telephone": "06 76 91 68 82",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "6270280369554460071",
+        "nom": "ANDRIEUX Génie climatique & Thermique",
+        "slug": "andrieux-genie-climatique-thermique",
+        "telephone": "06 63 27 87 15",
+        "site_web": "https://proandrieux.blogspot.com/p/chauffage-froid-ventilation.html",
+        "adresse": "23 Rue de la Mayasse, 43100 Brioude",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11493065799761630483",
+        "nom": "Le Viking Auvergnat",
+        "slug": "le-viking-auvergnat",
+        "telephone": "06 68 90 59 32",
+        "site_web": "https://www.facebook.com/profile.php?id=100090272962410",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "14655474944809049962",
+        "nom": "Lamat Mathieu",
+        "slug": "lamat-mathieu",
+        "telephone": "04 71 50 10 72",
+        "site_web": null,
+        "adresse": "26 Av. de la Gare, 43100 Brioude",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "brives-charensac": {
+    "artisans": [
+      {
+        "id": "12702519265898104045",
+        "nom": "Téréva Brives-Charensac",
+        "slug": "tereva-brives-charensac",
+        "telephone": "04 71 05 89 89",
+        "site_web": "https://www.tereva.fr/document/A-586624-tereva-agence-tereva-brives-charensac",
+        "adresse": "16 Rte de Coubon, 43700 Brives-Charensac",
+        "note": 3.7,
+        "avis": 18,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "13681383171888807031",
+        "nom": "Bleu Rouge SOROFI PUY-EN-VELAY",
+        "slug": "bleu-rouge-sorofi-puy-en-velay",
+        "telephone": "04 71 02 33 10",
+        "site_web": "https://www.sorofi.fr/",
+        "adresse": "550 Chem. de Farnier, 43000 Brives-Charensac",
+        "note": 5,
+        "avis": 3,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "12745785836654170309",
+        "nom": "Au Fil du Bain - FIC",
+        "slug": "au-fil-du-bain-fic",
+        "telephone": "04 71 04 03 92",
+        "site_web": "https://www.fic-pro.fr/",
+        "adresse": "8 Rue de la Transcevenole, 43700 Brives-Charensac",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "1002640795401440556",
+        "nom": "Plombier - Philippe Exbrayat",
+        "slug": "plombier-philippe-exbrayat",
+        "telephone": "06 88 47 48 28",
+        "site_web": "http://www.philippe-exbrayat.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16445259355255650031",
+        "nom": "Mahinc Fabrice: Plombier Chauffage Débouchage canalisation",
+        "slug": "mahinc-fabrice-plombier-chauffage-debouchage-canalisation",
+        "telephone": "06 22 51 46 81",
+        "site_web": null,
+        "adresse": "15 Rue Saint-Vosy, 43700 Brives-Charensac",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "brioude": {
+    "artisans": [
+      {
+        "id": "14760352230428309377",
+        "nom": "CEDEO Brioude : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-brioude-sanitaire-chauffage-plomberie",
+        "telephone": "04 71 50 21 38",
+        "site_web": "https://www.cedeo.fr/infos-agence/brioude-cedeo-1458",
+        "adresse": "128 Av. d'Auvergne, 43100 Brioude",
+        "note": 4,
+        "avis": 13,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "10473592886739239770",
+        "nom": "STEV Travaux",
+        "slug": "stev-travaux",
+        "telephone": "07 82 88 97 80",
+        "site_web": "https://www.stev-travaux.fr/",
+        "adresse": "87 Av. de la Gare, 43100 Brioude",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "5080464973029521900",
+        "nom": "Energie concept",
+        "slug": "energie-concept",
+        "telephone": "07 49 64 32 16",
+        "site_web": "https://www.energie-43.fr/contact",
+        "adresse": "7 Rue Savaron, 43100 Brioude",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7473722830574138434",
+        "nom": "Courteix SARL",
+        "slug": "courteix-sarl",
+        "telephone": "04 71 50 18 63",
+        "site_web": "https://www.courteix-brioude.fr/",
+        "adresse": "32 Av. d'Auvergne, 43100 Brioude",
+        "note": 3.6,
+        "avis": 11,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "14799900903674967507",
+        "nom": "Giral Serge",
+        "slug": "giral-serge",
+        "telephone": "04 71 50 14 32",
+        "site_web": null,
+        "adresse": "13 Mnt de Simpal, 43100 Vieille-Brioude",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "6514897630542608631",
+        "nom": "Aeroconfort Auvergne",
+        "slug": "aeroconfort-auvergne",
+        "telephone": "09 52 07 08 45",
+        "site_web": "http://pompe-a-chaleur-aeroconfort-auvergne.fr/",
+        "adresse": "Rue Croix du Reclus, 43100 Brioude",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13186447260882290488",
+        "nom": "PROLIANS RHÔNE-ALPES AUVERGNE Brioude",
+        "slug": "prolians-rhone-alpes-auvergne-brioude",
+        "telephone": "04 71 74 93 39",
+        "site_web": "https://www.prolians.fr/?utm_source=GMB&utm_medium=organic",
+        "adresse": "Av. d'Auvergne, 43100 Brioude",
+        "note": 4.6,
+        "avis": 14,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "11490186698568276553",
+        "nom": "EURL BRUHAT Dimitri",
+        "slug": "eurl-bruhat-dimitri",
+        "telephone": "07 66 09 64 54",
+        "site_web": null,
+        "adresse": "44 Rue du Genièvre, 43100 Cohade",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "16147582262657272915",
+        "nom": "HNT Auvergne",
+        "slug": "hnt-auvergne",
+        "telephone": "04 71 50 05 00",
+        "site_web": "https://hntauvergne.fr/",
+        "adresse": "7 bis Rte de Clermont, 43100 Cohade",
+        "note": 4.1,
+        "avis": 43,
+        "type": "Menuisier"
+      },
+      {
+        "id": "3284071445579063015",
+        "nom": "JSP Eco Energy",
+        "slug": "jsp-eco-energy",
+        "telephone": "09 52 29 22 80",
+        "site_web": "https://www.instagram.com/jspecoenergy/?utm_source=gmb",
+        "adresse": "28 Rte de Clermont, 43100 Cohade",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Solutions et équipement énergétiques"
+      }
+    ]
+  },
+  "le-chambon-sur-lignon": {
+    "artisans": [
+      {
+        "id": "10967241399873072009",
+        "nom": "Debard Gilles-Couvreur",
+        "slug": "debard-gilles-couvreur",
+        "telephone": "04 71 65 90 25",
+        "site_web": "http://www.chauffagiste-gilles-debard.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "La Celle, 43400 Le Chambon-sur-Lignon",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9147097409061342463",
+        "nom": "Lizieux Plomberie Chauffage",
+        "slug": "lizieux-plomberie-chauffage",
+        "telephone": "04 71 59 74 63",
+        "site_web": "https://www.lizieux-plomberie-chauffage.fr/",
+        "adresse": "Lebreyre, 43400 Le Chambon-sur-Lignon",
+        "note": 3.9,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "14247766939510805678",
+        "nom": "Sarl Suchail Patrick",
+        "slug": "sarl-suchail-patrick",
+        "telephone": "04 71 59 77 09",
+        "site_web": null,
+        "adresse": "10 Chemin de la Grand Terre Chambon sur Lignon Le, 43400",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6883830889283248159",
+        "nom": "Desfond Didier",
+        "slug": "desfond-didier",
+        "telephone": "04 71 59 72 31",
+        "site_web": null,
+        "adresse": "Lebreyre, 43400 Le Chambon-sur-Lignon",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "11952695914662938036",
+        "nom": "TotalEnergies Proxi Sud Est (CLMB)",
+        "slug": "totalenergies-proxi-sud-est-clmb",
+        "telephone": "04 71 59 73 28",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/clmb-chambon-lignon?at_campaign=Site_Web&at_custom1=TPSE&at_medium=Google_My_Business",
+        "adresse": "ZA les Lebreyres, 43400 Le Chambon-sur-Lignon",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "9312312144836592960",
+        "nom": "Gerald Services",
+        "slug": "gerald-services",
+        "telephone": "04 71 58 18 73",
+        "site_web": "http://www.geraldservices.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "chadrac": {
+    "artisans": [
+      {
+        "id": "6411869257569577962",
+        "nom": "Proxiserve",
+        "slug": "proxiserve",
+        "telephone": "04 71 09 23 23",
+        "site_web": "https://www.proxiserve.fr/agence/l/le-puy-en-velay/9-route-de-montredon/4072226",
+        "adresse": "9 Rte de Montredon, 43000 Le Puy-en-Velay",
+        "note": 1.9,
+        "avis": 35,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "la-chapelle-d-aurec": {
+    "artisans": [
+      {
+        "id": "16407595100862523535",
+        "nom": "Atraconfort 42 Saint-Ferréol-d'Auroure",
+        "slug": "atraconfort-42-saint-ferreol-dauroure",
+        "telephone": "04 77 93 80 79",
+        "site_web": "https://www.atraconfort42.com/",
+        "adresse": "ZA les, Terres de Villeneuve, 43330 Saint-Ferréol-d'Auroure",
+        "note": 4.8,
+        "avis": 47,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17120258409160353544",
+        "nom": "ENGIE Home Services SAINT-ETIENNE",
+        "slug": "engie-home-services-saint-etienne",
+        "telephone": "04 77 32 50 62",
+        "site_web": "https://agence.engie-homeservices.fr/73-engie-home-services-saint-etienne?utm_source=gmb",
+        "adresse": "22 Rue du Vercors, 42100 Saint-Étienne",
+        "note": 4,
+        "avis": 428,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17661788334242775131",
+        "nom": "Le Puy Solaire Clim Chauffage Pont Salomon | Pompe à chaleur & Rénovation globale | Photovoltaïque",
+        "slug": "le-puy-solaire-clim-chauffage-pont-salomon-pompe-a-chaleur-renovation-globale-photovoltaique",
+        "telephone": "04 82 29 73 75",
+        "site_web": "https://lepuy.solaireclimchauffage.fr/?utm_source=gmb&utm_medium=organic&utm_campaign=pontsalomon",
+        "adresse": "Les, ZA des Portes du Velay, 43330 Pont-Salomon",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3569562803939093438",
+        "nom": "DM chauffage plomberie, Plombier Firminy, chauffagiste Chambon Feugerolles",
+        "slug": "dm-chauffage-plomberie-plombier-firminy-chauffagiste-chambon-feugerolles",
+        "telephone": "06 49 81 53 67",
+        "site_web": null,
+        "adresse": "19 Rue Verdié, 42700 Firminy",
+        "note": 4.6,
+        "avis": 53,
+        "type": "Plombier"
+      },
+      {
+        "id": "15417720463926857952",
+        "nom": "Fabrice Sechi",
+        "slug": "fabrice-sechi",
+        "telephone": "06 78 65 21 78",
+        "site_web": null,
+        "adresse": "4 Rte d'Aurec, 43330 Pont-Salomon",
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "9145895846698292369",
+        "nom": "Vidal Thierry",
+        "slug": "vidal-thierry",
+        "telephone": "04 77 35 87 46",
+        "site_web": null,
+        "adresse": "42 Rue du Velay, 43330 Pont-Salomon",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "6047530031339348365",
+        "nom": "Chapelle-parisot",
+        "slug": "chapelle-parisot",
+        "telephone": "04 77 41 64 98",
+        "site_web": null,
+        "adresse": "2 Imp. du Vieux Cloître, 42700 Firminy",
+        "note": 3.5,
+        "avis": 17,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "coubon": {
+    "artisans": [
+      {
+        "id": "2756744131866065348",
+        "nom": "SARL ELEC JEAN",
+        "slug": "sarl-elec-jean",
+        "telephone": "04 71 08 91 24",
+        "site_web": "https://www.facebook.com/sarlelecjean",
+        "adresse": "2 All. du Parc, 43700 Coubon",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "435004484808430230",
+        "nom": "Montagne Roger",
+        "slug": "montagne-roger",
+        "telephone": "04 71 08 88 41",
+        "site_web": null,
+        "adresse": "Rue De La Chabanne, 43700 Coubon",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "7905999371269204258",
+        "nom": "GROUPE DP BOIS & ENERGIE",
+        "slug": "groupe-dp-bois-energie",
+        "telephone": "04 71 57 42 41",
+        "site_web": "https://www.dpenergie.fr/",
+        "adresse": "Orzilhac, 43700 Coubon",
+        "note": 0,
+        "avis": 0,
+        "type": "Exploitation forestière"
+      },
+      {
+        "id": "3131046887067737487",
+        "nom": "Altet Elodie Ramonage Débouchage Zinguerie 43",
+        "slug": "altet-elodie-ramonage-debouchage-zinguerie-43",
+        "telephone": "09 73 76 77 29",
+        "site_web": "https://altet-elodie.fr/",
+        "adresse": "19 Rue de Pranaud, 43700 Coubon",
+        "note": 5,
+        "avis": 5,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "9157785813846115713",
+        "nom": "Tauleigne Jean-Marc",
+        "slug": "tauleigne-jean-marc",
+        "telephone": "04 71 06 18 47",
+        "site_web": "http://bois-de-chauffage-haute-loire.fr/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 9,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "dunieres": {
+    "artisans": [
+      {
+        "id": "6274231912757905614",
+        "nom": "VS Plomberie",
+        "slug": "vs-plomberie",
+        "telephone": "06 80 36 29 73",
+        "site_web": "https://www.facebook.com/profile.php?id=61551080457316",
+        "adresse": "55 Le Buisson, 43290 Raucoules",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "17396438886685099936",
+        "nom": "Moulin Bois Energie",
+        "slug": "moulin-bois-energie",
+        "telephone": "04 71 75 56 54",
+        "site_web": "http://www.moulinboisenergie.fr/",
+        "adresse": "ZA de Ville, 43220 Dunières",
+        "note": 3.3,
+        "avis": 57,
+        "type": "Fournisseur de bois"
+      },
+      {
+        "id": "14235042987611757619",
+        "nom": "Bois de chauffage VNBC",
+        "slug": "bois-de-chauffage-vnbc",
+        "telephone": "06 71 29 97 19",
+        "site_web": "http://www.bois-chauffage-vnbl.fr/",
+        "adresse": "Planchette, 43140 Saint-Victor-Malescours",
+        "note": 3.5,
+        "avis": 15,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "4233304933227724103",
+        "nom": "Cap Chauffage",
+        "slug": "cap-chauffage",
+        "telephone": "04 71 61 14 62",
+        "site_web": "http://www.cap-chauffage.fr/",
+        "adresse": "3 rue de l'artisanat_ZI Rullière, 43620 Saint-Romain-Lachalm",
+        "note": 4.9,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "563837008302078072",
+        "nom": "ALAIN GIRINON",
+        "slug": "alain-girinon",
+        "telephone": "06 87 84 44 13",
+        "site_web": null,
+        "adresse": "43290 Raucoules",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "950185218271070872",
+        "nom": "Sarl Drevet Stéphane",
+        "slug": "sarl-drevet-stephane",
+        "telephone": "06 84 79 61 60",
+        "site_web": "https://drevet-plombier-alu.fr/",
+        "adresse": "11 All. du Solier, 43220 Dunières",
+        "note": 4.3,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "10468144227339643783",
+        "nom": "SAS Chausse Cédric",
+        "slug": "sas-chausse-cedric",
+        "telephone": "06 63 20 03 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "craponne-sur-arzon": {
+    "artisans": [
+      {
+        "id": "10772291949887671285",
+        "nom": "O.B.N Chauffage",
+        "slug": "obn-chauffage",
+        "telephone": "04 71 03 32 54",
+        "site_web": null,
+        "adresse": "1 Rue de la Friperie, 43500 Craponne-sur-Arzon",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "1501210313490685810",
+        "nom": "Sanitherm environnement",
+        "slug": "sanitherm-environnement",
+        "telephone": "06 45 62 27 59",
+        "site_web": "https://www.sanitherm-environnement.com/",
+        "adresse": "Aubissou, 43500 Craponne-sur-Arzon",
+        "note": 4.8,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "11694605479834682272",
+        "nom": "Garbil Frères SAS",
+        "slug": "garbil-freres-sas",
+        "telephone": "04 71 03 20 86",
+        "site_web": "https://garbil-freres.fr/?utm_source=gmb",
+        "adresse": "12 Av. de la Gare, 43500 Craponne-sur-Arzon",
+        "note": 4.2,
+        "avis": 31,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14472096146698215253",
+        "nom": "Cogra usine de Craponne-sur-Arzon",
+        "slug": "cogra-usine-de-craponne-sur-arzon",
+        "telephone": "04 71 01 20 92",
+        "site_web": "https://www.cogra.fr/",
+        "adresse": "La Marelle, 43500 Craponne-sur-Arzon",
+        "note": 4,
+        "avis": 223,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "3350000384960522520",
+        "nom": "Beyssac Sté",
+        "slug": "beyssac-ste",
+        "telephone": "04 71 03 20 21",
+        "site_web": null,
+        "adresse": "14 Bd Vercingétorix, 43500 Craponne-sur-Arzon",
+        "note": 5,
+        "avis": 18,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "17812456738022873001",
+        "nom": "Rigaud Jean-Louis",
+        "slug": "rigaud-jean-louis",
+        "telephone": "04 71 01 23 52",
+        "site_web": null,
+        "adresse": "Aubissou, 43500 Craponne-sur-Arzon",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "1735445477863236869",
+        "nom": "Fournerie Combustibles",
+        "slug": "fournerie-combustibles",
+        "telephone": "04 71 03 20 39",
+        "site_web": "http://www.fournerie-combustibles.fr/",
+        "adresse": "6 Pl. de la Gare, 43500 Craponne-sur-Arzon",
+        "note": 3.6,
+        "avis": 11,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "espaly-saint-marcel": {
+    "artisans": [
+      {
+        "id": "16256306513856342690",
+        "nom": "Atraconfort - Concept Chauffage 43",
+        "slug": "atraconfort-concept-chauffage-43",
+        "telephone": "04 71 09 32 85",
+        "site_web": "https://www.atraconfort.com/",
+        "adresse": "Zone Concept Habitat 43, 1 Rte de la Bargette, 43000 Polignac",
+        "note": 4.6,
+        "avis": 36,
+        "type": "Cheministe"
+      },
+      {
+        "id": "16375088834215502012",
+        "nom": "MJ Rénovation",
+        "slug": "mj-renovation",
+        "telephone": "07 71 63 56 53",
+        "site_web": "http://www.pagesjaunes.fr/pros/57386648",
+        "adresse": "27 Rue Auguste Souchon, 43000 Espaly-Saint-Marcel",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "11690851131680856249",
+        "nom": "AB PETITS TRAVAUX",
+        "slug": "ab-petits-travaux",
+        "telephone": "07 86 27 56 00",
+        "site_web": "https://sites.google.com/view/abpetitstravaux",
+        "adresse": "8 Rue des Fauvettes, 43000 Espaly-Saint-Marcel",
+        "note": 5,
+        "avis": 14,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "cussac-sur-loire": {
+    "artisans": [
+      {
+        "id": "1666501837454595509",
+        "nom": "Ad'lec Destable Alexandre",
+        "slug": "adlec-destable-alexandre",
+        "telephone": "06 27 51 28 56",
+        "site_web": null,
+        "adresse": "22 LE Choumadou, 43370 Cussac-sur-Loire",
+        "note": 4,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "14547261175979695147",
+        "nom": "EYRAUD ELEC CHAUFFAGE SANITAIRE",
+        "slug": "eyraud-elec-chauffage-sanitaire",
+        "telephone": "06 80 32 40 47",
+        "site_web": "https://eyraudeecs.fr/",
+        "adresse": "20 Rte de Saint-Christophe, 43370 Cussac-sur-Loire",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "15605955722032380684",
+        "nom": "CF2C",
+        "slug": "cf2c",
+        "telephone": "04 71 00 93 42",
+        "site_web": "http://cf2c-groupe.fr/",
+        "adresse": "20 Le Fangeas, 43370 Solignac-sur-Loire",
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2014249918837340369",
+        "nom": "Avenir Climatique",
+        "slug": "avenir-climatique",
+        "telephone": "05 55 70 94 34",
+        "site_web": "http://www.avenir-climatique.fr/",
+        "adresse": "6 Rue de lou Enas, 87150 Cussac",
+        "note": 2.6,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8610364476564544519",
+        "nom": "ETABLISSEMENTS THOMAS",
+        "slug": "etablissements-thomas",
+        "telephone": "04 71 03 16 09",
+        "site_web": "https://etablissementsthomas43.fr/",
+        "adresse": "1 N88, 43370 Cussac-sur-Loire",
+        "note": 4.8,
+        "avis": 32,
+        "type": "Cheministe"
+      }
+    ]
+  },
+  "langeac": {
+    "artisans": [
+      {
+        "id": "2194500011869025150",
+        "nom": "Tavenard Frères",
+        "slug": "tavenard-freres",
+        "telephone": "06 14 76 00 32",
+        "site_web": null,
+        "adresse": "Baconnet Zone Artisanale Chambaret, 43300 Langeac",
+        "note": 1,
+        "avis": 1,
+        "type": "Fabricant"
+      },
+      {
+        "id": "8506628778270816985",
+        "nom": "Entreprise Gignac Et Compagnie",
+        "slug": "entreprise-gignac-et-compagnie",
+        "telephone": "04 71 77 08 72",
+        "site_web": "http://www.gignac43.com/",
+        "adresse": "10 Av. de l'Europe, 43300 Langeac",
+        "note": 2.9,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "12953729478576708602",
+        "nom": "Garrel SARL",
+        "slug": "garrel-sarl",
+        "telephone": "04 71 77 02 23",
+        "site_web": "http://garrel.site-solocal.com/",
+        "adresse": "33 Av. Victor Hugo, 43300 Langeac",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "971695910348527031",
+        "nom": "Entreprise Michel",
+        "slug": "entreprise-michel",
+        "telephone": "04 71 77 06 19",
+        "site_web": "http://www.entreprise-michel.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "983662716625679644",
+        "nom": "JF BOIS ENERGIE",
+        "slug": "jf-bois-energie",
+        "telephone": "06 69 18 21 30",
+        "site_web": "https://www.jfboisenergie.fr/",
+        "adresse": "ZA, Les Treysseyres, 43300 Mazeyrat-d'Allier",
+        "note": 5,
+        "avis": 8,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "10680080467171575504",
+        "nom": "Haut Allier Bois",
+        "slug": "haut-allier-bois",
+        "telephone": "04 71 74 17 90",
+        "site_web": "http://www.hautallierbois.fr/",
+        "adresse": "Zone Artisanale, 43300 Mazeyrat-d'Allier",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "4163071352095602225",
+        "nom": "Eco Forêt 43",
+        "slug": "eco-foret-43",
+        "telephone": "07 78 56 07 82",
+        "site_web": "https://eco-foret43.jimdosite.com/",
+        "adresse": "43300 Langeac",
+        "note": 0,
+        "avis": 0,
+        "type": "Service forestier"
+      },
+      {
+        "id": "16333129979400827430",
+        "nom": "Lockard James",
+        "slug": "lockard-james",
+        "telephone": "04 71 74 12 21",
+        "site_web": null,
+        "adresse": "Le Bourg, 43300 Pinols",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "582509865247934008",
+        "nom": "Beaud Serge",
+        "slug": "beaud-serge",
+        "telephone": "04 71 77 06 89",
+        "site_web": null,
+        "adresse": "43300 Mazeyrat-d'Allier",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "15872308479073820142",
+        "nom": "Garand René et Fils SARL",
+        "slug": "garand-rene-et-fils-sarl",
+        "telephone": "04 71 77 05 39",
+        "site_web": null,
+        "adresse": "43300 Langeac",
+        "note": 5,
+        "avis": 1,
+        "type": "Négociant en bois"
+      }
+    ]
+  },
+  "lapte": {
+    "artisans": [
+      {
+        "id": "8072781528231807759",
+        "nom": "Entreprise Court",
+        "slug": "entreprise-court",
+        "telephone": "04 71 59 38 85",
+        "site_web": "http://www.ets-court.fr/",
+        "adresse": "Zone de Martevielle, 43200 Lapte",
+        "note": 3.7,
+        "avis": 19,
+        "type": "Plombier"
+      },
+      {
+        "id": "6945754744420403747",
+        "nom": "Bouchet Clément",
+        "slug": "bouchet-clement",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Chambertière Basse, 43200 Lapte",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16926027287595259795",
+        "nom": "Rousson Joseph",
+        "slug": "rousson-joseph",
+        "telephone": "04 71 59 36 59",
+        "site_web": null,
+        "adresse": "168 Rue du Dr Tassy, 43200 Lapte",
+        "note": 3,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "grazac": {
+    "artisans": [
+      {
+        "id": "9467691285379449775",
+        "nom": "Marcon-chauffage.",
+        "slug": "marcon-chauffage",
+        "telephone": "04 71 59 10 31",
+        "site_web": "https://www.marcon-chauffage.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Rte de Retournac, 43200 Yssingeaux",
+        "note": 4.2,
+        "avis": 17,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "15961393072314188719",
+        "nom": "SAS Flamme - Chauffage Bois",
+        "slug": "sas-flamme-chauffage-bois",
+        "telephone": "06 03 24 73 54",
+        "site_web": null,
+        "adresse": "ZA de Chatimbarbe, 43200 Yssingeaux",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "6791611999877808275",
+        "nom": "TR CLIMATIQUE",
+        "slug": "tr-climatique",
+        "telephone": "06 72 77 13 19",
+        "site_web": "https://artisaneo.fr/TRClimatique",
+        "adresse": "2 Bis chemin de la Rouchouze, 43600 Sainte-Sigolène",
+        "note": 5,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "12530677213144219437",
+        "nom": "MG Bonnet",
+        "slug": "mg-bonnet",
+        "telephone": "04 71 59 00 16",
+        "site_web": "http://ets-jeanpaulbonnet.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "790 Le Sablon, 43200 Yssingeaux",
+        "note": 4,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11379618032307177240",
+        "nom": "Enelec, Geothermie Haute-Loire",
+        "slug": "enelec-geothermie-haute-loire",
+        "telephone": "04 71 65 18 13",
+        "site_web": "http://www.enelec-43.com/",
+        "adresse": "45 impasse des mélèzes, 43200 Yssingeaux",
+        "note": 2.7,
+        "avis": 12,
+        "type": "Fournisseur d'électricité"
+      },
+      {
+        "id": "10963537840844307985",
+        "nom": "Déléage Luc",
+        "slug": "deleage-luc",
+        "telephone": "06 89 32 90 74",
+        "site_web": null,
+        "adresse": "Rue des Barrys, 43200 Grazac",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "13310685996472849606",
+        "nom": "Bonnefoy Bernard",
+        "slug": "bonnefoy-bernard",
+        "telephone": "04 71 65 53 23",
+        "site_web": null,
+        "adresse": "Rue des Gentianes, 43200 Yssingeaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3374239772396345026",
+        "nom": "S.D.M.C. Société Dépannage et Maintenance Chauffage",
+        "slug": "sdmc-societe-depannage-et-maintenance-chauffage",
+        "telephone": "06 26 51 39 70",
+        "site_web": "http://www.sdmc43.fr/",
+        "adresse": "Imp. de la Sagne, 43600 Les Villettes",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9209834044944078497",
+        "nom": "TRCLIMATIQUE",
+        "slug": "trclimatique",
+        "telephone": "06 72 77 13 19",
+        "site_web": "https://www.trclimatique.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7534822314089167484",
+        "nom": "Etablissements Pichon (S.E)",
+        "slug": "etablissements-pichon-se",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue du Calvaire, 43600 Sainte-Sigolène",
+        "note": 2,
+        "avis": 1,
+        "type": null
+      }
+    ]
+  },
+  "lantriac": {
+    "artisans": [
+      {
+        "id": "11065407678698087784",
+        "nom": "Chapuis Electricite",
+        "slug": "chapuis-electricite",
+        "telephone": "04 71 05 16 70",
+        "site_web": "http://www.chapuiselectricite.fr/",
+        "adresse": "ZA, 43260 Lantriac",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "14706459644934444371",
+        "nom": "Plombier Chauffagiste près Puy-en-Velay - APCS 43",
+        "slug": "plombier-chauffagiste-pres-puy-en-velay-apcs-43",
+        "telephone": "06 80 87 55 68",
+        "site_web": null,
+        "adresse": "LIEU DIT, Couteaux, 43260 Lantriac",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17485857519021216181",
+        "nom": "christophe mahinc",
+        "slug": "christophe-mahinc",
+        "telephone": "04 71 05 07 79",
+        "site_web": null,
+        "adresse": "34 Rue de Laussonne, 43260 Lantriac",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "laussonne": {
+    "artisans": [
+      {
+        "id": "9868456332029530563",
+        "nom": "MINUTENERGY",
+        "slug": "minutenergy",
+        "telephone": "06 22 46 06 14",
+        "site_web": "http://www.minutenergy.com/",
+        "adresse": "6 Le Charreyron, 43260 Saint-Julien-Chapteuil",
+        "note": 5,
+        "avis": 11,
+        "type": "Entreprise d'étanchéité"
+      },
+      {
+        "id": "17277653497702343811",
+        "nom": "Vocanson Frères",
+        "slug": "vocanson-freres",
+        "telephone": "04 71 07 97 75",
+        "site_web": "http://www.vocanson-freres-charpente.fr/",
+        "adresse": "9 Route de Freycenet, 43150 Laussonne",
+        "note": 0,
+        "avis": 0,
+        "type": "Atelier de menuiserie"
+      },
+      {
+        "id": "11863491675156215778",
+        "nom": "SARL DUPERRAY",
+        "slug": "sarl-duperray",
+        "telephone": "04 71 75 82 36",
+        "site_web": "https://www.sarl-duperray.fr/",
+        "adresse": "ZA Les Vestias, 25 Allée des Artisans, 43200 Araules",
+        "note": 3.5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3549487621490086952",
+        "nom": "La Clé des Chants",
+        "slug": "la-cle-des-chants",
+        "telephone": "06 87 58 12 99",
+        "site_web": null,
+        "adresse": "110 Route du Fraisse, Le Fraisse, 43150 Laussonne",
+        "note": 0,
+        "avis": 0,
+        "type": "Gîte"
+      },
+      {
+        "id": "8200040468846503373",
+        "nom": "Sos plomberie - plombier chauffagiste - raccordement piscine",
+        "slug": "sos-plomberie-plombier-chauffagiste-raccordement-piscine",
+        "telephone": "06 99 75 48 98",
+        "site_web": null,
+        "adresse": "1 bis Rue de l'Égalité, 43230 Paulhaguet",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Plombier"
+      },
+      {
+        "id": "39340626293453592",
+        "nom": "Le Chauffage",
+        "slug": "le-chauffage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "43260 Lantriac",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "423636209688540704",
+        "nom": "Gentes et Fils Sarl",
+        "slug": "gentes-et-fils-sarl",
+        "telephone": "04 71 05 18 13",
+        "site_web": null,
+        "adresse": "10 ZA Les Coustilles, 43150 Laussonne",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Fournisseur de carburant"
+      },
+      {
+        "id": "3697424201585797812",
+        "nom": "Les cheminées du Mézenc",
+        "slug": "les-cheminees-du-mezenc",
+        "telephone": "07 88 91 77 89",
+        "site_web": "https://leschemineesdumezenc.fr/",
+        "adresse": "13 Rte des Barthes, 43150 Freycenet-la-Tour",
+        "note": 4.9,
+        "avis": 29,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "15751501628820098188",
+        "nom": "rochette david",
+        "slug": "rochette-david",
+        "telephone": "04 71 08 33 58",
+        "site_web": "http://www.rochette-david-sarl.fr/",
+        "adresse": "zone artisanale pinet sur gazeille FR, 43150 Le Monastier-sur-Gazeille",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "polignac": {
+    "artisans": [
+      {
+        "id": "10130765286272779067",
+        "nom": "Le Comptoir du Poêle à Bois",
+        "slug": "le-comptoir-du-poele-a-bois",
+        "telephone": "04 71 02 53 75",
+        "site_web": "http://www.lecomptoirdupoeleabois.fr/",
+        "adresse": "ZA de Nolhac, 43350 Saint-Paulien",
+        "note": 4.7,
+        "avis": 72,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "14406406288139355943",
+        "nom": "AB J Multi-Travaux, Multi-Travaux, réparation, plomberie, électricité, serrurerie, le Puy en Velay, Brives Chadrac, Espaly..",
+        "slug": "ab-j-multi-travaux-multi-travaux-reparation-plomberie-electricite-serrurerie-le-puy-en-velay-brives-chadrac-espaly",
+        "telephone": "06 52 10 01 48",
+        "site_web": null,
+        "adresse": "1984 route des estreys, 43000 Polignac",
+        "note": 5,
+        "avis": 6,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "mazet-saint-voy": {
+    "artisans": [
+      {
+        "id": "12972968538611759291",
+        "nom": "Idéal rénovation 43",
+        "slug": "ideal-renovation-43",
+        "telephone": "07 86 82 57 78",
+        "site_web": null,
+        "adresse": "711 Champagnac, 43520 Mazet-Saint-Voy",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "17606735369820897850",
+        "nom": "Gîtes les chalets du Mazet saint Voy",
+        "slug": "gites-les-chalets-du-mazet-saint-voy",
+        "telephone": "06 81 90 33 15",
+        "site_web": "http://leschaletsdumazetsaintvoy.com/",
+        "adresse": "les gires, 43520 Mazet-Saint-Voy",
+        "note": 4.7,
+        "avis": 60,
+        "type": "Agence de location de chalets"
+      },
+      {
+        "id": "12294570769045657681",
+        "nom": "CE3 Elec",
+        "slug": "ce3-elec",
+        "telephone": "06 86 31 53 04",
+        "site_web": null,
+        "adresse": "Le Roux, 43520 Mazet-Saint-Voy",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "10045853394409863065",
+        "nom": "Electronique Du Mazet",
+        "slug": "electronique-du-mazet",
+        "telephone": "04 71 65 02 16",
+        "site_web": "http://www.electroniquedumazet.com/",
+        "adresse": "Rioutord, 43520 Mazet-Saint-Voy",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Fabricant de matériel électronique"
+      },
+      {
+        "id": "4829801349013629764",
+        "nom": "Mazet-Saint-Voy",
+        "slug": "mazet-saint-voy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "43520 Mazet-Saint-Voy",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "12849279511400890570",
+        "nom": "Soleilhac Gilles",
+        "slug": "soleilhac-gilles",
+        "telephone": "04 71 59 53 07",
+        "site_web": "http://msoleilhacgilles.site-solocal.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "18024175012650008300",
+        "nom": "Hervé Bois 43",
+        "slug": "herve-bois-43",
+        "telephone": "06 83 20 00 76",
+        "site_web": "https://www.facebook.com/share/16qeDPVDeJ/",
+        "adresse": "Imp. de boucharin, 43200 Araules",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "17849759820815058995",
+        "nom": "BONNEFOY HENRI SARL BONNEFOY H & T",
+        "slug": "bonnefoy-henri-sarl-bonnefoy-h-t",
+        "telephone": "06 89 85 32 31",
+        "site_web": null,
+        "adresse": "290 Av. de l'Industrie ZA de, 43190 Tence",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "9861770723644823976",
+        "nom": "Guilhot Construction Bois",
+        "slug": "guilhot-construction-bois",
+        "telephone": "04 71 65 05 23",
+        "site_web": "http://www.construction-bois-guilhot.fr/",
+        "adresse": "2006 route Pierre Plantée, Madelonnet, 43520 Mazet-Saint-Voy",
+        "note": 4.5,
+        "avis": 8,
+        "type": "Charpentier"
+      },
+      {
+        "id": "16757446435029174994",
+        "nom": "Atraconfort 42 Yssingeaux",
+        "slug": "atraconfort-42-yssingeaux",
+        "telephone": "04 77 93 80 79",
+        "site_web": "http://www.atraconfort42.com/",
+        "adresse": "16 Pl. Carnot, 43200 Yssingeaux",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "le-monastier-sur-gazeille": {
+    "artisans": [
+      {
+        "id": "14039254245125932780",
+        "nom": "Reynaud Jean-Paul",
+        "slug": "reynaud-jean-paul",
+        "telephone": "04 71 03 95 14",
+        "site_web": null,
+        "adresse": "Av. du Puy, 43150 Le Monastier-sur-Gazeille",
+        "note": 4,
+        "avis": 1,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "mazeyrat-d-allier": {
+    "artisans": [
+      {
+        "id": "14146349377381087622",
+        "nom": "Bayol Hubert",
+        "slug": "bayol-hubert",
+        "telephone": "04 71 77 55 76",
+        "site_web": null,
+        "adresse": "43230 Saint-Georges-d'Aurac",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "15260652259664353810",
+        "nom": "Fraisse Olivier",
+        "slug": "fraisse-olivier",
+        "telephone": "04 71 74 38 55",
+        "site_web": null,
+        "adresse": "Esfacy, 43230 Mazerat-Aurouze",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "12650660290698145423",
+        "nom": "Label Plomberie",
+        "slug": "label-plomberie",
+        "telephone": "06 40 94 08 94",
+        "site_web": null,
+        "adresse": null,
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "6228154992697772987",
+        "nom": "Entreprise De Reboisement Guy Travaux Gestion Forêts -Bois de chauffage Haute Loire Puy en Velay Brioude",
+        "slug": "entreprise-de-reboisement-guy-travaux-gestion-forets-bois-de-chauffage-haute-loire-puy-en-velay-brioude",
+        "telephone": "06 11 58 29 62",
+        "site_web": null,
+        "adresse": "Les Rivailles, 43300 Pébrac",
+        "note": 0,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "9060788594544726367",
+        "nom": "Plombier Chauffagiste près Puy-en-Velay - Cédric FILLERE",
+        "slug": "plombier-chauffagiste-pres-puy-en-velay-cedric-fillere",
+        "telephone": "06 77 17 36 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7807515564842484672",
+        "nom": "Comte David",
+        "slug": "comte-david",
+        "telephone": "04 71 77 48 29",
+        "site_web": "http://comtedavid.site-solocal.com/",
+        "adresse": "quai, 43380 Lavoûte-Chilhac",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "2642288454362055300",
+        "nom": "Clauger Sud Auvergne",
+        "slug": "clauger-sud-auvergne",
+        "telephone": "04 26 31 83 70",
+        "site_web": "https://www.clauger.com/fr/?utm_source=gmb",
+        "adresse": "ZI La Ribeyre, Rue des Plattes, 43380 Lavoûte-Chilhac",
+        "note": 3,
+        "avis": 2,
+        "type": "Fournisseur d'équipements industriels"
+      },
+      {
+        "id": "5835243478510280348",
+        "nom": "AREO PLOMBERIE",
+        "slug": "areo-plomberie",
+        "telephone": "06 73 71 46 30",
+        "site_web": null,
+        "adresse": "10 Rue du Mont Bar, 43270 Allègre",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "10572885219802126445",
+        "nom": "Chopy Sarl",
+        "slug": "chopy-sarl",
+        "telephone": "04 71 77 07 67",
+        "site_web": null,
+        "adresse": "3 Champa, 43300 Chanteuges",
+        "note": 3.5,
+        "avis": 6,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "monistrol-sur-loire": {
+    "artisans": [
+      {
+        "id": "15818310171519982799",
+        "nom": "Thermi-Tec",
+        "slug": "thermi-tec",
+        "telephone": "04 71 66 51 00",
+        "site_web": "http://www.thermi-tec.com/",
+        "adresse": "24 Rue de la Chaussade, 43120 Monistrol-sur-Loire",
+        "note": 3,
+        "avis": 6,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16537777191477153223",
+        "nom": "COMPTOIR DES FLAMMES",
+        "slug": "comptoir-des-flammes",
+        "telephone": "06 60 63 32 41",
+        "site_web": "https://comptoir-des-flammes.fr/",
+        "adresse": "1 RUE DES PRUNIERS, Z.A. les Moletons, 43120 Monistrol-sur-Loire",
+        "note": 2.8,
+        "avis": 15,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "2272743749956923929",
+        "nom": "Mestre Monistrol",
+        "slug": "mestre-monistrol",
+        "telephone": "04 71 56 12 30",
+        "site_web": null,
+        "adresse": "Rue des Pruniers, 43120 Monistrol-sur-Loire",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "16153848269681494950",
+        "nom": "Electricité Générale Saby",
+        "slug": "electricite-generale-saby",
+        "telephone": "04 71 75 10 00",
+        "site_web": "https://www.saby.fr/",
+        "adresse": "5 Rue des Bleuets, 43120 Monistrol-sur-Loire",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Électricien"
+      },
+      {
+        "id": "252861469565171157",
+        "nom": "Magasin - Mestre - Monistrol",
+        "slug": "magasin-mestre-monistrol",
+        "telephone": "04 71 75 00 01",
+        "site_web": "https://www.mestre.fr/magasins/monistrol-sur-loire-10019",
+        "adresse": "1 Z.A. les Moletons, 43120 Monistrol-sur-Loire",
+        "note": 4.1,
+        "avis": 14,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "7501635168184639795",
+        "nom": "Ecolwood",
+        "slug": "ecolwood",
+        "telephone": "06 07 23 71 11",
+        "site_web": "https://www.ecolwood.com/fr/",
+        "adresse": "ZI Chavanon, 43120 Monistrol-sur-Loire",
+        "note": 4,
+        "avis": 4,
+        "type": "Bois"
+      },
+      {
+        "id": "16227078841158562605",
+        "nom": "Pichon Sarl",
+        "slug": "pichon-sarl",
+        "telephone": "04 71 66 03 69",
+        "site_web": null,
+        "adresse": "6 Pl. Néron, 43120 Monistrol-sur-Loire",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "281714241438174613",
+        "nom": "L'Âtre Monistrolien | Jotul Monistrol",
+        "slug": "latre-monistrolien-jotul-monistrol",
+        "telephone": "04 71 75 49 07",
+        "site_web": "https://magasin.jotul.fr/monistrol-sur-loire/",
+        "adresse": "ZA La Borie, 6 Rue Marie Curie, 43120 Monistrol-sur-Loire",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "8506996379816215971",
+        "nom": "Solvery Pascal",
+        "slug": "solvery-pascal",
+        "telephone": "04 71 66 30 62",
+        "site_web": null,
+        "adresse": "43120 Monistrol-sur-Loire",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "montfaucon-en-velay": {
+    "artisans": [
+      {
+        "id": "12278557681408859734",
+        "nom": "QUINCAILLERIE DEFOUR",
+        "slug": "quincaillerie-defour",
+        "telephone": "04 71 59 90 71",
+        "site_web": null,
+        "adresse": "4 Rillon, 43290 Montfaucon-en-Velay",
+        "note": 4.8,
+        "avis": 102,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "1298396822310828917",
+        "nom": "CM Energie Services",
+        "slug": "cm-energie-services",
+        "telephone": "06 40 77 39 34",
+        "site_web": "https://cmeservices.fr/",
+        "adresse": "22 Av. de la Gare, 43290 Montfaucon-en-Velay",
+        "note": 5,
+        "avis": 33,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "4364519918235577986",
+        "nom": "FCL Bois",
+        "slug": "fcl-bois",
+        "telephone": "06 62 20 47 96",
+        "site_web": "https://www.fclbois.fr/",
+        "adresse": "Chemin du, Petit Peyre, 43600 Sainte-Sigolène",
+        "note": 3.6,
+        "avis": 8,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "15477628377428353778",
+        "nom": "MC plomberie",
+        "slug": "mc-plomberie",
+        "telephone": "07 82 48 50 39",
+        "site_web": null,
+        "adresse": "43600 Sainte-Sigolène",
+        "note": 5,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "16026822184324436178",
+        "nom": "Stéphane TRIOLAIRE La Brocante Industrielle",
+        "slug": "stephane-triolaire-la-brocante-industrielle",
+        "telephone": "04 71 56 39 56",
+        "site_web": null,
+        "adresse": "66 Rue Notre Dame, 43290 Montfaucon-en-Velay",
+        "note": 3.5,
+        "avis": 19,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "7955157317779501308",
+        "nom": "Paillet-Touly",
+        "slug": "paillet-touly",
+        "telephone": "04 71 75 89 95",
+        "site_web": "https://www.qualit-enr.org/sas-paillet-touly",
+        "adresse": "130 Rue du Cèdre, 43140 Saint-Didier-en-Velay",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "saint-maurice-de-lignon": {
+    "artisans": [
+      {
+        "id": "1111976114202703637",
+        "nom": "ETF Germain Verniere",
+        "slug": "etf-germain-verniere",
+        "telephone": "06 71 29 97 19",
+        "site_web": "https://bois-chauffage-verniere.fr/",
+        "adresse": "5 place du Communal, 43200 Saint-Maurice-de-Lignon",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "1374297645127271701",
+        "nom": "Velec",
+        "slug": "velec",
+        "telephone": "07 83 61 60 22",
+        "site_web": "https://vinsonlaurent99.wixsite.com/velec",
+        "adresse": "154 Rue Pierre Favier, 43200 Saint-Maurice-de-Lignon",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "2528014915709808837",
+        "nom": "Varenne Christian",
+        "slug": "varenne-christian",
+        "telephone": "04 71 65 37 56",
+        "site_web": null,
+        "adresse": "Les Chabanneries, 43200 Saint-Maurice-de-Lignon",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-ferreol-d-auroure": {
+    "artisans": [
+      {
+        "id": "9697828170688499321",
+        "nom": "Tout Feu Tout Flamme - Cheminées Seguin Firminy",
+        "slug": "tout-feu-tout-flamme-cheminees-seguin-firminy",
+        "telephone": "04 77 10 90 10",
+        "site_web": "https://www.seguin-firminy.com/",
+        "adresse": "Terres de Villeneuve, 43330 Saint-Ferréol-d'Auroure",
+        "note": 4.7,
+        "avis": 82,
+        "type": "Cheministe"
+      }
+    ]
+  },
+  "sainte-florine": {
+    "artisans": [
+      {
+        "id": "15418482451402292374",
+        "nom": "DSC PRO CONFORT",
+        "slug": "dsc-pro-confort",
+        "telephone": "06 69 62 59 38",
+        "site_web": "https://www.dscproconfort.fr/",
+        "adresse": "12 Rue de la Poste, 63570 Auzat-la-Combelle",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9495748840410607051",
+        "nom": "Garcia José",
+        "slug": "garcia-jose",
+        "telephone": "04 73 54 22 45",
+        "site_web": null,
+        "adresse": "2 Rue des Violettes, 63570 Brassac-les-Mines",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "16463418242747738989",
+        "nom": "Artisan Chauffagiste Christoph",
+        "slug": "artisan-chauffagiste-christoph",
+        "telephone": "04 73 96 32 57",
+        "site_web": null,
+        "adresse": "19 Rte de Charbonnier, 63340 Moriat",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14808143908413866423",
+        "nom": "Couz'Energies",
+        "slug": "couzenergies",
+        "telephone": "04 73 71 83 85",
+        "site_web": "https://www.couzenergies.fr/",
+        "adresse": "3 Impasse du Livradois, Chem. des Coustilles ZAC des, 63340 Saint-Germain-Lembron",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4490909981038446714",
+        "nom": "Chambon Marc",
+        "slug": "chambon-marc",
+        "telephone": "04 73 71 64 93",
+        "site_web": null,
+        "adresse": "Rte des Prés, 63570 Beaulieu",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "4974004143182152890",
+        "nom": "AQUA THERMA",
+        "slug": "aqua-therma",
+        "telephone": "07 77 17 98 93",
+        "site_web": "https://www.aqua-therma.fr/",
+        "adresse": "31 Rte d'Issoire, 63340 Le Breuil-sur-Couze",
+        "note": 5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2078869323277613056",
+        "nom": "Florin David",
+        "slug": "florin-david",
+        "telephone": "06 62 75 08 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-just-malmont": {
+    "artisans": [
+      {
+        "id": "6557957011159596828",
+        "nom": "VR Plomberie",
+        "slug": "vr-plomberie",
+        "telephone": "06 18 07 57 14",
+        "site_web": null,
+        "adresse": "8 Lot. Chante Alouette, 43240 Saint-Just-Malmont",
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-germain-laprade": {
+    "artisans": [
+      {
+        "id": "13043713040012789216",
+        "nom": "Réfrigération Beaufils Arnaud",
+        "slug": "refrigeration-beaufils-arnaud",
+        "telephone": "06 13 48 92 53",
+        "site_web": "http://beaufilsarnaud.site-solocal.com/",
+        "adresse": "ZI de bombes, Av. Pascal Blaise, 43700 Saint-Germain-Laprade",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10293401337052218566",
+        "nom": "Marcon Elec",
+        "slug": "marcon-elec",
+        "telephone": "04 71 01 40 15",
+        "site_web": "http://www.marcon-elec43.fr/",
+        "adresse": "643 Rue Jean-Baptiste Lamarck, 43700 Saint-Germain-Laprade",
+        "note": 4.8,
+        "avis": 48,
+        "type": "Électricien"
+      },
+      {
+        "id": "14397366648052769869",
+        "nom": "Dalkia Froid Solutions",
+        "slug": "dalkia-froid-solutions",
+        "telephone": "0 825 82 53 90",
+        "site_web": "https://www.dalkiafroidsolutions.com/?utm_source=gmb",
+        "adresse": "Imp. de Bombes, 43700 Saint-Germain-Laprade",
+        "note": 5,
+        "avis": 1,
+        "type": "Solutions et équipement énergétiques"
+      }
+    ]
+  },
+  "saint-julien-chapteuil": {
+    "artisans": [
+      {
+        "id": "1434303396777490853",
+        "nom": "Vulcar",
+        "slug": "vulcar",
+        "telephone": "04 71 08 71 84",
+        "site_web": "http://www.vulcar.com/",
+        "adresse": "ZA, 43260 Saint-Julien-Chapteuil",
+        "note": 4.2,
+        "avis": 50,
+        "type": "Cheministe"
+      }
+    ]
+  },
+  "saint-pal-de-chalencon": {
+    "artisans": [
+      {
+        "id": "11577777856890515130",
+        "nom": "G.G.M Ets",
+        "slug": "ggm-ets",
+        "telephone": "04 71 61 30 69",
+        "site_web": "http://www.ggm-chauffage.fr/",
+        "adresse": null,
+        "note": 4.1,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "6043263453982936930",
+        "nom": "Denaux Daniel",
+        "slug": "denaux-daniel",
+        "telephone": "06 98 90 66 74",
+        "site_web": "http://www.denaux-chauffage-plomberie.fr/",
+        "adresse": "Brandy Haut, 43500 Saint-Pal-de-Chalencon",
+        "note": 5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16917810733367913978",
+        "nom": "CSP TABARD",
+        "slug": "csp-tabard",
+        "telephone": "06 82 27 16 16",
+        "site_web": "https://www.csptabard.fr/",
+        "adresse": "Le Breyre, 43500 Saint-Pal-de-Chalencon",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-paulien": {
+    "artisans": [
+      {
+        "id": "7391375908003211462",
+        "nom": "Handinature",
+        "slug": "handinature",
+        "telephone": "06 74 71 85 45",
+        "site_web": "https://www.gpf-foret.fr/handinature/",
+        "adresse": "ZA de Nolhac, 43350 Saint-Paulien",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "18090653024998421122",
+        "nom": "Altibuches",
+        "slug": "altibuches",
+        "telephone": "06 78 18 14 53",
+        "site_web": null,
+        "adresse": "Anviac, 43350 Saint-Paulien",
+        "note": 5,
+        "avis": 2,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "1499580056781396207",
+        "nom": "A votre service",
+        "slug": "a-votre-service",
+        "telephone": "06 84 42 91 07",
+        "site_web": null,
+        "adresse": "Lieu-dit, Nolhac, 43350 Saint-Paulien",
+        "note": 5,
+        "avis": 3,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "736969787731056287",
+        "nom": "Thermi-Frig",
+        "slug": "thermi-frig",
+        "telephone": "04 71 09 70 23",
+        "site_web": "http://www.thermi-frig.fr/",
+        "adresse": "ZA de Nolhac, 43350 Saint-Paulien",
+        "note": 5,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "11497158832991408287",
+        "nom": "Chandès Electricité",
+        "slug": "chandes-electricite",
+        "telephone": "04 71 02 92 38",
+        "site_web": null,
+        "adresse": "20 ZA de Nolhac, 43350 Saint-Paulien",
+        "note": 4.9,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "4876863944562657637",
+        "nom": "HM LVT",
+        "slug": "hm-lvt",
+        "telephone": "06 10 24 49 25",
+        "site_web": null,
+        "adresse": "30 ZA de Nolhac, 43350 Saint-Paulien",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "11256952999828268024",
+        "nom": "Guigon Bruno",
+        "slug": "guigon-bruno",
+        "telephone": "04 71 08 04 75",
+        "site_web": null,
+        "adresse": "43320 Saint-Vidal",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-pal-de-mons": {
+    "artisans": [
+      {
+        "id": "4841354933222508308",
+        "nom": "MSEG Merchionne Stéphane Électricité Générale",
+        "slug": "mseg-merchionne-stephane-electricite-generale",
+        "telephone": "06 77 72 01 06",
+        "site_web": "https://www.facebook.com/MSEG43",
+        "adresse": "6 Les Amatis, 43620 Saint-Pal-de-Mons",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Entrepreneur en énergie solaire"
+      },
+      {
+        "id": "5952890594795109133",
+        "nom": "Espace plomberie",
+        "slug": "espace-plomberie",
+        "telephone": "06 71 33 60 11",
+        "site_web": null,
+        "adresse": "6 Route de Saint Pal, 43600 Sainte-Sigolène",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "4244019733117939060",
+        "nom": "Progeo SARL",
+        "slug": "progeo-sarl",
+        "telephone": "04 63 75 00 88",
+        "site_web": "https://progeosarl.site-solocal.com/?utm_source=gmb",
+        "adresse": "ZA de Chambaud, 43620 Saint-Romain-Lachalm",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "164972301863716166",
+        "nom": "Santerne Centre Est Energies",
+        "slug": "santerne-centre-est-energies",
+        "telephone": "04 77 48 16 20",
+        "site_web": null,
+        "adresse": "ZI les Pins, 43620 Saint-Pal-de-Mons",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-pierre-eynac": {
+    "artisans": [
+      {
+        "id": "3989956153831276516",
+        "nom": "Dylan Elec 43",
+        "slug": "dylan-elec-43",
+        "telephone": "06 33 20 98 25",
+        "site_web": null,
+        "adresse": "43260 Saint-Pierre-Eynac",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "15670073529873009507",
+        "nom": "Peyrelon Pierre",
+        "slug": "peyrelon-pierre",
+        "telephone": "04 71 57 67 25",
+        "site_web": null,
+        "adresse": "La Vigne, 43260 Saint-Pierre-Eynac",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "4437152888635541647",
+        "nom": "Ramonage 43",
+        "slug": "ramonage-43",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "20 Chem. des Alliens, 43260 Saint-Pierre-Eynac",
+        "note": 5,
+        "avis": 9,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "8762805876060860367",
+        "nom": "Sarl STR Thermique et Photovoltaïque",
+        "slug": "sarl-str-thermique-et-photovoltaique",
+        "telephone": "06 32 82 47 22",
+        "site_web": null,
+        "adresse": "Lieu dit \"Le Chevalier\", 43260 Saint-Hostien",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7622924341787226461",
+        "nom": "Plombier chauffagiste PLM",
+        "slug": "plombier-chauffagiste-plm",
+        "telephone": "06 77 36 63 44",
+        "site_web": "https://www.plm-plomberie.fr/",
+        "adresse": "Le Bourg, Route du Puy en Velay, 43260 Saint-Hostien",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sainte-sigolene": {
+    "artisans": [
+      {
+        "id": "10904513591506786190",
+        "nom": "Maleysson Gerard",
+        "slug": "maleysson-gerard",
+        "telephone": "04 71 66 64 26",
+        "site_web": null,
+        "adresse": "7 Chem. de l'Aulanière, 43600 Sainte-Sigolène",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7128011853719535412",
+        "nom": "Defour Eric",
+        "slug": "defour-eric",
+        "telephone": "06 71 12 00 41",
+        "site_web": null,
+        "adresse": "9 Rue de Chomeyrou, 43600 Les Villettes",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "retournac": {
+    "artisans": [
+      {
+        "id": "422613897543118161",
+        "nom": "Saunier Jeremy",
+        "slug": "saunier-jeremy",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "La Brousse, 43130 Retournac",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "13248334430095390706",
+        "nom": "Cessiecq Raphaël Plomberie Chauffage",
+        "slug": "cessiecq-raphael-plomberie-chauffage",
+        "telephone": "06 30 26 54 18",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6809277277719021637",
+        "nom": "Chappat Jerome",
+        "slug": "chappat-jerome",
+        "telephone": "06 70 43 06 80",
+        "site_web": null,
+        "adresse": "6083 Le Pedible, 43130 Retournac",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "9253909887826959729",
+        "nom": "Pro Services Ramonage Fumisterie",
+        "slug": "pro-services-ramonage-fumisterie",
+        "telephone": "06 58 00 56 84",
+        "site_web": "https://proservicesramonagefumisterie.fr/",
+        "adresse": "Pont de Changue, Lieu dit, 43130 Retournac",
+        "note": 4.7,
+        "avis": 24,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "1141570813736801236",
+        "nom": "Cessiecq Raphaël Plomberie Chauffage",
+        "slug": "cessiecq-raphael-plomberie-chauffage",
+        "telephone": "06 30 26 54 18",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15128658952795796007",
+        "nom": "Berger sas",
+        "slug": "berger-sas",
+        "telephone": "06 83 17 71 67",
+        "site_web": "http://www.berger-plombier-chauffage.fr/",
+        "adresse": "565 Les Blaches, 43800 Chamalières-sur-Loire",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "pont-salomon": {
+    "artisans": [
+      {
+        "id": "7096320120952065599",
+        "nom": "La Maison du Plombier",
+        "slug": "la-maison-du-plombier",
+        "telephone": "04 77 35 53 87",
+        "site_web": null,
+        "adresse": "10 All. des Ablets, 43330 Pont-Salomon",
+        "note": 2.3,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "14017426379085295785",
+        "nom": "Bayle Richard",
+        "slug": "bayle-richard",
+        "telephone": "04 77 35 57 06",
+        "site_web": null,
+        "adresse": "Rue du Rossignol, 43330 Pont-Salomon",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "3618067444841202149",
+        "nom": "Barnier Laurent",
+        "slug": "barnier-laurent",
+        "telephone": "04 77 35 50 64",
+        "site_web": null,
+        "adresse": "43330 Pont-Salomon",
+        "note": 5,
+        "avis": 6,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "3835744989719708528",
+        "nom": "Gagnaire Patrick",
+        "slug": "gagnaire-patrick",
+        "telephone": "06 83 74 34 53",
+        "site_web": null,
+        "adresse": "Rue du Pont de Bois, 43330 Pont-Salomon",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "rosieres": {
+    "artisans": [
+      {
+        "id": "8646998784156839680",
+        "nom": "Tempère Laurent",
+        "slug": "tempere-laurent",
+        "telephone": "04 71 57 45 95",
+        "site_web": null,
+        "adresse": "43800 Rosières",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "riotord": {
+    "artisans": [
+      {
+        "id": "7259415197084190602",
+        "nom": "Triolet Carrot",
+        "slug": "triolet-carrot",
+        "telephone": "04 77 94 16 91",
+        "site_web": null,
+        "adresse": "Z.A du, 30 Rte du Tracol, 42220 Saint-Sauveur-en-Rue",
+        "note": 4.8,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-didier-en-velay": {
+    "artisans": [
+      {
+        "id": "3742426935964352226",
+        "nom": "Le Hérisson Du Velay",
+        "slug": "le-herisson-du-velay",
+        "telephone": "04 71 61 10 93",
+        "site_web": "http://www.leherissonduvelay.com/",
+        "adresse": "1 Rue du Canard, 43140 Saint-Didier-en-Velay",
+        "note": 4.5,
+        "avis": 37,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "6964517219304255894",
+        "nom": "SERHOCHIAN Bouard",
+        "slug": "serhochian-bouard",
+        "telephone": "06 84 79 66 88",
+        "site_web": null,
+        "adresse": "Robert, 43140 Saint-Didier-en-Velay",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "14202993680666037222",
+        "nom": "GS PLOMBERIE",
+        "slug": "gs-plomberie",
+        "telephone": "06 12 62 25 83",
+        "site_web": null,
+        "adresse": "62 Rue Nationale, 43140 Saint-Didier-en-Velay",
+        "note": 5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "14538754093159663385",
+        "nom": "ETS Charrel Bois",
+        "slug": "ets-charrel-bois",
+        "telephone": "0 899 49 04 55",
+        "site_web": "http://bois-chauffage-charrel.fr/",
+        "adresse": "4 Rue des Narcisses, 43140 Saint-Didier-en-Velay",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "3501099395754267003",
+        "nom": "Innova Detection",
+        "slug": "innova-detection",
+        "telephone": "06 95 80 42 94",
+        "site_web": null,
+        "adresse": "13 Av. Saint-Roch, 43140 Saint-Didier-en-Velay",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "126004148727079733",
+        "nom": "Élec 2 JP",
+        "slug": "elec-2-jp",
+        "telephone": "06 13 17 29 42",
+        "site_web": null,
+        "adresse": "Lot. les Adreyts 2, 43140 Saint-Didier-en-Velay",
+        "note": 5,
+        "avis": 1,
+        "type": "Entreprise de VRD"
+      }
+    ]
+  },
+  "le-puy-en-velay": {
+    "artisans": [
+      {
+        "id": "16012374974045345449",
+        "nom": "CONFORT SAV",
+        "slug": "confort-sav",
+        "telephone": "04 71 05 61 10",
+        "site_web": "http://www.confortsav.com/",
+        "adresse": "Le, 133 Av. Maréchal Foch, 43000 Le Puy-en-Velay",
+        "note": 3.6,
+        "avis": 101,
+        "type": "Service de réparation d'appareils électroménagers"
+      }
+    ]
+  },
+  "vieille-brioude": {
+    "artisans": [
+      {
+        "id": "5044536803805226783",
+        "nom": "Alpha Chauffage",
+        "slug": "alpha-chauffage",
+        "telephone": "04 71 74 07 18",
+        "site_web": "http://www.facebook.com/Alpha-chauffage-538529442914344/",
+        "adresse": "Rte de Clermont, 43100 Cohade",
+        "note": 3.1,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "14655474944809049962",
+        "nom": "Lamat Mathieu",
+        "slug": "lamat-mathieu",
+        "telephone": "04 71 50 10 72",
+        "site_web": null,
+        "adresse": "26 Av. de la Gare, 43100 Brioude",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "6270280369554460071",
+        "nom": "ANDRIEUX Génie climatique & Thermique",
+        "slug": "andrieux-genie-climatique-thermique",
+        "telephone": "06 63 27 87 15",
+        "site_web": "https://proandrieux.blogspot.com/p/chauffage-froid-ventilation.html",
+        "adresse": "23 Rue de la Mayasse, 43100 Brioude",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3693811771647466370",
+        "nom": "Sarl Cornaire Et Fils",
+        "slug": "sarl-cornaire-et-fils",
+        "telephone": "04 71 76 13 41",
+        "site_web": "http://fr-fr.facebook.com/sarlcornaire/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "5162033938916823020",
+        "nom": "David SEQUEIRA",
+        "slug": "david-sequeira",
+        "telephone": "04 71 74 32 56",
+        "site_web": null,
+        "adresse": "8 Pissavit, 43100 Vieille-Brioude",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5080464973029521900",
+        "nom": "Energie concept",
+        "slug": "energie-concept",
+        "telephone": "07 49 64 32 16",
+        "site_web": "https://www.energie-43.fr/contact",
+        "adresse": "7 Rue Savaron, 43100 Brioude",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11367269541995917116",
+        "nom": "Passepont Jérôme",
+        "slug": "passepont-jerome",
+        "telephone": "04 71 74 71 97",
+        "site_web": "http://www.couverture-zinguerie-chauffage-brioude.fr/",
+        "adresse": "11 Av. Jean Jaurès, 43100 Brioude",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14799900903674967507",
+        "nom": "Giral Serge",
+        "slug": "giral-serge",
+        "telephone": "04 71 50 14 32",
+        "site_web": null,
+        "adresse": "13 Mnt de Simpal, 43100 Vieille-Brioude",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "14760352230428309377",
+        "nom": "CEDEO Brioude : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-brioude-sanitaire-chauffage-plomberie",
+        "telephone": "04 71 50 21 38",
+        "site_web": "https://www.cedeo.fr/infos-agence/brioude-cedeo-1458",
+        "adresse": "128 Av. d'Auvergne, 43100 Brioude",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "10455769385580528680",
+        "nom": "Mascart Jean-Bruno",
+        "slug": "mascart-jean-bruno",
+        "telephone": "04 71 76 65 06",
+        "site_web": "http://www.energies-vertes-mascart.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "sanssac-l-eglise": {
+    "artisans": [
+      {
+        "id": "5885036821651890468",
+        "nom": "arnold gaz",
+        "slug": "arnold-gaz",
+        "telephone": "04 71 04 17 54",
+        "site_web": "http://www.arnoldgaz.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "495186368456225201",
+        "nom": "BPSL ENERGIE",
+        "slug": "bpsl-energie",
+        "telephone": "06 72 20 33 07",
+        "site_web": "https://www.bpsl-energie.com/contact",
+        "adresse": "5 Imp. des Esclops, 43320 Sanssac-l'Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4361526004442788236",
+        "nom": "S.A.V. Energie",
+        "slug": "sav-energie",
+        "telephone": "04 71 02 49 95",
+        "site_web": "https://assistance-gaz.fr/?utm_source=gmb",
+        "adresse": "35 Av. Maréchal Foch, 43000 Le Puy-en-Velay",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "577187567072312751",
+        "nom": "BPSL Energie",
+        "slug": "bpsl-energie",
+        "telephone": "06 72 20 33 07",
+        "site_web": "https://www.facebook.com/520265421392598",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15823993535939855718",
+        "nom": "NICOLAS Stéphane (maître artisan)",
+        "slug": "nicolas-stephane-maitre-artisan",
+        "telephone": "04 71 08 07 48",
+        "site_web": null,
+        "adresse": "43320 Sanssac-l'Église",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "15941707597847334478",
+        "nom": "VINCENT MAUCHAUFFÉE",
+        "slug": "vincent-mauchauffee",
+        "telephone": "06 84 20 90 96",
+        "site_web": "http://www.plombier-mauchauffee.fr/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11479817801361867904",
+        "nom": "EURL Cédric FILLERE",
+        "slug": "eurl-cedric-fillere",
+        "telephone": "06 77 17 36 96",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15325274870927130897",
+        "nom": "SARL LAURENT gérald",
+        "slug": "sarl-laurent-gerald",
+        "telephone": "04 71 01 50 43",
+        "site_web": "https://www.sarl-laurent-gerald.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "241714701556076359",
+        "nom": "Ampilhac Julien",
+        "slug": "ampilhac-julien",
+        "telephone": "06 71 22 12 18",
+        "site_web": "http://ampilhac-chauffage.com/",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4477071464158778741",
+        "nom": "Legrand",
+        "slug": "legrand",
+        "telephone": "04 71 02 54 04",
+        "site_web": "https://fr-fr.facebook.com/nicolas.legrand.plomberie.chauffage",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "yssingeaux": {
+    "artisans": [
+      {
+        "id": "9467691285379449775",
+        "nom": "Marcon-chauffage.",
+        "slug": "marcon-chauffage",
+        "telephone": "04 71 59 10 31",
+        "site_web": "https://www.marcon-chauffage.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Rte de Retournac, 43200 Yssingeaux",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16757446435029174994",
+        "nom": "Atraconfort 42 Yssingeaux",
+        "slug": "atraconfort-42-yssingeaux",
+        "telephone": "04 77 93 80 79",
+        "site_web": "http://www.atraconfort42.com/",
+        "adresse": "16 Pl. Carnot, 43200 Yssingeaux",
+        "note": 5,
+        "avis": 2,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "4033385824676713761",
+        "nom": "Marcon Sarl",
+        "slug": "marcon-sarl",
+        "telephone": "04 71 59 10 31",
+        "site_web": null,
+        "adresse": "1 Rte de Retournac, 43200 Yssingeaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "12530677213144219437",
+        "nom": "MG Bonnet",
+        "slug": "mg-bonnet",
+        "telephone": "04 71 59 00 16",
+        "site_web": "http://ets-jeanpaulbonnet.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "790 Le Sablon, 43200 Yssingeaux",
+        "note": 4,
+        "avis": 5,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "la-seauve-sur-semene": {
+    "artisans": [
+      {
+        "id": "10476808693490064989",
+        "nom": "L'Atelier des Flammes",
+        "slug": "latelier-des-flammes",
+        "telephone": "06 64 37 08 19",
+        "site_web": "https://www.facebook.com/profile.php?id=61564554053830&utm_source=gmb",
+        "adresse": "27 Rte de Bozon, 43140 La Séauve-sur-Semène",
+        "note": 5,
+        "avis": 97,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "13017235724999700543",
+        "nom": "Meli Gaz",
+        "slug": "meli-gaz",
+        "telephone": "06 69 68 33 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3104343251990159429",
+        "nom": "Ets BESSON Axenergie",
+        "slug": "ets-besson-axenergie",
+        "telephone": "04 77 35 66 90",
+        "site_web": "https://www.axenergie.eu/agences/32-ets-besson-chauffage",
+        "adresse": "La Font du Loup, 43240 Saint-Just-Malmont",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10013672655674881207",
+        "nom": "Les Frères Plombiers",
+        "slug": "les-freres-plombiers",
+        "telephone": "04 77 55 94 26",
+        "site_web": "https://lesfreresplombiers.fr/",
+        "adresse": "410 Rue de la Semène, 43330 Pont-Salomon",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11380589531107518243",
+        "nom": "ENERGYTECH",
+        "slug": "energytech",
+        "telephone": "06 45 81 61 59",
+        "site_web": "https://www.msenergytech.com/",
+        "adresse": "95 Av. de la Semène, 43140 La Séauve-sur-Semène",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "17003414288462678729",
+        "nom": "T.P Plomberie",
+        "slug": "tp-plomberie",
+        "telephone": "07 82 23 56 96",
+        "site_web": "https://tp-plomberie43.fr/",
+        "adresse": "15 Rue du Pont Neuf, 43110 Aurec-sur-Loire",
+        "note": 5,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "9435462056432597757",
+        "nom": "A&L Energy",
+        "slug": "al-energy",
+        "telephone": "06 37 06 08 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4233304933227724103",
+        "nom": "Cap Chauffage",
+        "slug": "cap-chauffage",
+        "telephone": "04 71 61 14 62",
+        "site_web": "http://www.cap-chauffage.fr/",
+        "adresse": "3 rue de l'artisanat_ZI Rullière, 43620 Saint-Romain-Lachalm",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10468144227339643783",
+        "nom": "SAS Chausse Cédric",
+        "slug": "sas-chausse-cedric",
+        "telephone": "06 63 20 03 92",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11348566285297874007",
+        "nom": "R’home Renov",
+        "slug": "rhome-renov",
+        "telephone": "06 49 47 84 42",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "solignac-sur-loire": {
+    "artisans": [
+      {
+        "id": "9157785813846115713",
+        "nom": "Tauleigne Jean-Marc",
+        "slug": "tauleigne-jean-marc",
+        "telephone": "04 71 06 18 47",
+        "site_web": "http://bois-de-chauffage-haute-loire.fr/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "15605955722032380684",
+        "nom": "CF2C",
+        "slug": "cf2c",
+        "telephone": "04 71 00 93 42",
+        "site_web": "http://cf2c-groupe.fr/",
+        "adresse": "20 Le Fangeas, 43370 Solignac-sur-Loire",
+        "note": 3,
+        "avis": 2,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "tence": {
+    "artisans": [
+      {
+        "id": "9147097409061342463",
+        "nom": "Lizieux Plomberie Chauffage",
+        "slug": "lizieux-plomberie-chauffage",
+        "telephone": "04 71 59 74 63",
+        "site_web": "https://www.lizieux-plomberie-chauffage.fr/",
+        "adresse": "Lebreyre, 43400 Le Chambon-sur-Lignon",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14247766939510805678",
+        "nom": "Sarl Suchail Patrick",
+        "slug": "sarl-suchail-patrick",
+        "telephone": "04 71 59 77 09",
+        "site_web": null,
+        "adresse": "10 Chemin de la Grand Terre Chambon sur Lignon Le, 43400",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15201836846325305761",
+        "nom": "Duport Corentin",
+        "slug": "duport-corentin",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "733 La Combe, 43190 Tence",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "17849759820815058995",
+        "nom": "BONNEFOY HENRI SARL BONNEFOY H & T",
+        "slug": "bonnefoy-henri-sarl-bonnefoy-h-t",
+        "telephone": "06 89 85 32 31",
+        "site_web": null,
+        "adresse": "290 Av. de l'Industrie ZA de, 43190 Tence",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9312312144836592960",
+        "nom": "Gerald Services",
+        "slug": "gerald-services",
+        "telephone": "04 71 58 18 73",
+        "site_web": "http://www.geraldservices.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7135566967988590402",
+        "nom": "Gerald Service",
+        "slug": "gerald-service",
+        "telephone": null,
+        "site_web": "http://geraldservices.fr/",
+        "adresse": "36 Bis Rue d'Annonay, 43190 Tence",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "11952695914662938036",
+        "nom": "TotalEnergies Proxi Sud Est (CLMB)",
+        "slug": "totalenergies-proxi-sud-est-clmb",
+        "telephone": "04 71 59 73 28",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/clmb-chambon-lignon?at_campaign=Site_Web&at_custom1=TPSE&at_medium=Google_My_Business",
+        "adresse": "ZA les Lebreyres, 43400 Le Chambon-sur-Lignon",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "10267285440501642746",
+        "nom": "Bastin Christian",
+        "slug": "bastin-christian",
+        "telephone": "04 71 65 42 13",
+        "site_web": null,
+        "adresse": "Rue de Saint-Agrève, 43190 Tence",
+        "note": 3,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "13132285823907111382",
+        "nom": "Delolme Electroménagers",
+        "slug": "delolme-electromenagers",
+        "telephone": "04 71 59 82 20",
+        "site_web": "https://www.pulsat.fr/fr/",
+        "adresse": "35 Rue d'Annonay, 43190 Tence",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "3003364550250570981",
+        "nom": "3c combustibles et ramonage",
+        "slug": "3c-combustibles-et-ramonage",
+        "telephone": "04 71 59 82 83",
+        "site_web": "https://www.3ccombustible.com/",
+        "adresse": "6-14 Av. de l'Industrie, 43190 Tence",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Station-service"
+      }
+    ]
+  },
+  "vals-pres-le-puy": {
+    "artisans": [
+      {
+        "id": "5969948809326612435",
+        "nom": "AT Habitat ENERGIE Pompe à chaleur",
+        "slug": "at-habitat-energie-pompe-a-chaleur",
+        "telephone": "06 34 05 76 40",
+        "site_web": "https://at-habitat-energie.com/",
+        "adresse": "34 Chem. de Jalavoux, 43000 Aiguilhe",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16077587618847669726",
+        "nom": "VELAY CHAUFFAGE",
+        "slug": "velay-chauffage",
+        "telephone": "04 71 02 63 04",
+        "site_web": "http://www.velay-chauffage.fr/",
+        "adresse": "13 Rue de Genebret, 43700 Brives-Charensac",
+        "note": 3.5,
+        "avis": 62,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "12540475887684772568",
+        "nom": "Le Puy Solaire Clim Chauffage | Pompe à chaleur & Rénovation globale | Photovoltaïque",
+        "slug": "le-puy-solaire-clim-chauffage-pompe-a-chaleur-renovation-globale-photovoltaique",
+        "telephone": "04 82 29 87 87",
+        "site_web": "https://lepuy.solaireclimchauffage.fr/?utm_source=gmb&utm_medium=organic&utm_campaign=puyenvelay",
+        "adresse": "73 Rue Chaussade, 43000 Le Puy-en-Velay",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5984899562013975913",
+        "nom": "Darne Alexis Bois de chauffage en bûches",
+        "slug": "darne-alexis-bois-de-chauffage-en-buches",
+        "telephone": "06 14 75 56 73",
+        "site_web": null,
+        "adresse": "43000 Le Puy-en-Velay",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "6411869257569577962",
+        "nom": "Proxiserve",
+        "slug": "proxiserve",
+        "telephone": "04 71 09 23 23",
+        "site_web": "https://www.proxiserve.fr/agence/l/le-puy-en-velay/9-route-de-montredon/4072226",
+        "adresse": "9 Rte de Montredon, 43000 Le Puy-en-Velay",
+        "note": 1.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12276618070578797038",
+        "nom": "RICHARDSON : SANITAIRE- CHAUFFAGE - PLOMBERIE - PHOTOVOLTAÏQUE",
+        "slug": "richardson-sanitaire-chauffage-plomberie-photovoltaique",
+        "telephone": "04 71 05 68 88",
+        "site_web": "https://www.richardson.fr/tous-les-magasins/agence/le-puy-en-velay",
+        "adresse": "24 Rte de Coubon, 43700 Brives-Charensac",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "10363693559213261557",
+        "nom": "CROZE",
+        "slug": "croze",
+        "telephone": "04 71 09 39 26",
+        "site_web": null,
+        "adresse": "1 Imp. du Viaduc, 43700 Brives-Charensac",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17752111792579285316",
+        "nom": "Velay maintenance",
+        "slug": "velay-maintenance",
+        "telephone": "04 71 02 63 02",
+        "site_web": "https://www.velay-maintenance.fr/",
+        "adresse": "13 Rue de Genebret, 43700 Brives-Charensac",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3078489200547382762",
+        "nom": "Vellavi hydrosolutions",
+        "slug": "vellavi-hydrosolutions",
+        "telephone": "06 52 75 79 70",
+        "site_web": "https://vellavi-hydrosolutions.fr/",
+        "adresse": "5 Rue Dolaizon, 43000 Le Puy-en-Velay",
+        "note": 5,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "14002355662608990115",
+        "nom": "Therma Confort",
+        "slug": "therma-confort",
+        "telephone": "04 71 08 91 18",
+        "site_web": "https://therma-confort.fr/",
+        "adresse": "21 Rue de la Transcevenole, 43700 Brives-Charensac",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saugues": {
+    "artisans": [
+      {
+        "id": "6904235772555713766",
+        "nom": "Laurent Julien",
+        "slug": "laurent-julien",
+        "telephone": "04 71 77 88 65",
+        "site_web": null,
+        "adresse": "Le Jardin Public, 43170 Saugues",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1172381090625269879",
+        "nom": "Bati-Chauffe",
+        "slug": "bati-chauffe",
+        "telephone": "09 70 35 47 12",
+        "site_web": "https://www.bati-chauffe-43.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "2 Rue À Ménard, 43170 Saugues",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16622297580762727548",
+        "nom": "Sicard Franck",
+        "slug": "sicard-franck",
+        "telephone": "04 71 77 69 01",
+        "site_web": null,
+        "adresse": "Rue Alexandre Bordé, 43170 Saugues",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1612877484031330670",
+        "nom": "Bati-Chauffe",
+        "slug": "bati-chauffe",
+        "telephone": "06 23 17 67 64",
+        "site_web": null,
+        "adresse": "43170 Venteuges",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16624615127125925731",
+        "nom": "Saugues Alain",
+        "slug": "saugues-alain",
+        "telephone": "04 71 57 23 88",
+        "site_web": null,
+        "adresse": "43580 Monistrol-d'Allier",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "12654955721443381577",
+        "nom": "Roy Joël",
+        "slug": "roy-joel",
+        "telephone": "04 71 77 81 07",
+        "site_web": null,
+        "adresse": "Pl. Joseph Limozin, 43170 Saugues",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "vorey": {
+    "artisans": [
+      {
+        "id": "16016567956575146324",
+        "nom": "Chambefort Jean",
+        "slug": "chambefort-jean",
+        "telephone": "04 71 03 76 10",
+        "site_web": null,
+        "adresse": "Av. Pierre Chabannes, 43800 Vorey",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vergongheon": {
+    "artisans": [
+      {
+        "id": "17494773053649090052",
+        "nom": "SARL CORNAIRE",
+        "slug": "sarl-cornaire",
+        "telephone": "04 71 76 13 41",
+        "site_web": "http://fosse-septique-cornaire.fr/",
+        "adresse": "6 Rue des ecoles, 43390 Auzon",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Service d'entretien et de réparation de fosses septiques"
+      },
+      {
+        "id": "16106027663350207784",
+        "nom": "Julien Burande Plomberie Chauffagiste",
+        "slug": "julien-burande-plomberie-chauffagiste",
+        "telephone": "06 38 48 18 09",
+        "site_web": "http://plombier43.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14172774274029543701",
+        "nom": "Giraud Pierre",
+        "slug": "giraud-pierre",
+        "telephone": "06 50 29 03 47",
+        "site_web": null,
+        "adresse": "18 Rte de Lubières, 43360 Vergongheon",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Vente d'électroménager en gros"
+      },
+      {
+        "id": "2814599683593159953",
+        "nom": "Cf2c Chastang",
+        "slug": "cf2c-chastang",
+        "telephone": "04 71 76 51 48",
+        "site_web": "https://cf2c.fr/chastang/",
+        "adresse": "Les Bonnes, 43410 Lempdes-sur-Allagnon",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3645904101756522739",
+        "nom": "Bonhomme Jacky Sarl",
+        "slug": "bonhomme-jacky-sarl",
+        "telephone": "04 71 76 95 57",
+        "site_web": null,
+        "adresse": "12 Rue Marcel Ustachon, 43360 Vergongheon",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8923967860629006226",
+        "nom": "Courtet Denis",
+        "slug": "courtet-denis",
+        "telephone": "04 73 54 17 46",
+        "site_web": null,
+        "adresse": "8 Rue du Onze Novembre, 43250 Sainte-Florine",
+        "note": 4.1,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "12242289090492322398",
+        "nom": "Petit Tony",
+        "slug": "petit-tony",
+        "telephone": "06 50 51 14 12",
+        "site_web": "http://petit.site-solocal.com/",
+        "adresse": "La Jarige, 43360 Vergongheon",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "9307959308422511762",
+        "nom": "Tixier Jean-Claude Cheminée et Poêle SAINTE-FLORINE",
+        "slug": "tixier-jean-claude-cheminee-et-poele-sainte-florine",
+        "telephone": "04 73 54 08 40",
+        "site_web": "https://jeanclaudetixier.com/",
+        "adresse": "ZI Arrest, Rue de Megecoste, 43250 Sainte-Florine",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "806493000693184150",
+        "nom": "Plomberie JOUM",
+        "slug": "plomberie-joum",
+        "telephone": "07 68 82 83 31",
+        "site_web": "https://www.plomberie-joum.fr/",
+        "adresse": "13 Rue de Belgique, 43250 Sainte-Florine",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6926679090366895965",
+        "nom": "Racher Christophe",
+        "slug": "racher-christophe",
+        "telephone": "04 71 76 28 00",
+        "site_web": "https://www.racher-christophe.fr/",
+        "adresse": "Rue des Chauds Basses, 43100 Cohade",
+        "note": 3,
+        "avis": 12,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "les-villettes": {
+    "artisans": [
+      {
+        "id": "15477628377428353778",
+        "nom": "MC plomberie",
+        "slug": "mc-plomberie",
+        "telephone": "07 82 48 50 39",
+        "site_web": null,
+        "adresse": "43600 Sainte-Sigolène",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7128011853719535412",
+        "nom": "Defour Eric",
+        "slug": "defour-eric",
+        "telephone": "06 71 12 00 41",
+        "site_web": null,
+        "adresse": "9 Rue de Chomeyrou, 43600 Les Villettes",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "1633074172553497304",
+        "nom": "MOULINELEC43",
+        "slug": "moulinelec43",
+        "telephone": "06 17 03 26 51",
+        "site_web": null,
+        "adresse": "5 Rue du Stade, 43600 Les Villettes",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  }
+}

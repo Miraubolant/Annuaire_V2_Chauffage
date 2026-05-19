@@ -1,0 +1,330 @@
+{
+    "region": {
+        "id": 7,
+        "code": "06",
+        "nom": "Grand Est",
+        "slug": "grand-est"
+    },
+    "departements": [
+        {
+            "code": "08",
+            "nom": "Ardennes",
+            "slug": "ardennes",
+            "population_totale": 267422,
+            "communes_count": 447,
+            "communes_avec_artisans": 43,
+            "artisans_chauffage": 201,
+            "voisins": [
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                },
+                {
+                    "dep_code": "54",
+                    "dep_nom": "Meurthe-et-Moselle",
+                    "dep_slug": "meurthe-et-moselle"
+                }
+            ]
+        },
+        {
+            "code": "10",
+            "nom": "Aube",
+            "slug": "aube",
+            "population_totale": 310675,
+            "communes_count": 431,
+            "communes_avec_artisans": 43,
+            "artisans_chauffage": 199,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                },
+                {
+                    "dep_code": "54",
+                    "dep_nom": "Meurthe-et-Moselle",
+                    "dep_slug": "meurthe-et-moselle"
+                }
+            ]
+        },
+        {
+            "code": "51",
+            "nom": "Marne",
+            "slug": "marne",
+            "population_totale": 564673,
+            "communes_count": 610,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                },
+                {
+                    "dep_code": "54",
+                    "dep_nom": "Meurthe-et-Moselle",
+                    "dep_slug": "meurthe-et-moselle"
+                }
+            ]
+        },
+        {
+            "code": "52",
+            "nom": "Haute-Marne",
+            "slug": "haute-marne",
+            "population_totale": 170045,
+            "communes_count": 426,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "54",
+                    "dep_nom": "Meurthe-et-Moselle",
+                    "dep_slug": "meurthe-et-moselle"
+                }
+            ]
+        },
+        {
+            "code": "54",
+            "nom": "Meurthe-et-Moselle",
+            "slug": "meurthe-et-moselle",
+            "population_totale": 732598,
+            "communes_count": 591,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                }
+            ]
+        },
+        {
+            "code": "55",
+            "nom": "Meuse",
+            "slug": "meuse",
+            "population_totale": 180980,
+            "communes_count": 499,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                }
+            ]
+        },
+        {
+            "code": "57",
+            "nom": "Moselle",
+            "slug": "moselle",
+            "population_totale": 1050568,
+            "communes_count": 725,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                }
+            ]
+        },
+        {
+            "code": "67",
+            "nom": "Bas-Rhin",
+            "slug": "bas-rhin",
+            "population_totale": 1152643,
+            "communes_count": 514,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                }
+            ]
+        },
+        {
+            "code": "68",
+            "nom": "Haut-Rhin",
+            "slug": "haut-rhin",
+            "population_totale": 768567,
+            "communes_count": 366,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                }
+            ]
+        },
+        {
+            "code": "88",
+            "nom": "Vosges",
+            "slug": "vosges",
+            "population_totale": 359332,
+            "communes_count": 506,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "08",
+                    "dep_nom": "Ardennes",
+                    "dep_slug": "ardennes"
+                },
+                {
+                    "dep_code": "10",
+                    "dep_nom": "Aube",
+                    "dep_slug": "aube"
+                },
+                {
+                    "dep_code": "51",
+                    "dep_nom": "Marne",
+                    "dep_slug": "marne"
+                },
+                {
+                    "dep_code": "52",
+                    "dep_nom": "Haute-Marne",
+                    "dep_slug": "haute-marne"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "communes_total": 5115,
+        "communes_avec_artisans": 86,
+        "artisans_chauffage": 400,
+        "population_totale": 5557503
+    },
+    "zones_climatiques": {
+        "H1": 5115
+    },
+    "zone_climatique_dominante": "H1"
+}

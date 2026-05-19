@@ -1,0 +1,55 @@
+Options -Indexes
+Options +FollowSymLinks
+
+# Charset et compression
+AddDefaultCharset UTF-8
+<IfModule mod_deflate.c>
+    AddOutputFilterByType DEFLATE text/html text/css text/javascript application/javascript application/json
+</IfModule>
+
+# Cache navigateur
+<IfModule mod_expires.c>
+    ExpiresActive On
+    ExpiresByType text/css             "access plus 1 month"
+    ExpiresByType application/javascript "access plus 1 month"
+    ExpiresByType image/png            "access plus 1 year"
+    ExpiresByType image/jpg            "access plus 1 year"
+    ExpiresByType image/jpeg           "access plus 1 year"
+    ExpiresByType image/webp           "access plus 1 year"
+    ExpiresByType image/svg+xml        "access plus 1 year"
+    ExpiresByType image/x-icon         "access plus 1 year"
+</IfModule>
+
+RewriteEngine On
+
+# HTTPS forcé — respecte le reverse proxy Coolify/Traefik (X-Forwarded-Proto)
+RewriteCond %{HTTPS} off
+RewriteCond %{HTTP:X-Forwarded-Proto} !https
+RewriteCond %{HTTP_HOST} !^localhost [NC]
+RewriteCond %{HTTP_HOST} !^127\.0\.0\.1
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# Supprimer index.php de l'URL
+RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php [NC]
+RewriteRule ^index\.php$ / [R=301,L]
+
+# Servir les fichiers et dossiers existants directement
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+RewriteCond %{REQUEST_FILENAME} -d
+RewriteRule ^ - [L]
+
+# IndexNow
+RewriteRule ^8842f8ff01974f089311812e3633d949\.txt$ 8842f8ff01974f089311812e3633d949.txt [L]
+
+# Favicon ICO → SVG (évite 404 en log)
+RewriteRule ^favicon\.ico$ /assets/img/favicon.svg [L,R=301,T=image/svg+xml]
+
+# robots.txt → robots.php
+RewriteRule ^robots\.txt$ robots.php [L,QSA]
+
+# Sitemaps → sitemap.php (passe le nom de fichier en paramètre)
+RewriteRule ^(sitemap[^/]*)\.xml$ sitemap.php?file=$1 [L,QSA]
+
+# Tout le reste → router.php
+RewriteRule ^ router.php [L,QSA]

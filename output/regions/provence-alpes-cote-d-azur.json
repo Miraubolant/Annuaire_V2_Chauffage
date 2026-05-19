@@ -1,0 +1,208 @@
+{
+    "region": {
+        "id": 19,
+        "code": "18",
+        "nom": "Provence-Alpes-Côte d'Azur",
+        "slug": "provence-alpes-cote-d-azur"
+    },
+    "departements": [
+        {
+            "code": "04",
+            "nom": "Alpes-de-Haute-Provence",
+            "slug": "alpes-de-haute-provence",
+            "population_totale": 166303,
+            "communes_count": 198,
+            "communes_avec_artisans": 34,
+            "artisans_chauffage": 204,
+            "voisins": [
+                {
+                    "dep_code": "05",
+                    "dep_nom": "Hautes-Alpes",
+                    "dep_slug": "hautes-alpes"
+                },
+                {
+                    "dep_code": "06",
+                    "dep_nom": "Alpes-Maritimes",
+                    "dep_slug": "alpes-maritimes"
+                },
+                {
+                    "dep_code": "13",
+                    "dep_nom": "Bouches-du-Rhône",
+                    "dep_slug": "bouches-du-rhone"
+                },
+                {
+                    "dep_code": "83",
+                    "dep_nom": "Var",
+                    "dep_slug": "var"
+                }
+            ]
+        },
+        {
+            "code": "05",
+            "nom": "Hautes-Alpes",
+            "slug": "hautes-alpes",
+            "population_totale": 141668,
+            "communes_count": 162,
+            "communes_avec_artisans": 23,
+            "artisans_chauffage": 167,
+            "voisins": [
+                {
+                    "dep_code": "04",
+                    "dep_nom": "Alpes-de-Haute-Provence",
+                    "dep_slug": "alpes-de-haute-provence"
+                },
+                {
+                    "dep_code": "06",
+                    "dep_nom": "Alpes-Maritimes",
+                    "dep_slug": "alpes-maritimes"
+                },
+                {
+                    "dep_code": "13",
+                    "dep_nom": "Bouches-du-Rhône",
+                    "dep_slug": "bouches-du-rhone"
+                },
+                {
+                    "dep_code": "83",
+                    "dep_nom": "Var",
+                    "dep_slug": "var"
+                }
+            ]
+        },
+        {
+            "code": "06",
+            "nom": "Alpes-Maritimes",
+            "slug": "alpes-maritimes",
+            "population_totale": 1105057,
+            "communes_count": 163,
+            "communes_avec_artisans": 77,
+            "artisans_chauffage": 594,
+            "voisins": [
+                {
+                    "dep_code": "04",
+                    "dep_nom": "Alpes-de-Haute-Provence",
+                    "dep_slug": "alpes-de-haute-provence"
+                },
+                {
+                    "dep_code": "05",
+                    "dep_nom": "Hautes-Alpes",
+                    "dep_slug": "hautes-alpes"
+                },
+                {
+                    "dep_code": "13",
+                    "dep_nom": "Bouches-du-Rhône",
+                    "dep_slug": "bouches-du-rhone"
+                },
+                {
+                    "dep_code": "83",
+                    "dep_nom": "Var",
+                    "dep_slug": "var"
+                }
+            ]
+        },
+        {
+            "code": "13",
+            "nom": "Bouches-du-Rhône",
+            "slug": "bouches-du-rhone",
+            "population_totale": 2058154,
+            "communes_count": 119,
+            "communes_avec_artisans": 108,
+            "artisans_chauffage": 881,
+            "voisins": [
+                {
+                    "dep_code": "04",
+                    "dep_nom": "Alpes-de-Haute-Provence",
+                    "dep_slug": "alpes-de-haute-provence"
+                },
+                {
+                    "dep_code": "05",
+                    "dep_nom": "Hautes-Alpes",
+                    "dep_slug": "hautes-alpes"
+                },
+                {
+                    "dep_code": "06",
+                    "dep_nom": "Alpes-Maritimes",
+                    "dep_slug": "alpes-maritimes"
+                },
+                {
+                    "dep_code": "83",
+                    "dep_nom": "Var",
+                    "dep_slug": "var"
+                }
+            ]
+        },
+        {
+            "code": "83",
+            "nom": "Var",
+            "slug": "var",
+            "population_totale": 1095954,
+            "communes_count": 153,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "04",
+                    "dep_nom": "Alpes-de-Haute-Provence",
+                    "dep_slug": "alpes-de-haute-provence"
+                },
+                {
+                    "dep_code": "05",
+                    "dep_nom": "Hautes-Alpes",
+                    "dep_slug": "hautes-alpes"
+                },
+                {
+                    "dep_code": "06",
+                    "dep_nom": "Alpes-Maritimes",
+                    "dep_slug": "alpes-maritimes"
+                },
+                {
+                    "dep_code": "13",
+                    "dep_nom": "Bouches-du-Rhône",
+                    "dep_slug": "bouches-du-rhone"
+                }
+            ]
+        },
+        {
+            "code": "84",
+            "nom": "Vaucluse",
+            "slug": "vaucluse",
+            "population_totale": 564984,
+            "communes_count": 151,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "04",
+                    "dep_nom": "Alpes-de-Haute-Provence",
+                    "dep_slug": "alpes-de-haute-provence"
+                },
+                {
+                    "dep_code": "05",
+                    "dep_nom": "Hautes-Alpes",
+                    "dep_slug": "hautes-alpes"
+                },
+                {
+                    "dep_code": "06",
+                    "dep_nom": "Alpes-Maritimes",
+                    "dep_slug": "alpes-maritimes"
+                },
+                {
+                    "dep_code": "13",
+                    "dep_nom": "Bouches-du-Rhône",
+                    "dep_slug": "bouches-du-rhone"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "communes_total": 946,
+        "communes_avec_artisans": 242,
+        "artisans_chauffage": 1846,
+        "population_totale": 5132120
+    },
+    "zones_climatiques": {
+        "H3": 435,
+        "H2": 349,
+        "H1": 162
+    },
+    "zone_climatique_dominante": "H3"
+}

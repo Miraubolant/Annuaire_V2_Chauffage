@@ -1,0 +1,12 @@
+{
+  "name": "annuaire-menuisier",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "build": "tailwindcss -i ./assets/css/app.css -o ./assets/css/app.min.css --minify",
+    "watch": "tailwindcss -i ./assets/css/app.css -o ./assets/css/app.min.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.0"
+  }
+}

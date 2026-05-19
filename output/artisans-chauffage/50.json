@@ -1,0 +1,1019 @@
+{
+  "brix": {
+    "artisans": [
+      {
+        "id": "15058625090830665158",
+        "nom": "Besnard SARL",
+        "slug": "besnard-sarl",
+        "telephone": "02 33 41 93 40",
+        "site_web": null,
+        "adresse": "3 Rue Hervé Dannemont, 50700 Brix",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "canisy": {
+    "artisans": [
+      {
+        "id": "16612119776884437626",
+        "nom": "Chauffagiste Izi confort, filiale EDF",
+        "slug": "chauffagiste-izi-confort-filiale-edf",
+        "telephone": "02 33 77 10 45",
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=saint-lo",
+        "adresse": "268 Rue Jules Vallès, 50000 Saint-Lô",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2023314721552666084",
+        "nom": "DM INSTALL",
+        "slug": "dm-install",
+        "telephone": "06 67 95 80 82",
+        "site_web": "https://www.dm-install.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14121606673273104254",
+        "nom": "Stevenin-Niobey",
+        "slug": "stevenin-niobey",
+        "telephone": "02 33 05 05 80",
+        "site_web": "https://www.stevenin-niobey.fr/",
+        "adresse": "358 Rue Léon Jouhaux, 50000 Saint-Lô",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14239648574108013416",
+        "nom": "SAM Énergies",
+        "slug": "sam-energies",
+        "telephone": "02 33 75 86 60",
+        "site_web": "https://www.samenergies.com/",
+        "adresse": "14 ZA de Canisy, 50750 Canisy",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "471170062603466583",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "02 33 05 34 74",
+        "site_web": "https://agence.engie-homeservices.fr/67-engie-home-services-saint-lo?utm_source=gmb",
+        "adresse": "262 Rue Denis Papin, 50180 Agneaux",
+        "note": 3.5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "cerisy-la-foret": {
+    "artisans": [
+      {
+        "id": "7763236954486213715",
+        "nom": "Aude bâtiment services",
+        "slug": "aude-batiment-services",
+        "telephone": "06 98 36 35 91",
+        "site_web": "https://www.facebook.com/share/jneM3Ccsige3vqWE/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3010335494793624098",
+        "nom": "Jonathan Rosalie",
+        "slug": "jonathan-rosalie",
+        "telephone": "06 89 31 54 38",
+        "site_web": null,
+        "adresse": "3 La Rue Dorée, 50680 Cerisy-la-Forêt",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "5421134173138327650",
+        "nom": "Elec Et Réseau / PROXI CONFORT",
+        "slug": "elec-et-reseau-proxi-confort",
+        "telephone": "02 33 46 90 21",
+        "site_web": "http://cerisy-la-salle.proxiconfort.fr/",
+        "adresse": "2 Pl. de la Mairie, 50210 Cerisy-la-Salle",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "7643402303987394625",
+        "nom": "MV Plomberie",
+        "slug": "mv-plomberie",
+        "telephone": "06 40 75 68 69",
+        "site_web": "http://www.facebook.com/MV-Plomberie-613135052438040/",
+        "adresse": "8 Chem. de la Petite Rocque, 50680 Airel",
+        "note": 5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "7223720474692249151",
+        "nom": "Nicolas Adam Couvreur, Vendeur et Installateur de poêles, Ramoneur",
+        "slug": "nicolas-adam-couvreur-vendeur-et-installateur-de-poeles-ramoneur",
+        "telephone": "06 45 27 87 33",
+        "site_web": "http://nicolasadam-couvreur.site50.fr/",
+        "adresse": "50680 Cerisy-la-Forêt",
+        "note": 2.3,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "14866949876785756287",
+        "nom": "CERVELLE PHILIPPE",
+        "slug": "cervelle-philippe",
+        "telephone": "02 33 05 46 25",
+        "site_web": null,
+        "adresse": "50680 Cerisy-la-Forêt",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "9563763403652302502",
+        "nom": "Lafosse Genie Climatique",
+        "slug": "lafosse-genie-climatique",
+        "telephone": "02 33 56 75 03",
+        "site_web": "https://www.entreprises-lafosse.com/",
+        "adresse": "Zoning Industriel La Détourbe Bp 23, 50160 Condé-sur-Vire",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9227451217295472187",
+        "nom": "Bérard Simon",
+        "slug": "berard-simon",
+        "telephone": "02 33 74 43 76",
+        "site_web": "https://www.berard-simon.fr/",
+        "adresse": "6 Rte de l'Avenir, 50620 Carentan-les-Marais",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "9047488715799858542",
+        "nom": "Aer Plus Ventilation",
+        "slug": "aer-plus-ventilation",
+        "telephone": "06 24 92 94 60",
+        "site_web": "http://www.aerplus.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "2330321395865657801",
+        "nom": "Energy Habitat",
+        "slug": "energy-habitat",
+        "telephone": "02 33 42 32 43",
+        "site_web": "http://www.energy-habitat.fr/?utm_source=gmb",
+        "adresse": "220 Rue Barthélémy Thimonnier, 50180 Agneaux",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "martinvast": {
+    "artisans": [
+      {
+        "id": "14618035359536042555",
+        "nom": "Sarl Thermiclim",
+        "slug": "sarl-thermiclim",
+        "telephone": "02 33 53 05 48",
+        "site_web": "http://www.thermiclim.com/",
+        "adresse": "10 Rue Charles Delauney, ZA le Pont, 50690 Martinvast",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14344957065831709001",
+        "nom": "Durel Rénovation immobilière Cherbourg, plomberie, chauffage, électricité, ramonage, artisan peintre, maçonnerie, plaquiste",
+        "slug": "durel-renovation-immobiliere-cherbourg-plomberie-chauffage-electricite-ramonage-artisan-peintre-maconnerie-plaquiste",
+        "telephone": "02 33 53 49 56",
+        "site_web": "https://www.durel-renovation-cherbourg.fr/",
+        "adresse": "2 rue de la Graveline, ZA le Pont, 50690 Martinvast",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "carentan-les-marais": {
+    "artisans": [
+      {
+        "id": "17728364744880299306",
+        "nom": "Duboscq (Sté)",
+        "slug": "duboscq-ste",
+        "telephone": "02 33 42 00 32",
+        "site_web": "http://www.duboscqchauffage.fr/",
+        "adresse": "40 Rte de Périers, 50500 Carentan-les-Marais",
+        "note": 3.4,
+        "avis": 29,
+        "type": "Plombier"
+      },
+      {
+        "id": "14771226074047308916",
+        "nom": "Bazire Energie",
+        "slug": "bazire-energie",
+        "telephone": "02 33 54 01 72",
+        "site_web": "https://www.bazire-energie.fr/?utm_source=gmb",
+        "adresse": "Zone Artisanale du, Le Mingrelin, 50500",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "8472356584782134092",
+        "nom": "CARENTAN HISTORICAL CENTER",
+        "slug": "carentan-historical-center",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 Vge de l'Amont, 50500 Carentan-les-Marais",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1547366813265185772",
+        "nom": "Dacher Sébastien",
+        "slug": "dacher-sebastien",
+        "telephone": "02 33 71 53 43",
+        "site_web": null,
+        "adresse": "20 Bd de Verdun, 50500 Carentan-les-Marais",
+        "note": 5,
+        "avis": 1,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "4110019763034620005",
+        "nom": "FHV - France Hygiène Ventilation Manche",
+        "slug": "fhv-france-hygiene-ventilation-manche",
+        "telephone": "02 61 53 05 05",
+        "site_web": "https://francehygieneventilation.fr/agences/agence-manche/",
+        "adresse": "9 ZA, Le Mingrelin, 50500",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Service de nettoyage de conduits de ventilation"
+      },
+      {
+        "id": "17283534997360252215",
+        "nom": "SNAC (AIRVANCE GROUP)",
+        "slug": "snac-airvance-group",
+        "telephone": "02 33 42 33 67",
+        "site_web": "https://airvancegroup.com/",
+        "adresse": "Rue de Pommenauque, 50500 Carentan-les-Marais",
+        "note": 4,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3810593408621802504",
+        "nom": "CEDEO Carentan : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-carentan-sanitaire-chauffage-plomberie",
+        "telephone": "02 50 62 03 25",
+        "site_web": "https://www.cedeo.fr/infos-agence/carentan-cedeo-6418",
+        "adresse": "41 Rue 101ème Airborne, 50500 Carentan-les-Marais",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "4456406153692529155",
+        "nom": "cheminées glg",
+        "slug": "cheminees-glg",
+        "telephone": "02 33 54 43 60",
+        "site_web": "http://www.cheminees-glg-manche.fr/",
+        "adresse": "za le mont, 9034 Rue d'Isigny, 50500 Carentan-les-Marais",
+        "note": 4.1,
+        "avis": 33,
+        "type": "Cheministe"
+      },
+      {
+        "id": "9373441805540073389",
+        "nom": "Jaro plombier chauffagiste",
+        "slug": "jaro-plombier-chauffagiste",
+        "telephone": "06 43 13 69 83",
+        "site_web": "https://jaro-plombier-chauffagiste.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12889238297445921901",
+        "nom": "Plomberie d'Hardemare",
+        "slug": "plomberie-dhardemare",
+        "telephone": "06 09 80 73 29",
+        "site_web": "http://www.plomberie-dhardemare.fr/",
+        "adresse": "16 Chem. la Melliere, 50500 Méautis",
+        "note": 1,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cerences": {
+    "artisans": [
+      {
+        "id": "9805909242449602632",
+        "nom": "LEBREUIL GERMAIN",
+        "slug": "lebreuil-germain",
+        "telephone": "02 33 17 07 53",
+        "site_web": null,
+        "adresse": "6 Rue des Douves, 50510 Cérences",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7810519429194701839",
+        "nom": "Leroux Frédéric",
+        "slug": "leroux-frederic",
+        "telephone": "06 86 24 49 23",
+        "site_web": null,
+        "adresse": "59A Rte du Bocage, 50660 Quettreville-sur-Sienne",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "12016001201059859796",
+        "nom": "Service Gaz Sébastien mallet",
+        "slug": "service-gaz-sebastien-mallet",
+        "telephone": "06 14 90 29 71",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14225542388467300236",
+        "nom": "Ybert EURL",
+        "slug": "ybert-eurl",
+        "telephone": "06 72 55 79 60",
+        "site_web": "http://www.ybert-plomberie-chauffage.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11151686814629213703",
+        "nom": "Pomm'Energie Plomberie Chauffage Hudimesnil",
+        "slug": "pommenergie-plomberie-chauffage-hudimesnil",
+        "telephone": "06 70 00 16 12",
+        "site_web": "https://www.qualit-enr.org/entreprises/cara/",
+        "adresse": "Le Dinot, 50510 Hudimesnil",
+        "note": 5,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "1194484847985109194",
+        "nom": "Février David",
+        "slug": "fevrier-david",
+        "telephone": "06 89 86 54 79",
+        "site_web": "https://www.electricien-plombier-granville.fr/",
+        "adresse": "2 Rte de Montceaux, 50660 Quettreville-sur-Sienne",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4082645796637280799",
+        "nom": "NJ ELECTRICITE",
+        "slug": "nj-electricite",
+        "telephone": "06 80 38 51 65",
+        "site_web": "https://www.njelectricite50.fr/",
+        "adresse": "16 Rue Principale, 50510 Cérences",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "2579685293675831809",
+        "nom": "Le colibri griffoul pierre",
+        "slug": "le-colibri-griffoul-pierre",
+        "telephone": "06 78 92 22 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18433615900583922821",
+        "nom": "HERMAN Plomberie Electricité",
+        "slug": "herman-plomberie-electricite",
+        "telephone": "06 59 32 00 03",
+        "site_web": "http://www.eurlherman.com/",
+        "adresse": "Zi, Le Crouton, 50290 Bréhal",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6214285391324939036",
+        "nom": "DMS",
+        "slug": "dms",
+        "telephone": "02 33 47 56 77",
+        "site_web": "https://www.total-proxi-energies.fr/particuliers/agences/dms-quettreville",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 0,
+        "type": "Fournisseur d'énergie"
+      }
+    ]
+  },
+  "bricqueville-sur-mer": {
+    "artisans": [
+      {
+        "id": "10162739966798750744",
+        "nom": "Aigue Marine Plomberie",
+        "slug": "aigue-marine-plomberie",
+        "telephone": "06 71 67 63 02",
+        "site_web": "https://www.aiguemarineplomberie.com/?utm_source=gmb",
+        "adresse": "123 Rue de la Sienne, 50200 Heugueville-sur-Sienne",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13967160800005758156",
+        "nom": "Robine Energies & Bien-être",
+        "slug": "robine-energies-bien-etre",
+        "telephone": "02 33 90 01 73",
+        "site_web": "https://www.energie-robine.fr/",
+        "adresse": "851 Av. de l'Europe, 50400 Granville",
+        "note": 4.7,
+        "avis": 52,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "580812816303148254",
+        "nom": "Guillaume Spagnol",
+        "slug": "guillaume-spagnol",
+        "telephone": "06 87 35 52 18",
+        "site_web": null,
+        "adresse": "1 A, 50290 Coudeville-sur-Mer",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cerisy-la-salle": {
+    "artisans": [
+      {
+        "id": "4721535635353095581",
+        "nom": "Robine Energies & Bien-être",
+        "slug": "robine-energies-bien-etre",
+        "telephone": "02 33 91 20 90",
+        "site_web": "http://www.energie-robine.fr/",
+        "adresse": "1 Rond Point des Estuaires, 50800 Villedieu-les-Poêles-Rouffigny",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5492329641117180720",
+        "nom": "LG PLOMBERIE",
+        "slug": "lg-plomberie",
+        "telephone": "07 76 81 89 15",
+        "site_web": null,
+        "adresse": "9 Rue du Prêche, 50570 Thèreval",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "quettehou": {
+    "artisans": [
+      {
+        "id": "9115277406107829537",
+        "nom": "ID Energies | Pompes à Chaleur, Chaudières & Poêles",
+        "slug": "id-energies-pompes-a-chaleur-chaudieres-poeles",
+        "telephone": "02 33 41 95 01",
+        "site_web": "https://www.id-energies.com/?utm_source=gmb&utm_medium=organic",
+        "adresse": "14 Rue Sainte-Marie, 50630 Quettehou",
+        "note": 3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "reville": {
+    "artisans": [
+      {
+        "id": "3692411971890994442",
+        "nom": "Ruel Gilles",
+        "slug": "ruel-gilles",
+        "telephone": "02 33 54 31 45",
+        "site_web": null,
+        "adresse": "Chem. du Prieuré, 50760 Réville",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "romagny-fontenay": {
+    "artisans": [
+      {
+        "id": "11619603792922282945",
+        "nom": "Hamon Fabrice",
+        "slug": "hamon-fabrice",
+        "telephone": "02 33 50 40 56",
+        "site_web": null,
+        "adresse": "Le Bourg, 50600 Grandparigny",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7430128695944077202",
+        "nom": "Eric Olivier",
+        "slug": "eric-olivier",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "11 Pl. de la Mairie, 50140 Romagny Fontenay",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "7414254414404190075",
+        "nom": "CL'eau",
+        "slug": "cleau",
+        "telephone": "06 27 49 39 18",
+        "site_web": "https://www.cl-eau.fr/",
+        "adresse": "95 Rue de Mortain, 50520 Juvigny les Vallées",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17311010320721013395",
+        "nom": "Élec & Confort",
+        "slug": "elec-confort",
+        "telephone": "02 59 16 46 13",
+        "site_web": "https://elecetconfort.fr/",
+        "adresse": "10 Grande Rue, 50140 Mortain-Bocage",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "4721535635353095581",
+        "nom": "Robine Energies & Bien-être",
+        "slug": "robine-energies-bien-etre",
+        "telephone": "02 33 91 20 90",
+        "site_web": "http://www.energie-robine.fr/",
+        "adresse": "1 Rond Point des Estuaires, 50800 Villedieu-les-Poêles-Rouffigny",
+        "note": 4,
+        "avis": 138,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8039403054488224819",
+        "nom": "Christopher Grout Plomberie VPC",
+        "slug": "christopher-grout-plomberie-vpc",
+        "telephone": "06 59 93 99 81",
+        "site_web": "https://www.christophergroutvpc.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3657377566805809821",
+        "nom": "Boisbunon et Fils SARL",
+        "slug": "boisbunon-et-fils-sarl",
+        "telephone": "02 33 59 05 49",
+        "site_web": null,
+        "adresse": "Zone Artisanale Plat Bois, 50520 Juvigny les Vallées",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "10713284639965356719",
+        "nom": "Matthieu Rublier",
+        "slug": "matthieu-rublier",
+        "telephone": "06 87 90 76 91",
+        "site_web": "http://www.facebook.com/Entreprise-plomberie-chauffage-Matthieu-Rublier-274957143128478",
+        "adresse": "L'Aubesniére, 14500 Vire Normandie",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "591673014820454917",
+        "nom": "eurl foubert",
+        "slug": "eurl-foubert",
+        "telephone": "02 33 59 05 49",
+        "site_web": null,
+        "adresse": "4 Imp. de L’Artisanat, 50520 Juvigny les Vallées",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "14125104182579688624",
+        "nom": "SARL Thierry Cahu",
+        "slug": "sarl-thierry-cahu",
+        "telephone": "02 33 49 22 05",
+        "site_web": "https://sarlcahu.com/",
+        "adresse": "La Bambière, 50600 Saint-Hilaire-du-Harcouët",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "villedieu-les-poeles-rouffigny": {
+    "artisans": [
+      {
+        "id": "14067083452401124271",
+        "nom": "Mesnil Patrice",
+        "slug": "mesnil-patrice",
+        "telephone": "06 76 67 25 91",
+        "site_web": "http://www.facebook.com/pg/Patrice-Mesnil-123967194938700",
+        "adresse": "3 La Foucaudière, 50800 Villedieu-les-Poêles-Rouffigny",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "3624759435554308234",
+        "nom": "Franck Denolle",
+        "slug": "franck-denolle",
+        "telephone": "06 63 63 62 11",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "5745632703051276645",
+        "nom": "Normand Sarl",
+        "slug": "normand-sarl",
+        "telephone": "06 87 48 42 42",
+        "site_web": null,
+        "adresse": "26 Rue des Quais, 50800 Villedieu-les-Poêles-Rouffigny",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "4721535635353095581",
+        "nom": "Robine Energies & Bien-être",
+        "slug": "robine-energies-bien-etre",
+        "telephone": "02 33 91 20 90",
+        "site_web": "http://www.energie-robine.fr/",
+        "adresse": "1 Rond Point des Estuaires, 50800 Villedieu-les-Poêles-Rouffigny",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12471242455980531789",
+        "nom": "SARL FRED-Service",
+        "slug": "sarl-fred-service",
+        "telephone": "07 87 27 74 91",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "2783417290068383526",
+        "nom": "DMS",
+        "slug": "dms",
+        "telephone": "02 33 61 00 18",
+        "site_web": null,
+        "adresse": "Rue du Bourg l'Abbesse, 50800 Villedieu-les-Poêles-Rouffigny",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3962148157149310791",
+        "nom": "Belec Environnement",
+        "slug": "belec-environnement",
+        "telephone": "02 33 51 81 18",
+        "site_web": "http://www.belec-environnement.com/",
+        "adresse": "Route du moulin Fleury, 4 ZA de la Sienne, 50800 Villedieu-les-Poêles-Rouffigny",
+        "note": 5,
+        "avis": 11,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "14359217427271687985",
+        "nom": "L'Atelier du Plombier mg plomberie chauffage dépannage",
+        "slug": "latelier-du-plombier-mg-plomberie-chauffage-depannage",
+        "telephone": "06 58 86 10 54",
+        "site_web": "https://www.facebook.com/profile.php?id=100091731620209",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "quettreville-sur-sienne": {
+    "artisans": [
+      {
+        "id": "337802245362574060",
+        "nom": "Manche ramonage",
+        "slug": "manche-ramonage",
+        "telephone": "02 33 46 44 16",
+        "site_web": null,
+        "adresse": "28 Rue de la Sienne, 50660 Quettreville-sur-Sienne",
+        "note": 4.2,
+        "avis": 17,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "1194484847985109194",
+        "nom": "Février David",
+        "slug": "fevrier-david",
+        "telephone": "06 89 86 54 79",
+        "site_web": "https://www.electricien-plombier-granville.fr/",
+        "adresse": "2 Rte de Montceaux, 50660 Quettreville-sur-Sienne",
+        "note": 3.3,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6614349036521630927",
+        "nom": "Vigot-Letemplier",
+        "slug": "vigot-letemplier",
+        "telephone": "02 33 47 62 77",
+        "site_web": "https://www.plombier-vigot-letemplier.fr/",
+        "adresse": "5 Le Bourg, 50660 Quettreville-sur-Sienne",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16800467862442269770",
+        "nom": "Horlon Sébastien",
+        "slug": "horlon-sebastien",
+        "telephone": "02 33 17 26 40",
+        "site_web": "http://www.sebastien-horlon.fr/",
+        "adresse": "4 Impasse des Presmesnils, 50660 Quettreville-sur-Sienne",
+        "note": 3.9,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "184938000658372007",
+        "nom": "Techni gaz",
+        "slug": "techni-gaz",
+        "telephone": "02 33 46 55 88",
+        "site_web": null,
+        "adresse": "17 Rue du Mont Saint-Michel, 50660 Quettreville-sur-Sienne",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "7810519429194701839",
+        "nom": "Leroux Frédéric",
+        "slug": "leroux-frederic",
+        "telephone": "06 86 24 49 23",
+        "site_web": null,
+        "adresse": "59A Rte du Bocage, 50660 Quettreville-sur-Sienne",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "2579685293675831809",
+        "nom": "Le colibri griffoul pierre",
+        "slug": "le-colibri-griffoul-pierre",
+        "telephone": "06 78 92 22 48",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4654104246700999115",
+        "nom": "Yvai Boris Plombier Chauffagiste",
+        "slug": "yvai-boris-plombier-chauffagiste",
+        "telephone": "06 81 78 86 46",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "6214285391324939036",
+        "nom": "DMS",
+        "slug": "dms",
+        "telephone": "02 33 47 56 77",
+        "site_web": "https://www.total-proxi-energies.fr/particuliers/agences/dms-quettreville",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 30,
+        "type": "Fournisseur d'énergie"
+      },
+      {
+        "id": "9840970509891840419",
+        "nom": "DT Plomberie",
+        "slug": "dt-plomberie",
+        "telephone": "06 82 38 46 65",
+        "site_web": "http://dtplomberie.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "rauville-la-bigot": {
+    "artisans": [
+      {
+        "id": "17163944510169179728",
+        "nom": "R2B Chauffage Sideville",
+        "slug": "r2b-chauffage-sideville",
+        "telephone": "02 79 40 06 41",
+        "site_web": "https://www.r2b-chauffage.fr/",
+        "adresse": "6 routes des Roches, Le Coignet ZA, 50690 Sideville",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6845149562334864881",
+        "nom": "Samuel Fossey",
+        "slug": "samuel-fossey",
+        "telephone": "02 33 01 39 06",
+        "site_web": "http://www.samuelfossey.fr/",
+        "adresse": "3 ZA Café Cochon, 50690 Virandeville",
+        "note": 4.2,
+        "avis": 10,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9373441805540073389",
+        "nom": "Jaro plombier chauffagiste",
+        "slug": "jaro-plombier-chauffagiste",
+        "telephone": "06 43 13 69 83",
+        "site_web": "https://jaro-plombier-chauffagiste.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "10188186610414474328",
+        "nom": "AL Plomberie",
+        "slug": "al-plomberie",
+        "telephone": "07 83 16 90 62",
+        "site_web": "http://alplomberie.site-solocal.com/",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "15479801950335236472",
+        "nom": "A. F Plomberie",
+        "slug": "a-f-plomberie",
+        "telephone": "06 86 28 50 78",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6180822426660212536",
+        "nom": "Remy Fossey SARL",
+        "slug": "remy-fossey-sarl",
+        "telephone": "02 33 41 94 77",
+        "site_web": "http://www.chauffage-valognes-fossey.fr/?utm_source=gmb",
+        "adresse": "328 Zone Artisanale la Galanderie, 50260 Sottevast",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10273489813892921513",
+        "nom": "Stéphane Gaignard Plomberie",
+        "slug": "stephane-gaignard-plomberie",
+        "telephone": "06 50 70 77 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "15745177602232897704",
+        "nom": "AS CHAUFFAGE - Dépannage de chaudière à Teurthéville-Bocage près de Cherbourg-en-Cotentin",
+        "slug": "as-chauffage-depannage-de-chaudiere-a-teurtheville-bocage-pres-de-cherbourg-en-cotentin",
+        "telephone": "06 63 02 01 94",
+        "site_web": "https://www.as-chauffage.fr/",
+        "adresse": "12 La Clerauderie, 50630 Teurthéville-Bocage",
+        "note": 5,
+        "avis": 22,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14044215644370924238",
+        "nom": "Le Blond Dépannage Rika",
+        "slug": "le-blond-depannage-rika",
+        "telephone": "06 77 92 54 70",
+        "site_web": "https://revendeur.rika.fr/30-le-blond-depannage-sideville",
+        "adresse": "18 Ham. Colette, 50690 Sideville",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4343365545291885675",
+        "nom": "Rika By Le Blond Dépannage",
+        "slug": "rika-by-le-blond-depannage",
+        "telephone": "06 77 92 54 70",
+        "site_web": "https://www.rika.fr/",
+        "adresse": "20 Ham. Colette, 50690 Sideville",
+        "note": 5,
+        "avis": 5,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "port-bail-sur-mer": {
+    "artisans": [
+      {
+        "id": "5882368807847055899",
+        "nom": "FOSSE LOIC",
+        "slug": "fosse-loic",
+        "telephone": "07 71 24 78 00",
+        "site_web": "https://www.eurl-fosseloic-plomberie.fr/",
+        "adresse": "11 Gennetot, 50580 Port-Bail-sur-Mer",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17542351311620134386",
+        "nom": "Courbaron",
+        "slug": "courbaron",
+        "telephone": "02 33 03 20 95",
+        "site_web": null,
+        "adresse": "6 Pl. Castel, 50580 Port-Bail-sur-Mer",
+        "note": 1,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5369935191684996808",
+        "nom": "Entreprise Simon",
+        "slug": "entreprise-simon",
+        "telephone": "02 33 04 95 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 32,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "7790267097869812782",
+        "nom": "PC Rénovation EURL",
+        "slug": "pc-renovation-eurl",
+        "telephone": "02 33 47 32 36",
+        "site_web": "http://www.pcrenovation.fr/",
+        "adresse": "11 Pl. Edmond Laquaine, 50580 Port-Bail-sur-Mer",
+        "note": 4.3,
+        "avis": 7,
+        "type": "Couvreur"
+      }
+    ]
+  }
+}

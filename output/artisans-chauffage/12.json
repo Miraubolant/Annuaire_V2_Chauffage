@@ -1,0 +1,3765 @@
+{
+  "creissels": {
+    "artisans": [
+      {
+        "id": "8124769358484277686",
+        "nom": "ELM' ENERGIES",
+        "slug": "elm-energies",
+        "telephone": "06 81 68 92 80",
+        "site_web": null,
+        "adresse": "AV, Av. John F Kennedy, 12100 Millau",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6291788300550517688",
+        "nom": "Plombier millau service",
+        "slug": "plombier-millau-service",
+        "telephone": "06 74 71 72 04",
+        "site_web": "https://plombier-millau-service.com/",
+        "adresse": "40 Rue Peyrollerie, 12100 Millau",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18062748428345735658",
+        "nom": "Nicolas TREILLET - ARTISAN PLOMBIER",
+        "slug": "nicolas-treillet-artisan-plombier",
+        "telephone": "05 65 59 11 81",
+        "site_web": "http://www.plombierchauffagistemillau.fr/",
+        "adresse": "25 Av. Edouard Alfred Martel, 12100 Millau",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15542152058759866771",
+        "nom": "Sud Aveyron Chauffage",
+        "slug": "sud-aveyron-chauffage",
+        "telephone": "05 65 59 18 00",
+        "site_web": null,
+        "adresse": "300 Rue Etienne Delmas, 12100 Millau",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14461007392769909643",
+        "nom": "Adimgroupe",
+        "slug": "adimgroupe",
+        "telephone": "05 65 59 48 13",
+        "site_web": "http://www.adimgroupe.com/",
+        "adresse": "395 chemin Salelles ZC du Cap du Crès, 12100 Millau",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5750568917163143614",
+        "nom": "Cros Vincent",
+        "slug": "cros-vincent",
+        "telephone": "06 89 36 85 57",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2196922640827416314",
+        "nom": "T.A PLOMBERIE SYSTEMES ENERGETIQUES ET CLIMATIQUES",
+        "slug": "ta-plomberie-systemes-energetiques-et-climatiques",
+        "telephone": "06 35 14 11 77",
+        "site_web": null,
+        "adresse": "244 Chem. de Gandalous LOT, Le Ham. de Gandalou, 12100 Millau",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6024616377294061026",
+        "nom": "Depann'Gaz Axenergie millau",
+        "slug": "depanngaz-axenergie-millau",
+        "telephone": "05 65 60 18 21",
+        "site_web": "https://www.axenergie.eu/agences/62-depann-gaz-millau",
+        "adresse": "1 Rue des Ondes, 12100 Millau",
+        "note": 4.9,
+        "avis": 34,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17065808592426040685",
+        "nom": "Aveyron Lozère Chauffage Climatisation (ALCC)",
+        "slug": "aveyron-lozere-chauffage-climatisation-alcc",
+        "telephone": "05 65 59 48 13",
+        "site_web": null,
+        "adresse": "395 Chem. de Salelles, 12100 Millau",
+        "note": 1,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15614362743527029222",
+        "nom": "Confort Plus (Espinossa) - Plombier - Chauffagiste",
+        "slug": "confort-plus-espinossa-plombier-chauffagiste",
+        "telephone": "05 65 59 02 74",
+        "site_web": "https://www.espinossa-confortplus.com/",
+        "adresse": "36 Rue des Lilas, 12100 Millau",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "firmi": {
+    "artisans": [
+      {
+        "id": "6081443497807824706",
+        "nom": "SARL Fabre R&G",
+        "slug": "sarl-fabre-rg",
+        "telephone": "06 67 30 19 76",
+        "site_web": "http://fabre-r-g.chauffagiste-viessmann.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9410901187557257258",
+        "nom": "Eiffage Énergie Systèmes - Clévia Sud-Ouest. Firmi",
+        "slug": "eiffage-energie-systemes-clevia-sud-ouest-firmi",
+        "telephone": "05 65 43 78 20",
+        "site_web": "http://www.bousquet-sarl.com/climatisation.htm",
+        "adresse": "Puy de Volf, 12300 Firmi",
+        "note": 3.4,
+        "avis": 0,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "16408486323339216618",
+        "nom": "Chauffage Climatisation Service 12",
+        "slug": "chauffage-climatisation-service-12",
+        "telephone": "05 65 63 64 80",
+        "site_web": null,
+        "adresse": "Les Vignals, 12110 Cransac-les-Thermes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9311484885320652931",
+        "nom": "Depan'eau Gaz",
+        "slug": "depaneau-gaz",
+        "telephone": "06 84 73 06 35",
+        "site_web": "https://depaneaugaz12.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 18,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "296027147322643416",
+        "nom": "Sani Thermie Services Boye",
+        "slug": "sani-thermie-services-boye",
+        "telephone": "05 65 69 07 53",
+        "site_web": "https://sts-boye.fr/",
+        "adresse": "87 Rte d'Espalion, 12850 Onet-le-Château",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1435741438899512969",
+        "nom": "Sarl Maintenance Technique Chauffage Et Climatisation SARL M.T.C.",
+        "slug": "sarl-maintenance-technique-chauffage-et-climatisation-sarl-mtc",
+        "telephone": "05 65 43 09 09",
+        "site_web": "https://mtc-12.fr/?utm_source=gmb",
+        "adresse": "40 Rue Clemenceau, 12300 Decazeville",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "748381832063479646",
+        "nom": "Andrieu florian A.F SOLUTIONS entretien dépannage chaudières",
+        "slug": "andrieu-florian-af-solutions-entretien-depannage-chaudieres",
+        "telephone": "05 65 61 01 54",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14218641855341580766",
+        "nom": "Martzloff Frederic",
+        "slug": "martzloff-frederic",
+        "telephone": "06 79 60 30 65",
+        "site_web": null,
+        "adresse": "12390 Rignac",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10807826396426937721",
+        "nom": "OLIVEIRA Vincent",
+        "slug": "oliveira-vincent",
+        "telephone": "06 03 43 01 53",
+        "site_web": null,
+        "adresse": "La, Cessat, 12300 Bouillac",
+        "note": 4.8,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12283738493384232514",
+        "nom": "Lafon Plomberie",
+        "slug": "lafon-plomberie",
+        "telephone": "06 42 45 38 40",
+        "site_web": "http://lafonplomberie-boissepenchot.site-solocal.com/?utm_source=gmb",
+        "adresse": "10 Rue de la Guiraldie, 12300 Boisse-Penchot",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "druelle-balsac": {
+    "artisans": [
+      {
+        "id": "11200478412824599670",
+        "nom": "De Sousa Patrice",
+        "slug": "de-sousa-patrice",
+        "telephone": "06 51 50 17 39",
+        "site_web": "http://www.patricedesousaplomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5657734040007482036",
+        "nom": "CROS CHRISTOPHE ENERGIES",
+        "slug": "cros-christophe-energies",
+        "telephone": "07 66 88 63 46",
+        "site_web": "https://www.facebook.com/share/19aWP6WuY3/?mibextid=wwXIfr",
+        "adresse": null,
+        "note": 4.6,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "6872202568300759087",
+        "nom": "Rols habitat",
+        "slug": "rols-habitat",
+        "telephone": "06 79 06 62 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11582381251482400724",
+        "nom": "SAS FLORENT REBOIS",
+        "slug": "sas-florent-rebois",
+        "telephone": "06 79 22 63 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9058698377438407388",
+        "nom": "A.D urgence plomberie",
+        "slug": "ad-urgence-plomberie",
+        "telephone": "06 42 76 78 77",
+        "site_web": "http://ad-urgenceplomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "705025363276029280",
+        "nom": "RC SERVICES",
+        "slug": "rc-services",
+        "telephone": "05 65 68 78 74",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16826006476314783688",
+        "nom": "CB Plomberie",
+        "slug": "cb-plomberie",
+        "telephone": "06 78 14 17 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6008530554107404240",
+        "nom": "Au Joyeux Tuyau",
+        "slug": "au-joyeux-tuyau",
+        "telephone": "07 88 94 98 71",
+        "site_web": "https://aujoyeuxtuyau.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14637394960899896811",
+        "nom": "SARL SOLIMAYRAND",
+        "slug": "sarl-solimayrand",
+        "telephone": "05 65 70 64 83",
+        "site_web": "http://plombier-solimayrand.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12558528295056134417",
+        "nom": "SAS Carrion Julien",
+        "slug": "sas-carrion-julien",
+        "telephone": "07 89 20 29 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-georges-de-luzencon": {
+    "artisans": [
+      {
+        "id": "14022497052386804805",
+        "nom": "Cadenet électricité",
+        "slug": "cadenet-electricite",
+        "telephone": "05 65 62 39 40",
+        "site_web": "https://electricite-generale-millau.fr/",
+        "adresse": "Zi de Vergonhac, 12100 Saint-Georges-de-Luzençon",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "18318049593960545963",
+        "nom": "Blaquière et Fils",
+        "slug": "blaquiere-et-fils",
+        "telephone": "05 65 62 38 10",
+        "site_web": "https://blaquiere-et-fils.fr/",
+        "adresse": "16 Rue des Aires, 12100 Saint-Georges-de-Luzençon",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10938961916235361261",
+        "nom": "PROXI St Georges de Luzençon",
+        "slug": "proxi-st-georges-de-luzencon",
+        "telephone": "05 65 62 35 59",
+        "site_web": null,
+        "adresse": "1 Rue du Moulin de Taly, 12100 Saint-Georges-de-Luzençon",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Épicerie"
+      },
+      {
+        "id": "5581425918577244380",
+        "nom": "SARL Blaquière",
+        "slug": "sarl-blaquiere",
+        "telephone": "05 65 99 10 22",
+        "site_web": "https://www.chauffage-plomberie-saintaffrique.fr/",
+        "adresse": "286 Av. de Millau, 12400 Saint-Affrique",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "decazeville": {
+    "artisans": [
+      {
+        "id": "12317668214813520758",
+        "nom": "Chrysalis (Pépinières d' Entreprise)",
+        "slug": "chrysalis-pepinieres-d-entreprise",
+        "telephone": "05 65 43 63 63",
+        "site_web": "https://www.decazeville-communaute.fr/chrysalis-pepiniere-dentreprises/",
+        "adresse": "Zone du Combal, 12300 Decazeville",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Administration locale"
+      },
+      {
+        "id": "3928795619270353942",
+        "nom": "Coeur De Chauffe",
+        "slug": "coeur-de-chauffe",
+        "telephone": "06 45 45 86 60",
+        "site_web": null,
+        "adresse": "11 Rue Gambetta, 12300 Decazeville",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Cheministe"
+      },
+      {
+        "id": "5946773644145395837",
+        "nom": "Magasin - Malrieu Distribution - Decazeville",
+        "slug": "magasin-malrieu-distribution-decazeville",
+        "telephone": "05 65 63 62 19",
+        "site_web": "https://www.malrieu.fr/magasins/decazeville-10046",
+        "adresse": "Zone Industrielle DU COMBAL, 12300 Decazeville",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "904030796043445230",
+        "nom": "CEDEO Decazeville : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-decazeville-sanitaire-chauffage-plomberie",
+        "telephone": "05 65 63 67 63",
+        "site_web": "https://www.cedeo.fr/infos-agence/decazeville-cedeo-1463",
+        "adresse": "Av. du 10 Août, 12300 Decazeville",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "13397175504843888048",
+        "nom": "12 Bons Tuyaux",
+        "slug": "12-bons-tuyaux",
+        "telephone": "06 59 94 30 51",
+        "site_web": null,
+        "adresse": "Nespoulières, 12220 Valzergues",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17940184809159062853",
+        "nom": "Lacan Mikaël",
+        "slug": "lacan-mikael",
+        "telephone": "05 65 43 07 88",
+        "site_web": null,
+        "adresse": "4 Rue Jean Moulin, 12300 Decazeville",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "1852474374463393902",
+        "nom": "KALHYGE Decazeville",
+        "slug": "kalhyge-decazeville",
+        "telephone": "05 65 43 13 82",
+        "site_web": "http://www.kalhyge.fr/",
+        "adresse": "ZA, ZI de Fontvergnes, 12300 Decazeville",
+        "note": 3.4,
+        "avis": 26,
+        "type": "Service de blanchisserie"
+      },
+      {
+        "id": "6948725600483294642",
+        "nom": "Pecoul Laurent",
+        "slug": "pecoul-laurent",
+        "telephone": "06 08 64 65 84",
+        "site_web": "https://laurent-pecoul-plomberie.fr/",
+        "adresse": "7 Chem. des Glandolières, 12220 Montbazens",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16046836355475334772",
+        "nom": "Esttb edouard Seixas",
+        "slug": "esttb-edouard-seixas",
+        "telephone": "06 76 09 44 26",
+        "site_web": null,
+        "adresse": "La Rouquette, 12300 Decazeville",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Peintre en bâtiment"
+      }
+    ]
+  },
+  "espalion": {
+    "artisans": [
+      {
+        "id": "18306646458972109446",
+        "nom": "Carel Services Saquet Vidal Agence Espalion",
+        "slug": "carel-services-saquet-vidal-agence-espalion",
+        "telephone": "05 65 44 00 96",
+        "site_web": null,
+        "adresse": "39 Bd de Guizard, 12500 Espalion",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15030493847324709298",
+        "nom": "Vaz David",
+        "slug": "vaz-david",
+        "telephone": "05 65 48 02 27",
+        "site_web": null,
+        "adresse": "Chem. du Roucat, 12500 Espalion",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4176469800125798375",
+        "nom": "CEDEO Espalion: Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-espalion-sanitaire-chauffage-plomberie",
+        "telephone": "05 65 48 99 77",
+        "site_web": "https://www.cedeo.fr/infos-agence/espalion-cedeo-4061",
+        "adresse": "3 Croix Rouge, 12500 Espalion",
+        "note": 5,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "9866615420662403154",
+        "nom": "Ayral Christophe (EURL)",
+        "slug": "ayral-christophe-eurl",
+        "telephone": "05 65 48 15 08",
+        "site_web": null,
+        "adresse": "57 Av. de la Gare, 12500 Espalion",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "10907226106835353509",
+        "nom": "FLAMME AUTHENTIQUE",
+        "slug": "flamme-authentique",
+        "telephone": "06 42 60 80 32",
+        "site_web": "https://flammeauthentique.fr/",
+        "adresse": "32 Bd de Guizard, 12500 Espalion",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "9309738664644897087",
+        "nom": "Vaz David",
+        "slug": "vaz-david",
+        "telephone": "05 65 48 02 27",
+        "site_web": "https://www.chauffage-vaz-david.fr/",
+        "adresse": null,
+        "note": 3.4,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      }
+    ]
+  },
+  "flagnac": {
+    "artisans": [
+      {
+        "id": "5727118536742879626",
+        "nom": "Chauveau Fabrice",
+        "slug": "chauveau-fabrice",
+        "telephone": "06 09 85 58 85",
+        "site_web": "http://www.plomberie-electricite-sonnac.fr/",
+        "adresse": null,
+        "note": 3.1,
+        "avis": 0,
+        "type": "Poste électrique"
+      }
+    ]
+  },
+  "laguiole": {
+    "artisans": [
+      {
+        "id": "9649128782058218102",
+        "nom": "Aubrac Energies",
+        "slug": "aubrac-energies",
+        "telephone": "05 65 48 42 91",
+        "site_web": "http://aubracenergies.site-solocal.com/?utm_source=gmb",
+        "adresse": "8 Rue de Lavernhe, 12210 Laguiole",
+        "note": 1.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12298950677441736369",
+        "nom": "AJP",
+        "slug": "ajp",
+        "telephone": "06 25 24 10 48",
+        "site_web": "https://www.facebook.com/profile.php?id=61557922718087",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "flavin": {
+    "artisans": [
+      {
+        "id": "9682901647550003764",
+        "nom": "Matthias Dépannage Chauffage",
+        "slug": "matthias-depannage-chauffage",
+        "telephone": "07 82 86 50 95",
+        "site_web": "https://www.facebook.com/profile.php?id=100057595623545",
+        "adresse": "75 All. du Viaur, 12450 Calmont",
+        "note": 5,
+        "avis": 5,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8244231392007240081",
+        "nom": "Bon Laurent",
+        "slug": "bon-laurent",
+        "telephone": "06 78 44 17 23",
+        "site_web": "http://laurent-bon-plomberie.fr/",
+        "adresse": "Flav 12, Av. des Causses, 12450",
+        "note": 3,
+        "avis": 0,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "10347101107361475042",
+        "nom": "RDSC",
+        "slug": "rdsc",
+        "telephone": "06 28 04 88 97",
+        "site_web": "http://www.rdsc-12.fr/",
+        "adresse": "98 Rue du Ruisseau, 12450 Flavin",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "34604232615745309",
+        "nom": "MTPC",
+        "slug": "mtpc",
+        "telephone": "06 85 97 29 39",
+        "site_web": "http://www.mtpc.fr/",
+        "adresse": "12450 Flavin",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18378237107223673525",
+        "nom": "Bourguignon Chauffage",
+        "slug": "bourguignon-chauffage",
+        "telephone": "05 65 78 23 63",
+        "site_web": "https://bourguignonenergies.fr/",
+        "adresse": "67 Av. de Rodez, 12450 Luc-la-Primaube",
+        "note": 4.6,
+        "avis": 27,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3989376627851348060",
+        "nom": "Aveyron Chauffage Sanitaire",
+        "slug": "aveyron-chauffage-sanitaire",
+        "telephone": "06 47 79 53 23",
+        "site_web": "http://aveyronchauffagesanitaire.site-solocal.com/",
+        "adresse": "13 Rue des Mésanges, 12450 Luc-la-Primaube",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "730610604079685774",
+        "nom": "Lagarde Jérôme",
+        "slug": "lagarde-jerome",
+        "telephone": "05 65 72 40 84",
+        "site_web": null,
+        "adresse": "13 Av. du Lévézou, 12450 Flavin",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "4265415960415757869",
+        "nom": "WILLIAM BORIES CHAUFFAGE",
+        "slug": "william-bories-chauffage",
+        "telephone": "06 61 93 30 85",
+        "site_web": "https://williamborieschauffage.com/",
+        "adresse": "3B Rue Beauséjour, 12450 Luc-la-Primaube",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "749308984938603606",
+        "nom": "CHAYRIGUES AGRICULTURE ET ENERGIE",
+        "slug": "chayrigues-agriculture-et-energie",
+        "telephone": "06 60 54 51 78",
+        "site_web": "https://www.chayrigues-agrienergie.com/",
+        "adresse": "MAS MARCOU LE HAUT, 12450 Flavin",
+        "note": 5,
+        "avis": 1,
+        "type": "Agriculteur"
+      },
+      {
+        "id": "12541669016054032766",
+        "nom": "Latasa Didier",
+        "slug": "latasa-didier",
+        "telephone": "05 65 71 51 56",
+        "site_web": null,
+        "adresse": "14 Rue du Maréchal Ferrant, 12450 Flavin",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "la-fouillade": {
+    "artisans": [
+      {
+        "id": "16290991375981719060",
+        "nom": "Regourd Maxime",
+        "slug": "regourd-maxime",
+        "telephone": "05 65 65 70 55",
+        "site_web": null,
+        "adresse": "Chem. du Cammas, 12270 La Fouillade",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "15482324966416439819",
+        "nom": "Carbouls Refrigeration",
+        "slug": "carbouls-refrigeration",
+        "telephone": "05 65 65 10 22",
+        "site_web": "https://carboulsrefrigeration.fr/",
+        "adresse": "lieu dit, Carbouls, 12270 Lunac",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "laissac-severac-l-eglise": {
+    "artisans": [
+      {
+        "id": "16676309998146080517",
+        "nom": "Avenir Energie 12",
+        "slug": "avenir-energie-12",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZA des combes, 12310",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "10190552296261289713",
+        "nom": "AB Énergies à Laissac - Plombier-Chauffagiste et Électricien",
+        "slug": "ab-energies-a-laissac-plombier-chauffagiste-et-electricien",
+        "telephone": "05 65 71 60 62",
+        "site_web": "https://abenergies-aveyron.fr/",
+        "adresse": "21 Av. de Sévérac, 12310 Laissac-Sévérac l'Église",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13249262547305655632",
+        "nom": "Sarl Durand Nicolas Aigouy",
+        "slug": "sarl-durand-nicolas-aigouy",
+        "telephone": "05 65 70 65 17",
+        "site_web": "https://sarldurandchauffage.fr/",
+        "adresse": "N88, 12310 Laissac-Sévérac l'Église",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "la-loubiere": {
+    "artisans": [
+      {
+        "id": "11481170131881881505",
+        "nom": "Debril Olivier",
+        "slug": "debril-olivier",
+        "telephone": "09 53 65 78 82",
+        "site_web": null,
+        "adresse": "Rue zone artisanale du cros 2 B, 12740 Sébazac-Concourès",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8144562375628600141",
+        "nom": "Sarl Palmie",
+        "slug": "sarl-palmie",
+        "telephone": "05 65 60 64 95",
+        "site_web": "http://palmie-chauffage-climatisation-sanitaire.fr/",
+        "adresse": "Zone Artisanale Lioujas, 12740 Lioujas la Loubière",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9578670510975776781",
+        "nom": "MGC chauffage et climatisation",
+        "slug": "mgc-chauffage-et-climatisation",
+        "telephone": "05 65 61 66 61",
+        "site_web": "https://www.mgc-12.fr/",
+        "adresse": "16 All. des Castelets, 12740 La Loubière",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7316981788579312058",
+        "nom": "La Maison Du Chauffage",
+        "slug": "la-maison-du-chauffage",
+        "telephone": "05 65 72 96 07",
+        "site_web": "https://lamaisonduchauffage.org/",
+        "adresse": "44 Rte de Sévérac, 12850 Onet-le-Château",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1081579189601087521",
+        "nom": "Chapelle Electricité",
+        "slug": "chapelle-electricite",
+        "telephone": "05 65 74 91 58",
+        "site_web": "https://www.electricitechapelle.com/",
+        "adresse": "16 Rue De La Devèze Grande, 12740 La Loubière",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "371385642910889350",
+        "nom": "BTC CHAUFFAGE 12",
+        "slug": "btc-chauffage-12",
+        "telephone": "07 68 30 20 46",
+        "site_web": "https://btcaveyron.wixsite.com/btcchauffage12",
+        "adresse": "29 Rue Jean 23, 12000 Rodez",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7520795297764751951",
+        "nom": "RG12",
+        "slug": "rg12",
+        "telephone": "07 85 01 98 40",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9647643788991129769",
+        "nom": "Loubière Sarl",
+        "slug": "loubiere-sarl",
+        "telephone": "05 65 42 91 95",
+        "site_web": null,
+        "adresse": "374 Rue des Landes, 12850 Onet-le-Château",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Entrepreneur de cloisons sèches"
+      },
+      {
+        "id": "5141336554755035585",
+        "nom": "M.D.S. Axenergie Aveyron (Maintenance Dépannage Services)",
+        "slug": "mds-axenergie-aveyron-maintenance-depannage-services",
+        "telephone": "05 65 67 09 82",
+        "site_web": "https://www.axenergie.eu/agences/34-mds-aveyron",
+        "adresse": "46 Av. de Paris, 12000 Rodez",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15213017471893180266",
+        "nom": "V.g.m. Sarl - Cuisines professionnelles à Rodez",
+        "slug": "vgm-sarl-cuisines-professionnelles-a-rodez",
+        "telephone": "05 65 46 92 34",
+        "site_web": null,
+        "adresse": "La Devèze Grande ZA Lioujas, 12740 Lioujas-la-loubière",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "conques-en-rouergue": {
+    "artisans": [
+      {
+        "id": "1942562505080891035",
+        "nom": "Fournisseur de bois de chauffage-Bois de la vallée du lot (SARL)",
+        "slug": "fournisseur-de-bois-de-chauffage-bois-de-la-vallee-du-lot-sarl",
+        "telephone": "06 01 76 02 36",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "8736452441354827921",
+        "nom": "Delisle",
+        "slug": "delisle",
+        "telephone": "05 65 72 39 21",
+        "site_web": null,
+        "adresse": "2 place perier, 12320 Conques-en-Rouergue",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "8450365484609954068",
+        "nom": "Brico'Phil12",
+        "slug": "bricophil12",
+        "telephone": "06 33 67 57 53",
+        "site_web": "https://bricophill12.fr/",
+        "adresse": "1 Chemin du Tertre La Rouquette, 12320 Conques-en-Rouergue",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de bricolage"
+      },
+      {
+        "id": "5599876341867407893",
+        "nom": "DOULS Chauffage Climatisation",
+        "slug": "douls-chauffage-climatisation",
+        "telephone": "07 82 44 98 84",
+        "site_web": null,
+        "adresse": "699 Bougaunes, 12330 Marcillac-Vallon",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5278286655321054354",
+        "nom": "Bourguignon Chauffage et Energies",
+        "slug": "bourguignon-chauffage-et-energies",
+        "telephone": "05 65 58 70 50",
+        "site_web": "https://bourguignonenergies.fr/",
+        "adresse": "21 Rue du Puech, 12160 Baraqueville",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5810530681533190639",
+        "nom": "Palayret Christian",
+        "slug": "palayret-christian",
+        "telephone": "05 65 80 48 51",
+        "site_web": null,
+        "adresse": "12390 Escandolières",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2758178743771551758",
+        "nom": "Fontanier Laurent",
+        "slug": "fontanier-laurent",
+        "telephone": "05 65 79 60 21",
+        "site_web": "https://fontanier-fioul12.fr/",
+        "adresse": "La Fage, 12320 Pruines",
+        "note": 5,
+        "avis": 2,
+        "type": null
+      }
+    ]
+  },
+  "livinhac-le-haut": {
+    "artisans": [
+      {
+        "id": "5629466708064576121",
+        "nom": "Clavies Frederic",
+        "slug": "clavies-frederic",
+        "telephone": "06 81 11 10 37",
+        "site_web": "https://plombier-figeac-clavies.fr/",
+        "adresse": "Le Mas, 46270 Bagnac-sur-Célé",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11980211757707693322",
+        "nom": "Mill'Services",
+        "slug": "millservices",
+        "telephone": "05 65 43 10 68",
+        "site_web": null,
+        "adresse": "Zone Artisanale, Vge Village des Artisans, 12300 Livinhac-le-Haut",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Blanchisserie"
+      }
+    ]
+  },
+  "luc-la-primaube": {
+    "artisans": [
+      {
+        "id": "7840271525246379941",
+        "nom": "Carcuat Et Fils",
+        "slug": "carcuat-et-fils",
+        "telephone": "05 65 69 47 14",
+        "site_web": null,
+        "adresse": "35 Av. du Stade, 12450 Luc-la-Primaube",
+        "note": 3.7,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "5076154725770143744",
+        "nom": "Occitan confort",
+        "slug": "occitan-confort",
+        "telephone": "06 77 94 16 13",
+        "site_web": null,
+        "adresse": "2 Rue de l'Artisanat, 12450 Luc-la-Primaube",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9007849483358529549",
+        "nom": "SARL Olivier Saleil",
+        "slug": "sarl-olivier-saleil",
+        "telephone": "05 65 69 56 58",
+        "site_web": "http://www.oliviersaleil.fr/",
+        "adresse": "2 rue de l'Aqueduc Romain, 12450 Luc-la-Primaube",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "6023763736982830715",
+        "nom": "Midi Thermique Service",
+        "slug": "midi-thermique-service",
+        "telephone": "05 65 75 50 30",
+        "site_web": "https://midi-thermique.fr/",
+        "adresse": "247 Av. de Rodez, 12450 Luc-la-Primaube",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "458109837891519304",
+        "nom": "Aveyron Concept Energie",
+        "slug": "aveyron-concept-energie",
+        "telephone": "05 65 47 96 16",
+        "site_web": "https://aveyronconceptenergie.fr/",
+        "adresse": "585 Rue Barthelemy Thimonnier, 12510 Olemps",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "2191265101600664936",
+        "nom": "JOTUL La Primaube SAGNES CHEMINEES",
+        "slug": "jotul-la-primaube-sagnes-cheminees",
+        "telephone": "05 65 60 98 89",
+        "site_web": "http://www.sagnes-cheminees.fr/",
+        "adresse": "27 Av. de Rodez, 12450 Luc-la-Primaube",
+        "note": 4,
+        "avis": 0,
+        "type": "Cheministe"
+      },
+      {
+        "id": "16528261363208639424",
+        "nom": "Mercier Produits Métallurgiques et Chauffage",
+        "slug": "mercier-produits-metallurgiques-et-chauffage",
+        "telephone": "05 65 75 50 20",
+        "site_web": "http://www.groupe-francois.com/",
+        "adresse": "259 Av. de Rodez, 12450 Luc-la-Primaube",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur de métal"
+      },
+      {
+        "id": "7461402730877070236",
+        "nom": "Albouy Aurelien",
+        "slug": "albouy-aurelien",
+        "telephone": "06 73 98 27 96",
+        "site_web": null,
+        "adresse": "La Cassagne, 12450 Calmont",
+        "note": 4,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "montbazens": {
+    "artisans": [
+      {
+        "id": "6901964149034813056",
+        "nom": "BARNABÉ PATRICK",
+        "slug": "barnabe-patrick",
+        "telephone": "06 30 20 20 08",
+        "site_web": "http://barnabe-patrick-electricien.fr/",
+        "adresse": "15 Rue du Parc de Jaunac, 12220 Montbazens",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "nant": {
+    "artisans": [
+      {
+        "id": "11769012947650530859",
+        "nom": "Régis Valdeyron - Plombier, Électricien, Chauffage & Ramonage",
+        "slug": "regis-valdeyron-plombier-electricien-chauffage-ramonage",
+        "telephone": "05 65 62 26 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 1.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6121490528116938976",
+        "nom": "Viala Bois",
+        "slug": "viala-bois",
+        "telephone": "05 65 47 13 12",
+        "site_web": "https://www.vialabois.fr/",
+        "adresse": "Les Maillacs-bas, 12230 Nant",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "2756247426436195331",
+        "nom": "Bois aveyron",
+        "slug": "bois-aveyron",
+        "telephone": "06 64 57 33 14",
+        "site_web": null,
+        "adresse": "Route De Nant, Les Salzedes, 12230 Saint-Jean-du-Bruel",
+        "note": 3.2,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "9738760514705973915",
+        "nom": "SEA EXPERT MARTIN JEAN-FRANCOIS",
+        "slug": "sea-expert-martin-jean-francois",
+        "telephone": "06 89 93 84 02",
+        "site_web": "http://www.sea-expert12.com/",
+        "adresse": "7 lot pas du cayla, 12230 Saint-Jean-du-Bruel",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "millau": {
+    "artisans": [
+      {
+        "id": "11869169325424924694",
+        "nom": "Depann'Express - Électricité Plomberie et Serrurerie",
+        "slug": "depannexpress-electricite-plomberie-et-serrurerie",
+        "telephone": "06 61 22 01 96",
+        "site_web": "https://www.depannexpress12.fr/",
+        "adresse": "7 Av. Alfred Merle, 12100 Millau",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "moyrazes": {
+    "artisans": [
+      {
+        "id": "14456325303744505578",
+        "nom": "ATSF - Dépannages et Entretiens Chaudières - Pompes à chaleur - Climatisation à Rodez",
+        "slug": "atsf-depannages-et-entretiens-chaudieres-pompes-a-chaleur-climatisation-a-rodez",
+        "telephone": "05 65 60 07 22",
+        "site_web": "http://atsf-rodez.fr/",
+        "adresse": null,
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "marcillac-vallon": {
+    "artisans": [
+      {
+        "id": "13415258553126879974",
+        "nom": "Eurl Gardanes",
+        "slug": "eurl-gardanes",
+        "telephone": "05 65 61 62 46",
+        "site_web": null,
+        "adresse": "Les Plancats, 12330 Marcillac-Vallon",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2874587601588554644",
+        "nom": "Clim Aveyron",
+        "slug": "clim-aveyron",
+        "telephone": "06 79 44 82 10",
+        "site_web": "https://vincentcamy12.wixsite.com/climaveyron",
+        "adresse": "73 rue des belles vues, 12330 Marcillac-Vallon",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "montrozier": {
+    "artisans": [
+      {
+        "id": "3142215086874216681",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "05 65 42 53 71",
+        "site_web": "https://agence.engie-homeservices.fr/240-engie-home-services-rodez?utm_source=gmb",
+        "adresse": "34 Rue de la Solidarité, 12850 Onet-le-Château",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15079111802321106964",
+        "nom": "Solimayrand",
+        "slug": "solimayrand",
+        "telephone": "05 65 70 64 83",
+        "site_web": "https://plombier-solimayrand.com/",
+        "adresse": "ZA du plateau 210, route de Bergadus, 12630",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10256187068440778860",
+        "nom": "Austruy SARL",
+        "slug": "austruy-sarl",
+        "telephone": "05 65 48 86 58",
+        "site_web": "http://www.austruy-plomberie.fr/?utm_source=gmb",
+        "adresse": "9 Rue du Vieux Pont, 12340 Bozouls",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5182886529803257069",
+        "nom": "Dav'elec",
+        "slug": "davelec",
+        "telephone": "06 13 61 38 62",
+        "site_web": "https://www.instagram.com/dav.elec/",
+        "adresse": "385 route d'agen, 12630 Montrozier",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "3142215086874216681",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "05 65 42 53 71",
+        "site_web": "https://agence.engie-homeservices.fr/240-engie-home-services-rodez?utm_source=gmb",
+        "adresse": "34 Rue de la Solidarité, 12850 Onet-le-Château",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7571343006013432699",
+        "nom": "AVEYRON RAMONAGE BENITEZ",
+        "slug": "aveyron-ramonage-benitez",
+        "telephone": "06 42 60 80 32",
+        "site_web": "http://www.aveyronramonage.fr/",
+        "adresse": "12630 Montrozier",
+        "note": 4.8,
+        "avis": 64,
+        "type": "Ramoneur"
+      }
+    ]
+  },
+  "olemps": {
+    "artisans": [
+      {
+        "id": "1667347996005134260",
+        "nom": "RC SERVICES",
+        "slug": "rc-services",
+        "telephone": "05 65 68 78 74",
+        "site_web": null,
+        "adresse": "5 Rue Nicephore Niépce, 12510 Olemps",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12891496351689038902",
+        "nom": "Clean Ramonage",
+        "slug": "clean-ramonage",
+        "telephone": "05 65 72 61 72",
+        "site_web": "http://clean-ramonage.com/",
+        "adresse": "86 Rte de Bois Vert, 12510 Olemps",
+        "note": 4,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "17937615648479560569",
+        "nom": "Solipac Rodez",
+        "slug": "solipac-rodez",
+        "telephone": "05 31 53 01 53",
+        "site_web": "http://www.solipac.fr/",
+        "adresse": "812 Rue Saint-Christophe, 12000 Rodez",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3611401907818568581",
+        "nom": "Romulus Daniel",
+        "slug": "romulus-daniel",
+        "telephone": "05 65 68 07 35",
+        "site_web": null,
+        "adresse": "330 Imp. Puy Larroque, 12510 Olemps",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "le-monastere": {
+    "artisans": [
+      {
+        "id": "9444908350003233812",
+        "nom": "Espace Habitat Auguy & Fils – Rodez",
+        "slug": "espace-habitat-auguy-fils-rodez",
+        "telephone": "05 65 42 61 74",
+        "site_web": null,
+        "adresse": "3 Av. du Maréchal Joffre, 12000 Rodez",
+        "note": 4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13648272298940011660",
+        "nom": "Magasin de vente directe Cogra - HARMAN de Rodez",
+        "slug": "magasin-de-vente-directe-cogra-harman-de-rodez",
+        "telephone": "05 65 74 90 14",
+        "site_web": "https://www.cogra.fr/",
+        "adresse": "76 Rte de Sévérac, 12850 Onet-le-Château",
+        "note": 4,
+        "avis": 0,
+        "type": "Magasin d'usine"
+      },
+      {
+        "id": "3158954702747959705",
+        "nom": "Sav Gaz Rols",
+        "slug": "sav-gaz-rols",
+        "telephone": "05 65 42 53 71",
+        "site_web": null,
+        "adresse": "34 Rue de la Solidarité, 12850 Onet-le-Château",
+        "note": 3.5,
+        "avis": 6,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "naucelle": {
+    "artisans": [
+      {
+        "id": "14814880998337568037",
+        "nom": "PULSAT",
+        "slug": "pulsat",
+        "telephone": "09 63 00 13 53",
+        "site_web": "https://magasins.pulsat.fr/243-pulsat-naucelle?utm_source=gmb",
+        "adresse": "4 zone de l'Issart, 12800 Naucelle",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "17081631129839344360",
+        "nom": "André Electricité /Climatisation",
+        "slug": "andre-electricite-climatisation",
+        "telephone": "07 68 64 20 15",
+        "site_web": "https://www.andre-elec-naucelle.fr/",
+        "adresse": "2 zone artisanale de l'issart, 12800 Naucelle",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "15147118350586820489",
+        "nom": "SARL DESBLATS MS",
+        "slug": "sarl-desblats-ms",
+        "telephone": "06 84 10 50 33",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6939731610795150118",
+        "nom": "Scierie Bois du Ségala (SAS)",
+        "slug": "scierie-bois-du-segala-sas",
+        "telephone": "05 65 69 21 46",
+        "site_web": "http://www.sylva-bois.fr/",
+        "adresse": "ZA de Merlin, 12800 Naucelle",
+        "note": 4.3,
+        "avis": 15,
+        "type": "Scierie"
+      },
+      {
+        "id": "6594220605583286901",
+        "nom": "Mél'O Plomberie - Chauffage - Climatisation - Ventilation",
+        "slug": "melo-plomberie-chauffage-climatisation-ventilation",
+        "telephone": "06 29 70 84 03",
+        "site_web": "https://www.facebook.com/meloplomberie/",
+        "adresse": "Rue des Tréfonds, 12160 Baraqueville",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13579164578118979702",
+        "nom": "Chambon Nicolas",
+        "slug": "chambon-nicolas",
+        "telephone": "04 71 63 00 97",
+        "site_web": null,
+        "adresse": "Lacamp, 15250 Naucelles",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17234785532664744593",
+        "nom": "Naucelle Thermique",
+        "slug": "naucelle-thermique",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "VC Zone de l'Issart, 12800 Naucelle",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "8268881570965040456",
+        "nom": "AVEYRON SCIERIE BOIS",
+        "slug": "aveyron-scierie-bois",
+        "telephone": "05 65 72 18 83",
+        "site_web": "http://www.aveyronscieriebois.com/",
+        "adresse": "VC Zone de l'Issart, 12800 Naucelle",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "114961664826769346",
+        "nom": "C.G. ELEC",
+        "slug": "cg-elec",
+        "telephone": "06 09 66 98 24",
+        "site_web": "https://www.c-g-elec.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "13354236797403890873",
+        "nom": "Boudret Henri (Sarl)",
+        "slug": "boudret-henri-sarl",
+        "telephone": "05 65 67 00 00",
+        "site_web": null,
+        "adresse": "Zone Artisanale Lissard 3, 12800 Naucelle",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "palmas-d-aveyron": {
+    "artisans": [
+      {
+        "id": "12892579982307814325",
+        "nom": "AD Couverture",
+        "slug": "ad-couverture",
+        "telephone": "06 56 79 54 00",
+        "site_web": null,
+        "adresse": "Briounas Lieu dit, 12340 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "13321510380369489288",
+        "nom": "Carrié Serge",
+        "slug": "carrie-serge",
+        "telephone": "05 65 48 74 01",
+        "site_web": "https://travauxagricolescarrieserge.fr/",
+        "adresse": "Palauzets, 12340 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Paysagiste"
+      },
+      {
+        "id": "16920709755661670620",
+        "nom": "Gite de Cousserguettes - Gite de France",
+        "slug": "gite-de-cousserguettes-gite-de-france",
+        "telephone": null,
+        "site_web": "https://www.gites-de-france-aveyron.com/fr/location/locations-gites-coussergues-ayg5060-h12g005691",
+        "adresse": "322 Chem. des Hauts de Cousserguettes, 12310 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Gîte"
+      },
+      {
+        "id": "1794480934934528604",
+        "nom": "Ricomes tp",
+        "slug": "ricomes-tp",
+        "telephone": "06 99 93 57 14",
+        "site_web": "https://www.facebook.com/share/1ANeeaSJzW/?mibextid=wwXIfr",
+        "adresse": "188 Le Verdier Bas, 12310 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 5,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "9115293258849065618",
+        "nom": "Mairie de Palmas d'Aveyron à Palmas (Commune nouvelle Coussergues, Cruéjouls et Palmas)",
+        "slug": "mairie-de-palmas-daveyron-a-palmas-commune-nouvelle-coussergues-cruejouls-et-palmas",
+        "telephone": "05 65 70 67 15",
+        "site_web": "http://palmasdaveyron.fr/",
+        "adresse": "12310 Palmas d'Aveyron",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Mairie de village"
+      },
+      {
+        "id": "4366409055127527819",
+        "nom": "tab-multiservices",
+        "slug": "tab-multiservices",
+        "telephone": "06 51 52 03 60",
+        "site_web": null,
+        "adresse": "12340 Gabriac",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7875510525711304878",
+        "nom": "Chez Guilou",
+        "slug": "chez-guilou",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "12340 Palmas d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Épicerie"
+      }
+    ]
+  },
+  "onet-le-chateau": {
+    "artisans": [
+      {
+        "id": "18262560379182464435",
+        "nom": "AVEYRON POELES Didier ROBLET",
+        "slug": "aveyron-poeles-didier-roblet",
+        "telephone": "05 65 67 03 03",
+        "site_web": "http://www.aveyronpoeles.com/",
+        "adresse": "1 Rue des Chênes Verts, 12850 Onet-le-Château",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Cheministe"
+      },
+      {
+        "id": "6105634964407091341",
+        "nom": "CEDEO Rodez Bel Air : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-rodez-bel-air-sanitaire-chauffage-plomberie",
+        "telephone": "05 65 77 19 00",
+        "site_web": "https://www.cedeo.fr/infos-agence/rodez-bel-air-cedeo-1480",
+        "adresse": "240 Rue des Enlumineurs, 12850 Onet-le-Château",
+        "note": 4.6,
+        "avis": 37,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "1989774168033440915",
+        "nom": "CEDEO Rodez Balquières: Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-rodez-balquieres-sanitaire-chauffage-plomberie",
+        "telephone": "05 65 77 17 75",
+        "site_web": "https://www.cedeo.fr/infos-agence/rodez-balquieres-cedeo-5370",
+        "adresse": "Bd des Balquières, 12850 Onet-le-Château",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "8885672221083091981",
+        "nom": "Fabry Ets",
+        "slug": "fabry-ets",
+        "telephone": "05 65 42 24 66",
+        "site_web": null,
+        "adresse": "46 Rue des Frênes, 12850 Onet-le-Château",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3796290505280191362",
+        "nom": "Station Bois de Rodez",
+        "slug": "station-bois-de-rodez",
+        "telephone": "05 65 44 93 24",
+        "site_web": "https://station-bois.fr/implantations/france/occitanie/distributeur-automatique-de-pellets-en-vrac-a-rodez/",
+        "adresse": "123 Rte d'Espalion, 12850 Onet-le-Château",
+        "note": 1.7,
+        "avis": 6,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "requista": {
+    "artisans": [
+      {
+        "id": "13254731600686702832",
+        "nom": "SARL Francis Teyssier",
+        "slug": "sarl-francis-teyssier",
+        "telephone": "05 65 74 04 55",
+        "site_web": null,
+        "adresse": "3 Av. de Trébas, 12170 Réquista",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10410150901665308903",
+        "nom": "Ets Georges Cluzel",
+        "slug": "ets-georges-cluzel",
+        "telephone": "05 65 46 25 65",
+        "site_web": "https://sarl-billy-requista.chauffagiste-viessmann.fr/",
+        "adresse": "5 Av. de la Fontblanche, 12170 Réquista",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "1612432983241290953",
+        "nom": "VH CONFORT SAS",
+        "slug": "vh-confort-sas",
+        "telephone": "07 62 24 40 91",
+        "site_web": "https://www.vhconfort.com/",
+        "adresse": "14 Rue de la Lande, 12170 Réquista",
+        "note": 5,
+        "avis": 6,
+        "type": "Services d'expédition et de livraison"
+      }
+    ]
+  },
+  "rieupeyroux": {
+    "artisans": [
+      {
+        "id": "1000214202748720405",
+        "nom": "Vidal Franck Bonnefis",
+        "slug": "vidal-franck-bonnefis",
+        "telephone": "05 65 65 50 86",
+        "site_web": null,
+        "adresse": "za Camp Grand, 12240 Rieupeyroux",
+        "note": 3.1,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12031056576135786563",
+        "nom": "E.P. PONS",
+        "slug": "ep-pons",
+        "telephone": "06 73 90 02 80",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.2,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6823610581182477347",
+        "nom": "Cros Energies",
+        "slug": "cros-energies",
+        "telephone": "05 65 81 44 46",
+        "site_web": null,
+        "adresse": "Z.A La Lande Etroite, 12240 Rieupeyroux",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "10238129417834997571",
+        "nom": "Boudou David Plombier-Chauffagiste",
+        "slug": "boudou-david-plombier-chauffagiste",
+        "telephone": "06 95 84 93 54",
+        "site_web": null,
+        "adresse": "7 lotissement la verrière, 12240 Rieupeyroux",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "rignac": {
+    "artisans": [
+      {
+        "id": "5375070859949687477",
+        "nom": "Bournhonesque",
+        "slug": "bournhonesque",
+        "telephone": "06 37 81 59 21",
+        "site_web": null,
+        "adresse": "Le Gach, 12390 Rignac",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "11923456056747666796",
+        "nom": "LEG",
+        "slug": "leg",
+        "telephone": "06 16 94 69 53",
+        "site_web": "http://lasserre-electricite-generale.fr/",
+        "adresse": "La Joulinie, 12390 Rignac",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "11649212012747427586",
+        "nom": "Broussy Énergies",
+        "slug": "broussy-energies",
+        "telephone": "05 65 64 47 21",
+        "site_web": "https://broussyenergies.fr/",
+        "adresse": "23 Av. d'Occitanie, 12390 Mayran",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "6014220571704606226",
+        "nom": "Pouget Xavier",
+        "slug": "pouget-xavier",
+        "telephone": "06 81 40 64 66",
+        "site_web": "https://pougetxavier.fr/",
+        "adresse": "La Secade, 12390 Anglars-Saint-Félix",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "5027585273346821293",
+        "nom": "Reynier Bernard",
+        "slug": "reynier-bernard",
+        "telephone": "05 65 64 40 00",
+        "site_web": null,
+        "adresse": "Le Fromental, 12390 Rignac",
+        "note": 5,
+        "avis": 0,
+        "type": "Entreprise de terrassement"
+      },
+      {
+        "id": "10346841368602035995",
+        "nom": "Grialou Dominique DG'ELEC",
+        "slug": "grialou-dominique-dgelec",
+        "telephone": "06 80 46 14 48",
+        "site_web": "https://dg-elec.fr/",
+        "adresse": "3 route de Roussennac, La Remise, 12390 Anglars-Saint-Félix",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9123457639216011809",
+        "nom": "SAS GANNAC",
+        "slug": "sas-gannac",
+        "telephone": "06 24 22 40 79",
+        "site_web": null,
+        "adresse": "75 Rte de Beauregard, 12350 Privezac",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5748300088852031648",
+        "nom": "ROUERGUE RAMONAGE",
+        "slug": "rouergue-ramonage",
+        "telephone": "06 86 86 79 76",
+        "site_web": "https://www.rouergue-ramonage.com/",
+        "adresse": "Pautussac, 12390 Anglars-Saint-Félix",
+        "note": 5,
+        "avis": 0,
+        "type": "Ramoneur"
+      }
+    ]
+  },
+  "pont-de-salars": {
+    "artisans": [
+      {
+        "id": "1147411195184124212",
+        "nom": "ENLEVEMENTCUVEFIOUL",
+        "slug": "enlevementcuvefioul",
+        "telephone": "06 41 59 82 68",
+        "site_web": "https://www.enlevementcuvefioul.fr/",
+        "adresse": "12290 Pont-de-Salars",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de vidange d'huile"
+      },
+      {
+        "id": "8712953352539329567",
+        "nom": "Arguel Service Electricité Plomberie électroménager",
+        "slug": "arguel-service-electricite-plomberie-electromenager",
+        "telephone": "05 65 46 82 40",
+        "site_web": "http://www.arguelservice.fr/",
+        "adresse": "La Lande, 12290 Pont-de-Salars",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "9723757234066138640",
+        "nom": "MOCA",
+        "slug": "moca",
+        "telephone": "06 51 07 49 37",
+        "site_web": null,
+        "adresse": "2 Rue Pierre Fernand Benoît, 12290 Pont-de-Salars",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6270048428646067825",
+        "nom": "Herail Dominique",
+        "slug": "herail-dominique",
+        "telephone": "09 75 51 50 77",
+        "site_web": null,
+        "adresse": "La Plaine, 12290 Pont-de-Salars",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18043696987484507223",
+        "nom": "Boissonnade et Fils Ramonage",
+        "slug": "boissonnade-et-fils-ramonage",
+        "telephone": "06 49 42 61 71",
+        "site_web": "https://boissonnadeetfils.webnode.fr/",
+        "adresse": "28 Lot. les Landes, 12290 Pont-de-Salars",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "5808998814789371515",
+        "nom": "PULSAT",
+        "slug": "pulsat",
+        "telephone": "05 65 46 82 40",
+        "site_web": "https://magasins.pulsat.fr/84-pulsat-pont-de-salars?utm_source=gmb",
+        "adresse": "93 Imp. des Landes Hautes, 12290 Pont-de-Salars",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "9222991658668429899",
+        "nom": "Briconautes Pont de Salars",
+        "slug": "briconautes-pont-de-salars",
+        "telephone": "05 65 78 04 68",
+        "site_web": "https://magasin.leclub-bricolage.fr/375-briconautes-pont-de-salars?utm_source=gmb",
+        "adresse": "11 Rue Neuve, 12290 Pont-de-Salars",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de bricolage"
+      },
+      {
+        "id": "18324045049648689376",
+        "nom": "RINEL COUVERTURE",
+        "slug": "rinel-couverture",
+        "telephone": "06 98 15 10 50",
+        "site_web": null,
+        "adresse": "78 Rue du Rial, 12290 Pont-de-Salars",
+        "note": 5,
+        "avis": 0,
+        "type": "Couvreur"
+      },
+      {
+        "id": "15453191540246920429",
+        "nom": "Bois du Rouergue SARL",
+        "slug": "bois-du-rouergue-sarl",
+        "telephone": "05 65 46 87 82",
+        "site_web": "http://www.sylva-bois.fr/SylvaBois_BoisDuRouergue.awp",
+        "adresse": "Le Cartou, 12290 Pont-de-Salars",
+        "note": 5,
+        "avis": 0,
+        "type": "Menuisier"
+      },
+      {
+        "id": "1699763364630125763",
+        "nom": "Intermarché station-service Pont de Salars",
+        "slug": "intermarche-station-service-pont-de-salars",
+        "telephone": null,
+        "site_web": "https://www.intermarche.com/magasin?pdvref=50227&pdvref=50227&utm_source=gbp",
+        "adresse": "Av. de Rodez, 12290 Pont-de-Salars",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Station-service"
+      }
+    ]
+  },
+  "rodelle": {
+    "artisans": [
+      {
+        "id": "5805579620345434027",
+        "nom": "Grippon Didier",
+        "slug": "grippon-didier",
+        "telephone": "05 65 44 97 74",
+        "site_web": null,
+        "adresse": "La Baraque, 12340 Bozouls",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "riviere-sur-tarn": {
+    "artisans": [
+      {
+        "id": "12935275103564671928",
+        "nom": "Gites et Chambres d'Hôte 2 Epis | La Petite Boynarde | Gorges du Tarn | Aveyron",
+        "slug": "gites-et-chambres-dhote-2-epis-la-petite-boynarde-gorges-du-tarn-aveyron",
+        "telephone": "06 73 70 71 57",
+        "site_web": "https://www.camping-canoe.fr/les-gites/",
+        "adresse": "Rue de Trébens, 12640 Rivière-sur-Tarn",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Location d'appartement de vacances"
+      },
+      {
+        "id": "17463734607836278369",
+        "nom": "Le Clos d'Is",
+        "slug": "le-clos-dis",
+        "telephone": "05 65 72 64 64",
+        "site_web": "https://le-clos-dis.excursionsfrance.top/",
+        "adresse": "Rte des Gorges du Tarn, 12640 Rivière-sur-Tarn",
+        "note": 4,
+        "avis": 0,
+        "type": "Bar-tabac"
+      }
+    ]
+  },
+  "rodez": {
+    "artisans": [
+      {
+        "id": "16195672376426863301",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "01 44 22 00 00",
+        "site_web": "https://www.engie-homeservices.fr/",
+        "adresse": "1 Pl. Samuel de Champlain, 92400 Courbevoie",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2240883488619554326",
+        "nom": "Qualit'EnR",
+        "slug": "qualitenr",
+        "telephone": "01 48 78 70 90",
+        "site_web": "https://www.qualit-enr.org/",
+        "adresse": "62 Rue de la Chau. d'Antin CS 50020, 75009 Paris",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Association ou organisation"
+      },
+      {
+        "id": "15316620277808166415",
+        "nom": "A+ Energies",
+        "slug": "a-energies",
+        "telephone": "05 65 42 80 00",
+        "site_web": null,
+        "adresse": "3 Av. du Maréchal Joffre, 12000 Rodez",
+        "note": 3.3,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3017045262981749793",
+        "nom": "HBI rénovation Rodez",
+        "slug": "hbi-renovation-rodez",
+        "telephone": "06 77 31 91 14",
+        "site_web": null,
+        "adresse": "5 Rue Jean Ferrieu, 12000 Rodez",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17505806241828367909",
+        "nom": "COSERVICE ROZIERES",
+        "slug": "coservice-rozieres",
+        "telephone": "06 80 06 03 24",
+        "site_web": null,
+        "adresse": "35 Rue de la Barrière, 12000 Rodez",
+        "note": 4.5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "11304519812288541439",
+        "nom": "Sarl Pierre Delbes",
+        "slug": "sarl-pierre-delbes",
+        "telephone": "05 65 42 60 67",
+        "site_web": "http://delbeschauffage.fr/",
+        "adresse": "23 Av. de la Gineste, 12000 Rodez",
+        "note": 1,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-come-d-olt": {
+    "artisans": [
+      {
+        "id": "12727892348798070902",
+        "nom": "Chappaz Nicolas",
+        "slug": "chappaz-nicolas",
+        "telephone": "05 65 48 13 78",
+        "site_web": null,
+        "adresse": "540 Rte de L’Estive, 12500 Saint-Côme-d'Olt",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17079303471975597793",
+        "nom": "Sarl Favier Et Fils",
+        "slug": "sarl-favier-et-fils",
+        "telephone": "05 65 44 06 69",
+        "site_web": null,
+        "adresse": "7 Av. d'Aubrac, 12500 Saint-Côme-d'Olt",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-affrique": {
+    "artisans": [
+      {
+        "id": "4694583352586851807",
+        "nom": "THIBAL DISTRIBUTION Saint-Affrique",
+        "slug": "thibal-distribution-saint-affrique",
+        "telephone": "05 65 49 02 40",
+        "site_web": "http://www.thibal-distribution.fr/",
+        "adresse": "Zone Industrielles des Cazes, ZA des Cazes 2, 377 Rte de Bournac, 12400 Saint-Affrique",
+        "note": 3.5,
+        "avis": 23,
+        "type": "Magasin de matériel électrique"
+      },
+      {
+        "id": "162398546142417284",
+        "nom": "Billy Solutions",
+        "slug": "billy-solutions",
+        "telephone": "05 65 99 18 56",
+        "site_web": "http://plombier-saint-affrique.fr/",
+        "adresse": "Le Vern, 12400 Saint-Affrique",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16145481297643327424",
+        "nom": "Sarl Marinosa Michel",
+        "slug": "sarl-marinosa-michel",
+        "telephone": "05 65 49 11 78",
+        "site_web": null,
+        "adresse": "30 Bd Emile Borel, 12400 Saint-Affrique",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "17834178234694763406",
+        "nom": "Vernhet Cheminees",
+        "slug": "vernhet-cheminees",
+        "telephone": "05 65 97 77 39",
+        "site_web": "https://www.vernhet-cheminees.com/",
+        "adresse": "77 Av. Maurice Fournol, 12400 Saint-Affrique",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Cheministe"
+      },
+      {
+        "id": "4094559837625531551",
+        "nom": "Balmes Claude - Jarlet David",
+        "slug": "balmes-claude-jarlet-david",
+        "telephone": "06 88 99 39 38",
+        "site_web": null,
+        "adresse": "16 Rue Lamartine, 12400 Saint-Affrique",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4736901865211755295",
+        "nom": "Qualif's energies Stéphane GOMEZ",
+        "slug": "qualifs-energies-stephane-gomez",
+        "telephone": "06 50 33 30 76",
+        "site_web": null,
+        "adresse": "Vendeloves, 12400 Saint-Affrique",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5150220810186513583",
+        "nom": "Sagnes Cheminées",
+        "slug": "sagnes-cheminees",
+        "telephone": "05 65 49 67 26",
+        "site_web": "http://www.sagnes-cheminees.fr/",
+        "adresse": "8 Rue Kléber, 12400 Saint-Affrique",
+        "note": 4.2,
+        "avis": 6,
+        "type": "Cheministe"
+      },
+      {
+        "id": "13639576287958509956",
+        "nom": "Gaubert Milhau",
+        "slug": "gaubert-milhau",
+        "telephone": "05 65 99 16 35",
+        "site_web": null,
+        "adresse": "6 Rue Pierre et Marie Curie, 12400 Saint-Affrique",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "16818049259664176942",
+        "nom": "Décembre Gilbert",
+        "slug": "decembre-gilbert",
+        "telephone": "05 65 99 01 15",
+        "site_web": null,
+        "adresse": "12400 Saint-Affrique",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      },
+      {
+        "id": "6074787405773254584",
+        "nom": "Billy Etude-Installation-Entretien",
+        "slug": "billy-etude-installation-entretien",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Le Vern, 12400 Saint-Affrique",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "saint-christophe-vallon": {
+    "artisans": [
+      {
+        "id": "17930562546835366487",
+        "nom": "Laclède Sarl",
+        "slug": "laclede-sarl",
+        "telephone": "05 65 72 72 39",
+        "site_web": null,
+        "adresse": "2 Rue Vinzelle, 12330 Saint-Christophe-Vallon",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "argences-en-aubrac": {
+    "artisans": [
+      {
+        "id": "18245217880053150686",
+        "nom": "Borie Jean-Claude",
+        "slug": "borie-jean-claude",
+        "telephone": "05 65 66 47 62",
+        "site_web": null,
+        "adresse": "Le Bousquet, 12420 Argences en Aubrac",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "8608917108520865081",
+        "nom": "Societe Nouvelle I.t.e.s.",
+        "slug": "societe-nouvelle-ites",
+        "telephone": "06 80 62 31 10",
+        "site_web": null,
+        "adresse": "12420 Argences en Aubrac",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "aubin": {
+    "artisans": [
+      {
+        "id": "13636910857437845500",
+        "nom": "Segons Jean-Marc",
+        "slug": "segons-jean-marc",
+        "telephone": "05 65 63 14 47",
+        "site_web": null,
+        "adresse": "16 Cité Nouvelle, 12220 Aubin",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2301574988497201484",
+        "nom": "Izard Didier",
+        "slug": "izard-didier",
+        "telephone": "05 65 63 94 82",
+        "site_web": null,
+        "adresse": "Nauquières, 12110 Aubin",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6214968643266904584",
+        "nom": "entreprise de peinture FAGES Sebastien",
+        "slug": "entreprise-de-peinture-fages-sebastien",
+        "telephone": "05 65 43 53 77",
+        "site_web": null,
+        "adresse": "55 Av. Jules Cabrol, 12110 Aubin",
+        "note": 3,
+        "avis": 0,
+        "type": "Magasin de meubles"
+      },
+      {
+        "id": "316517952384166025",
+        "nom": "Aveyron Elec Concept",
+        "slug": "aveyron-elec-concept",
+        "telephone": "05 65 63 52 24",
+        "site_web": null,
+        "adresse": "9 Côte de Ruau, 12110 Aubin",
+        "note": 4.6,
+        "avis": 10,
+        "type": "Électricien"
+      },
+      {
+        "id": "12928913165626353884",
+        "nom": "Bression Services",
+        "slug": "bression-services",
+        "telephone": "06 52 58 95 17",
+        "site_web": null,
+        "adresse": "10 Rue M Pleinecassagne, 12110 Aubin",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "14088817449982141901",
+        "nom": "Thorel sebastien / de Part et d'autre",
+        "slug": "thorel-sebastien-de-part-et-dautre",
+        "telephone": "05 65 64 79 29",
+        "site_web": "http://de.part.et.d.autre.pagesperso-orange.fr/",
+        "adresse": "26 Rue Eroles, 12110 Aubin",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Entrepreneur"
+      }
+    ]
+  },
+  "saint-geniez-d-olt-et-d-aubrac": {
+    "artisans": [
+      {
+        "id": "9641320055115393803",
+        "nom": "AB Energies à St Geniez d'Olt et d'Aubrac - Plombier-Chauffagiste et Électricien",
+        "slug": "ab-energies-a-st-geniez-dolt-et-daubrac-plombier-chauffagiste-et-electricien",
+        "telephone": "05 65 87 32 05",
+        "site_web": "https://abenergies-aveyron.fr/",
+        "adresse": "14 Rue de L Hôtel de ville, 12130 St Geniez d'Olt et d'Aubrac",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6693412585303822645",
+        "nom": "Carel Fabien",
+        "slug": "carel-fabien",
+        "telephone": "05 65 42 16 79",
+        "site_web": null,
+        "adresse": "Av. d'Espalion, 12130 St Geniez d'Olt et d'Aubrac",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5928647316039411985",
+        "nom": "Solignac Nicolas",
+        "slug": "solignac-nicolas",
+        "telephone": "06 82 76 51 67",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "1960442306541906974",
+        "nom": "PRO&Cie - Ent. Girbal Electricite",
+        "slug": "procie-ent-girbal-electricite",
+        "telephone": "05 65 47 44 23",
+        "site_web": "http://procie-st-geniez-dolt.com/",
+        "adresse": "17 Rue de L Hôtel de ville, 12130 St Geniez d'Olt et d'Aubrac",
+        "note": 5,
+        "avis": 0,
+        "type": "Magasin d'électroménager"
+      },
+      {
+        "id": "7942383037184736181",
+        "nom": "Belloc Chauffage",
+        "slug": "belloc-chauffage",
+        "telephone": "05 65 69 72 31",
+        "site_web": null,
+        "adresse": "14 Rue de Plaisance, 12130 St Geniez d'Olt et d'Aubrac",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12004741374403275928",
+        "nom": "CERA plomberie",
+        "slug": "cera-plomberie",
+        "telephone": "06 47 94 54 95",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "18273153664490029344",
+        "nom": "WILLIAM BORIES CHAUFFAGE",
+        "slug": "william-bories-chauffage",
+        "telephone": "06 61 93 30 85",
+        "site_web": "https://www.williamborieschauffage.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "agen-d-aveyron": {
+    "artisans": [
+      {
+        "id": "7484439573554850071",
+        "nom": "Chauffagiste Izi confort, groupe EDF",
+        "slug": "chauffagiste-izi-confort-groupe-edf",
+        "telephone": "05 53 68 09 99",
+        "site_web": "https://www.iziconfort.com/?at_medium=Gmb&at_campaign=gmb-Agen",
+        "adresse": "ZI Le Treil, Agen FR, Av. du Bruilhois d, 47520 Le Passage",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15063100296433326279",
+        "nom": "Arnaud Galibert",
+        "slug": "arnaud-galibert",
+        "telephone": "06 85 72 22 39",
+        "site_web": "https://www.enlevementcuvesaveyron.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9604935007175511096",
+        "nom": "RIGAL DIDIER",
+        "slug": "rigal-didier",
+        "telephone": "06 83 23 67 48",
+        "site_web": null,
+        "adresse": "1 Imp. Adrien Vezinhet, 12630 Agen-d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17444853750847004187",
+        "nom": "AB+ SCIERIE - BOIS DE CHAUFFAGE - AVEYRON (12)",
+        "slug": "ab-scierie-bois-de-chauffage-aveyron-12",
+        "telephone": "06 71 95 00 96",
+        "site_web": null,
+        "adresse": "12850 Sainte-Radegonde",
+        "note": 5,
+        "avis": 0,
+        "type": "Scierie"
+      },
+      {
+        "id": "5680068313503153463",
+        "nom": "Carrier Transicold Rodez - Froid Routier Service",
+        "slug": "carrier-transicold-rodez-froid-routier-service",
+        "telephone": "05 65 67 85 20",
+        "site_web": "https://www.froidroutierservice.com/",
+        "adresse": "121 All. Durand de Gros, 12850 Sainte-Radegonde",
+        "note": 4.4,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "3753123149666739778",
+        "nom": "Piva SARL",
+        "slug": "piva-sarl",
+        "telephone": "05 53 96 03 73",
+        "site_web": "http://www.elmleblanc.fr/",
+        "adresse": "90 Av. Michelet, 47000 Agen",
+        "note": 3.7,
+        "avis": 39,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "13460483852630244369",
+        "nom": "SARL SANI CHAUFF",
+        "slug": "sarl-sani-chauff",
+        "telephone": "05 53 95 98 07",
+        "site_web": "http://www.sanichauff47.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17573756787025249073",
+        "nom": "AB Energies à Séverac d'Aveyron - Plombier-Chauffagiste et Électricien",
+        "slug": "ab-energies-a-severac-daveyron-plombier-chauffagiste-et-electricien",
+        "telephone": "05 65 71 60 62",
+        "site_web": "https://abenergies-aveyron.fr/",
+        "adresse": "29 Av. Pasteur, 12150 Sévérac d'Aveyron",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "bertholene": {
+    "artisans": [
+      {
+        "id": "4465207918010227551",
+        "nom": "CCM-FOURNIER",
+        "slug": "ccm-fournier",
+        "telephone": "05 65 72 29 94",
+        "site_web": null,
+        "adresse": "Rue des Érables Lotissement N2, 12310 Bertholène",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "le-bas-segala": {
+    "artisans": [
+      {
+        "id": "2116492112804058893",
+        "nom": "Lagarrigue Damien",
+        "slug": "lagarrigue-damien",
+        "telephone": "05 65 81 25 76",
+        "site_web": null,
+        "adresse": "12240 Rieupeyroux",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "camares": {
+    "artisans": [
+      {
+        "id": "13297172246577684912",
+        "nom": "Luppi Eric",
+        "slug": "luppi-eric",
+        "telephone": "05 65 49 57 46",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "8006228093233994046",
+        "nom": "EBNETER Cédric",
+        "slug": "ebneter-cedric",
+        "telephone": "06 78 86 86 60",
+        "site_web": null,
+        "adresse": "2 bis Chem. de Bel air, 12360 Camarès",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16296053103579623516",
+        "nom": "Rabaud Staqui",
+        "slug": "rabaud-staqui",
+        "telephone": "05 65 99 52 96",
+        "site_web": null,
+        "adresse": "17 Rue du Barry, 12360 Camarès",
+        "note": 1,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4316203896725797900",
+        "nom": "CAMABOIS",
+        "slug": "camabois",
+        "telephone": "07 80 99 01 67",
+        "site_web": null,
+        "adresse": "1 Chem. des Iris, 12360 Camarès",
+        "note": 3,
+        "avis": 2,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "clairvaux-d-aveyron": {
+    "artisans": [
+      {
+        "id": "17094239842222588880",
+        "nom": "MACHINE A VALLON - EI CHRISTOPHE CABOS",
+        "slug": "machine-a-vallon-ei-christophe-cabos",
+        "telephone": "06 41 18 19 05",
+        "site_web": "https://machineavallon.fr/",
+        "adresse": "2 place de l'école, 12330 Clairvaux-d'Aveyron",
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "12159134638978405341",
+        "nom": "Higonnet Benoit",
+        "slug": "higonnet-benoit",
+        "telephone": "06 07 63 25 35",
+        "site_web": "http://higonnet-electricite.fr/",
+        "adresse": "Rte des Vignes, 12330 Clairvaux-d'Aveyron",
+        "note": 0,
+        "avis": 0,
+        "type": "Service d'installation électrique"
+      },
+      {
+        "id": "17930562546835366487",
+        "nom": "Laclède Sarl",
+        "slug": "laclede-sarl",
+        "telephone": "05 65 72 72 39",
+        "site_web": null,
+        "adresse": "2 Rue Vinzelle, 12330 Saint-Christophe-Vallon",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bozouls": {
+    "artisans": [
+      {
+        "id": "17857974564241785266",
+        "nom": "ECO LOGIQUE ENERGY",
+        "slug": "eco-logique-energy",
+        "telephone": "05 65 48 06 29",
+        "site_web": "http://ecologiqueenergy.fr/",
+        "adresse": "573 Rte de Rodez, 12340 Bozouls",
+        "note": 3.2,
+        "avis": 0,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "3118675278507918968",
+        "nom": "SARL SOLIGNAC Ramonage - Au Coin Du Feu",
+        "slug": "sarl-solignac-ramonage-au-coin-du-feu",
+        "telephone": "06 25 22 86 29",
+        "site_web": "http://www.solignac-ramonage.fr/",
+        "adresse": "19 Av. du Stade, 12340 Bozouls",
+        "note": 5,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "7459701986221362786",
+        "nom": "Romieu Gérard",
+        "slug": "romieu-gerard",
+        "telephone": "05 65 48 53 29",
+        "site_web": null,
+        "adresse": "Chem. des Alots, 12340 Bozouls",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "la-cavalerie": {
+    "artisans": [
+      {
+        "id": "3506886635371521293",
+        "nom": "Buisson Jean-Pierre",
+        "slug": "buisson-jean-pierre",
+        "telephone": "05 65 62 54 15",
+        "site_web": null,
+        "adresse": "Rte de Millau, 12230 La Cavalerie",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "9783889532033881633",
+        "nom": "EI Mazerand Simon",
+        "slug": "ei-mazerand-simon",
+        "telephone": "06 72 74 18 22",
+        "site_web": null,
+        "adresse": "18 Rue Marcel Lapeyre, 12230 La Cavalerie",
+        "note": 0,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "capdenac-gare": {
+    "artisans": [
+      {
+        "id": "15536958588762309724",
+        "nom": "Climatisation Capdenacoise",
+        "slug": "climatisation-capdenacoise",
+        "telephone": "07 49 10 46 61",
+        "site_web": "https://climatisationcapdenac.fr/",
+        "adresse": "1 Rue des Oeillets, 12700 Capdenac-Gare",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "781837435656453062",
+        "nom": "SARL Truglio Plomberie",
+        "slug": "sarl-truglio-plomberie",
+        "telephone": "07 82 92 33 55",
+        "site_web": "http://www.sarl-truglio-plomberie.fr/",
+        "adresse": "3 Rue Polonceau, 12700 Capdenac-Gare",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17893984416766067100",
+        "nom": "Grialou Thierry",
+        "slug": "grialou-thierry",
+        "telephone": "05 65 80 87 21",
+        "site_web": null,
+        "adresse": "19 Av. Pasteur, 12700 Capdenac-Gare",
+        "note": 1,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "17299481062341162233",
+        "nom": "EURL FITENI XAVIER",
+        "slug": "eurl-fiteni-xavier",
+        "telephone": "05 65 64 67 41",
+        "site_web": "https://eurl-fiteni-xavier.chauffagiste-viessmann.fr/",
+        "adresse": "Génies, 12700 Capdenac-Gare",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10713534715013540175",
+        "nom": "CGF Electricité (Capdenac-Gare Figeac électricité)",
+        "slug": "cgf-electricite-capdenac-gare-figeac-electricite",
+        "telephone": "06 43 56 50 43",
+        "site_web": "https://cgf-electricite.fr/",
+        "adresse": "15 Rue Emile Maruejouls bât M2, 12700 Capdenac-Gare",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "5400621480434101781",
+        "nom": "Vernet Ferronnerie",
+        "slug": "vernet-ferronnerie",
+        "telephone": "05 65 43 47 96",
+        "site_web": null,
+        "adresse": "13 Bd Paul Ramadier, 12700 Capdenac-Gare",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "6491963127704031147",
+        "nom": "UXEL-M",
+        "slug": "uxel-m",
+        "telephone": "07 66 82 46 21",
+        "site_web": null,
+        "adresse": "limplaque, Ournes, 46100 Capdenac",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "baraqueville": {
+    "artisans": [
+      {
+        "id": "9392500066166910868",
+        "nom": "TotalEnergies Proxi Sud Ouest (Alvéa)",
+        "slug": "totalenergies-proxi-sud-ouest-alvea",
+        "telephone": "05 53 83 08 30",
+        "site_web": "https://www.proxi-totalenergies.fr/particuliers/agences/alvea-baraqueville?at_campaign=Site_Web&at_custom1=TPSO&at_medium=Google_My_Business",
+        "adresse": "Zone Artisanale, 12160 Baraqueville",
+        "note": 5,
+        "avis": 14,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "704225760994621085",
+        "nom": "BJM (BOYER Jean Marie)",
+        "slug": "bjm-boyer-jean-marie",
+        "telephone": "06 60 65 32 56",
+        "site_web": null,
+        "adresse": "Saint Julien, 24 Rue de l'église, Lax, 12160 Baraqueville",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2969994404637036052",
+        "nom": "Esclavissat Sebastien",
+        "slug": "esclavissat-sebastien",
+        "telephone": "06 10 29 11 80",
+        "site_web": null,
+        "adresse": "78 Rue de la Plaine, 12160 Baraqueville",
+        "note": 4,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "viviez": {
+    "artisans": [
+      {
+        "id": "781837435656453062",
+        "nom": "SARL Truglio Plomberie",
+        "slug": "sarl-truglio-plomberie",
+        "telephone": "07 82 92 33 55",
+        "site_web": "http://www.sarl-truglio-plomberie.fr/",
+        "adresse": "3 Rue Polonceau, 12700 Capdenac-Gare",
+        "note": 4.8,
+        "avis": 54,
+        "type": "Plombier"
+      },
+      {
+        "id": "16408486323339216618",
+        "nom": "Chauffage Climatisation Service 12",
+        "slug": "chauffage-climatisation-service-12",
+        "telephone": "05 65 63 64 80",
+        "site_web": null,
+        "adresse": "Les Vignals, 12110 Cransac-les-Thermes",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9311484885320652931",
+        "nom": "Depan'eau Gaz",
+        "slug": "depaneau-gaz",
+        "telephone": "06 84 73 06 35",
+        "site_web": "https://depaneaugaz12.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "1435741438899512969",
+        "nom": "Sarl Maintenance Technique Chauffage Et Climatisation SARL M.T.C.",
+        "slug": "sarl-maintenance-technique-chauffage-et-climatisation-sarl-mtc",
+        "telephone": "05 65 43 09 09",
+        "site_web": "https://mtc-12.fr/?utm_source=gmb",
+        "adresse": "40 Rue Clemenceau, 12300 Decazeville",
+        "note": 4.6,
+        "avis": 38,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "10807826396426937721",
+        "nom": "OLIVEIRA Vincent",
+        "slug": "oliveira-vincent",
+        "telephone": "06 03 43 01 53",
+        "site_web": null,
+        "adresse": "La, Cessat, 12300 Bouillac",
+        "note": 4.8,
+        "avis": 37,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18110241650389187891",
+        "nom": "Chaufferie de Decazeville",
+        "slug": "chaufferie-de-decazeville",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "50 Rte du Collège, 12300 Decazeville",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "17299481062341162233",
+        "nom": "EURL FITENI XAVIER",
+        "slug": "eurl-fiteni-xavier",
+        "telephone": "05 65 64 67 41",
+        "site_web": "https://eurl-fiteni-xavier.chauffagiste-viessmann.fr/",
+        "adresse": "Génies, 12700 Capdenac-Gare",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5727118536742879626",
+        "nom": "Chauveau Fabrice",
+        "slug": "chauveau-fabrice",
+        "telephone": "06 09 85 58 85",
+        "site_web": "http://www.plomberie-electricite-sonnac.fr/",
+        "adresse": null,
+        "note": 3.1,
+        "avis": 7,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "6081443497807824706",
+        "nom": "SARL Fabre R&G",
+        "slug": "sarl-fabre-rg",
+        "telephone": "06 67 30 19 76",
+        "site_web": "http://fabre-r-g.chauffagiste-viessmann.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6976871185813223973",
+        "nom": "Jaafar Sabbar Sarl",
+        "slug": "jaafar-sabbar-sarl",
+        "telephone": "05 65 43 29 45",
+        "site_web": null,
+        "adresse": "480 Rue du Maréchal Joffre, 12300 Decazeville",
+        "note": 3.8,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sainte-radegonde": {
+    "artisans": [
+      {
+        "id": "9058698377438407388",
+        "nom": "A.D urgence plomberie",
+        "slug": "ad-urgence-plomberie",
+        "telephone": "06 42 76 78 77",
+        "site_web": "http://ad-urgenceplomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 21,
+        "type": "Plombier"
+      },
+      {
+        "id": "748381832063479646",
+        "nom": "Andrieu florian A.F SOLUTIONS entretien dépannage chaudières",
+        "slug": "andrieu-florian-af-solutions-entretien-depannage-chaudieres",
+        "telephone": "05 65 61 01 54",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "296027147322643416",
+        "nom": "Sani Thermie Services Boye",
+        "slug": "sani-thermie-services-boye",
+        "telephone": "05 65 69 07 53",
+        "site_web": "https://sts-boye.fr/",
+        "adresse": "87 Rte d'Espalion, 12850 Onet-le-Château",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11200478412824599670",
+        "nom": "De Sousa Patrice",
+        "slug": "de-sousa-patrice",
+        "telephone": "06 51 50 17 39",
+        "site_web": "http://www.patricedesousaplomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "6008530554107404240",
+        "nom": "Au Joyeux Tuyau",
+        "slug": "au-joyeux-tuyau",
+        "telephone": "07 88 94 98 71",
+        "site_web": "https://aujoyeuxtuyau.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3638633992769929695",
+        "nom": "Ecothermie Mazeran",
+        "slug": "ecothermie-mazeran",
+        "telephone": "05 65 71 95 22",
+        "site_web": "http://www.ecothermie.fr/?utm_source=gmb",
+        "adresse": "776 Rte de Rodez, 12450 Flavin",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16826006476314783688",
+        "nom": "CB Plomberie",
+        "slug": "cb-plomberie",
+        "telephone": "06 78 14 17 26",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "11582381251482400724",
+        "nom": "SAS FLORENT REBOIS",
+        "slug": "sas-florent-rebois",
+        "telephone": "06 79 22 63 98",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7316981788579312058",
+        "nom": "La Maison Du Chauffage",
+        "slug": "la-maison-du-chauffage",
+        "telephone": "05 65 72 96 07",
+        "site_web": "https://lamaisonduchauffage.org/",
+        "adresse": "44 Rte de Sévérac, 12850 Onet-le-Château",
+        "note": 4.5,
+        "avis": 62,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3158954702747959705",
+        "nom": "Sav Gaz Rols",
+        "slug": "sav-gaz-rols",
+        "telephone": "05 65 42 53 71",
+        "site_web": null,
+        "adresse": "34 Rue de la Solidarité, 12850 Onet-le-Château",
+        "note": 3.5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "valady": {
+    "artisans": [
+      {
+        "id": "6594220605583286901",
+        "nom": "Mél'O Plomberie - Chauffage - Climatisation - Ventilation",
+        "slug": "melo-plomberie-chauffage-climatisation-ventilation",
+        "telephone": "06 29 70 84 03",
+        "site_web": "https://www.facebook.com/meloplomberie/",
+        "adresse": "Rue des Tréfonds, 12160 Baraqueville",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8478656293593092339",
+        "nom": "ALARY Valentin - AV SERVICES-",
+        "slug": "alary-valentin-av-services",
+        "telephone": "06 20 62 25 45",
+        "site_web": null,
+        "adresse": "Rue de Cassagnettes, 12510 Olemps",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5599876341867407893",
+        "nom": "DOULS Chauffage Climatisation",
+        "slug": "douls-chauffage-climatisation",
+        "telephone": "07 82 44 98 84",
+        "site_web": null,
+        "adresse": "699 Bougaunes, 12330 Marcillac-Vallon",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4845713737830770834",
+        "nom": "GR ELECTRICITE",
+        "slug": "gr-electricite",
+        "telephone": "06 28 73 05 92",
+        "site_web": null,
+        "adresse": "Zone d'activite, 12330 Saint-Christophe-Vallon",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "15542152058759866771",
+        "nom": "Sud Aveyron Chauffage",
+        "slug": "sud-aveyron-chauffage",
+        "telephone": "05 65 59 18 00",
+        "site_web": null,
+        "adresse": "300 Rue Etienne Delmas, 12100 Millau",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2874587601588554644",
+        "nom": "Clim Aveyron",
+        "slug": "clim-aveyron",
+        "telephone": "06 79 44 82 10",
+        "site_web": "https://vincentcamy12.wixsite.com/climaveyron",
+        "adresse": "73 rue des belles vues, 12330 Marcillac-Vallon",
+        "note": 5,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "13415258553126879974",
+        "nom": "Eurl Gardanes",
+        "slug": "eurl-gardanes",
+        "telephone": "05 65 61 62 46",
+        "site_web": null,
+        "adresse": "Les Plancats, 12330 Marcillac-Vallon",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8736452441354827921",
+        "nom": "Delisle",
+        "slug": "delisle",
+        "telephone": "05 65 72 39 21",
+        "site_web": null,
+        "adresse": "2 place perier, 12320 Conques-en-Rouergue",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17930562546835366487",
+        "nom": "Laclède Sarl",
+        "slug": "laclede-sarl",
+        "telephone": "05 65 72 72 39",
+        "site_web": null,
+        "adresse": "2 Rue Vinzelle, 12330 Saint-Christophe-Vallon",
+        "note": 4,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9682901647550003764",
+        "nom": "Matthias Dépannage Chauffage",
+        "slug": "matthias-depannage-chauffage",
+        "telephone": "07 82 86 50 95",
+        "site_web": "https://www.facebook.com/profile.php?id=100057595623545",
+        "adresse": "75 All. du Viaur, 12450 Calmont",
+        "note": 5,
+        "avis": 5,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "salles-la-source": {
+    "artisans": [
+      {
+        "id": "10565818245534749763",
+        "nom": "Gonzalez Alexandre Plomberie",
+        "slug": "gonzalez-alexandre-plomberie",
+        "telephone": "06 33 65 28 53",
+        "site_web": "https://www.plomberie-gonzalez.com/",
+        "adresse": "192 Le Four, 12330 Salles-la-Source",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13484512804493800071",
+        "nom": "Issalis Et Fils",
+        "slug": "issalis-et-fils",
+        "telephone": "05 65 71 72 79",
+        "site_web": "https://issalisetfils-electricite-aveyron.fr/",
+        "adresse": "Cougousse, 12330 Salles-la-Source",
+        "note": 5,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "11712468646662589249",
+        "nom": "ATSO renovation salle de bain cuisine",
+        "slug": "atso-renovation-salle-de-bain-cuisine",
+        "telephone": "06 89 18 09 95",
+        "site_web": "https://www.artisan-sdb-plomberie-atso.fr/",
+        "adresse": "41 Larquet, 12330 Salles-la-Source",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "9309738664644897087",
+        "nom": "Vaz David",
+        "slug": "vaz-david",
+        "telephone": "05 65 48 02 27",
+        "site_web": "https://www.chauffage-vaz-david.fr/",
+        "adresse": null,
+        "note": 3.4,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2117333725174417470",
+        "nom": "12 Bons Tuyaux",
+        "slug": "12-bons-tuyaux",
+        "telephone": "06 59 94 30 51",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16356271099528187323",
+        "nom": "Pradié Christian",
+        "slug": "pradie-christian",
+        "telephone": "05 65 74 95 33",
+        "site_web": null,
+        "adresse": "Combe Rouge, 12330 Salles-la-Source",
+        "note": 4.2,
+        "avis": 18,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "10313126316770087097",
+        "nom": "Péchoultres Yves",
+        "slug": "pechoultres-yves",
+        "telephone": "05 65 67 00 86",
+        "site_web": null,
+        "adresse": "12 Souyri, 12330 Salles-la-Source",
+        "note": 5,
+        "avis": 2,
+        "type": "Maçon"
+      },
+      {
+        "id": "12558528295056134417",
+        "nom": "SAS Carrion Julien",
+        "slug": "sas-carrion-julien",
+        "telephone": "07 89 20 29 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "severac-d-aveyron": {
+    "artisans": [
+      {
+        "id": "17573756787025249073",
+        "nom": "AB Energies à Séverac d'Aveyron - Plombier-Chauffagiste et Électricien",
+        "slug": "ab-energies-a-severac-daveyron-plombier-chauffagiste-et-electricien",
+        "telephone": "05 65 71 60 62",
+        "site_web": "https://abenergies-aveyron.fr/",
+        "adresse": "29 Av. Pasteur, 12150 Sévérac d'Aveyron",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10301679075951641971",
+        "nom": "Sévérac Ramonage - Poêles, Cheminées et Chaudières",
+        "slug": "severac-ramonage-poeles-cheminees-et-chaudieres",
+        "telephone": "05 65 78 47 91",
+        "site_web": "http://www.severac-ramonage.fr/",
+        "adresse": "4 rue du Bois Joli, 12150 Sévérac d'Aveyron",
+        "note": 4.9,
+        "avis": 0,
+        "type": "Ramoneur"
+      },
+      {
+        "id": "12212245477040818165",
+        "nom": "Cogra usine de Séverac-le-chateau",
+        "slug": "cogra-usine-de-severac-le-chateau",
+        "telephone": "05 65 58 18 68",
+        "site_web": "https://www.cogra.fr/",
+        "adresse": "ZONE, Les Marteliez, 12150 III",
+        "note": 4.3,
+        "avis": 86,
+        "type": "Fournisseur d'énergie verte"
+      },
+      {
+        "id": "14472277003149148203",
+        "nom": "Molinié-Sévérac",
+        "slug": "molinie-severac",
+        "telephone": "05 65 47 63 98",
+        "site_web": "http://www.molinie-severaclechateau.fr/?utm_source=gmb",
+        "adresse": "1 Rue de la Tricouse, 12150 Sévérac d'Aveyron",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Poste électrique"
+      },
+      {
+        "id": "2268310169095347678",
+        "nom": "Puech Associés",
+        "slug": "puech-associes",
+        "telephone": "05 65 71 69 07",
+        "site_web": "https://puechassocies12.fr/contact?utm_source=gmb",
+        "adresse": "Les Colombiès, 12150 Sévérac d'Aveyron",
+        "note": 4.3,
+        "avis": 0,
+        "type": "Environnement et ressources naturelles renouvelables"
+      },
+      {
+        "id": "6282750813298010535",
+        "nom": "JPB Froid Eurl",
+        "slug": "jpb-froid-eurl",
+        "telephone": "06 32 61 92 06",
+        "site_web": "http://www.jpbfroid.fr/",
+        "adresse": "20 Av. des Résistants, 12150 Sévérac d'Aveyron",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "vabres-l-abbaye": {
+    "artisans": [
+      {
+        "id": "16145481297643327424",
+        "nom": "Sarl Marinosa Michel",
+        "slug": "sarl-marinosa-michel",
+        "telephone": "05 65 49 11 78",
+        "site_web": null,
+        "adresse": "30 Bd Emile Borel, 12400 Saint-Affrique",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "14142820153969877857",
+        "nom": "V3C ENERGIES",
+        "slug": "v3c-energies",
+        "telephone": "06 08 09 54 82",
+        "site_web": "https://v3c-energies.fr/",
+        "adresse": "9 Rue Denis Papin, 12400 Saint-Affrique",
+        "note": 5,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "162398546142417284",
+        "nom": "Billy Solutions",
+        "slug": "billy-solutions",
+        "telephone": "05 65 99 18 56",
+        "site_web": "http://plombier-saint-affrique.fr/",
+        "adresse": "Le Vern, 12400 Saint-Affrique",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5581425918577244380",
+        "nom": "SARL Blaquière",
+        "slug": "sarl-blaquiere",
+        "telephone": "05 65 99 10 22",
+        "site_web": "https://www.chauffage-plomberie-saintaffrique.fr/",
+        "adresse": "286 Av. de Millau, 12400 Saint-Affrique",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18366869435625310473",
+        "nom": "C'est L' Plombier",
+        "slug": "cest-l-plombier",
+        "telephone": "06 02 07 02 13",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13054414218159188191",
+        "nom": "Soc Vabraise Travaux Forestiers",
+        "slug": "soc-vabraise-travaux-forestiers",
+        "telephone": "06 85 32 39 69",
+        "site_web": null,
+        "adresse": "550 Av. du Pont Vieux, 12400 Vabres-l'Abbaye",
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "1472772346533292263",
+        "nom": "CEDEO Saint-Affrique : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-saint-affrique-sanitaire-chauffage-plomberie",
+        "telephone": "05 65 49 90 63",
+        "site_web": "https://www.cedeo.fr/infos-agence/saint-affrique-cedeo-1864",
+        "adresse": "D54, 12400 Saint-Affrique",
+        "note": 3.8,
+        "avis": 10,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "4736901865211755295",
+        "nom": "Qualif's energies Stéphane GOMEZ",
+        "slug": "qualifs-energies-stephane-gomez",
+        "telephone": "06 50 33 30 76",
+        "site_web": null,
+        "adresse": "Vendeloves, 12400 Saint-Affrique",
+        "note": 5,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2334196862440513728",
+        "nom": "Sud Aveyron Chape",
+        "slug": "sud-aveyron-chape",
+        "telephone": "05 65 49 39 39",
+        "site_web": "https://www.sudaveyronchape.fr/",
+        "adresse": "315 Av. du Tounic, 12400 Vabres-l'Abbaye",
+        "note": 3,
+        "avis": 0,
+        "type": "Maçon"
+      },
+      {
+        "id": "4694583352586851807",
+        "nom": "THIBAL DISTRIBUTION Saint-Affrique",
+        "slug": "thibal-distribution-saint-affrique",
+        "telephone": "05 65 49 02 40",
+        "site_web": "http://www.thibal-distribution.fr/",
+        "adresse": "Zone Industrielles des Cazes, ZA des Cazes 2, 377 Rte de Bournac, 12400 Saint-Affrique",
+        "note": 3.5,
+        "avis": 23,
+        "type": "Magasin de matériel électrique"
+      }
+    ]
+  },
+  "salles-curan": {
+    "artisans": [
+      {
+        "id": "13124224043220746682",
+        "nom": "Bousquet Th. SARL",
+        "slug": "bousquet-th-sarl",
+        "telephone": "05 65 59 80 81",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15614362743527029222",
+        "nom": "Confort Plus (Espinossa) - Plombier - Chauffagiste",
+        "slug": "confort-plus-espinossa-plombier-chauffagiste",
+        "telephone": "05 65 59 02 74",
+        "site_web": "https://www.espinossa-confortplus.com/",
+        "adresse": "36 Rue des Lilas, 12100 Millau",
+        "note": 4.1,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7327832969451322875",
+        "nom": "Ets Gaubert Christophe",
+        "slug": "ets-gaubert-christophe",
+        "telephone": "05 65 46 34 59",
+        "site_web": null,
+        "adresse": "Pl. du Foirail, 12410 Salles-Curan",
+        "note": 4.8,
+        "avis": 19,
+        "type": "Électricien"
+      },
+      {
+        "id": "8712953352539329567",
+        "nom": "Arguel Service Electricité Plomberie électroménager",
+        "slug": "arguel-service-electricite-plomberie-electromenager",
+        "telephone": "05 65 46 82 40",
+        "site_web": "http://www.arguelservice.fr/",
+        "adresse": "La Lande, 12290 Pont-de-Salars",
+        "note": 4.6,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "6869920501297656653",
+        "nom": "SARL AMD2C",
+        "slug": "sarl-amd2c",
+        "telephone": "06 59 99 56 33",
+        "site_web": "https://www.facebook.com/aveyronmaintenancedepannagechauffage",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12149155057639630720",
+        "nom": "RAGT Jardin et Maison",
+        "slug": "ragt-jardin-et-maison",
+        "telephone": "05 65 46 33 04",
+        "site_web": "http://www.ragtjardinmaison.fr/",
+        "adresse": "24 Rte de Millau, 12410 Salles-Curan",
+        "note": 4,
+        "avis": 0,
+        "type": "Jardinerie"
+      },
+      {
+        "id": "9723757234066138640",
+        "nom": "MOCA",
+        "slug": "moca",
+        "telephone": "06 51 07 49 37",
+        "site_web": null,
+        "adresse": "2 Rue Pierre Fernand Benoît, 12290 Pont-de-Salars",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "2037858402522603448",
+        "nom": "Gite le Rouve",
+        "slug": "gite-le-rouve",
+        "telephone": "06 74 75 29 89",
+        "site_web": null,
+        "adresse": "12410 Salles-Curan",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Lodge"
+      },
+      {
+        "id": "11852273829912734866",
+        "nom": "Angles Emmanuel. A2C",
+        "slug": "angles-emmanuel-a2c",
+        "telephone": "05 65 78 54 33",
+        "site_web": "http://www.a2c-angles.fr/",
+        "adresse": "Le Grand Mas, 12290 Trémouilles",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "14022134992399389618",
+        "nom": "FRAYSSINHES THIERRY",
+        "slug": "frayssinhes-thierry",
+        "telephone": "05 65 46 34 32",
+        "site_web": "https://ateliers-frayssinhes.com/index.html",
+        "adresse": "Saint-Martin des Faux, 12410 Salles-Curan",
+        "note": 5,
+        "avis": 0,
+        "type": "Charpentier"
+      }
+    ]
+  },
+  "sebazac-concoures": {
+    "artisans": [
+      {
+        "id": "640877904862687974",
+        "nom": "Puech Patrick",
+        "slug": "puech-patrick",
+        "telephone": "05 65 46 92 74",
+        "site_web": null,
+        "adresse": "12 Rue du Cros, 12740 Sébazac-Concourès",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "11481170131881881505",
+        "nom": "Debril Olivier",
+        "slug": "debril-olivier",
+        "telephone": "09 53 65 78 82",
+        "site_web": null,
+        "adresse": "Rue zone artisanale du cros 2 B, 12740 Sébazac-Concourès",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9578670510975776781",
+        "nom": "MGC chauffage et climatisation",
+        "slug": "mgc-chauffage-et-climatisation",
+        "telephone": "05 65 61 66 61",
+        "site_web": "https://www.mgc-12.fr/",
+        "adresse": "16 All. des Castelets, 12740 La Loubière",
+        "note": 4.2,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16267743373176355498",
+        "nom": "Aveyron Cheminées & Poêles - ETS Boissonnade",
+        "slug": "aveyron-cheminees-poeles-ets-boissonnade",
+        "telephone": "05 65 46 98 32",
+        "site_web": "http://www.aveyron-cheminees.com/",
+        "adresse": "CC COMTAL NORD, 05 Rte d'Argent, 12740 Sébazac-Concourès",
+        "note": 4.6,
+        "avis": 72,
+        "type": "Cheministe"
+      },
+      {
+        "id": "8144562375628600141",
+        "nom": "Sarl Palmie",
+        "slug": "sarl-palmie",
+        "telephone": "05 65 60 64 95",
+        "site_web": "http://palmie-chauffage-climatisation-sanitaire.fr/",
+        "adresse": "Zone Artisanale Lioujas, 12740 Lioujas la Loubière",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1989774168033440915",
+        "nom": "CEDEO Rodez Balquières: Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-rodez-balquieres-sanitaire-chauffage-plomberie",
+        "telephone": "05 65 77 17 75",
+        "site_web": "https://www.cedeo.fr/infos-agence/rodez-balquieres-cedeo-5370",
+        "adresse": "Bd des Balquières, 12850 Onet-le-Château",
+        "note": 5,
+        "avis": 20,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "1197673930963388650",
+        "nom": "PARTEDIS Pièces Détachées - Chauffage Climatisation - Rodez",
+        "slug": "partedis-pieces-detachees-chauffage-climatisation-rodez",
+        "telephone": "05 65 46 69 53",
+        "site_web": "http://www.partedis.com/agence/rodez-pieces-detachees/",
+        "adresse": "23 Rue Nicolas Appert, 12000 Rodez",
+        "note": 4,
+        "avis": 0,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "3142215086874216681",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "05 65 42 53 71",
+        "site_web": "https://agence.engie-homeservices.fr/240-engie-home-services-rodez?utm_source=gmb",
+        "adresse": "34 Rue de la Solidarité, 12850 Onet-le-Château",
+        "note": 3.9,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6105634964407091341",
+        "nom": "CEDEO Rodez Bel Air : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-rodez-bel-air-sanitaire-chauffage-plomberie",
+        "telephone": "05 65 77 19 00",
+        "site_web": "https://www.cedeo.fr/infos-agence/rodez-bel-air-cedeo-1480",
+        "adresse": "240 Rue des Enlumineurs, 12850 Onet-le-Château",
+        "note": 4.6,
+        "avis": 37,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "3796290505280191362",
+        "nom": "Station Bois de Rodez",
+        "slug": "station-bois-de-rodez",
+        "telephone": "05 65 44 93 24",
+        "site_web": "https://station-bois.fr/implantations/france/occitanie/distributeur-automatique-de-pellets-en-vrac-a-rodez/",
+        "adresse": "123 Rte d'Espalion, 12850 Onet-le-Château",
+        "note": 1.7,
+        "avis": 6,
+        "type": "Magasin de bois de chauffage"
+      }
+    ]
+  },
+  "villefranche-de-rouergue": {
+    "artisans": [
+      {
+        "id": "8693585540712399033",
+        "nom": "CEDEO La salle de bain Villefranche de Rouergue",
+        "slug": "cedeo-la-salle-de-bain-villefranche-de-rouergue",
+        "telephone": "05 65 45 49 30",
+        "site_web": "https://www.cedeo.fr/salle-expo/cedeo-la-salle-de-bain-villefranche-de-rouergue-5767",
+        "adresse": "Av. des Croates, 12200 Villefranche-de-Rouergue",
+        "note": 5,
+        "avis": 10,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "10977187782866340491",
+        "nom": "Laumond Ets",
+        "slug": "laumond-ets",
+        "telephone": "05 65 45 12 24",
+        "site_web": null,
+        "adresse": "Av. du 8 Mai, 12200 Villefranche-de-Rouergue",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3198607455254108250",
+        "nom": "Aveyron Dépannage Electroménager",
+        "slug": "aveyron-depannage-electromenager",
+        "telephone": "05 65 45 71 42",
+        "site_web": "https://www.facebook.com/Aveyron-Depannage-Electromenager-213589832822612/?utm_source=gmb",
+        "adresse": "147 Av. du Quercy, 12200 Villefranche-de-Rouergue",
+        "note": 4.6,
+        "avis": 47,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "533332549875887666",
+        "nom": "Perna Frères Sarl",
+        "slug": "perna-freres-sarl",
+        "telephone": "05 65 45 37 60",
+        "site_web": "https://plombier-chauffagiste-perna-freres.fr/",
+        "adresse": "50 Av. du Quercy, 12200 Villefranche-de-Rouergue",
+        "note": 3.6,
+        "avis": 0,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "7051223123684974004",
+        "nom": "Sauzeau Cédric",
+        "slug": "sauzeau-cedric",
+        "telephone": "05 65 45 11 62",
+        "site_web": null,
+        "adresse": "19 Rue Henry Mouly, 12200 Villefranche-de-Rouergue",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "8048650536662566976",
+        "nom": "Espace Aubade Malrieu Distribution Villefranche",
+        "slug": "espace-aubade-malrieu-distribution-villefranche",
+        "telephone": "05 65 45 82 00",
+        "site_web": "https://www.espace-aubade.fr/magasins/villefranche-de-rouergue-147.html",
+        "adresse": "114 Av. du Quercy, 12200 Villefranche-de-Rouergue",
+        "note": 4.8,
+        "avis": 0,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "6463145744594011863",
+        "nom": "Frescada - Climatisation & Thermodynamique",
+        "slug": "frescada-climatisation-thermodynamique",
+        "telephone": "07 68 68 74 74",
+        "site_web": "http://www.frescada.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "1346145965662397705",
+        "nom": "MP BOIS ET SERVICES - MOULY PATRICE",
+        "slug": "mp-bois-et-services-mouly-patrice",
+        "telephone": "06 03 67 58 75",
+        "site_web": "https://www.facebook.com/mp.bois.villefranche/",
+        "adresse": "Chem. du Cauffanel, 12200 Villefranche-de-Rouergue",
+        "note": 5,
+        "avis": 27,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "3019895155780910799",
+        "nom": "SARL L'Univers du Feu - Expert Chaleur Bois",
+        "slug": "sarl-lunivers-du-feu-expert-chaleur-bois",
+        "telephone": "05 65 81 18 92",
+        "site_web": null,
+        "adresse": "125 Av. du Quercy, 12200 Villefranche-de-Rouergue",
+        "note": 4.2,
+        "avis": 37,
+        "type": "Cheministe"
+      },
+      {
+        "id": "6629779309107972354",
+        "nom": "MONTARNAL DANIEL DEPANNAGES",
+        "slug": "montarnal-daniel-depannages",
+        "telephone": "05 65 45 48 75",
+        "site_web": null,
+        "adresse": "Z.I. Les Granges, Av. des Granges, 12200 Villefranche-de-Rouergue",
+        "note": 3.7,
+        "avis": 0,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "villeneuve": {
+    "artisans": [
+      {
+        "id": "17904207599777596361",
+        "nom": "Raynal Eric",
+        "slug": "raynal-eric",
+        "telephone": "05 65 81 79 94",
+        "site_web": "https://www.raynal-combustibles.fr/?utm_source=gmb",
+        "adresse": "4553 Route de Figeac, 12260 Villeneuve d'Aveyron",
+        "note": 4.7,
+        "avis": 0,
+        "type": "Magasin de bois de chauffage"
+      },
+      {
+        "id": "23246283706001217",
+        "nom": "JCM Plomberie",
+        "slug": "jcm-plomberie",
+        "telephone": "06 30 65 14 85",
+        "site_web": "https://www.jcm12260.fr/",
+        "adresse": "111 Bellevue, 12260 Villeneuve",
+        "note": 4.9,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "16233920751810305222",
+        "nom": "Froid Et Climatisation",
+        "slug": "froid-et-climatisation",
+        "telephone": "05 65 81 50 15",
+        "site_web": "http://www.froidclim-vila.fr/",
+        "adresse": "Le Fraysse, 12260 Villeneuve",
+        "note": 4.6,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10339825520685048436",
+        "nom": "JLA PLOMBERIE",
+        "slug": "jla-plomberie",
+        "telephone": "06 62 11 66 78",
+        "site_web": null,
+        "adresse": "L'EVESQUE, 12260 Montsalès",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "15170167165192632842",
+        "nom": "Rols Julien",
+        "slug": "rols-julien",
+        "telephone": "05 65 29 42 53",
+        "site_web": null,
+        "adresse": "Mas de Fourcadelle, 12260 Montsalès",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  }
+}

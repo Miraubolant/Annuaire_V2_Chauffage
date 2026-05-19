@@ -1,0 +1,393 @@
+{
+    "region": {
+        "id": 2,
+        "code": "01",
+        "nom": "Auvergne-Rhône-Alpes",
+        "slug": "auvergne-rhone-alpes"
+    },
+    "departements": [
+        {
+            "code": "01",
+            "nom": "Ain",
+            "slug": "ain",
+            "population_totale": 665468,
+            "communes_count": 391,
+            "communes_avec_artisans": 171,
+            "artisans_chauffage": 1180,
+            "voisins": [
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                },
+                {
+                    "dep_code": "26",
+                    "dep_nom": "Drôme",
+                    "dep_slug": "drome"
+                }
+            ]
+        },
+        {
+            "code": "03",
+            "nom": "Allier",
+            "slug": "allier",
+            "population_totale": 334814,
+            "communes_count": 317,
+            "communes_avec_artisans": 64,
+            "artisans_chauffage": 374,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                },
+                {
+                    "dep_code": "26",
+                    "dep_nom": "Drôme",
+                    "dep_slug": "drome"
+                }
+            ]
+        },
+        {
+            "code": "07",
+            "nom": "Ardèche",
+            "slug": "ardeche",
+            "population_totale": 332564,
+            "communes_count": 335,
+            "communes_avec_artisans": 91,
+            "artisans_chauffage": 526,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                },
+                {
+                    "dep_code": "26",
+                    "dep_nom": "Drôme",
+                    "dep_slug": "drome"
+                }
+            ]
+        },
+        {
+            "code": "15",
+            "nom": "Cantal",
+            "slug": "cantal",
+            "population_totale": 144572,
+            "communes_count": 250,
+            "communes_avec_artisans": 28,
+            "artisans_chauffage": 117,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "26",
+                    "dep_nom": "Drôme",
+                    "dep_slug": "drome"
+                }
+            ]
+        },
+        {
+            "code": "26",
+            "nom": "Drôme",
+            "slug": "drome",
+            "population_totale": 520293,
+            "communes_count": 362,
+            "communes_avec_artisans": 101,
+            "artisans_chauffage": 692,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                }
+            ]
+        },
+        {
+            "code": "38",
+            "nom": "Isère",
+            "slug": "isere",
+            "population_totale": 1289104,
+            "communes_count": 512,
+            "communes_avec_artisans": 266,
+            "artisans_chauffage": 2116,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                }
+            ]
+        },
+        {
+            "code": "42",
+            "nom": "Loire",
+            "slug": "loire",
+            "population_totale": 770130,
+            "communes_count": 320,
+            "communes_avec_artisans": 133,
+            "artisans_chauffage": 892,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                }
+            ]
+        },
+        {
+            "code": "43",
+            "nom": "Haute-Loire",
+            "slug": "haute-loire",
+            "population_totale": 227866,
+            "communes_count": 257,
+            "communes_avec_artisans": 60,
+            "artisans_chauffage": 344,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                }
+            ]
+        },
+        {
+            "code": "63",
+            "nom": "Puy-de-Dôme",
+            "slug": "puy-de-dome",
+            "population_totale": 663504,
+            "communes_count": 463,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                }
+            ]
+        },
+        {
+            "code": "69",
+            "nom": "Rhône",
+            "slug": "rhone",
+            "population_totale": 1895074,
+            "communes_count": 267,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                }
+            ]
+        },
+        {
+            "code": "73",
+            "nom": "Savoie",
+            "slug": "savoie",
+            "population_totale": 443896,
+            "communes_count": 273,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                }
+            ]
+        },
+        {
+            "code": "74",
+            "nom": "Haute-Savoie",
+            "slug": "haute-savoie",
+            "population_totale": 843795,
+            "communes_count": 279,
+            "communes_avec_artisans": 0,
+            "artisans_chauffage": 0,
+            "voisins": [
+                {
+                    "dep_code": "01",
+                    "dep_nom": "Ain",
+                    "dep_slug": "ain"
+                },
+                {
+                    "dep_code": "03",
+                    "dep_nom": "Allier",
+                    "dep_slug": "allier"
+                },
+                {
+                    "dep_code": "07",
+                    "dep_nom": "Ardèche",
+                    "dep_slug": "ardeche"
+                },
+                {
+                    "dep_code": "15",
+                    "dep_nom": "Cantal",
+                    "dep_slug": "cantal"
+                }
+            ]
+        }
+    ],
+    "stats": {
+        "communes_total": 4026,
+        "communes_avec_artisans": 914,
+        "artisans_chauffage": 6241,
+        "population_totale": 8131080
+    },
+    "zones_climatiques": {
+        "H1": 3329,
+        "H2": 697
+    },
+    "zone_climatique_dominante": "H1"
+}

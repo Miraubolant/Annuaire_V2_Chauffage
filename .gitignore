@@ -1,0 +1,7 @@
+﻿node_modules/
+output/seo/
+*.log
+.playwright-mcp/
+8842f8ff01974f089311812e3633d949.txt
+README.md
+PLAN_*.md
