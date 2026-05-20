@@ -105,8 +105,8 @@
             "slug": "nievre",
             "population_totale": 201763,
             "communes_count": 309,
-            "communes_avec_artisans": 126,
-            "artisans_chauffage": 276,
+            "communes_avec_artisans": 306,
+            "artisans_chauffage": 1461,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -136,8 +136,8 @@
             "slug": "haute-saone",
             "population_totale": 233871,
             "communes_count": 536,
-            "communes_avec_artisans": 157,
-            "artisans_chauffage": 284,
+            "communes_avec_artisans": 517,
+            "artisans_chauffage": 2608,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -167,8 +167,8 @@
             "slug": "saone-et-loire",
             "population_totale": 549841,
             "communes_count": 563,
-            "communes_avec_artisans": 284,
-            "artisans_chauffage": 877,
+            "communes_avec_artisans": 553,
+            "artisans_chauffage": 3384,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -198,8 +198,8 @@
             "slug": "yonne",
             "population_totale": 332708,
             "communes_count": 423,
-            "communes_avec_artisans": 189,
-            "artisans_chauffage": 511,
+            "communes_avec_artisans": 412,
+            "artisans_chauffage": 2403,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -229,8 +229,8 @@
             "slug": "territoire-de-belfort",
             "population_totale": 139628,
             "communes_count": 101,
-            "communes_avec_artisans": 57,
-            "artisans_chauffage": 163,
+            "communes_avec_artisans": 94,
+            "artisans_chauffage": 388,
             "voisins": [
                 {
                     "dep_code": "21",
@@ -257,8 +257,8 @@
     ],
     "stats": {
         "communes_total": 3685,
-        "communes_avec_artisans": 1462,
-        "artisans_chauffage": 3901,
+        "communes_avec_artisans": 2531,
+        "artisans_chauffage": 12034,
         "population_totale": 2800054
     },
     "zones_climatiques": {

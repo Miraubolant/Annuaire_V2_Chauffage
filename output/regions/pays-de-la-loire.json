@@ -74,8 +74,8 @@
             "slug": "mayenne",
             "population_totale": 305700,
             "communes_count": 240,
-            "communes_avec_artisans": 94,
-            "artisans_chauffage": 250,
+            "communes_avec_artisans": 236,
+            "artisans_chauffage": 1237,
             "voisins": [
                 {
                     "dep_code": "44",
@@ -105,8 +105,8 @@
             "slug": "sarthe",
             "population_totale": 565501,
             "communes_count": 353,
-            "communes_avec_artisans": 188,
-            "artisans_chauffage": 614,
+            "communes_avec_artisans": 342,
+            "artisans_chauffage": 2127,
             "voisins": [
                 {
                     "dep_code": "44",
@@ -136,8 +136,8 @@
             "slug": "vendee",
             "population_totale": 702144,
             "communes_count": 254,
-            "communes_avec_artisans": 195,
-            "artisans_chauffage": 854,
+            "communes_avec_artisans": 253,
+            "artisans_chauffage": 1577,
             "voisins": [
                 {
                     "dep_code": "44",
@@ -164,8 +164,8 @@
     ],
     "stats": {
         "communes_total": 1231,
-        "communes_avec_artisans": 804,
-        "artisans_chauffage": 3944,
+        "communes_avec_artisans": 1158,
+        "artisans_chauffage": 7167,
         "population_totale": 3873572
     },
     "zones_climatiques": {

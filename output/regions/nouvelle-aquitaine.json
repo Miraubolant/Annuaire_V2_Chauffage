@@ -260,8 +260,8 @@
             "slug": "pyrenees-atlantiques",
             "population_totale": 694121,
             "communes_count": 545,
-            "communes_avec_artisans": 258,
-            "artisans_chauffage": 1140,
+            "communes_avec_artisans": 542,
+            "artisans_chauffage": 3214,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -291,8 +291,8 @@
             "slug": "deux-sevres",
             "population_totale": 373656,
             "communes_count": 252,
-            "communes_avec_artisans": 139,
-            "artisans_chauffage": 394,
+            "communes_avec_artisans": 246,
+            "artisans_chauffage": 1452,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -322,8 +322,8 @@
             "slug": "vienne",
             "population_totale": 439388,
             "communes_count": 265,
-            "communes_avec_artisans": 152,
-            "artisans_chauffage": 465,
+            "communes_avec_artisans": 263,
+            "artisans_chauffage": 1478,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -353,8 +353,8 @@
             "slug": "haute-vienne",
             "population_totale": 372104,
             "communes_count": 195,
-            "communes_avec_artisans": 118,
-            "artisans_chauffage": 452,
+            "communes_avec_artisans": 194,
+            "artisans_chauffage": 1071,
             "voisins": [
                 {
                     "dep_code": "16",
@@ -381,8 +381,8 @@
     ],
     "stats": {
         "communes_total": 4293,
-        "communes_avec_artisans": 2380,
-        "artisans_chauffage": 8875,
+        "communes_avec_artisans": 2958,
+        "artisans_chauffage": 13639,
         "population_totale": 6076120
     },
     "zones_climatiques": {

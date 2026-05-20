@@ -1,0 +1,3434 @@
+{
+  "clamart": {
+    "artisans": [
+      {
+        "id": "654065341376722945",
+        "nom": "ANTONY ENTREPRISE",
+        "slug": "antony-entreprise",
+        "telephone": "01 46 44 47 30",
+        "site_web": "https://www.antonyentreprise.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "92 Av. Victor Hugo, 92140 Clamart",
+        "note": 4.1,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4600261038115671867",
+        "nom": "AJM Climatisation - Dépannage et installation",
+        "slug": "ajm-climatisation-depannage-et-installation",
+        "telephone": "06 78 84 97 86",
+        "site_web": "http://www.clim92.fr/",
+        "adresse": "4 All. Louise Bourgeois, 92140 Clamart",
+        "note": 5,
+        "avis": 51,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "12072200112212498413",
+        "nom": "PLOMB ART CLAM ART",
+        "slug": "plomb-art-clam-art",
+        "telephone": "06 60 91 85 12",
+        "site_web": "http://www.plombart-clamart.fr/",
+        "adresse": "8 Rue des Aubépines, 92140 Clamart",
+        "note": 4.8,
+        "avis": 180,
+        "type": "Plombier"
+      },
+      {
+        "id": "15324964192747159534",
+        "nom": "Inter-ville Dépannage Plomberie",
+        "slug": "inter-ville-depannage-plomberie",
+        "telephone": "01 47 36 38 13",
+        "site_web": "http://www.interville-depannage-plomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 38,
+        "type": "Plombier"
+      },
+      {
+        "id": "6035609107256984724",
+        "nom": "GAZ DOT",
+        "slug": "gaz-dot",
+        "telephone": "01 64 66 00 89",
+        "site_web": "http://www.gazdot.fr/",
+        "adresse": "3A Bd Michaēl Faraday, 77700 Serris",
+        "note": 4.2,
+        "avis": 265,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4812297558467608434",
+        "nom": "Artisan Piezin",
+        "slug": "artisan-piezin",
+        "telephone": "06 18 98 91 64",
+        "site_web": "http://www.artisanpiezin.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 68,
+        "type": "Plombier"
+      },
+      {
+        "id": "5869132804739352886",
+        "nom": "Solectram",
+        "slug": "solectram",
+        "telephone": "06 02 18 33 05",
+        "site_web": "http://www.solectram.fr/",
+        "adresse": "111 Rue des Closiaux, 92140 Clamart",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9787106034169264720",
+        "nom": "La Plombière en Marinière | Plomberie - Chauffage",
+        "slug": "la-plombiere-en-mariniere-plomberie-chauffage",
+        "telephone": "06 52 48 70 61",
+        "site_web": "https://www.lpem.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 56,
+        "type": "Plombier"
+      },
+      {
+        "id": "14046058348757325924",
+        "nom": "Donald plombier clamart",
+        "slug": "donald-plombier-clamart",
+        "telephone": "07 56 94 67 89",
+        "site_web": "https://www.societe.com/societe/monsieur-clamart-donald-plombier-939267233.html",
+        "adresse": "90 Rue du Moulin de Pierre, 92140 Clamart",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "17465600136206511505",
+        "nom": "CP7",
+        "slug": "cp7",
+        "telephone": "06 66 75 61 50",
+        "site_web": "https://www.cp7-renovation.fr/",
+        "adresse": "41 Rue de l'Espérance, 92140 Clamart",
+        "note": 4.9,
+        "avis": 119,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "antony": {
+    "artisans": [
+      {
+        "id": "12788343604673705726",
+        "nom": "Stm2C Chauffage Plomberie",
+        "slug": "stm2c-chauffage-plomberie",
+        "telephone": "07 63 72 22 96",
+        "site_web": "https://stm2c.fr/",
+        "adresse": "36 Rue Céline, 92160 Antony",
+        "note": 4.8,
+        "avis": 26,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17266061907682101308",
+        "nom": "SFDC Chaudière, Pompe à Chaleur, Chauffe Eau",
+        "slug": "sfdc-chaudiere-pompe-a-chaleur-chauffe-eau",
+        "telephone": "01 56 45 04 35",
+        "site_web": "http://www.sfdcantony.com/",
+        "adresse": "169 Av. de la Division Leclerc, 92160 Antony",
+        "note": 4.6,
+        "avis": 145,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12780111246295550787",
+        "nom": "JEREMY Plombier Antony",
+        "slug": "jeremy-plombier-antony",
+        "telephone": "01 87 58 88 59",
+        "site_web": null,
+        "adresse": "1 All. François Mansart, 92160 Antony",
+        "note": 5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "323758543873393385",
+        "nom": "ets batigaz",
+        "slug": "ets-batigaz",
+        "telephone": "01 46 68 60 33",
+        "site_web": "http://www.batigaz.fr/",
+        "adresse": "15 Rue Julien Périn, 92160 Antony",
+        "note": 4.3,
+        "avis": 28,
+        "type": "Plombier"
+      },
+      {
+        "id": "17338400704813407982",
+        "nom": "A.L.P Chauffage",
+        "slug": "alp-chauffage",
+        "telephone": "01 46 66 77 45",
+        "site_web": "http://www.alpchauffage.com/",
+        "adresse": "16 Rue Victor Clément, 92160 Antony",
+        "note": 4.4,
+        "avis": 48,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6508301905136310354",
+        "nom": "CHGE - installation - dépannage - entretien pompe à chaleur - installation climatisation réversible antony",
+        "slug": "chge-installation-depannage-entretien-pompe-a-chaleur-installation-climatisation-reversible-antony",
+        "telephone": "01 84 80 80 42",
+        "site_web": "https://jsidf-climatisation-pac.com/antony/",
+        "adresse": "5 Rue Auguste Mounié, 92160 Antony",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "18053646699499615926",
+        "nom": "Bauchet Franck",
+        "slug": "bauchet-franck",
+        "telephone": "06 70 68 39 46",
+        "site_web": "http://www.plombier-antony-bauchet.fr/",
+        "adresse": "19 Rue de la Mutualité, 92160 Antony",
+        "note": 4.9,
+        "avis": 55,
+        "type": "Plombier"
+      },
+      {
+        "id": "17135104773041588872",
+        "nom": "Technologie solaire plombier 92 | pas cher | Urgence 24/24",
+        "slug": "technologie-solaire-plombier-92-pas-cher-urgence-2424",
+        "telephone": "01 72 44 20 37",
+        "site_web": "https://www.plombier-92-haut-de-seine.fr/",
+        "adresse": "1 Rue Jacques Rueff, 92160 Antony",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "2100887274239773717",
+        "nom": "Therm innov",
+        "slug": "therm-innov",
+        "telephone": "06 51 07 35 81",
+        "site_web": "https://www.therminnov-chauffagiste-92.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 54,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2616090368392639413",
+        "nom": "Pierre Plombier Antony",
+        "slug": "pierre-plombier-antony",
+        "telephone": "01 85 09 47 18",
+        "site_web": "https://pierreplombierantony.fr/",
+        "adresse": "149 Av. de la Division Leclerc, 92160 Antony",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "issy-les-moulineaux": {
+    "artisans": [
+      {
+        "id": "1513464701338545464",
+        "nom": "DEPANNAGE PLOMBERIE Multiservices",
+        "slug": "depannage-plomberie-multiservices",
+        "telephone": "01 40 30 78 74",
+        "site_web": null,
+        "adresse": "122 Av. du Général de Gaulle, 92130 Issy-les-Moulineaux",
+        "note": 4.4,
+        "avis": 50,
+        "type": "Plombier"
+      },
+      {
+        "id": "13062947344157222350",
+        "nom": "H2C - Energie",
+        "slug": "h2c-energie",
+        "telephone": "07 43 65 66 16",
+        "site_web": null,
+        "adresse": "4 Rue Louise Michel, 95190 Goussainville",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6671919261621304899",
+        "nom": "Artisans D'Issy",
+        "slug": "artisans-dissy",
+        "telephone": "06 62 55 57 28",
+        "site_web": "http://artisans-dissy.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 58,
+        "type": "Plombier"
+      },
+      {
+        "id": "1811555937989684978",
+        "nom": "Ets Lefevre Paris 11 : Plombier débouchage - Chauffagiste - Serrurier",
+        "slug": "ets-lefevre-paris-11-plombier-debouchage-chauffagiste-serrurier",
+        "telephone": "01 48 05 15 15",
+        "site_web": "https://www.ets-lefevre.fr/",
+        "adresse": "124 Bd Voltaire, 75011 Paris",
+        "note": 4.5,
+        "avis": 148,
+        "type": "Plombier"
+      },
+      {
+        "id": "6607467518258567300",
+        "nom": "DG PLOMBERIE 92",
+        "slug": "dg-plomberie-92",
+        "telephone": "01 40 30 78 35",
+        "site_web": "https://fr.mappy.com/poi/6186082089c14700c64a6afb",
+        "adresse": "10 Rue Foucher Lepelletier, 92130 Issy-les-Moulineaux",
+        "note": 4.7,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "14496696033665561943",
+        "nom": "Thomas Léo plombier Issy-les-moulineaux",
+        "slug": "thomas-leo-plombier-issy-les-moulineaux",
+        "telephone": "01 85 09 89 27",
+        "site_web": "https://leothomasplombierissy-les-moulineaux.fr/",
+        "adresse": "20 Rue Roger Salengro, 92130 Issy-les-Moulineaux",
+        "note": 4.2,
+        "avis": 66,
+        "type": "Plombier"
+      },
+      {
+        "id": "16037894669817159110",
+        "nom": "Sos Plomberie 92",
+        "slug": "sos-plomberie-92",
+        "telephone": "07 52 63 50 52",
+        "site_web": "https://sosplomberie92.fr/",
+        "adresse": "10 Rue Marceau, 92130 Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "14743032751725059661",
+        "nom": "RG Rénovation Générale Plomberie",
+        "slug": "rg-renovation-generale-plomberie",
+        "telephone": "07 70 19 16 75",
+        "site_web": "http://rg-plomberie-paris.com/",
+        "adresse": "11 Rue de la Pastorale d'Issy, 92130 Issy-les-Moulineaux",
+        "note": 4.9,
+        "avis": 151,
+        "type": "Plombier"
+      },
+      {
+        "id": "14217751707814667310",
+        "nom": "Blue Gold Control",
+        "slug": "blue-gold-control",
+        "telephone": "06 10 78 77 40",
+        "site_web": "http://www.bluegoldcontrol.fr/",
+        "adresse": "38 Rue Danton, 92130 Issy-les-Moulineaux",
+        "note": 4.9,
+        "avis": 101,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "3809403196721821554",
+        "nom": "Varrot & Co 32 Avenue du bas Meudon 92130",
+        "slug": "varrot-co-32-avenue-du-bas-meudon-92130",
+        "telephone": "01 46 62 63 21",
+        "site_web": "http://www.varrot-plomberie-chauffage.fr/",
+        "adresse": null,
+        "note": 3.9,
+        "avis": 22,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "meudon": {
+    "artisans": [
+      {
+        "id": "12214355885489520627",
+        "nom": "Will Services",
+        "slug": "will-services",
+        "telephone": "06 20 23 78 80",
+        "site_web": null,
+        "adresse": "41 Av. Paul Bert, 92190 Meudon",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "5637734683520640025",
+        "nom": "Castaing",
+        "slug": "castaing",
+        "telephone": "01 46 26 83 94",
+        "site_web": "https://www.castaing-depannage.fr/",
+        "adresse": "25 Bd des Nations Unies, 92190 Meudon",
+        "note": 3.2,
+        "avis": 17,
+        "type": "Électricien"
+      },
+      {
+        "id": "9938600393861085647",
+        "nom": "Au Compagnon",
+        "slug": "au-compagnon",
+        "telephone": "01 46 26 11 18",
+        "site_web": "https://www.acbmeudon.com/",
+        "adresse": "1 Pl. Stalingrad, 92190 Meudon",
+        "note": 4.3,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "17734336391827178619",
+        "nom": "Chaufferie Engie de Meudon-la-Forêt",
+        "slug": "chaufferie-engie-de-meudon-la-foret",
+        "telephone": "01 48 13 54 00",
+        "site_web": null,
+        "adresse": "1 Rte Forestière du Tronchet, 92190 Meudon",
+        "note": 3.8,
+        "avis": 5,
+        "type": "Société pétrolière et de gaz naturel"
+      },
+      {
+        "id": "16841372097450792833",
+        "nom": "France Installation pompe à chaleur et climatisation sèvres - maintenance - dépannage et installation ballon thermodynamique",
+        "slug": "france-installation-pompe-a-chaleur-et-climatisation-sevres-maintenance-depannage-et-installation-ballon-thermodynamique",
+        "telephone": "01 87 66 41 76",
+        "site_web": "https://franceacompagne-isosevres-combles.com/",
+        "adresse": "5 Rue des Binelles, 92310 Sèvres",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6375090422344342657",
+        "nom": "Willy les bons tuyaux",
+        "slug": "willy-les-bons-tuyaux",
+        "telephone": "06 12 92 37 09",
+        "site_web": "http://willylesbonstuyaux.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "12308019740950624022",
+        "nom": "SAS SCUTO",
+        "slug": "sas-scuto",
+        "telephone": "01 45 34 14 08",
+        "site_web": "https://scutomeudon-elec.com/",
+        "adresse": "37 Av. le Corbeiller, 92190 Meudon",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "4862811729018977313",
+        "nom": "Entreprise de rénovation - Hemov",
+        "slug": "entreprise-de-renovation-hemov",
+        "telephone": "06 40 59 15 54",
+        "site_web": "http://www.hemov.fr/",
+        "adresse": "27 Rue Henri Savignac, 92190 Meudon",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "levallois-perret": {
+    "artisans": [
+      {
+        "id": "14773002928991223898",
+        "nom": "BATI LS LEVALLOIS PERRET",
+        "slug": "bati-ls-levallois-perret",
+        "telephone": "06 15 17 23 72",
+        "site_web": "https://avsbati.com/",
+        "adresse": "64 Rue Anatole France, 92300 Levallois-Perret",
+        "note": 4.7,
+        "avis": 73,
+        "type": "Plombier"
+      },
+      {
+        "id": "8337914219935122569",
+        "nom": "Ets Laroche",
+        "slug": "ets-laroche",
+        "telephone": "01 40 92 25 47",
+        "site_web": "https://www.etablissements-laroche.fr/plombier-versailles-78000-yvelines/",
+        "adresse": "47 Rue Danton, 92300 Levallois-Perret",
+        "note": 4.7,
+        "avis": 37,
+        "type": "Plombier"
+      },
+      {
+        "id": "6368329293527404940",
+        "nom": "Entreprise Quentin",
+        "slug": "entreprise-quentin",
+        "telephone": "01 47 57 27 27",
+        "site_web": "http://www.levallois-perret-plombier.com/",
+        "adresse": "100 Rue Marius Aufan, 92300 Levallois-Perret",
+        "note": 4.5,
+        "avis": 175,
+        "type": "Plombier"
+      },
+      {
+        "id": "10328054143896138431",
+        "nom": "Mon Chauffagiste Privé par PROXISERVE",
+        "slug": "mon-chauffagiste-prive-par-proxiserve",
+        "telephone": "09 72 72 10 72",
+        "site_web": "https://www.proxiserve.fr/monchauffagisteprive/",
+        "adresse": "159 Rue Anatole France, 92300 Levallois-Perret",
+        "note": 4.1,
+        "avis": 905,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4438631364895343410",
+        "nom": "🥇ETS Tamarys plomberie serrurerie Levallois",
+        "slug": "ets-tamarys-plomberie-serrurerie-levallois",
+        "telephone": "01 43 26 36 16",
+        "site_web": "http://www.ets-tamarys.com/?utm_source=gmb",
+        "adresse": "88 Rue du Président Wilson, 92300 Levallois-Perret",
+        "note": 4.9,
+        "avis": 122,
+        "type": "Plombier"
+      },
+      {
+        "id": "13588859021294642676",
+        "nom": "Plombier Levallois-Perret - LA PLATEFORME DES OUVRIERS",
+        "slug": "plombier-levallois-perret-la-plateforme-des-ouvriers",
+        "telephone": "06 50 70 93 88",
+        "site_web": "http://plombier-levallois-perret-92300.fr/",
+        "adresse": "33 Rue Chaptal, 92300 Levallois-Perret",
+        "note": 4.7,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "13172352982853771039",
+        "nom": "Expert plombier 92",
+        "slug": "expert-plombier-92",
+        "telephone": "01 44 90 11 28",
+        "site_web": "https://annuaire-entreprises.data.gouv.fr/etablissement/81792578700019",
+        "adresse": "17 Rue de Lorraine, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 43,
+        "type": "Plombier"
+      },
+      {
+        "id": "455952903916779054",
+        "nom": "Aero hvac climatisation",
+        "slug": "aero-hvac-climatisation",
+        "telephone": "06 58 43 14 83",
+        "site_web": "https://aero-hvac.fr/",
+        "adresse": "105 Rue Jules Guesde, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 22,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9650552102498649905",
+        "nom": "HK-SERRURIER PLOMBIER",
+        "slug": "hk-serrurier-plombier",
+        "telephone": "01 89 16 33 63",
+        "site_web": null,
+        "adresse": "74 Rue Aristide Briand, 92300 Levallois-Perret",
+        "note": 4.8,
+        "avis": 99,
+        "type": "Serrurier"
+      },
+      {
+        "id": "2917798961580759817",
+        "nom": "TAL DEPANNE",
+        "slug": "tal-depanne",
+        "telephone": "06 95 01 04 42",
+        "site_web": null,
+        "adresse": "129 Rue Aristide Briand, 92300 Levallois-Perret",
+        "note": 5,
+        "avis": 78,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "suresnes": {
+    "artisans": [
+      {
+        "id": "11422049144852585391",
+        "nom": "Sofratherm",
+        "slug": "sofratherm",
+        "telephone": "01 46 97 71 11",
+        "site_web": "http://www.sofratherm.fr/",
+        "adresse": "78 Rue de la République, 92150 Suresnes",
+        "note": 3.7,
+        "avis": 215,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "10497585826910707950",
+        "nom": "ETS PLOMBERIE DÉPANNAGE 92",
+        "slug": "ets-plomberie-depannage-92",
+        "telephone": "07 56 96 25 25",
+        "site_web": null,
+        "adresse": "5 Rue Benoît Malon, 92150 Suresnes",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "10740385166695728108",
+        "nom": "Ets Robert Vallet Plombier",
+        "slug": "ets-robert-vallet-plombier",
+        "telephone": "01 89 36 03 84",
+        "site_web": "https://www.travaux.com/plomberie/plombier-professionnels/suresnes",
+        "adresse": "42 Rue Rouget de Lisle, 92150 Suresnes",
+        "note": 4.9,
+        "avis": 48,
+        "type": "Plombier"
+      },
+      {
+        "id": "1831400882534811914",
+        "nom": "Établissements Joseph - Chauffage, Plomberie & Électricité",
+        "slug": "etablissements-joseph-chauffage-plomberie-electricite",
+        "telephone": "07 56 99 22 26",
+        "site_web": "https://www.ets-joseph.fr/",
+        "adresse": "4 Av. des Bergères, 92800 Puteaux",
+        "note": 5,
+        "avis": 62,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7181920571693080480",
+        "nom": "IM Plomb'elec",
+        "slug": "im-plombelec",
+        "telephone": "01 86 65 78 51",
+        "site_web": "http://www.im-plomberie.com/?utm_source=gmb",
+        "adresse": "33 Rue Jules Ferry, 92150 Suresnes",
+        "note": 4.9,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "10236719031628177596",
+        "nom": "Ohm et Son",
+        "slug": "ohm-et-son",
+        "telephone": "06 81 25 29 76",
+        "site_web": "http://www.ohm-son.com/?utm_source=gmb",
+        "adresse": "10 Rue de la Cerisaie, 92150 Suresnes",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "961033106100829054",
+        "nom": "Stéphane Marchand Plombier 92",
+        "slug": "stephane-marchand-plombier-92",
+        "telephone": "09 39 37 24 10",
+        "site_web": "https://www.travaux.com/plomberie/plombier-professionnels/suresnes",
+        "adresse": "69 Rue des Fusillés de la Résistance, 92150 Suresnes",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "7682685006968918567",
+        "nom": "Ocellis Energies - Génie climatique",
+        "slug": "ocellis-energies-genie-climatique",
+        "telephone": "01 47 39 39 93",
+        "site_web": "https://ocellis-energies.fr/",
+        "adresse": "33 Rue Benoît Malon, 92150 Suresnes",
+        "note": 4.4,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13922934053944087858",
+        "nom": "Groupe Eco Renovation",
+        "slug": "groupe-eco-renovation",
+        "telephone": "06 08 25 49 94",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10050054497941641296",
+        "nom": "Plombier Global Services",
+        "slug": "plombier-global-services",
+        "telephone": "07 68 80 91 97",
+        "site_web": "http://www.plombierglobalservices.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=10319125292594441371",
+        "adresse": "29 Rue Cartault, 92800 Puteaux",
+        "note": 5,
+        "avis": 158,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "neuilly-sur-seine": {
+    "artisans": [
+      {
+        "id": "4830421184052523534",
+        "nom": "Etudes Services",
+        "slug": "etudes-services",
+        "telephone": "07 56 28 33 82",
+        "site_web": "https://www.etudes-services.fr/?utm_source=gmb",
+        "adresse": "191 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.8,
+        "avis": 394,
+        "type": "Serrurier"
+      },
+      {
+        "id": "7371416240794803333",
+        "nom": "BEN PLOMBIER NEUILLY-SUR-SEINE",
+        "slug": "ben-plombier-neuilly-sur-seine",
+        "telephone": "07 56 92 98 38",
+        "site_web": "https://www.monartisan.info/pro-benoit-plombier-neuilly-sur-seine-93926706800012",
+        "adresse": "121 Rue Perronet, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "14666920087388499988",
+        "nom": "B.I. Plomberie & Chauffage",
+        "slug": "bi-plomberie-chauffage",
+        "telephone": "07 83 40 59 86",
+        "site_web": "https://www.instalplomberie.fr/",
+        "adresse": "99 Av. Achille Peretti, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "4223199322836711816",
+        "nom": "Jacques & Sam - Dépannage - Plombier Neuilly - Electricien - Climatisation - Pompe à Chaleur",
+        "slug": "jacques-sam-depannage-plombier-neuilly-electricien-climatisation-pompe-a-chaleur",
+        "telephone": "06 50 48 09 39",
+        "site_web": "https://jacques-et-sam-depannage.fr/",
+        "adresse": "80 Bd Bineau, 92200 Neuilly-sur-Seine",
+        "note": 4.5,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "1405052335640293948",
+        "nom": "Johan Paladin",
+        "slug": "johan-paladin",
+        "telephone": "07 56 96 20 50",
+        "site_web": "https://www.johan-paladin-plombier.fr/",
+        "adresse": "4 Av. Sainte-Foy, 92200 Neuilly-sur-Seine",
+        "note": 4.9,
+        "avis": 234,
+        "type": "Plombier"
+      },
+      {
+        "id": "4871725237625289868",
+        "nom": "François Artisan Habitat",
+        "slug": "francois-artisan-habitat",
+        "telephone": "06 16 59 47 14",
+        "site_web": "https://francois-artisan-habitat.fr/",
+        "adresse": "99 Av. Achille Peretti, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 150,
+        "type": "Plombier"
+      },
+      {
+        "id": "6766995320410790592",
+        "nom": "Therelec Génie Électrique et Climatique à Neuilly-sur-Seine",
+        "slug": "therelec-genie-electrique-et-climatique-a-neuilly-sur-seine",
+        "telephone": "06 99 69 94 28",
+        "site_web": "http://www.therelec.fr/",
+        "adresse": "99 Av. Achille Peretti, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 75,
+        "type": "Électricien"
+      },
+      {
+        "id": "16164055149423344254",
+        "nom": "Plombier BTP",
+        "slug": "plombier-btp",
+        "telephone": "01 46 37 62 75",
+        "site_web": "https://plombier-btp.com/",
+        "adresse": "42 Rue Madeleine Michelis, 92200 Neuilly-sur-Seine",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "4727368048112679132",
+        "nom": "P. Debarle Entreprise",
+        "slug": "p-debarle-entreprise",
+        "telephone": "01 40 88 38 87",
+        "site_web": "http://www.debarle-entreprise.fr/",
+        "adresse": "29 Av. Sainte-Foy, 92200 Neuilly-sur-Seine",
+        "note": 3.6,
+        "avis": 46,
+        "type": "Plombier"
+      },
+      {
+        "id": "2776548883018697162",
+        "nom": "Entreprise Climatisation Installation Dépannage Entretien (ECIDE)",
+        "slug": "entreprise-climatisation-installation-depannage-entretien-ecide",
+        "telephone": "01 84 20 09 50",
+        "site_web": "https://ecide.fr/climatisation-neuilly-sur-seine/",
+        "adresse": "191 Av. Charles de Gaulle, 92200 Neuilly-sur-Seine",
+        "note": 4.2,
+        "avis": 26,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "gennevilliers": {
+    "artisans": [
+      {
+        "id": "9991148069137341409",
+        "nom": "Artisan Richard SOS",
+        "slug": "artisan-richard-sos",
+        "telephone": "07 60 41 61 98",
+        "site_web": null,
+        "adresse": "92 Rue Louis Calmel, 92230 Gennevilliers",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "17205963905598385167",
+        "nom": "Allianz Gaz",
+        "slug": "allianz-gaz",
+        "telephone": "01 78 76 78 69",
+        "site_web": "https://www.allianzgaz.fr/",
+        "adresse": "3 Rue Louis Jouvet, 92230 Gennevilliers",
+        "note": 2.9,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16142344633887014072",
+        "nom": "CENTRAL Plomberie",
+        "slug": "central-plomberie",
+        "telephone": "01 73 27 32 65",
+        "site_web": "https://www.societe.com/societe/central-peinture-562073650.html",
+        "adresse": "119 Av. Louis Roche, 92230 Gennevilliers",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "17035961693417041726",
+        "nom": "Julien plombier Gennevilliers",
+        "slug": "julien-plombier-gennevilliers",
+        "telephone": "09 39 37 24 16",
+        "site_web": "https://www.travaux.com/plomberie/plombier-professionnels/gennevilliers",
+        "adresse": "4 Av. de la Libération, 92230 Gennevilliers",
+        "note": 5,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "17342309583582338862",
+        "nom": "Terras CVC - Génie Climatique : Chauffage, Clim & Maintenance P2",
+        "slug": "terras-cvc-genie-climatique-chauffage-clim-maintenance-p2",
+        "telephone": "06 63 78 06 38",
+        "site_web": "https://www.terrascvc.fr/",
+        "adresse": "9 Rue Rollet Salvan, 92230 Gennevilliers",
+        "note": 5,
+        "avis": 7,
+        "type": "Service de réparation de chaudières"
+      },
+      {
+        "id": "5289693945426112937",
+        "nom": "LA MAISON DU GAZ",
+        "slug": "la-maison-du-gaz",
+        "telephone": "09 80 33 88 71",
+        "site_web": null,
+        "adresse": "51 Bd Voltaire, 92600 Asnières-sur-Seine",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4410603507355462835",
+        "nom": "TECHNIC CHAUFFAGE - CHAUFFAGISTE ASNIERES",
+        "slug": "technic-chauffage-chauffagiste-asnieres",
+        "telephone": "01 34 10 81 77",
+        "site_web": "https://technic-chauffage92.com/",
+        "adresse": "39 Rue de Colombes, 92600 Asnières-sur-Seine",
+        "note": 4.9,
+        "avis": 46,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7590904767307988652",
+        "nom": "Jean Pascal Legrand",
+        "slug": "jean-pascal-legrand",
+        "telephone": "01 84 23 62 45",
+        "site_web": "https://jeanpascallegrandplombier.fr/",
+        "adresse": "4 Rue Louis Denaux, 92230 Gennevilliers",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15645278793291129525",
+        "nom": "InstaGaz",
+        "slug": "instagaz",
+        "telephone": "07 76 69 79 58",
+        "site_web": "http://instagaz.fr/",
+        "adresse": "372 Av. d'Argenteuil, 92600 Asnières-sur-Seine",
+        "note": 4.9,
+        "avis": 83,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6132625519960591053",
+        "nom": "Plomberie express",
+        "slug": "plomberie-express",
+        "telephone": "07 68 87 35 11",
+        "site_web": "https://www.plomberiexpress.eu/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 92,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bagneux": {
+    "artisans": [
+      {
+        "id": "14308978490025062027",
+        "nom": "Plombier chauffagiste bagneux",
+        "slug": "plombier-chauffagiste-bagneux",
+        "telephone": "06 21 13 92 85",
+        "site_web": "http://plombierchauffagistebagneux.fr/",
+        "adresse": "52 Rue Jean Longuet, 92220 Bagneux",
+        "note": 4.9,
+        "avis": 163,
+        "type": "Plombier"
+      },
+      {
+        "id": "10555378387634746806",
+        "nom": "À Bâti Pro – Plomberie & Chauffage | Installation & Dépannage",
+        "slug": "a-bati-pro-plomberie-chauffage-installation-depannage",
+        "telephone": "06 52 44 56 19",
+        "site_web": "https://abatipro.fr/",
+        "adresse": "1 Rue de la Sarrazine, 92220 Bagneux",
+        "note": 5,
+        "avis": 49,
+        "type": "Plombier"
+      },
+      {
+        "id": "6421496914917621512",
+        "nom": "Pigal Michael",
+        "slug": "pigal-michael",
+        "telephone": "06 20 90 14 38",
+        "site_web": null,
+        "adresse": "Rue de la Prte d'en Bas, 92220 Bagneux",
+        "note": 4.8,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "5977177072381055187",
+        "nom": "Docteur Plomberie",
+        "slug": "docteur-plomberie",
+        "telephone": "07 69 66 81 64",
+        "site_web": "http://docteurplomberie.fr/",
+        "adresse": "20 Av. Louis Pasteur, 92220 Bagneux",
+        "note": 4.8,
+        "avis": 182,
+        "type": "Plombier"
+      },
+      {
+        "id": "221123272792424410",
+        "nom": "Murfy - Dépannage électroménager",
+        "slug": "murfy-depannage-electromenager",
+        "telephone": null,
+        "site_web": "https://murfy.fr/lp/reparation-electromenager-paris?utm_campaign=FR_RD_REF_IledeFrance_Organic_AO_GMB&utm_medium=referral&utm_source=gmb",
+        "adresse": "29 Rue du Faubourg Poissonnière, 75002 Paris",
+        "note": 4.4,
+        "avis": 8056,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "775496092657294051",
+        "nom": "Lacoste",
+        "slug": "lacoste",
+        "telephone": "01 84 18 31 17",
+        "site_web": "https://lacosteplombierbagneux.fr/",
+        "adresse": "17 Av. Henri Ravera, 92220 Bagneux",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "13668195543619097316",
+        "nom": "BDN PLOMBERIE",
+        "slug": "bdn-plomberie",
+        "telephone": "01 40 30 78 66",
+        "site_web": "https://annuaire-entreprises.data.gouv.fr/entreprise/bdn-plomberie-bdn-plomberie-917780546",
+        "adresse": "137 Rue des Meuniers, 92220 Bagneux",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "14660569837376434668",
+        "nom": "JLB plomberie",
+        "slug": "jlb-plomberie",
+        "telephone": "09 70 24 88 22",
+        "site_web": null,
+        "adresse": "4 All. de la Madeleine, 92220 Bagneux",
+        "note": 4,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "16341624466994213306",
+        "nom": "Chauffagiste 92 Protec Chauffage",
+        "slug": "chauffagiste-92-protec-chauffage",
+        "telephone": "01 85 53 74 45",
+        "site_web": "https://www.chauffagiste-92.com/",
+        "adresse": "100 Av. de la Marne, 92120 Montrouge",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7579269207539123255",
+        "nom": "Rénov'plomberie",
+        "slug": "renovplomberie",
+        "telephone": "06 61 25 05 27",
+        "site_web": null,
+        "adresse": "12 Rue du Général Sarrail, 92220 Bagneux",
+        "note": 4.8,
+        "avis": 39,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "clichy": {
+    "artisans": [
+      {
+        "id": "15263777954149622358",
+        "nom": "Khiat Plombier Chauffagiste Clichy",
+        "slug": "khiat-plombier-chauffagiste-clichy",
+        "telephone": "06 01 73 36 91",
+        "site_web": null,
+        "adresse": "15 Rue Willy Brandt, 92110 Clichy",
+        "note": 5,
+        "avis": 113,
+        "type": "Plombier"
+      },
+      {
+        "id": "9648132609418320776",
+        "nom": "Powerclim",
+        "slug": "powerclim",
+        "telephone": "06 88 85 96 79",
+        "site_web": "https://www.powerclim.fr/",
+        "adresse": "1 Pl. des Docteurs Bonamy, 92110 Clichy",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3721429254133797534",
+        "nom": "Les Bons Artisans",
+        "slug": "les-bons-artisans",
+        "telephone": "09 72 59 99 41",
+        "site_web": "https://www.lesbonsartisans.fr/",
+        "adresse": null,
+        "note": 4.4,
+        "avis": 1026,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5339563104983093917",
+        "nom": "Laumonier",
+        "slug": "laumonier",
+        "telephone": "01 45 42 50 29",
+        "site_web": "http://www.laumoniersa.fr/",
+        "adresse": "68 Rue Villeneuve, 92110 Clichy",
+        "note": 4.8,
+        "avis": 476,
+        "type": "Plombier"
+      },
+      {
+        "id": "17171440859838099160",
+        "nom": "Sogecop",
+        "slug": "sogecop",
+        "telephone": "01 41 36 09 99",
+        "site_web": "http://sogecop.fr/",
+        "adresse": "68 Rue Villeneuve, 92110 Clichy",
+        "note": 4.5,
+        "avis": 165,
+        "type": "Plombier"
+      },
+      {
+        "id": "3262491415993575211",
+        "nom": "GLefebvre",
+        "slug": "glefebvre",
+        "telephone": "01 48 70 13 13",
+        "site_web": "https://glefebvre.fr/",
+        "adresse": "68 Rue Villeneuve, 92110 Clichy",
+        "note": 4.7,
+        "avis": 92,
+        "type": "Expert en sinistres"
+      },
+      {
+        "id": "10998354613870627497",
+        "nom": "Benjamin",
+        "slug": "benjamin",
+        "telephone": "01 46 57 31 19",
+        "site_web": "https://benjaminsanitaire.fr/",
+        "adresse": "68 Rue Villeneuve, 92110 Clichy",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "16631466903356829493",
+        "nom": "Berthelot",
+        "slug": "berthelot",
+        "telephone": "01 43 31 05 44",
+        "site_web": "https://berthelot.co/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=profile_berthelot",
+        "adresse": "68 Rue Villeneuve, 92110 Clichy",
+        "note": 4.7,
+        "avis": 443,
+        "type": "Plombier"
+      },
+      {
+        "id": "868141443795857963",
+        "nom": "FRANCE ENERGIE",
+        "slug": "france-energie",
+        "telephone": "06 44 67 71 50",
+        "site_web": null,
+        "adresse": "92 Bd Victor Hugo, 92110 Clichy",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15450845355669265788",
+        "nom": "alain pere et fils serrurier vitrier",
+        "slug": "alain-pere-et-fils-serrurier-vitrier",
+        "telephone": "01 47 30 84 50",
+        "site_web": "https://hubert-pere-fils.fr/serrurerie/",
+        "adresse": "5 Av. Anatole France, 92110 Clichy",
+        "note": 4.6,
+        "avis": 48,
+        "type": "Serrurier"
+      }
+    ]
+  },
+  "le-plessis-robinson": {
+    "artisans": [
+      {
+        "id": "6433889670904259159",
+        "nom": "Arthur plombier Le Plessis-Robinson",
+        "slug": "arthur-plombier-le-plessis-robinson",
+        "telephone": "01 84 20 25 20",
+        "site_web": "https://arthurmichelplombierleplessis-robinson.fr/",
+        "adresse": "7 Rue de la Ferme, 92350 Le Plessis-Robinson",
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "14602759230437592233",
+        "nom": "Résoconfort Depan'chauffage service",
+        "slug": "resoconfort-depanchauffage-service",
+        "telephone": "01 69 88 98 89",
+        "site_web": "https://resoconfort.fr/agence/depanchauffage-service-chauffagiste-le-plessis-robinson/?utm_source=gmb",
+        "adresse": "23 Rue du 24 Août, 92350 Le Plessis-Robinson",
+        "note": 4.5,
+        "avis": 168,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16570263064497822496",
+        "nom": "Pro Dépannage Le Plessis Robinson",
+        "slug": "pro-depannage-le-plessis-robinson",
+        "telephone": "01 89 47 25 88",
+        "site_web": null,
+        "adresse": "1 Av. Descartes, 92350 Le Plessis-Robinson",
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "4275236993438670824",
+        "nom": "Plomberie Courcelle",
+        "slug": "plomberie-courcelle",
+        "telephone": "06 11 04 38 87",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 139,
+        "type": "Plombier"
+      },
+      {
+        "id": "15201148166834587064",
+        "nom": "M-Energies Exploitation - Amitef - LPR",
+        "slug": "m-energies-exploitation-amitef-lpr",
+        "telephone": "01 46 32 28 28",
+        "site_web": "https://m-energies.fr/",
+        "adresse": "80 Rue Bernard Iské, 92350 Le Plessis-Robinson",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "14618820631691238492",
+        "nom": "ML Installation pompe à chaleur - installation climatisation - dépannage - entretien Plessis robinson",
+        "slug": "ml-installation-pompe-a-chaleur-installation-climatisation-depannage-entretien-plessis-robinson",
+        "telephone": "01 84 80 78 93",
+        "site_web": "https://ml-isoidf-plessis.com/",
+        "adresse": "38 Rue du Carreau, 92350 Le Plessis-Robinson",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14775751805080537417",
+        "nom": "Jérôme Bouvier",
+        "slug": "jerome-bouvier",
+        "telephone": "07 54 81 82 56",
+        "site_web": "http://jbms.fr/",
+        "adresse": "70 Av. Charles de Gaulle, 92350 Le Plessis-Robinson",
+        "note": 5,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "3882182923505700885",
+        "nom": "A.R Plomberie",
+        "slug": "ar-plomberie",
+        "telephone": "07 50 95 14 98",
+        "site_web": null,
+        "adresse": "13 Av. du Bois, 92290 Châtenay-Malabry",
+        "note": 5,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "9380873540713869326",
+        "nom": "J.F EAU ENERGY",
+        "slug": "jf-eau-energy",
+        "telephone": "06 60 69 69 46",
+        "site_web": "https://eau-energy.fr/",
+        "adresse": "22 Sent. des Torques, 92290 Châtenay-Malabry",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12550889498012358404",
+        "nom": "Plombier Fontenay-aux-Roses Lefebvre Michel",
+        "slug": "plombier-fontenay-aux-roses-lefebvre-michel",
+        "telephone": "01 84 20 25 21",
+        "site_web": "https://michellefebvreplombierfontenay-aux-roses.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 35,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "montrouge": {
+    "artisans": [
+      {
+        "id": "773551735929222533",
+        "nom": "CLIM CONCEPT- installation climatisation 77",
+        "slug": "clim-concept-installation-climatisation-77",
+        "telephone": "06 46 15 29 49",
+        "site_web": "https://climconcept77.fr/",
+        "adresse": "1 Rue de Rigaudin, 77410 Annet-sur-Marne",
+        "note": 4.8,
+        "avis": 116,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14240712033535691465",
+        "nom": "Etablissement Laroche",
+        "slug": "etablissement-laroche",
+        "telephone": "01 47 75 01 15",
+        "site_web": "https://www.etablissements-laroche.fr/plombier-montrouge-92120-hauts-de-seine/",
+        "adresse": "138 Av. Henri Ginoux, 92120 Montrouge",
+        "note": 4.7,
+        "avis": 94,
+        "type": "Électricien"
+      },
+      {
+        "id": "6040881664347428851",
+        "nom": "Patrick Loren",
+        "slug": "patrick-loren",
+        "telephone": "07 56 94 01 60",
+        "site_web": "https://patricklorenplombiermontrouge.fr/",
+        "adresse": "2 Av. Jean Jaurès, 92120 Montrouge",
+        "note": 5,
+        "avis": 144,
+        "type": "Plombier"
+      },
+      {
+        "id": "11580214887606334838",
+        "nom": "Rouez ETS",
+        "slug": "rouez-ets",
+        "telephone": "01 46 57 01 80",
+        "site_web": "https://www.rouez-chauffage-sanitaires-92.fr/",
+        "adresse": "Residence Verdun Racine, 5 Av. de Verdun, 92120 Montrouge",
+        "note": 4.4,
+        "avis": 27,
+        "type": "Entrepreneur spécialisé dans la restauration après dégât des eaux"
+      },
+      {
+        "id": "10073642758097616728",
+        "nom": "LR DÉPANNAGE 92 - PLOMBIER CHAUFFAGISTE EN HAUTS-DE-SEINE - TRAVAUX DE PLOMBERIE & CHAUFFAGE EN URGENCE",
+        "slug": "lr-depannage-92-plombier-chauffagiste-en-hauts-de-seine-travaux-de-plomberie-chauffage-en-urgence",
+        "telephone": "06 52 92 50 97",
+        "site_web": "https://lrdepannage.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "6979990535041045573",
+        "nom": "Adebat",
+        "slug": "adebat",
+        "telephone": "01 49 65 93 13",
+        "site_web": "https://www.adebat.fr/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=Adebat_Montrouge",
+        "adresse": "97 Av. Aristide Briand, 92120 Montrouge",
+        "note": 4.9,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "5415704381826626090",
+        "nom": "KELP GROUP",
+        "slug": "kelp-group",
+        "telephone": "06 20 95 30 44",
+        "site_web": "https://kelp-group.com/",
+        "adresse": "6 Av. du Maréchal Leclerc, 92240 Malakoff",
+        "note": 1,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "8493316382038669838",
+        "nom": "Plombier-Artisan Jacques",
+        "slug": "plombier-artisan-jacques",
+        "telephone": "01 84 19 99 97",
+        "site_web": null,
+        "adresse": "31 Av. Verdier, 92120 Montrouge",
+        "note": 4.9,
+        "avis": 74,
+        "type": "Plombier"
+      },
+      {
+        "id": "14871982064074369416",
+        "nom": "PLOMBIER PARIS 92 - BAMOU",
+        "slug": "plombier-paris-92-bamou",
+        "telephone": "01 46 74 97 37",
+        "site_web": "https://www.entreprise-bamou.fr/",
+        "adresse": "114 Bd Gabriel Péri, 92240 Malakoff",
+        "note": 4.9,
+        "avis": 61,
+        "type": "Plombier"
+      },
+      {
+        "id": "5100929425774755752",
+        "nom": "Chaudix",
+        "slug": "chaudix",
+        "telephone": "07 69 50 32 34",
+        "site_web": "http://www.chaudix.com/",
+        "adresse": "3 Rue du Général Seré de Rivières, 75014 Paris",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "chatillon": {
+    "artisans": [
+      {
+        "id": "15194473207063383491",
+        "nom": "GUITTON ET FILS chauffagiste entretien chaudières et PAC",
+        "slug": "guitton-et-fils-chauffagiste-entretien-chaudieres-et-pac",
+        "telephone": "01 45 10 20 04",
+        "site_web": "https://www.guittonetfils.fr/",
+        "adresse": "77 Av. de Paris, 92320 Châtillon",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "970277721779910692",
+        "nom": "Aux Normes",
+        "slug": "aux-normes",
+        "telephone": "01 40 92 74 57",
+        "site_web": "http://www.aux-normes.fr/",
+        "adresse": "42 Rue de Fontenay, 92320 Châtillon",
+        "note": 4.4,
+        "avis": 18,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16859391590971076692",
+        "nom": "OV-SERVICES",
+        "slug": "ov-services",
+        "telephone": "06 01 86 06 21",
+        "site_web": "https://ov-services.fr/",
+        "adresse": "4 Vla la Mesie, 92320 Châtillon",
+        "note": 5,
+        "avis": 26,
+        "type": "Électricien"
+      },
+      {
+        "id": "17665291940922824335",
+        "nom": "Renovair Genie Climatique",
+        "slug": "renovair-genie-climatique",
+        "telephone": "01 55 48 00 80",
+        "site_web": "https://www.renovair.com/",
+        "adresse": "32 Rue Pierre Semard, 92320 Châtillon",
+        "note": 3.5,
+        "avis": 16,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "13874810414832219127",
+        "nom": "ENOWA",
+        "slug": "enowa",
+        "telephone": "06 22 87 74 39",
+        "site_web": "https://www.enowa-plombier-chauffagiste.com/",
+        "adresse": "3 All. Charles Aznavour, 92320 Châtillon",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "8191170922253067721",
+        "nom": "LM 92",
+        "slug": "lm-92",
+        "telephone": "01 85 11 25 05",
+        "site_web": "https://www.rouez-chauffage-sanitaires-92.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Artisanat"
+      },
+      {
+        "id": "10700806778862078429",
+        "nom": "rudy bernardo",
+        "slug": "rudy-bernardo",
+        "telephone": "01 85 09 48 44",
+        "site_web": "https://www.allo-electricien-chauffagiste.fr/rudy-bernardo-electricien-chauffagiste?preview_key=ed47b793-7bb7-41df-99cc-a3ca5fd7bc97&_Lien-temporaire",
+        "adresse": "8 Rue Paul Bert, 92320 Châtillon",
+        "note": 5,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "1532569120510350038",
+        "nom": "Jean Louis - Plombier Chatillon",
+        "slug": "jean-louis-plombier-chatillon",
+        "telephone": "01 84 20 55 22",
+        "site_web": null,
+        "adresse": "35 Av. de Paris, 92320 Châtillon",
+        "note": 4,
+        "avis": 4,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10929540265207166176",
+        "nom": "RJ Climatisation (Paris / Hauts de Seine / Yvelines / Val de Marne)",
+        "slug": "rj-climatisation-paris-hauts-de-seine-yvelines-val-de-marne",
+        "telephone": "01 84 19 03 59",
+        "site_web": "https://rj-climatisation.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2725994639770458934",
+        "nom": "CEDEO Malakoff : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-malakoff-sanitaire-chauffage-plomberie",
+        "telephone": "01 46 57 56 56",
+        "site_web": "https://www.cedeo.fr/infos-agence/malakoff-cedeo-2458",
+        "adresse": "140 Av. Pierre Brossolette, 92240 Malakoff",
+        "note": 3.5,
+        "avis": 46,
+        "type": "Magasin d'articles de salle de bains"
+      }
+    ]
+  },
+  "asnieres-sur-seine": {
+    "artisans": [
+      {
+        "id": "12097671724387243137",
+        "nom": "Urgence Plombier Asnières-sur-Seine",
+        "slug": "urgence-plombier-asnieres-sur-seine",
+        "telephone": "01 85 09 49 29",
+        "site_web": "https://urgenceplombier92600.fr/",
+        "adresse": "14 Rue Henri Say, 92600 Asnières-sur-Seine",
+        "note": 4.8,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "12470296379381246614",
+        "nom": "Regua",
+        "slug": "regua",
+        "telephone": "01 47 33 33 80",
+        "site_web": "http://www.regua-plomberie.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "30 Rue de Colombes, 92600 Asnières-sur-Seine",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "3783177978138753532",
+        "nom": "David Christian",
+        "slug": "david-christian",
+        "telephone": "07 80 95 53 26",
+        "site_web": "http://www.david-christian-plombier-asnieres-sur-seine.fr/",
+        "adresse": "39 Rue Diderot, 92600 Asnières-sur-Seine",
+        "note": 4.9,
+        "avis": 116,
+        "type": "Plombier"
+      },
+      {
+        "id": "10103524270305505754",
+        "nom": "CONCEPTIO Sarl",
+        "slug": "conceptio-sarl",
+        "telephone": "01 40 86 31 76",
+        "site_web": null,
+        "adresse": "51 Bd Voltaire, 92600 Asnières-sur-Seine",
+        "note": 5,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10736676136590215521",
+        "nom": "Id Pac",
+        "slug": "id-pac",
+        "telephone": "01 87 53 61 27",
+        "site_web": "http://i-dpac.fr/",
+        "adresse": "4 Av. Laurent Cély, 92600 Asnières-sur-Seine",
+        "note": 3.9,
+        "avis": 96,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4529139275659662688",
+        "nom": "Ateliers Monsart",
+        "slug": "ateliers-monsart",
+        "telephone": "06 25 58 28 66",
+        "site_web": "http://ateliers-monsart.fr/",
+        "adresse": "5 Rue Jules Hardouin Mansart, 92600 Asnières-sur-Seine",
+        "note": 4.8,
+        "avis": 98,
+        "type": "Plombier"
+      },
+      {
+        "id": "15049129227389928776",
+        "nom": "PLOMBERIE rapide 92",
+        "slug": "plomberie-rapide-92",
+        "telephone": "01 40 30 78 67",
+        "site_web": null,
+        "adresse": "13 Rue Gilbert Rousset, 92600 Asnières-sur-Seine",
+        "note": 3.8,
+        "avis": 23,
+        "type": "Plombier"
+      },
+      {
+        "id": "18417530162152854168",
+        "nom": "RENOVEL",
+        "slug": "renovel",
+        "telephone": "06 65 32 73 34",
+        "site_web": "https://www.renovel.fr/",
+        "adresse": "12 Rue Paul Gillet, 92600 Asnières-sur-Seine",
+        "note": 4.9,
+        "avis": 166,
+        "type": "Plombier"
+      },
+      {
+        "id": "14924595913526433313",
+        "nom": "Ecpc Services",
+        "slug": "ecpc-services",
+        "telephone": "06 63 58 18 67",
+        "site_web": "http://ecpcservices.fr/",
+        "adresse": "71 Rue du Ménil, 92600 Asnières-sur-Seine",
+        "note": 4.6,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "14468103869276941301",
+        "nom": "Depannage",
+        "slug": "depannage",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "92600 Asnières-sur-Seine",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation"
+      }
+    ]
+  },
+  "puteaux": {
+    "artisans": [
+      {
+        "id": "17204610931469885316",
+        "nom": "Etablissement Laroche",
+        "slug": "etablissement-laroche",
+        "telephone": "01 40 90 05 72",
+        "site_web": "https://www.etablissements-laroche.fr/plombier-maisons-alfort-94700-val-de-marne/",
+        "adresse": "39 Rue Rousselle, 92800 Puteaux",
+        "note": 4.7,
+        "avis": 109,
+        "type": "Plombier"
+      },
+      {
+        "id": "7482864860037509088",
+        "nom": "Les professionnels du gaz",
+        "slug": "les-professionnels-du-gaz",
+        "telephone": null,
+        "site_web": "http://lesprofessionnelsdugaz.com/",
+        "adresse": "1 Rue du Général Leclerc, 92800 Puteaux",
+        "note": 3.6,
+        "avis": 9,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9606996046916979038",
+        "nom": "Plomberie de Puteaux",
+        "slug": "plomberie-de-puteaux",
+        "telephone": "06 66 42 53 46",
+        "site_web": null,
+        "adresse": "2 Rue des Blanchisseurs, 92800 Puteaux",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "16123935848902775604",
+        "nom": "PLOMBERIE SANITAIRE IDF",
+        "slug": "plomberie-sanitaire-idf",
+        "telephone": "06 45 06 32 72",
+        "site_web": "http://www.plomberiesanitaire.fr/",
+        "adresse": "3 Rés des Rosiers, 92800 Puteaux",
+        "note": 5,
+        "avis": 86,
+        "type": "Plombier"
+      },
+      {
+        "id": "14794445854547325678",
+        "nom": "alain pere et fils",
+        "slug": "alain-pere-et-fils",
+        "telephone": "01 40 90 06 29",
+        "site_web": "https://www.plombier-puteaux.com/",
+        "adresse": "46 Rue Saulnier, 92800 Puteaux",
+        "note": 4.5,
+        "avis": 31,
+        "type": "Plombier"
+      },
+      {
+        "id": "5221562902961690972",
+        "nom": "ICPR Puteaux - Intervention, Chauffage, Plomberie, Rénovation. - Serdar Iyisoy",
+        "slug": "icpr-puteaux-intervention-chauffage-plomberie-renovation-serdar-iyisoy",
+        "telephone": "06 12 43 21 86",
+        "site_web": "http://www.icpr.net/",
+        "adresse": "1 Bis Rue Roque de Fillol, 92800 Puteaux",
+        "note": 4.5,
+        "avis": 10,
+        "type": "Siège social"
+      },
+      {
+        "id": "12515329660933202012",
+        "nom": "groupemlg installation vmc puteaux - nettoyage vmc",
+        "slug": "groupemlg-installation-vmc-puteaux-nettoyage-vmc",
+        "telephone": "01 89 70 62 47",
+        "site_web": "https://groupemlg-conseil-isolation-puteaux.com/",
+        "adresse": "46 Rue Benoît Malon, 92800 Puteaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "6063930223996892041",
+        "nom": "Plombier Serrurier Dépannage 24h/24 BUSNEL&CO",
+        "slug": "plombier-serrurier-depannage-24h24-busnelco",
+        "telephone": "07 68 26 65 96",
+        "site_web": "https://sites.google.com/view/site-busnel-co/accueil",
+        "adresse": null,
+        "note": 5,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "4388369244617466900",
+        "nom": "hubert pere et fils",
+        "slug": "hubert-pere-et-fils",
+        "telephone": "01 42 03 87 32",
+        "site_web": "https://plombier-courbevoie-depannage.com/",
+        "adresse": "36 Bd de Verdun, 92400 Courbevoie",
+        "note": 4.8,
+        "avis": 85,
+        "type": "Plombier"
+      },
+      {
+        "id": "4381732342740370651",
+        "nom": "IDP Installation dépannage plomberie",
+        "slug": "idp-installation-depannage-plomberie",
+        "telephone": "06 67 69 34 07",
+        "site_web": "https://www.welinkbuilders.fr/plombier/installateur-sanitaire/92800-puteaux-france/idp-installation-depannage-plomberie-1345",
+        "adresse": "14 Rue Arago, 92800 Puteaux",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "la-garenne-colombes": {
+    "artisans": [
+      {
+        "id": "6575430892653396018",
+        "nom": "Clément Frères et Cie",
+        "slug": "clement-freres-et-cie",
+        "telephone": "01 42 42 95 72",
+        "site_web": "http://www.clementfreres.fr/",
+        "adresse": "33-35 Bd national, 92250 La Garenne-Colombes",
+        "note": 4.4,
+        "avis": 52,
+        "type": "Plombier"
+      },
+      {
+        "id": "11590997875008960762",
+        "nom": "Entreprise colin",
+        "slug": "entreprise-colin",
+        "telephone": "01 47 60 10 08",
+        "site_web": null,
+        "adresse": "17 Rue Voltaire, 92250 La Garenne-Colombes",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "18194402429714328626",
+        "nom": "Buisson & Alain Plombiers",
+        "slug": "buisson-alain-plombiers",
+        "telephone": "06 99 01 65 74",
+        "site_web": "https://www.travaux.com/plomberie/plombier-professionnels/la-garenne-colombes",
+        "adresse": "13 Bd de la République, 92250 La Garenne-Colombes",
+        "note": 4.8,
+        "avis": 26,
+        "type": "Plombier"
+      },
+      {
+        "id": "14671163612879567526",
+        "nom": "Ideal Plomberie Chauffage",
+        "slug": "ideal-plomberie-chauffage",
+        "telephone": "06 10 20 05 16",
+        "site_web": null,
+        "adresse": "43 Rue Cambon, 92250 La Garenne-Colombes",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "4054012840296351294",
+        "nom": "Lpcg Pro",
+        "slug": "lpcg-pro",
+        "telephone": "06 52 45 22 44",
+        "site_web": null,
+        "adresse": "15 Rue Veuve Lacroix, 92250 La Garenne-Colombes",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "6437745086290579557",
+        "nom": "DME CHAUFFAGE PLOMBERIE",
+        "slug": "dme-chauffage-plomberie",
+        "telephone": "01 84 20 05 03",
+        "site_web": "https://www.plombier-courbevoie-92.com/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 36,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4296688742136001930",
+        "nom": "France Habitat Energie",
+        "slug": "france-habitat-energie",
+        "telephone": "0 805 03 02 60",
+        "site_web": "https://fhe.fr/",
+        "adresse": "13 Bd de la République, 92250 La Garenne-Colombes",
+        "note": 4.5,
+        "avis": 202,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "16269815045679387204",
+        "nom": "Etablissements Le Mehaute",
+        "slug": "etablissements-le-mehaute",
+        "telephone": "01 42 42 35 59",
+        "site_web": null,
+        "adresse": "15 Ave. du Général de Gaulle, 92250 La Garenne-Colombes",
+        "note": 3.4,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "10687941440309431665",
+        "nom": "Adam plombier La Garenne-Colombes",
+        "slug": "adam-plombier-la-garenne-colombes",
+        "telephone": "01 85 09 89 21",
+        "site_web": "https://adamlaurentplombierlagarenne-colombes.fr/",
+        "adresse": "71 Bd national, 92250 La Garenne-Colombes",
+        "note": 3.9,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "11878338164349289697",
+        "nom": "Arthur Clément",
+        "slug": "arthur-clement",
+        "telephone": "07 56 95 77 06",
+        "site_web": "https://www.arthur-clement-plombier-bois-colombes.fr/",
+        "adresse": "105 Rue Jean Jaurès, 92270 Bois-Colombes",
+        "note": 5,
+        "avis": 122,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chatenay-malabry": {
+    "artisans": [
+      {
+        "id": "15618972570219319598",
+        "nom": "Guy",
+        "slug": "guy",
+        "telephone": "01 84 21 68 80",
+        "site_web": "https://guyplombierchatenay-malabry.fr/",
+        "adresse": "105 Av. de la Division Leclerc, 92290 Châtenay-Malabry",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5712462698653403359",
+        "nom": "MINA SERVICES",
+        "slug": "mina-services",
+        "telephone": "07 62 55 08 96",
+        "site_web": "http://mina-service.com/",
+        "adresse": "3 All. Hector Berlioz, 92290 Châtenay-Malabry",
+        "note": 5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2428742457373718667",
+        "nom": "Tmse Btp",
+        "slug": "tmse-btp",
+        "telephone": "06 46 17 16 67",
+        "site_web": null,
+        "adresse": "1 All. de Malézieu, 92290 Châtenay-Malabry",
+        "note": 4.9,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "15560546123647886829",
+        "nom": "C DISTE 92",
+        "slug": "c-diste-92",
+        "telephone": "06 46 31 05 84",
+        "site_web": "https://www.facebook.com/pages/category/Plumbing-Service/C-DISTE-92-103448398298354/",
+        "adresse": "353 Av. de la Division Leclerc, 92290 Châtenay-Malabry",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18417161453232145124",
+        "nom": "Baly Dramane",
+        "slug": "baly-dramane",
+        "telephone": "06 58 90 22 46",
+        "site_web": null,
+        "adresse": "19 Av. Albert Thomas, 92290 Châtenay-Malabry",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17805244678099908355",
+        "nom": "Puissancerénov",
+        "slug": "puissancerenov",
+        "telephone": "07 66 22 61 89",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "9702450427101188110",
+        "nom": "JS-Installation/réparation pompe à chaleur - installation/réparation climatisation -ballon thermodynamique Chatenay Malabry",
+        "slug": "js-installationreparation-pompe-a-chaleur-installationreparation-climatisation-ballon-thermodynamique-chatenay-malabry",
+        "telephone": "01 87 66 70 94",
+        "site_web": "https://jsidf-climatisation-pac.com/chatenay/",
+        "adresse": "1 All. de Malézieu, 92290 Châtenay-Malabry",
+        "note": 5,
+        "avis": 9,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "nanterre": {
+    "artisans": [
+      {
+        "id": "5183342602481714612",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "01 47 72 07 70",
+        "site_web": "https://agence.engie-homeservices.fr/164-engie-home-services-hauts-de-seine-nord?utm_source=gmb",
+        "adresse": "151 Rue du 1er Mai, 92000 Nanterre",
+        "note": 4.1,
+        "avis": 326,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2499002192104458810",
+        "nom": "TECHNIC PRO",
+        "slug": "technic-pro",
+        "telephone": "01 55 51 15 15",
+        "site_web": "https://technicpronanterre.wixsite.com/website",
+        "adresse": "15 Rue Jean Allemane, 92000 Nanterre",
+        "note": 4.6,
+        "avis": 50,
+        "type": "Plombier"
+      },
+      {
+        "id": "15134234994390356093",
+        "nom": "Albert Plombier Nanterre",
+        "slug": "albert-plombier-nanterre",
+        "telephone": "07 56 95 93 25",
+        "site_web": null,
+        "adresse": "13 Av. de la République, 92000 Nanterre",
+        "note": 5,
+        "avis": 64,
+        "type": "Plombier"
+      },
+      {
+        "id": "9330726957864381450",
+        "nom": "ELECOMAGE ALGÉRIE",
+        "slug": "elecomage-algerie",
+        "telephone": null,
+        "site_web": "https://elecomage.com/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10307167268143235379",
+        "nom": "Plombier Nanterre Martin Alain",
+        "slug": "plombier-nanterre-martin-alain",
+        "telephone": "01 85 09 89 28",
+        "site_web": "https://alainmartinplombiernanterre.fr/",
+        "adresse": "8 Bd du Couchant, 92000 Nanterre",
+        "note": 4.7,
+        "avis": 56,
+        "type": "Plombier"
+      },
+      {
+        "id": "11676619496832391760",
+        "nom": "WATECH SERVICES",
+        "slug": "watech-services",
+        "telephone": "07 56 85 54 91",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 47,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5791369580556683799",
+        "nom": "Air Fluides Energie",
+        "slug": "air-fluides-energie",
+        "telephone": "09 83 84 43 98",
+        "site_web": "https://www.facebook.com/airfluidesenergie/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 39,
+        "type": "Plombier"
+      },
+      {
+        "id": "8550401714655550599",
+        "nom": "Paul Plombier Nanterre",
+        "slug": "paul-plombier-nanterre",
+        "telephone": "01 84 23 62 38",
+        "site_web": "https://paulplombiernanterre.fr/",
+        "adresse": "55 Rue Salvador Allende, 92000 Nanterre",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "2820939042498037790",
+        "nom": "Laurent Rodrigo",
+        "slug": "laurent-rodrigo",
+        "telephone": "07 80 97 40 26",
+        "site_web": "http://www.laurentrodrigoplombiernanterre.fr/",
+        "adresse": "60 Rue Maurice Thorez, 92000 Nanterre",
+        "note": 4.9,
+        "avis": 133,
+        "type": "Plombier"
+      },
+      {
+        "id": "5798708375115607881",
+        "nom": "HPA Plus Débouchage Hydrocurage Pompage Assainissement",
+        "slug": "hpa-plus-debouchage-hydrocurage-pompage-assainissement",
+        "telephone": "06 67 28 28 28",
+        "site_web": "https://hpaplus.fr/",
+        "adresse": "53 Rue des Suisses, 92000 Nanterre",
+        "note": 4.9,
+        "avis": 313,
+        "type": "Service d'assainissement"
+      }
+    ]
+  },
+  "colombes": {
+    "artisans": [
+      {
+        "id": "3916387863286987399",
+        "nom": "CEDEO Colombes : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-colombes-sanitaire-chauffage-plomberie",
+        "telephone": "01 47 69 09 49",
+        "site_web": "https://www.cedeo.fr/infos-agence/colombes-cedeo-2469",
+        "adresse": "179 Rue des Voies du Bois, 92700 Colombes",
+        "note": 4.4,
+        "avis": 31,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "14332981927972993930",
+        "nom": "Etablissements Herblot",
+        "slug": "etablissements-herblot",
+        "telephone": "01 41 19 98 05",
+        "site_web": null,
+        "adresse": "124 Rue Denis Papin, 92700 Colombes",
+        "note": 4,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7243406055218525477",
+        "nom": "FB Plomberie 92",
+        "slug": "fb-plomberie-92",
+        "telephone": "06 64 79 27 39",
+        "site_web": "http://www.fbplomberie92.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 58,
+        "type": "Plombier"
+      },
+      {
+        "id": "1885514554415643766",
+        "nom": "CCS - Chauffage Clim Services",
+        "slug": "ccs-chauffage-clim-services",
+        "telephone": "06 52 64 30 54",
+        "site_web": null,
+        "adresse": "15 Rue Paul Déroulède, 92270 Bois-Colombes",
+        "note": 4.8,
+        "avis": 21,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "12460507869038435259",
+        "nom": "MACLEM",
+        "slug": "maclem",
+        "telephone": "06 50 75 07 64",
+        "site_web": "https://colombes.maclem.fr/",
+        "adresse": "72 Rue des Champarons, 92700 Colombes",
+        "note": 5,
+        "avis": 140,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "180110368524150902",
+        "nom": "Artisan climatisation pompe a chaleur",
+        "slug": "artisan-climatisation-pompe-a-chaleur",
+        "telephone": "09 72 17 95 21",
+        "site_web": "https://www.artisanclimatisationpompeachaleur.fr/?page_id=383",
+        "adresse": "6 Rue de Seine, 92700 Colombes",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "16761203509018630042",
+        "nom": "Eau Air Gaz",
+        "slug": "eau-air-gaz",
+        "telephone": "01 85 53 83 57",
+        "site_web": "http://www.eauairgaz.fr/",
+        "adresse": "171 Rue des Champarons, 92700 Colombes",
+        "note": 4.6,
+        "avis": 24,
+        "type": "Plombier"
+      },
+      {
+        "id": "405200544592074374",
+        "nom": "bg installation climatisation - pompe à chaleur colombes - maintenance",
+        "slug": "bg-installation-climatisation-pompe-a-chaleur-colombes-maintenance",
+        "telephone": "01 87 66 41 81",
+        "site_web": "http://jsidf-climatisation-pac.com/colombes/",
+        "adresse": "64 Rue Saint-Denis, 92700 Colombes",
+        "note": 5,
+        "avis": 16,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "courbevoie": {
+    "artisans": [
+      {
+        "id": "8417102762904717952",
+        "nom": "Domireva SARL AP2C",
+        "slug": "domireva-sarl-ap2c",
+        "telephone": "01 43 34 25 55",
+        "site_web": "https://www.ap2c-domireva.com/?utm_source=gmb",
+        "adresse": "2 Rue Madiraa, 92400 Courbevoie",
+        "note": 3.9,
+        "avis": 33,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15030338141325268065",
+        "nom": "SFIEET Chauffagiste : installation, entretien, dépannage chauffage, chaudière, pompe à chaleur, climatisation, réseaux",
+        "slug": "sfieet-chauffagiste-installation-entretien-depannage-chauffage-chaudiere-pompe-a-chaleur-climatisation-reseaux",
+        "telephone": "01 42 42 70 76",
+        "site_web": "https://www.sfieet.com/",
+        "adresse": "13 Av. de la République, 92400 Courbevoie",
+        "note": 3.8,
+        "avis": 48,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16315925232304531927",
+        "nom": "Artisan Brunet Père et Fils",
+        "slug": "artisan-brunet-pere-et-fils",
+        "telephone": "07 60 82 92 54",
+        "site_web": "http://www.artisan-brunet-courbevoie.fr/?utm_source=gmb",
+        "adresse": "34 Rue de Colombes, 92400 Courbevoie",
+        "note": 4.7,
+        "avis": 143,
+        "type": "Plombier"
+      },
+      {
+        "id": "727153780270569044",
+        "nom": "Chaudair",
+        "slug": "chaudair",
+        "telephone": "06 36 22 07 00",
+        "site_web": "http://www.chaudair.fr/",
+        "adresse": "61 Rue Franklin, 92400 Courbevoie",
+        "note": 5,
+        "avis": 24,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16195672376426863301",
+        "nom": "ENGIE Home Services",
+        "slug": "engie-home-services",
+        "telephone": "01 44 22 00 00",
+        "site_web": "https://www.engie-homeservices.fr/",
+        "adresse": "9-11 All. de l'Arche, 92400 Courbevoie",
+        "note": 4.8,
+        "avis": 3266,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3995442349644065689",
+        "nom": "Patrick costa",
+        "slug": "patrick-costa",
+        "telephone": "07 80 94 77 08",
+        "site_web": "http://patrick-costa-plombier-courbevoie.fr/",
+        "adresse": "77 Av. de la République, 92400 Courbevoie",
+        "note": 5,
+        "avis": 127,
+        "type": "Plombier"
+      },
+      {
+        "id": "16991101582984117498",
+        "nom": "CLIMARIA climatisations réversibles et pompes à chaleur",
+        "slug": "climaria-climatisations-reversibles-et-pompes-a-chaleur",
+        "telephone": "01 40 97 95 14",
+        "site_web": "https://www.climaria.fr/",
+        "adresse": "28 Rue de Colombes, 92400 Courbevoie",
+        "note": 5,
+        "avis": 49,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "12500825730725110591",
+        "nom": "DELOSTAL & THIBAULT",
+        "slug": "delostal-thibault",
+        "telephone": "01 41 99 95 95",
+        "site_web": "https://www.delostaletthibault.fr/",
+        "adresse": "54 Rue Lambrechts, 92400 Courbevoie",
+        "note": 2.6,
+        "avis": 99,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17122807704621580874",
+        "nom": "Ecovair",
+        "slug": "ecovair",
+        "telephone": "01 85 43 13 92",
+        "site_web": "http://www.ecovair.fr/",
+        "adresse": "37 Rue Adam Ledoux, 92400 Courbevoie",
+        "note": 4.6,
+        "avis": 446,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "163769860395036877",
+        "nom": "Patric Oliveira",
+        "slug": "patric-oliveira",
+        "telephone": "01 84 20 29 60",
+        "site_web": "https://patricoliveiraplombiercourbevoie.fr/",
+        "adresse": "16 Rue Joseph Rivière, 92400 Courbevoie",
+        "note": 4.8,
+        "avis": 77,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "boulogne-billancourt": {
+    "artisans": [
+      {
+        "id": "14739852194565959993",
+        "nom": "LE CHAUFFAGISTE",
+        "slug": "le-chauffagiste",
+        "telephone": "06 68 51 69 84",
+        "site_web": "https://chauffagiste-boulogne.fr/",
+        "adresse": "43 Rue de Silly, 92100 Boulogne-Billancourt",
+        "note": 4.4,
+        "avis": 44,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3792405315408054527",
+        "nom": "AquaDco",
+        "slug": "aquadco",
+        "telephone": "06 33 51 35 43",
+        "site_web": "http://www.aquad.co/",
+        "adresse": null,
+        "note": 5,
+        "avis": 90,
+        "type": "Plombier"
+      },
+      {
+        "id": "5147412716194419870",
+        "nom": "Etablissement Rodin Père et Fils",
+        "slug": "etablissement-rodin-pere-et-fils",
+        "telephone": "06 51 62 48 43",
+        "site_web": "http://www.etsrodin.fr/",
+        "adresse": "90 Rte de la Reine, 92100 Boulogne-Billancourt",
+        "note": 4.7,
+        "avis": 192,
+        "type": "Plombier"
+      },
+      {
+        "id": "7219617725145246037",
+        "nom": "Plomberie aviva",
+        "slug": "plomberie-aviva",
+        "telephone": "01 49 09 92 00",
+        "site_web": "https://www.plomberieaviva.fr/",
+        "adresse": "55 Rue Emile Landrin, 92100 Boulogne-Billancourt",
+        "note": 4.9,
+        "avis": 175,
+        "type": "Plombier"
+      },
+      {
+        "id": "6454792803771173500",
+        "nom": "C.R.D PRO BAT",
+        "slug": "crd-pro-bat",
+        "telephone": "06 21 95 38 63",
+        "site_web": "https://plombier-crd.com/",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "7499304980440390541",
+        "nom": "NB Multiservices",
+        "slug": "nb-multiservices",
+        "telephone": "06 19 36 35 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 134,
+        "type": "Plombier"
+      },
+      {
+        "id": "116237921574514330",
+        "nom": "Les Artisans Écolos",
+        "slug": "les-artisans-ecolos",
+        "telephone": "01 79 75 26 27",
+        "site_web": "https://les-artisans-ecolos.fr/",
+        "adresse": "6 Rue de l'Ouest, 92100 Boulogne-Billancourt",
+        "note": 4.7,
+        "avis": 92,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2518796126203369598",
+        "nom": "Plomberie de la Reine",
+        "slug": "plomberie-de-la-reine",
+        "telephone": "01 46 99 04 24",
+        "site_web": "http://www.plomberiedelareine.com/?utm_source=gmb",
+        "adresse": "8 Rue de l'Est, 92100 Boulogne-Billancourt",
+        "note": 4.9,
+        "avis": 140,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "6645403333110578549",
+        "nom": "Plomberie BRB / Plombier - Boulogne",
+        "slug": "plomberie-brb-plombier-boulogne",
+        "telephone": "06 52 53 91 68",
+        "site_web": "https://www.plomberie-brb.fr/",
+        "adresse": "937 Cr Aquitaine, 92100 Boulogne-Billancourt",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "13894136194864279695",
+        "nom": "Le Petit Plombier à Vélo",
+        "slug": "le-petit-plombier-a-velo",
+        "telephone": "07 61 77 23 70",
+        "site_web": "http://www.lepetitplombieravelo.com/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 114,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "rueil-malmaison": {
+    "artisans": [
+      {
+        "id": "2263508397652001061",
+        "nom": "Établissement Drouet",
+        "slug": "etablissement-drouet",
+        "telephone": "06 03 28 88 75",
+        "site_web": "https://www.drouetplomberiechauffage.fr/",
+        "adresse": "26 Rue Léon Hourlier, 92500 Rueil-Malmaison",
+        "note": 5,
+        "avis": 208,
+        "type": "Plombier"
+      },
+      {
+        "id": "4449259947071173160",
+        "nom": "Entreprise Bernard Plombier Rueil-Malmaison & hauts-de-Seine 92",
+        "slug": "entreprise-bernard-plombier-rueil-malmaison-hauts-de-seine-92",
+        "telephone": "01 89 36 03 14",
+        "site_web": "https://www.plombier-rueil-malmaison-entreprise-bernard-laporte.fr/",
+        "adresse": "21 Rue du Château, 92500 Rueil-Malmaison",
+        "note": 4.9,
+        "avis": 98,
+        "type": "Plombier"
+      },
+      {
+        "id": "6427497495530448733",
+        "nom": "Ent Duyck",
+        "slug": "ent-duyck",
+        "telephone": "09 84 32 23 95",
+        "site_web": "http://www.sylvain-duyck.fr/?utm_source=gmb",
+        "adresse": "7 Rue Jean Mermoz, 92500 Rueil-Malmaison",
+        "note": 4.8,
+        "avis": 165,
+        "type": "Plombier"
+      },
+      {
+        "id": "13362120080506462987",
+        "nom": "GLK Plomberie",
+        "slug": "glk-plomberie",
+        "telephone": "06 27 26 47 85",
+        "site_web": null,
+        "adresse": "5 Rue Trumeau, 92500 Rueil-Malmaison",
+        "note": 5,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "39707431698332162",
+        "nom": "Ets Leroy Père et Fils",
+        "slug": "ets-leroy-pere-et-fils",
+        "telephone": "01 47 16 75 13",
+        "site_web": "https://www.ets-leroy-depannages.fr/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=rueil-malmaison",
+        "adresse": "56 Av. Victor Hugo, 92500 Rueil-Malmaison",
+        "note": 4.3,
+        "avis": 244,
+        "type": "Plombier"
+      },
+      {
+        "id": "17019889522165389320",
+        "nom": "ETS BELORGEY",
+        "slug": "ets-belorgey",
+        "telephone": "01 47 51 24 97",
+        "site_web": "https://www.etsbelorgey.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "1 Rue des Chailles, 92500 Rueil-Malmaison",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17870224589997590669",
+        "nom": "DIABIRA Plombier Rueil Malmaison",
+        "slug": "diabira-plombier-rueil-malmaison",
+        "telephone": "01 87 58 88 85",
+        "site_web": null,
+        "adresse": "72 Rte de l'Empereur, 92500 Rueil-Malmaison",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "ville-d-avray": {
+    "artisans": [
+      {
+        "id": "1710075405085234041",
+        "nom": "Chaz Plombier Ville-d'Avray",
+        "slug": "chaz-plombier-ville-davray",
+        "telephone": "01 84 73 41 28",
+        "site_web": "https://chazplombierville-davray.fr/",
+        "adresse": "48 Rue de Versailles, 92410 Ville-d'Avray",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11548475291511271604",
+        "nom": "Jcb Plomberie",
+        "slug": "jcb-plomberie",
+        "telephone": "01 47 50 55 95",
+        "site_web": "http://www.jcb-plomberie.com/",
+        "adresse": "14 Rue de Saint-Cloud, 92410 Ville-d'Avray",
+        "note": 4.7,
+        "avis": 191,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "garches": {
+    "artisans": [
+      {
+        "id": "15749033248844902251",
+        "nom": "Mister Plombier",
+        "slug": "mister-plombier",
+        "telephone": "01 59 49 02 20",
+        "site_web": "https://mister-plombier.fr/",
+        "adresse": "107 Rue de Buzenval, 92380 Garches",
+        "note": 5,
+        "avis": 50,
+        "type": "Plombier"
+      },
+      {
+        "id": "18129559177020395551",
+        "nom": "Sanitaire Chauffage",
+        "slug": "sanitaire-chauffage",
+        "telephone": "09 70 35 14 62",
+        "site_web": null,
+        "adresse": "20 Bis Rue de Marnes 92380, 92380 Garches",
+        "note": 3,
+        "avis": 2,
+        "type": "Service de restauration de bâtiments"
+      },
+      {
+        "id": "10273081249111437502",
+        "nom": "Soc ANTONA ET COFI",
+        "slug": "soc-antona-et-cofi",
+        "telephone": "01 47 01 94 94",
+        "site_web": "https://www.antona-et-cofi.fr/",
+        "adresse": "13 Av. Brezin, 92380 Garches",
+        "note": 1.9,
+        "avis": 58,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "11984266587453083829",
+        "nom": "CHGE - installation - dépannage - entretien pompe à chaleur - installation climatisation réversible Saint cloud",
+        "slug": "chge-installation-depannage-entretien-pompe-a-chaleur-installation-climatisation-reversible-saint-cloud",
+        "telephone": "01 84 80 80 42",
+        "site_web": "https://jbmgeni-pompe-saint-cloud.com/",
+        "adresse": "113 Av. du Maréchal Foch, 92210 Saint-Cloud",
+        "note": 5,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1853466202012928823",
+        "nom": "Plombier Miguel Barbosa",
+        "slug": "plombier-miguel-barbosa",
+        "telephone": "07 56 95 48 06",
+        "site_web": "https://miguelbarbosaplombiergarches.fr/",
+        "adresse": "72 Rue du Dr Debat, 92380 Garches",
+        "note": 4.7,
+        "avis": 68,
+        "type": "Plombier"
+      },
+      {
+        "id": "5336869619193592227",
+        "nom": "Entreprise Basto - Plombier / Chauffagiste",
+        "slug": "entreprise-basto-plombier-chauffagiste",
+        "telephone": "06 23 79 66 27",
+        "site_web": "https://entreprisebasto-plomberie-chauffagiste.fr/",
+        "adresse": "14 Bd Raymond Poincaré, 92380 Garches",
+        "note": 5,
+        "avis": 77,
+        "type": "Plombier"
+      },
+      {
+        "id": "13778665656386237269",
+        "nom": "Climatech Plus - Expert Climaticien - Pompe A Chaleur - RGE QUALIPAC",
+        "slug": "climatech-plus-expert-climaticien-pompe-a-chaleur-rge-qualipac",
+        "telephone": "06 25 25 28 55",
+        "site_web": "https://climatech-plus.fr/",
+        "adresse": "9 Av. Alexandre Maistrasse, 92500 Rueil-Malmaison",
+        "note": 4.9,
+        "avis": 96,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13754360826391891901",
+        "nom": "Ets Alexandre",
+        "slug": "ets-alexandre",
+        "telephone": "01 42 24 10 28",
+        "site_web": "http://www.plombier-murat-saint-cloud.fr/",
+        "adresse": "7 Pl. du Pass. de Saint-Cloud, 92210 Saint-Cloud",
+        "note": 4.7,
+        "avis": 87,
+        "type": "Plombier"
+      },
+      {
+        "id": "9231027573165689919",
+        "nom": "BDDRP",
+        "slug": "bddrp",
+        "telephone": "01 47 41 64 17",
+        "site_web": "https://bddrp.com/nous-contacter/",
+        "adresse": "167 bis Rue de la Prte Jaune, 92380 Garches",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10169773362334777859",
+        "nom": "MGCP",
+        "slug": "mgcp",
+        "telephone": "06 35 34 11 67",
+        "site_web": "https://www.mgcplomberie.fr/",
+        "adresse": "110 Grande Rue, 92380 Garches",
+        "note": 4.8,
+        "avis": 16,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vanves": {
+    "artisans": [
+      {
+        "id": "16037894669817159110",
+        "nom": "Sos Plomberie 92",
+        "slug": "sos-plomberie-92",
+        "telephone": "07 52 63 50 52",
+        "site_web": "https://sosplomberie92.fr/",
+        "adresse": "10 Rue Marceau, 92130 Issy-les-Moulineaux",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "13062947344157222350",
+        "nom": "H2C - Energie",
+        "slug": "h2c-energie",
+        "telephone": "07 43 65 66 16",
+        "site_web": null,
+        "adresse": "4 Rue Louise Michel, 95190 Goussainville",
+        "note": 5,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8573604177571436824",
+        "nom": "laurent stephane",
+        "slug": "laurent-stephane",
+        "telephone": "07 56 91 05 10",
+        "site_web": "https://laurentstephanevanves.sitew.fr/",
+        "adresse": "14 Rue Jean Baptiste Potin, 92170 Vanves",
+        "note": 5,
+        "avis": 101,
+        "type": "Plombier"
+      },
+      {
+        "id": "773551735929222533",
+        "nom": "CLIM CONCEPT- installation climatisation 77",
+        "slug": "clim-concept-installation-climatisation-77",
+        "telephone": "06 46 15 29 49",
+        "site_web": "https://climconcept77.fr/",
+        "adresse": "1 Rue de Rigaudin, 77410 Annet-sur-Marne",
+        "note": 4.8,
+        "avis": 116,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7498131311236917203",
+        "nom": "plombier Vanves EURL LANSSENS",
+        "slug": "plombier-vanves-eurl-lanssens",
+        "telephone": "01 45 29 01 93",
+        "site_web": "https://annuaire-entreprises.data.gouv.fr/entreprise/eurl-lanssens-433887742",
+        "adresse": "19 Av. Jacques Jezequel, 92170 Vanves",
+        "note": 5,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "17098250879709469363",
+        "nom": "Alexandre plombier Vanves",
+        "slug": "alexandre-plombier-vanves",
+        "telephone": "01 84 21 68 84",
+        "site_web": "https://alexandreplombiervanves.fr/",
+        "adresse": "22 Av. Victor Hugo, 92170 Vanves",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "1143016409744561031",
+        "nom": "Mezieres Plomberie",
+        "slug": "mezieres-plomberie",
+        "telephone": "06 82 89 17 13",
+        "site_web": "https://mezieresplomberie.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 36,
+        "type": "Plombier"
+      },
+      {
+        "id": "2818729463349727045",
+        "nom": "Gasolec",
+        "slug": "gasolec",
+        "telephone": "01 57 63 03 03",
+        "site_web": "https://www.gasolec.net/",
+        "adresse": "58 Rue Voltaire, 92240 Malakoff",
+        "note": 4.4,
+        "avis": 38,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8472383479879536891",
+        "nom": "BUILDING PRO - Plomberie Chauffage Climatisation",
+        "slug": "building-pro-plomberie-chauffage-climatisation",
+        "telephone": "06 44 66 21 23",
+        "site_web": "https://building-pro.fr/",
+        "adresse": "19 Rue Auguste Chabrières, 75015 Paris",
+        "note": 5,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "5272443833022186829",
+        "nom": "Gazelec",
+        "slug": "gazelec",
+        "telephone": "01 46 32 56 46",
+        "site_web": null,
+        "adresse": "50 Rue Larmeroux, 92170 Vanves",
+        "note": 4.1,
+        "avis": 29,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "marnes-la-coquette": {
+    "artisans": [
+      {
+        "id": "1620329672366456139",
+        "nom": "Abel plombier Vaucresson",
+        "slug": "abel-plombier-vaucresson",
+        "telephone": "01 84 73 41 27",
+        "site_web": "https://abelplombiervaucresson.fr/",
+        "adresse": "1 Rue de la Feuillaume, 92420 Vaucresson",
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "7518733113894861282",
+        "nom": "Entreprise MARTEL",
+        "slug": "entreprise-martel",
+        "telephone": "01 74 54 23 97",
+        "site_web": "https://entreprise-martel.fr/",
+        "adresse": "9 Grande Rue, 92420 Vaucresson",
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1870806648658346465",
+        "nom": "S Voisin",
+        "slug": "s-voisin",
+        "telephone": "01 39 55 39 09",
+        "site_web": "http://www.svoisin.com/",
+        "adresse": "45 Rte de Rueil, 78150 Le Chesnay-Rocquencourt",
+        "note": 4.2,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "15462339716624651735",
+        "nom": "Therelec",
+        "slug": "therelec",
+        "telephone": "06 99 06 09 28",
+        "site_web": "https://www.therelec.fr/",
+        "adresse": "12 Grande Rue, 92420 Vaucresson",
+        "note": 5,
+        "avis": 3,
+        "type": "Électricien"
+      },
+      {
+        "id": "14255718411290399158",
+        "nom": "SC2E - Plomberie Chauffage Couverture",
+        "slug": "sc2e-plomberie-chauffage-couverture",
+        "telephone": "01 41 15 94 94",
+        "site_web": "http://www.sc2e.fr/",
+        "adresse": "1091 Av. Roger Salengro, 92370 Chaville",
+        "note": 4.2,
+        "avis": 57,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "14399744927053637272",
+        "nom": "Bruno Plomberie",
+        "slug": "bruno-plomberie",
+        "telephone": "06 43 39 89 24",
+        "site_web": "https://www.bruno-plomberie.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "12770337689071020351",
+        "nom": "Société Fouqueray",
+        "slug": "societe-fouqueray",
+        "telephone": "01 47 51 33 56",
+        "site_web": "https://fouqueray.fr/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=profile_fouqueray",
+        "adresse": "89 Rue des Rosiers, 92500 Rueil-Malmaison",
+        "note": 4.6,
+        "avis": 300,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4193523370085187203",
+        "nom": "MB Plomb'Art",
+        "slug": "mb-plombart",
+        "telephone": "06 67 72 20 19",
+        "site_web": "https://linktr.ee/mbplombart_?utm_source=linktree_profile_share&ltsid=dfaef024-1b1f-40d4-adc9-c220c2b2641b",
+        "adresse": "74 Av. du Maréchal Douglas Haig, 78000 Versailles",
+        "note": 4.9,
+        "avis": 64,
+        "type": "Plombier"
+      },
+      {
+        "id": "12404390373597088946",
+        "nom": "CEDEO Chaville : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-chaville-sanitaire-chauffage-plomberie",
+        "telephone": "01 47 50 02 56",
+        "site_web": "https://www.cedeo.fr/infos-agence/chaville-cedeo-1200",
+        "adresse": "499 Av. Roger Salengro, 92370 Chaville",
+        "note": 4.7,
+        "avis": 49,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "16243774734855137768",
+        "nom": "AMP (Plomberie / Chauffage)",
+        "slug": "amp-plomberie-chauffage",
+        "telephone": "06 68 60 71 13",
+        "site_web": null,
+        "adresse": "31 Rue Joseph Chaleil, 78220 Viroflay",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "fontenay-aux-roses": {
+    "artisans": [
+      {
+        "id": "12770426037874287915",
+        "nom": "DELMAËT Énergies",
+        "slug": "delmaet-energies",
+        "telephone": "06 20 46 52 62",
+        "site_web": "https://www.delmaet-energies.fr/",
+        "adresse": "22 Rue Jean Lavaud, 92260 Fontenay-aux-Roses",
+        "note": 5,
+        "avis": 36,
+        "type": "Plombier"
+      },
+      {
+        "id": "221123272792424410",
+        "nom": "Murfy - Dépannage électroménager",
+        "slug": "murfy-depannage-electromenager",
+        "telephone": null,
+        "site_web": "https://murfy.fr/lp/reparation-electromenager-paris?utm_campaign=FR_RD_REF_IledeFrance_Organic_AO_GMB&utm_medium=referral&utm_source=gmb",
+        "adresse": "29 Rue du Faubourg Poissonnière, 75002 Paris",
+        "note": 4.4,
+        "avis": 8056,
+        "type": "Service de réparation d'appareils électroménagers"
+      },
+      {
+        "id": "13893427035774088990",
+        "nom": "Entreprise Priez",
+        "slug": "entreprise-priez",
+        "telephone": "01 43 50 24 40",
+        "site_web": "http://www.entreprisepriez.fr/",
+        "adresse": "22 Rue d'Estienne d'Orves, 92260 Fontenay-aux-Roses",
+        "note": 3.8,
+        "avis": 46,
+        "type": "Plombier"
+      },
+      {
+        "id": "712676022333030282",
+        "nom": "Artisan plombier Clement 92",
+        "slug": "artisan-plombier-clement-92",
+        "telephone": "06 67 27 25 95",
+        "site_web": "http://www.plombierclement.com/?utm_source=gmb",
+        "adresse": "34 Rue Marx Dormoy, 92260 Fontenay-aux-Roses",
+        "note": 4.9,
+        "avis": 484,
+        "type": "Plombier"
+      },
+      {
+        "id": "12550889498012358404",
+        "nom": "Plombier Fontenay-aux-Roses Lefebvre Michel",
+        "slug": "plombier-fontenay-aux-roses-lefebvre-michel",
+        "telephone": "01 84 20 25 21",
+        "site_web": "https://michellefebvreplombierfontenay-aux-roses.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 35,
+        "type": "Plombier"
+      },
+      {
+        "id": "5961387593572862104",
+        "nom": "ESC Chailloux | Spécialiste des salles de bains à Fontenay-aux-Roses (92)",
+        "slug": "esc-chailloux-specialiste-des-salles-de-bains-a-fontenay-aux-roses-92",
+        "telephone": "06 70 30 74 86",
+        "site_web": "https://www.salle-de-bain-chailloux.fr/",
+        "adresse": "68 Rue d'Estienne d'Orves, 92260 Fontenay-aux-Roses",
+        "note": 5,
+        "avis": 7,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "4275236993438670824",
+        "nom": "Plomberie Courcelle",
+        "slug": "plomberie-courcelle",
+        "telephone": "06 11 04 38 87",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 139,
+        "type": "Plombier"
+      },
+      {
+        "id": "12240002862678967343",
+        "nom": "CP SERVICES",
+        "slug": "cp-services",
+        "telephone": "01 40 91 98 52",
+        "site_web": "http://www.cp-services.net/",
+        "adresse": "11 Rue des Pierrelais, 92260 Fontenay-aux-Roses",
+        "note": 3.6,
+        "avis": 12,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1779873891262887879",
+        "nom": "Vivao SARL",
+        "slug": "vivao-sarl",
+        "telephone": null,
+        "site_web": "http://vivao.fr/",
+        "adresse": "23 Rue Jean Lavaud, 92260 Fontenay-aux-Roses",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "14660569837376434668",
+        "nom": "JLB plomberie",
+        "slug": "jlb-plomberie",
+        "telephone": "09 70 24 88 22",
+        "site_web": null,
+        "adresse": "4 All. de la Madeleine, 92220 Bagneux",
+        "note": 4,
+        "avis": 23,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "chaville": {
+    "artisans": [
+      {
+        "id": "12887274629623335695",
+        "nom": "AMP Plombier",
+        "slug": "amp-plombier",
+        "telephone": "09 53 62 59 95",
+        "site_web": "https://www.amp-plombier.fr/",
+        "adresse": "17 Bd Edouard Vaillant, 93300 Aubervilliers",
+        "note": 4.9,
+        "avis": 705,
+        "type": "Plombier"
+      },
+      {
+        "id": "6552501829616086981",
+        "nom": "Ets Artois Pere Et Fils",
+        "slug": "ets-artois-pere-et-fils",
+        "telephone": "01 43 24 00 00",
+        "site_web": "https://www.ets-artois-depannage.fr/",
+        "adresse": "8 Bd de la Libération, 78220 Viroflay",
+        "note": 5,
+        "avis": 73,
+        "type": "Plombier"
+      },
+      {
+        "id": "4587866329309317348",
+        "nom": "C.P.C",
+        "slug": "cpc",
+        "telephone": "06 70 79 28 12",
+        "site_web": "https://cpc-plombier.fr/?utm_source=gmb",
+        "adresse": "2012 Av. Roger Salengro, 92370 Chaville",
+        "note": 5,
+        "avis": 30,
+        "type": "Plombier"
+      },
+      {
+        "id": "18361272729500259284",
+        "nom": "ENTREPRISE FRABOULET",
+        "slug": "entreprise-fraboulet",
+        "telephone": "01 47 09 02 82",
+        "site_web": "https://entreprise-fraboulet.fr/",
+        "adresse": "1956 Av. Roger Salengro, 92370 Chaville",
+        "note": 3.8,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "14925379248825594212",
+        "nom": "chauffelec",
+        "slug": "chauffelec",
+        "telephone": "06 38 05 78 30",
+        "site_web": null,
+        "adresse": "2061 Av. Roger Salengro, 92370 Chaville",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "8330839279274855385",
+        "nom": "Plomberie Ser-Bat",
+        "slug": "plomberie-ser-bat",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Av. Roger Salengro, 92370 Chaville",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2780924403822391618",
+        "nom": "Nelson Electricien Chaville",
+        "slug": "nelson-electricien-chaville",
+        "telephone": "01 84 23 62 75",
+        "site_web": null,
+        "adresse": "39 Rue Anatole France, 92370 Chaville",
+        "note": 5,
+        "avis": 5,
+        "type": "Électricien"
+      },
+      {
+        "id": "973428942769258587",
+        "nom": "Jeremy Plombier Chaville",
+        "slug": "jeremy-plombier-chaville",
+        "telephone": "01 84 20 32 19",
+        "site_web": "https://jeremyplombierchaville.fr/",
+        "adresse": "12 Rue des Fontaines Marivel, 92370 Chaville",
+        "note": 1,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "2824913607429081564",
+        "nom": "Gazabloc",
+        "slug": "gazabloc",
+        "telephone": "01 30 24 19 10",
+        "site_web": "https://www.gazabloc.com/accueil/accueil.html",
+        "adresse": "41 Av. du Général-Leclerc, 78220 Viroflay",
+        "note": 4.6,
+        "avis": 92,
+        "type": "Fournisseur d'équipements de chauffage"
+      },
+      {
+        "id": "2775994157567213395",
+        "nom": "Ets Leroy Père et Fils",
+        "slug": "ets-leroy-pere-et-fils",
+        "telephone": "01 77 44 35 35",
+        "site_web": "https://www.ets-leroy-depannages.fr/?utm_source=google&utm_medium=organic&utm_campaign=gbp&utm_content=viroflay",
+        "adresse": "43 Av. Gaston Boissier, 78220 Viroflay",
+        "note": 4.6,
+        "avis": 69,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sceaux": {
+    "artisans": [
+      {
+        "id": "7683184611543351884",
+        "nom": "LACQUEMANT NICOLAS Electricien",
+        "slug": "lacquemant-nicolas-electricien",
+        "telephone": "01 84 20 49 59",
+        "site_web": "https://lacquemant-electricien.fr/",
+        "adresse": "4 Rue du Dr Roux, 92330 Sceaux",
+        "note": 5,
+        "avis": 21,
+        "type": "Électricien"
+      },
+      {
+        "id": "7232925524620562111",
+        "nom": "HYDROtherm - Pompe à chaleur - Chaudière Gaz - Bourg la Reine",
+        "slug": "hydrotherm-pompe-a-chaleur-chaudiere-gaz-bourg-la-reine",
+        "telephone": "07 44 77 17 18",
+        "site_web": "https://hydrotherm.fr/",
+        "adresse": "7 Rue le Bouvier, 92340 Bourg-la-Reine",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "2100887274239773717",
+        "nom": "Therm innov",
+        "slug": "therm-innov",
+        "telephone": "06 51 07 35 81",
+        "site_web": "https://www.therminnov-chauffagiste-92.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 54,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "6508301905136310354",
+        "nom": "CHGE - installation - dépannage - entretien pompe à chaleur - installation climatisation réversible antony",
+        "slug": "chge-installation-depannage-entretien-pompe-a-chaleur-installation-climatisation-reversible-antony",
+        "telephone": "01 84 80 80 42",
+        "site_web": "https://jsidf-climatisation-pac.com/antony/",
+        "adresse": "5 Rue Auguste Mounié, 92160 Antony",
+        "note": 4.8,
+        "avis": 6,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "4230578351151509276",
+        "nom": "mlgenergy Isolation extérieur SCEAUX - isolation intérieur - combles - RGE",
+        "slug": "mlgenergy-isolation-exterieur-sceaux-isolation-interieur-combles-rge",
+        "telephone": "01 89 70 68 29",
+        "site_web": "https://mlgenergy-sceaux-isolation.com/",
+        "adresse": "54 Rue des Aulnes, 92330 Sceaux",
+        "note": 5,
+        "avis": 13,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3419864691641629554",
+        "nom": "Bruno Dessymoulie",
+        "slug": "bruno-dessymoulie",
+        "telephone": "01 46 65 84 74",
+        "site_web": "https://www.dessymoulie-chauffage.fr/",
+        "adresse": "1 Av. des Vergers, 92340 Bourg-la-Reine",
+        "note": 4.2,
+        "avis": 27,
+        "type": "Plombier"
+      },
+      {
+        "id": "12780111246295550787",
+        "nom": "JEREMY Plombier Antony",
+        "slug": "jeremy-plombier-antony",
+        "telephone": "01 87 58 88 59",
+        "site_web": null,
+        "adresse": "1 All. François Mansart, 92160 Antony",
+        "note": 5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "6943237700750053818",
+        "nom": "Robert plombier Sceaux",
+        "slug": "robert-plombier-sceaux",
+        "telephone": "01 84 18 31 12",
+        "site_web": "https://robertplombiersceaux.fr/",
+        "adresse": "18 Rue des Imbergeres, 92330 Sceaux",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "13487144242929220607",
+        "nom": "SANDRIN-ROUSSEAU Plomberie Chauffage Bains",
+        "slug": "sandrin-rousseau-plomberie-chauffage-bains",
+        "telephone": "01 46 61 88 55",
+        "site_web": "https://www.sandrin.fr/",
+        "adresse": "116 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 4.1,
+        "avis": 24,
+        "type": "Plombier"
+      },
+      {
+        "id": "9380873540713869326",
+        "nom": "J.F EAU ENERGY",
+        "slug": "jf-eau-energy",
+        "telephone": "06 60 69 69 46",
+        "site_web": "https://eau-energy.fr/",
+        "adresse": "22 Sent. des Torques, 92290 Châtenay-Malabry",
+        "note": 5,
+        "avis": 15,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "villeneuve-la-garenne": {
+    "artisans": [
+      {
+        "id": "7852757492046644484",
+        "nom": "La Plomberie Parisienne",
+        "slug": "la-plomberie-parisienne",
+        "telephone": "06 24 13 23 26",
+        "site_web": "https://la-plomberie-parisienne.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "6889643070381722846",
+        "nom": "Rivatherm",
+        "slug": "rivatherm",
+        "telephone": "01 72 42 77 69",
+        "site_web": null,
+        "adresse": "11 Av. Marc Sangnier, 92390 Villeneuve-la-Garenne",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5412269072186605720",
+        "nom": "Teddington France",
+        "slug": "teddington-france",
+        "telephone": "01 41 47 71 71",
+        "site_web": "http://www.teddington.fr/",
+        "adresse": "7 Av. Philippe Lebon, 92390 Villeneuve-la-Garenne",
+        "note": 4.5,
+        "avis": 59,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7906517319882936210",
+        "nom": "Mike Villeneuve-la-Garenne",
+        "slug": "mike-villeneuve-la-garenne",
+        "telephone": "01 84 73 41 29",
+        "site_web": "https://mikeplombiervilleneuve-la-garenne.fr/",
+        "adresse": "200 Bd Gallieni, 92390 Villeneuve-la-Garenne",
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "11367883372570326173",
+        "nom": "LIFTASUD IDF Villeneuve-La-Garenne",
+        "slug": "liftasud-idf-villeneuve-la-garenne",
+        "telephone": "01 70 61 26 40",
+        "site_web": "http://www.liftasud.fr/",
+        "adresse": "100 Av. de Verdun, 92390 Villeneuve-la-Garenne",
+        "note": 4.5,
+        "avis": 12,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8870654009004617251",
+        "nom": "H2O DEPANNE RENOVE",
+        "slug": "h2o-depanne-renove",
+        "telephone": "06 59 16 98 66",
+        "site_web": null,
+        "adresse": "212 bis Bd Gallieni, 92390 Villeneuve-la-Garenne",
+        "note": 4.8,
+        "avis": 61,
+        "type": "Plombier"
+      },
+      {
+        "id": "13070340568857293575",
+        "nom": "BILLIS CLIMATISATION",
+        "slug": "billis-climatisation",
+        "telephone": "01 47 99 92 36",
+        "site_web": "http://www.billis-climatisation.com/",
+        "adresse": "6 Av. Marcellin Berthelot, 92390 Villeneuve-la-Garenne",
+        "note": 4,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18315808336082390335",
+        "nom": "Clim+",
+        "slug": "clim",
+        "telephone": "01 46 88 08 80",
+        "site_web": "https://www.climplus.com/infos-agence/villeneuve-clim-4078",
+        "adresse": "4 Rue de la Litte, 92390 Villeneuve-la-Garenne",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "18301809601321135664",
+        "nom": "CEDEO Villeneuve-la-Garenne : Sanitaire - Chauffage - Plomberie",
+        "slug": "cedeo-villeneuve-la-garenne-sanitaire-chauffage-plomberie",
+        "telephone": "01 47 88 50 81",
+        "site_web": "https://www.cedeo.fr/infos-agence/villeneuve-la-garenne-cedeo-1001",
+        "adresse": "4 Rue de la Litte, 92390 Villeneuve-la-Garenne",
+        "note": 4,
+        "avis": 28,
+        "type": "Magasin d'articles de salle de bains"
+      },
+      {
+        "id": "16142344633887014072",
+        "nom": "CENTRAL Plomberie",
+        "slug": "central-plomberie",
+        "telephone": "01 73 27 32 65",
+        "site_web": "https://www.societe.com/societe/central-peinture-562073650.html",
+        "adresse": "119 Av. Louis Roche, 92230 Gennevilliers",
+        "note": 4.5,
+        "avis": 17,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "bourg-la-reine": {
+    "artisans": [
+      {
+        "id": "10981686045359065723",
+        "nom": "HYDROtherm - Hpce - Pompe à chaleur & Climatisation Bourg-la-Reine",
+        "slug": "hydrotherm-hpce-pompe-a-chaleur-climatisation-bourg-la-reine",
+        "telephone": "07 44 77 17 18",
+        "site_web": "https://hydrotherm.fr/",
+        "adresse": "7 Rue le Bouvier, 92340 Bourg-la-Reine",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "10815810375219013049",
+        "nom": "Joseph et fils qualité FRANCE",
+        "slug": "joseph-et-fils-qualite-france",
+        "telephone": "07 56 95 02 86",
+        "site_web": null,
+        "adresse": "40 Av. du Président Wilson, 94230 Cachan",
+        "note": 5,
+        "avis": 10,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7531990079899503439",
+        "nom": "CLIMAT BLEU",
+        "slug": "climat-bleu",
+        "telephone": "01 46 64 21 41",
+        "site_web": "http://www.climatbleu-chauffage-climatisation.fr/",
+        "adresse": "Village Artisanal, 33 Rue de la Bièvre ATELIER N°4, 92340 Bourg-la-Reine",
+        "note": 4.7,
+        "avis": 58,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4661621263782319966",
+        "nom": "Minella Christian",
+        "slug": "minella-christian",
+        "telephone": "01 40 91 90 30",
+        "site_web": "http://www.plombier-minella-bourg-la-reine.fr/",
+        "adresse": "118 Av. du Général Leclerc, 92340 Bourg-la-Reine",
+        "note": 4.1,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "9886944028879975420",
+        "nom": "Microclimat Idf",
+        "slug": "microclimat-idf",
+        "telephone": "01 43 50 02 06",
+        "site_web": "http://www.microclimat-idf.fr/",
+        "adresse": "33 Rue de la Bièvre Atelier N°6, 92340 Bourg-la-Reine",
+        "note": 2.7,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "vaucresson": {
+    "artisans": [
+      {
+        "id": "15100601989722812289",
+        "nom": "Jarrive",
+        "slug": "jarrive",
+        "telephone": "01 47 41 06 06",
+        "site_web": "http://www.facebook.fr/444600922248442?utm_source=gmb",
+        "adresse": "39 All. des Grandes Fermes, 92420 Vaucresson",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "6033069542561238963",
+        "nom": "ROSSET",
+        "slug": "rosset",
+        "telephone": null,
+        "site_web": "https://entreprise-rosset.fr/",
+        "adresse": "9 Grande Rue, 92420 Vaucresson",
+        "note": 1,
+        "avis": 1,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17240461807584470024",
+        "nom": "CHGE - installation - dépannage - entretien pompe à chaleur - installation climatisation réversible La Celle-Saint-Cloud",
+        "slug": "chge-installation-depannage-entretien-pompe-a-chaleur-installation-climatisation-reversible-la-celle-saint-cloud",
+        "telephone": "01 84 80 80 42",
+        "site_web": "https://jbmgeni-pompe-saint-cloud.com/celle/",
+        "adresse": "12 Av. des Haras, 78170 La Celle-Saint-Cloud",
+        "note": 5,
+        "avis": 8,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "sevres": {
+    "artisans": [
+      {
+        "id": "16841372097450792833",
+        "nom": "France Installation pompe à chaleur et climatisation sèvres - maintenance - dépannage et installation ballon thermodynamique",
+        "slug": "france-installation-pompe-a-chaleur-et-climatisation-sevres-maintenance-depannage-et-installation-ballon-thermodynamique",
+        "telephone": "01 87 66 41 76",
+        "site_web": "https://franceacompagne-isosevres-combles.com/",
+        "adresse": "5 Rue des Binelles, 92310 Sèvres",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1811555937989684978",
+        "nom": "Ets Lefevre Paris 11 : Plombier débouchage - Chauffagiste - Serrurier",
+        "slug": "ets-lefevre-paris-11-plombier-debouchage-chauffagiste-serrurier",
+        "telephone": "01 48 05 15 15",
+        "site_web": "https://www.ets-lefevre.fr/",
+        "adresse": "124 Bd Voltaire, 75011 Paris",
+        "note": 4.5,
+        "avis": 148,
+        "type": "Plombier"
+      },
+      {
+        "id": "17459375058363155772",
+        "nom": "AD CONCEPT 92",
+        "slug": "ad-concept-92",
+        "telephone": "01 41 14 27 00",
+        "site_web": null,
+        "adresse": "5 Rue Pierre Midrin, 92310 Sèvres",
+        "note": 5,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "6671919261621304899",
+        "nom": "Artisans D'Issy",
+        "slug": "artisans-dissy",
+        "telephone": "06 62 55 57 28",
+        "site_web": "http://artisans-dissy.fr/",
+        "adresse": null,
+        "note": 4.7,
+        "avis": 58,
+        "type": "Plombier"
+      },
+      {
+        "id": "5885830334474910058",
+        "nom": "ABJM Services",
+        "slug": "abjm-services",
+        "telephone": "06 47 35 34 45",
+        "site_web": "http://www.facebook.com/pages/ABJM-Services/639445796067269",
+        "adresse": "174 Grande Rue, 92310 Sèvres",
+        "note": 5,
+        "avis": 150,
+        "type": "Électricien"
+      },
+      {
+        "id": "3234406303674547518",
+        "nom": "EMY Plomberie",
+        "slug": "emy-plomberie",
+        "telephone": "01 84 60 54 84",
+        "site_web": "http://www.emyplomberie.com/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 351,
+        "type": "Plombier"
+      },
+      {
+        "id": "15786762691661538885",
+        "nom": "MTB France",
+        "slug": "mtb-france",
+        "telephone": "01 49 66 86 86",
+        "site_web": "http://mtb-france.com/",
+        "adresse": "4 Rue des Bruyères, 92310 Sèvres",
+        "note": 3.5,
+        "avis": 16,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "7499304980440390541",
+        "nom": "NB Multiservices",
+        "slug": "nb-multiservices",
+        "telephone": "06 19 36 35 97",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.7,
+        "avis": 134,
+        "type": "Plombier"
+      },
+      {
+        "id": "9524029826459614655",
+        "nom": "ARTISAN PLOMBIER MEUDON E.L.P.F ASSISTANCE",
+        "slug": "artisan-plombier-meudon-elpf-assistance",
+        "telephone": "01 46 30 46 12",
+        "site_web": "http://www.artisans-plombiers-meudon.fr/",
+        "adresse": "2 Bis Rue Robert Julien Lanen, 92190 Meudon",
+        "note": 4.8,
+        "avis": 118,
+        "type": "Plombier"
+      },
+      {
+        "id": "6645403333110578549",
+        "nom": "Plomberie BRB / Plombier - Boulogne",
+        "slug": "plomberie-brb-plombier-boulogne",
+        "telephone": "06 52 53 91 68",
+        "site_web": "https://www.plomberie-brb.fr/",
+        "adresse": "937 Cr Aquitaine, 92100 Boulogne-Billancourt",
+        "note": 4.9,
+        "avis": 40,
+        "type": "Plombier"
+      }
+    ]
+  }
+}

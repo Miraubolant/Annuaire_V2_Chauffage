@@ -12,15 +12,15 @@
             "slug": "guadeloupe",
             "population_totale": 384221,
             "communes_count": 32,
-            "communes_avec_artisans": 30,
-            "artisans_chauffage": 1113,
+            "communes_avec_artisans": 32,
+            "artisans_chauffage": 153,
             "voisins": []
         }
     ],
     "stats": {
         "communes_total": 32,
-        "communes_avec_artisans": 30,
-        "artisans_chauffage": 1113,
+        "communes_avec_artisans": 32,
+        "artisans_chauffage": 153,
         "population_totale": 384221
     },
     "zones_climatiques": [],

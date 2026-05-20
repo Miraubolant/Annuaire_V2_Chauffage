@@ -1,0 +1,2210 @@
+{
+  "saint-philippe": {
+    "artisans": [
+      {
+        "id": "1492440362978366545",
+        "nom": "Plombier974 - Le Tampon - Saint Pierre - dépannage urgent plomberie",
+        "slug": "plombier974-le-tampon-saint-pierre-depannage-urgent-plomberie",
+        "telephone": "+262 692 17 68 42",
+        "site_web": "https://www.plombier974.fr/",
+        "adresse": "39 Chem. Nassibou, Saint-Pierre 97410, La Réunion",
+        "note": 5,
+        "avis": 172,
+        "type": "Plombier"
+      },
+      {
+        "id": "12250465976108461341",
+        "nom": "BM FROID CLIMAT",
+        "slug": "bm-froid-climat",
+        "telephone": "+262 693 04 37 37",
+        "site_web": null,
+        "adresse": "111 Rn2 le baril, Saint-Philippe 97442, La Réunion",
+        "note": 5,
+        "avis": 5,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6228974082031137032",
+        "nom": "Intervention Réunion : Plombier étang salé (97427) | Dépannage Urgence",
+        "slug": "intervention-reunion-plombier-etang-sale-97427-depannage-urgence",
+        "telephone": "+262 692 02 13 52",
+        "site_web": "https://xn--intervention-runion-ozb.my.canva.site/",
+        "adresse": null,
+        "note": 5,
+        "avis": 72,
+        "type": "Plombier"
+      },
+      {
+        "id": "8227096882612843019",
+        "nom": "CLIM PASSION PLOMBERIE",
+        "slug": "clim-passion-plomberie",
+        "telephone": "+262 692 61 01 54",
+        "site_web": "https://depannage-climatisation-reunion-97.com/",
+        "adresse": "1 Rue Francois Truffaut, Saint-Joseph 97480, La Réunion",
+        "note": 5,
+        "avis": 49,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "petite-ile": {
+    "artisans": [
+      {
+        "id": "17131067051930666868",
+        "nom": "Joly Père et Fils",
+        "slug": "joly-pere-et-fils",
+        "telephone": "+262 692 89 35 86",
+        "site_web": "https://www.jolyfroidclim.fr/?utm_source=gmb",
+        "adresse": "1 Impasse des Bois d'Arnette, Petite-Île 97429, La Réunion",
+        "note": 4.7,
+        "avis": 26,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10116010024716229010",
+        "nom": "Yess Plomberie",
+        "slug": "yess-plomberie",
+        "telephone": "+262 692 85 91 76",
+        "site_web": null,
+        "adresse": "13 Chem. Napoleon, Petite-Île 97429, La Réunion",
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "12463831406317050004",
+        "nom": "BADAT ELECTRO",
+        "slug": "badat-electro",
+        "telephone": "+262 262 56 95 49",
+        "site_web": null,
+        "adresse": "247 Rue Mahe de Labourdonnais, Petite-Île 97429, La Réunion",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Magasin d'électroménager"
+      }
+    ]
+  },
+  "saint-leu": {
+    "artisans": [
+      {
+        "id": "3418804450955697947",
+        "nom": "FCE Services : Dépannage Installation Entretien Climatisation Île de La Réunion",
+        "slug": "fce-services-depannage-installation-entretien-climatisation-ile-de-la-reunion",
+        "telephone": "+262 693 22 64 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "14494672870226684065",
+        "nom": "TURBO ENERGY",
+        "slug": "turbo-energy",
+        "telephone": "01 30 10 12 80",
+        "site_web": "http://www.turbo-energy.fr/?utm_source=gmb",
+        "adresse": "189 Bd André Brémont, 95320 Saint-Leu-la-Forêt",
+        "note": 4.6,
+        "avis": 72,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "1422021901613460164",
+        "nom": "runferwood (plomberie: plombier )",
+        "slug": "runferwood-plomberie-plombier",
+        "telephone": "+262 692 36 54 36",
+        "site_web": null,
+        "adresse": "113 Chem. du Bois de Nèfles, Saint-Leu 97424, La Réunion",
+        "note": 5,
+        "avis": 41,
+        "type": "Plombier"
+      },
+      {
+        "id": "15657992004594954356",
+        "nom": "Alizes Multiservices",
+        "slug": "alizes-multiservices",
+        "telephone": "+262 693 91 78 87",
+        "site_web": "http://alizes-multiservices.business.site/?utm_source=gmb",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "4371833821443659022",
+        "nom": "Avenir plomberie",
+        "slug": "avenir-plomberie",
+        "telephone": "+262 693 77 09 08",
+        "site_web": "https://www.avenirplomberie974.fr/",
+        "adresse": "63 Bis Chem. Boussole, Saint-Leu 97424, La Réunion",
+        "note": 4.9,
+        "avis": 18,
+        "type": "Plombier"
+      },
+      {
+        "id": "9243118660915846992",
+        "nom": "MGT Plomberie",
+        "slug": "mgt-plomberie",
+        "telephone": "+262 693 83 61 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "7234948716552710881",
+        "nom": "DTEK",
+        "slug": "dtek",
+        "telephone": "+262 262 66 60 63",
+        "site_web": "https://dtek.re/",
+        "adresse": "117 Chem. Diale, Saint-Leu 97436, La Réunion",
+        "note": 4.6,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "15449756555340276601",
+        "nom": "P C S Le pro du chauffe-eau solaire",
+        "slug": "p-c-s-le-pro-du-chauffe-eau-solaire",
+        "telephone": "+262 692 05 74 54",
+        "site_web": "http://le-pro-du-chauffe-eau-solaire.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "17508720366691178617",
+        "nom": "RBTP",
+        "slug": "rbtp",
+        "telephone": "+262 262 86 89 96",
+        "site_web": "https://www.rbtp.re/",
+        "adresse": "50 Rue des Bois de Reinette, Saint-Leu 97424, La Réunion",
+        "note": 3.8,
+        "avis": 14,
+        "type": "Entrepreneur spécialisé dans la restauration après dégât des eaux"
+      },
+      {
+        "id": "2436122648213018271",
+        "nom": "ASV",
+        "slug": "asv",
+        "telephone": "01 39 32 96 71",
+        "site_web": "http://www.societeasv.fr/",
+        "adresse": "189 Bd André Brémont, 95320 Saint-Leu-la-Forêt",
+        "note": 4.4,
+        "avis": 21,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "l-etang-sale": {
+    "artisans": [
+      {
+        "id": "18109992509179244911",
+        "nom": "sarl Plomberie Pei",
+        "slug": "sarl-plomberie-pei",
+        "telephone": "+262 693 83 29 18",
+        "site_web": null,
+        "adresse": "54 Chem. du Maniron, L'Étang-Salé 97427, La Réunion",
+        "note": 4.9,
+        "avis": 41,
+        "type": "Plombier"
+      },
+      {
+        "id": "15853492624404376879",
+        "nom": "Plomberie Contact",
+        "slug": "plomberie-contact",
+        "telephone": "+262 693 99 04 61",
+        "site_web": "http://www.plomberie-contact.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "4411075693544204301",
+        "nom": "AGAPEC - Plomberie, Electricité, Climatisation",
+        "slug": "agapec-plomberie-electricite-climatisation",
+        "telephone": "+262 692 56 34 95",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17819199317041753807",
+        "nom": "LR Plomberie",
+        "slug": "lr-plomberie",
+        "telephone": "+262 692 23 63 15",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "11834152956220722748",
+        "nom": "Plombier : Woody Lebontuyaux",
+        "slug": "plombier-woody-lebontuyaux",
+        "telephone": "+262 693 51 95 29",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "14330908324989314663",
+        "nom": "Dépannage plomberie 974",
+        "slug": "depannage-plomberie-974",
+        "telephone": "+262 693 84 44 84",
+        "site_web": null,
+        "adresse": "5 avenue des Maldives, Lotissement Gilbert Delgard, 97450, La Réunion",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "370882267117285373",
+        "nom": "JDS",
+        "slug": "jds",
+        "telephone": "+262 693 03 44 44",
+        "site_web": "https://www.jds-reunion.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13583022888335906675",
+        "nom": "ACC SYSTEM BIOCLEANAIR",
+        "slug": "acc-system-biocleanair",
+        "telephone": "+262 262 38 30 30",
+        "site_web": "https://www.biocleanair-oi.re/",
+        "adresse": "4 Rue Franck Camille Cadet, L'Étang-Salé 97427, La Réunion",
+        "note": 4.1,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13605506486883386974",
+        "nom": "SAS SUN & EAU REUNION",
+        "slug": "sas-sun-eau-reunion",
+        "telephone": "+262 262 12 53 81",
+        "site_web": "http://www.chauffe-eausolaire.re/",
+        "adresse": "L'ETANG SALE, 4 Rue Franck Camille Cadet, L'Étang-Salé 97427, La Réunion",
+        "note": 1.4,
+        "avis": 14,
+        "type": "Fournisseur de chauffe-eau solaires"
+      },
+      {
+        "id": "17645189055908324100",
+        "nom": "Vidange Express",
+        "slug": "vidange-express",
+        "telephone": "+262 692 54 28 17",
+        "site_web": "https://m.facebook.com/people/Vidange-Express/100063760443706/?utm_source=gmb",
+        "adresse": "74 quater rue Casier Etang Salé (L, 97427, La Réunion",
+        "note": 4.8,
+        "avis": 106,
+        "type": "Service d'assainissement"
+      }
+    ]
+  },
+  "saint-benoit": {
+    "artisans": [
+      {
+        "id": "18443845716161948959",
+        "nom": "EMR PLOMBERIE SOLAIRE DEPANNAGE",
+        "slug": "emr-plomberie-solaire-depannage",
+        "telephone": "+262 693 84 34 60",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 33,
+        "type": "Plombier"
+      },
+      {
+        "id": "7127497864857598639",
+        "nom": "Renov & Moi - La Réunion 974",
+        "slug": "renov-moi-la-reunion-974",
+        "telephone": "+262 692 11 04 17",
+        "site_web": "https://renovetmoi.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Apprt. 33, Renov & Moi - La Réunion 974, Résidence Saint-Hubert, 92 Rue Montfleury, Saint-Benoît 97470, La Réunion",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Société de travaux publics"
+      },
+      {
+        "id": "17395754055949430744",
+        "nom": "Batiprod Travaux Généraux La Reunion",
+        "slug": "batiprod-travaux-generaux-la-reunion",
+        "telephone": "+262 262 21 62 89",
+        "site_web": null,
+        "adresse": "Atelier 05, 86 Rue des Cryptomerias, Saint-Benoît 97470, La Réunion",
+        "note": 3.2,
+        "avis": 5,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "1548057451909190204",
+        "nom": "SOS Fuites 974 - Spécialiste en Recherche de Fuite d'Eau à La Réunion",
+        "slug": "sos-fuites-974-specialiste-en-recherche-de-fuite-deau-a-la-reunion",
+        "telephone": "+262 692 72 20 84",
+        "site_web": "http://www.sosfuites974.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 47,
+        "type": "Plombier"
+      },
+      {
+        "id": "18031896478246979800",
+        "nom": "Groupe Hospitalier Est Réunion (GHER)",
+        "slug": "groupe-hospitalier-est-reunion-gher",
+        "telephone": "+262 262 98 80 00",
+        "site_web": "http://www.gher-reunion.fr/",
+        "adresse": "30 N3, Saint-Benoît 97470, La Réunion",
+        "note": 2.8,
+        "avis": 115,
+        "type": "Hôpital"
+      },
+      {
+        "id": "10893608339026435541",
+        "nom": "Elie plomberie",
+        "slug": "elie-plomberie",
+        "telephone": "+262 693 01 87 41",
+        "site_web": "https://elieplomberie-reunion.my.canva.site/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "10366799293926957700",
+        "nom": "Plumbing&Electricity Services 974",
+        "slug": "plumbingelectricity-services-974",
+        "telephone": "+262 693 50 70 39",
+        "site_web": "https://plumbingelectricityservices974.my.canva.site/",
+        "adresse": null,
+        "note": 5,
+        "avis": 61,
+        "type": "Électricien"
+      },
+      {
+        "id": "7663185323008563906",
+        "nom": "Testoni Réunion",
+        "slug": "testoni-reunion",
+        "telephone": "02 62 50 00 30",
+        "site_web": null,
+        "adresse": "Industry, 11 Rue Lafayette, Saint-Benoît 97470, La Réunion",
+        "note": 3,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "5731559151082836051",
+        "nom": "Keepcool La Réunion Saint-Benoît",
+        "slug": "keepcool-la-reunion-saint-benoit",
+        "telephone": "+262 693 51 26 06",
+        "site_web": "https://keepcool.fr/s/salle-de-sport-la-reunion-saint-benoit?utm_source=campaign-gmb",
+        "adresse": "19 chemin Hubert Delisle, Saint-Benoît 97470, La Réunion",
+        "note": 4.6,
+        "avis": 56,
+        "type": "Club de sport"
+      },
+      {
+        "id": "4809195311731419785",
+        "nom": "Express Dépannage Plomberie Electricité EDPE",
+        "slug": "express-depannage-plomberie-electricite-edpe",
+        "telephone": "+262 693 49 85 35",
+        "site_web": "https://edpe.re/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 207,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "le-port": {
+    "artisans": [
+      {
+        "id": "1492440362978366545",
+        "nom": "Plombier974 - Le Tampon - Saint Pierre - dépannage urgent plomberie",
+        "slug": "plombier974-le-tampon-saint-pierre-depannage-urgent-plomberie",
+        "telephone": "+262 692 17 68 42",
+        "site_web": "https://www.plombier974.fr/",
+        "adresse": "39 Chem. Nassibou, Saint-Pierre 97410, La Réunion",
+        "note": 5,
+        "avis": 172,
+        "type": "Plombier"
+      },
+      {
+        "id": "17643774975274914578",
+        "nom": "P2S",
+        "slug": "p2s",
+        "telephone": "+262 262 24 20 92",
+        "site_web": null,
+        "adresse": "19 Rue Charles Darwin, Le Port 97420, La Réunion",
+        "note": 5,
+        "avis": 4,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "5035342903219201152",
+        "nom": "Plomberie Dépannage JMP EI",
+        "slug": "plomberie-depannage-jmp-ei",
+        "telephone": "+262 692 32 98 67",
+        "site_web": "http://plomberie-depannage-jmp.re/",
+        "adresse": "10 Rue du Grand Hôtel, Saint-Paul 97434, La Réunion",
+        "note": 5,
+        "avis": 44,
+        "type": "Plombier"
+      },
+      {
+        "id": "3055287320859400396",
+        "nom": "GFR Le Port",
+        "slug": "gfr-le-port",
+        "telephone": "+262 262 42 32 00",
+        "site_web": "http://www.galaxie-frigorifique-reunionnaise.com/",
+        "adresse": "local 12, GFR Le Port, 6 rue Théodore Drouhet, Le Port 97420, La Réunion",
+        "note": 4.3,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8018313240025948869",
+        "nom": "Solar Reunion",
+        "slug": "solar-reunion",
+        "telephone": "+262 262 43 30 00",
+        "site_web": "http://www.solar-reunion.fr/",
+        "adresse": "30 Rue Claude Chappe, Le Port 97420, La Réunion",
+        "note": 2.1,
+        "avis": 25,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "8078097128324040156",
+        "nom": "COFER",
+        "slug": "cofer",
+        "telephone": "02 62 42 59 60",
+        "site_web": "http://www.cofer-solar.com/",
+        "adresse": "10 Rue Claude Chappe, Le Port 97420, La Réunion",
+        "note": 3,
+        "avis": 2,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "18189603174746776738",
+        "nom": "FRANCE AIR EXPORT La Réunion",
+        "slug": "france-air-export-la-reunion",
+        "telephone": "02 62 59 00 94",
+        "site_web": "https://www.france-air-export.com/",
+        "adresse": "92 Rue Jules Verne, Le Port 97420, La Réunion",
+        "note": 4.3,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11665232932695051665",
+        "nom": "REFRITECH-OI",
+        "slug": "refritech-oi",
+        "telephone": "+262 262 71 91 94",
+        "site_web": null,
+        "adresse": "village des mascareignes 2, 22 Rue Pierre Brossolette, Le Port 97420, La Réunion",
+        "note": 3,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10953646108256629443",
+        "nom": "Sanitaire Océan Indien",
+        "slug": "sanitaire-ocean-indien",
+        "telephone": "+262 692 64 20 62",
+        "site_web": "https://www.sanitaireoi.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "7 Rue Emile Zola, Lotissement Sedre, Le Port 97420, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Toilettes publiques"
+      },
+      {
+        "id": "5714406192924457994",
+        "nom": "GTOI - LES GRANDS TRAVAUX DE L'OCEAN INDIEN",
+        "slug": "gtoi-les-grands-travaux-de-locean-indien",
+        "telephone": "+262 262 42 85 85",
+        "site_web": "http://www.gtoi.fr/",
+        "adresse": "106 Rue Paul Verlaine, Le Port 97420, La Réunion",
+        "note": 4.2,
+        "avis": 68,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "les-avirons": {
+    "artisans": [
+      {
+        "id": "11564736862065280904",
+        "nom": "Sigmaclim",
+        "slug": "sigmaclim",
+        "telephone": "+262 692 77 51 97",
+        "site_web": null,
+        "adresse": "41 Chem. Bass. Bleu, Les Avirons 97425, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Hydrobase"
+      },
+      {
+        "id": "13408137820440523673",
+        "nom": "RUN SANI BOIS",
+        "slug": "run-sani-bois",
+        "telephone": "+262 693 84 95 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "10370971646270501001",
+        "nom": "ampah",
+        "slug": "ampah",
+        "telephone": "+262 262 43 09 45",
+        "site_web": "http://ampah.re/",
+        "adresse": "27 Rte de la Ravine Sèche, Les Avirons 97425, La Réunion",
+        "note": 4.8,
+        "avis": 20,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "4218643918490703180",
+        "nom": "Tethys Plomberie",
+        "slug": "tethys-plomberie",
+        "telephone": "+262 693 85 21 69",
+        "site_web": "https://tethysplomberie.re/?utm_source=gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "13471284163472413312",
+        "nom": "SIGMA Domotique",
+        "slug": "sigma-domotique",
+        "telephone": "+262 693 31 50 29",
+        "site_web": "https://www.sigma-technologie.re/",
+        "adresse": "4 avenue du Père René Payet, Saint-Louis 97450, La Réunion",
+        "note": 5,
+        "avis": 7,
+        "type": "Entreprise de domotique"
+      },
+      {
+        "id": "12323433862458330484",
+        "nom": "Prestige Service Reunion",
+        "slug": "prestige-service-reunion",
+        "telephone": "+262 692 21 82 84",
+        "site_web": "https://prestigeservicereunion.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "saint-joseph": {
+    "artisans": [
+      {
+        "id": "1685255409948536726",
+        "nom": "O’zone plomberie",
+        "slug": "ozone-plomberie",
+        "telephone": "+262 693 93 18 88",
+        "site_web": "https://m.facebook.com/pg/Ozone-plomberie-1881582298725154/reviews/",
+        "adresse": "34 Impasse des cannes, Saint Joseph 97480, La Réunion",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "15050690146964222735",
+        "nom": "RV PLOMBERIE",
+        "slug": "rv-plomberie",
+        "telephone": "+262 692 32 12 16",
+        "site_web": null,
+        "adresse": "202 Rue Edmond Albius, Saint-Joseph 97480, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9650929614886419108",
+        "nom": "Sol'Eau",
+        "slug": "soleau",
+        "telephone": "+262 693 82 28 33",
+        "site_web": "https://www.soleau.re/",
+        "adresse": "12 T, Sol'Eau, 12 Rue Louis Blériot, Saint Joseph 97480, La Réunion",
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "1408718860213623641",
+        "nom": "NiesEnergie",
+        "slug": "niesenergie",
+        "telephone": "+262 693 81 08 32",
+        "site_web": "https://niesenergie.re/",
+        "adresse": "8 Rue des Jamblonniers, Saint-Joseph 97480, La Réunion",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "3850036800670067560",
+        "nom": "Kossa Plomberie",
+        "slug": "kossa-plomberie",
+        "telephone": "+262 693 65 26 12",
+        "site_web": "https://kossa.re/",
+        "adresse": null,
+        "note": 3.6,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "10658644645009342320",
+        "nom": "Azurplomberieoi",
+        "slug": "azurplomberieoi",
+        "telephone": "+262 692 28 23 40",
+        "site_web": null,
+        "adresse": "les lianes, 13 lotissement les mag, Chem. Isautier, Saint-Joseph 97480, La Réunion",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "5738423352824256226",
+        "nom": "CIR CLIM",
+        "slug": "cir-clim",
+        "telephone": "+262 693 81 72 72",
+        "site_web": "https://www.facebook.com/cir.clim/",
+        "adresse": "D3, Saint-Joseph 97480, La Réunion",
+        "note": 5,
+        "avis": 40,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "4375358502949447481",
+        "nom": "F.Q.A.G CONSTRUCTION",
+        "slug": "fqag-construction",
+        "telephone": "09 74 39 64 44",
+        "site_web": "https://www.welinkbuilders.fr/plombier/electricien/carreleur/macon/peintre/charpentier/97480-saint-joseph-reunion/f-q-a-g-construction-999",
+        "adresse": "79 rue Concession, Rte de Jean Petit, Saint Joseph 97480, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15288058389774729822",
+        "nom": "Kossa Plomberie",
+        "slug": "kossa-plomberie",
+        "telephone": "+262 693 65 26 12",
+        "site_web": "https://kossa.re/",
+        "adresse": null,
+        "note": 1,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "10764564233406613755",
+        "nom": "Développement Froid Climatisation Océan Indien",
+        "slug": "developpement-froid-climatisation-ocean-indien",
+        "telephone": "06 92 73 38 54",
+        "site_web": null,
+        "adresse": "15 Rue des Cryptomerias, Saint-Joseph 97480, La Réunion",
+        "note": 3,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "sainte-marie": {
+    "artisans": [
+      {
+        "id": "17148833160023955916",
+        "nom": "JL Dépannages",
+        "slug": "jl-depannages",
+        "telephone": "+262 262 29 29 49",
+        "site_web": null,
+        "adresse": null,
+        "note": 3,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "5620458128803335272",
+        "nom": "Électro Froid Sanitaire (E.F.S)",
+        "slug": "electro-froid-sanitaire-efs",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "3 Rue Marie Caze, Sainte-Marie 97438, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "10569005524363844459",
+        "nom": "Expert Fuite Réunion",
+        "slug": "expert-fuite-reunion",
+        "telephone": "+262 262 07 20 40",
+        "site_web": "https://www.expertfuitereunion.re/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "9595587543865139232",
+        "nom": "CLIM By J",
+        "slug": "clim-by-j",
+        "telephone": "+262 692 42 78 42",
+        "site_web": "http://www.climbyj.re/",
+        "adresse": "10 Rle des Jamblons, Sainte-Marie 97438, La Réunion",
+        "note": 5,
+        "avis": 10,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3260842377527093398",
+        "nom": "PRO H2O REUNION",
+        "slug": "pro-h2o-reunion",
+        "telephone": "+262 692 02 81 12",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.6,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "11327195272392262472",
+        "nom": "ATEC ALTERNATEUR DEMARREUR CLIMATISATION",
+        "slug": "atec-alternateur-demarreur-climatisation",
+        "telephone": "06 92 93 59 94",
+        "site_web": "http://www.atec-alternateur.re/",
+        "adresse": "Ilot 3, Atelier, 20 Rue de la Pépinière, Sainte-Marie 97438, La Réunion",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "13106911276395125155",
+        "nom": "Plomberie Réunion Distribution (PRD)",
+        "slug": "plomberie-reunion-distribution-prd",
+        "telephone": "+262 262 97 26 20",
+        "site_web": "https://www.plomberie-reunion-distribution.com/?utm_source=gmb",
+        "adresse": "11 Rue Pierre Aubert, Saint-Denis 97490, La Réunion",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "2583520915523215524",
+        "nom": "Fuites Assistance Réunion",
+        "slug": "fuites-assistance-reunion",
+        "telephone": "+262 693 55 03 79",
+        "site_web": "https://www.fuites-assistance.com/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "5524839358912179591",
+        "nom": "HaryG",
+        "slug": "haryg",
+        "telephone": "+262 692 29 10 10",
+        "site_web": "https://www.haryg.com/",
+        "adresse": null,
+        "note": 2.4,
+        "avis": 82,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "bras-panon": {
+    "artisans": [
+      {
+        "id": "3806323140343637091",
+        "nom": "Plomberie Distribution",
+        "slug": "plomberie-distribution",
+        "telephone": "+262 692 98 06 05",
+        "site_web": null,
+        "adresse": "97 Chemin Jeanson, Saint-André 97440, La Réunion",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "9211750313494827925",
+        "nom": "Inov2elec",
+        "slug": "inov2elec",
+        "telephone": "+262 693 13 08 57",
+        "site_web": null,
+        "adresse": "14 Rue Nillameyom, Bras-Panon 97412, La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "4345465679995761823",
+        "nom": "desvaux plomberie",
+        "slug": "desvaux-plomberie",
+        "telephone": "+262 693 54 80 99",
+        "site_web": null,
+        "adresse": "386 Rue Dumesgnil D'Engente, Saint-André 97440, La Réunion",
+        "note": 4.5,
+        "avis": 83,
+        "type": "Plombier"
+      },
+      {
+        "id": "770223534792475898",
+        "nom": "Plombier Saint André La Réunion",
+        "slug": "plombier-saint-andre-la-reunion",
+        "telephone": "+262 692 24 17 20",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "8116288937417143158",
+        "nom": "JOHAN MULTI SERVICE",
+        "slug": "johan-multi-service",
+        "telephone": "09 74 39 64 52",
+        "site_web": "https://www.welinkbuilders.fr/plombier/menuisier/macon/carreleur/electricien/peintre/platrier/installateur-sanitaire/constructeur-maison-individuelle/plaquiste/nettoyeur/97440-saint-andre-reunion/johan-multi-service-970",
+        "adresse": "1034 Chem. Valentin, Saint Andre 97440, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9945788239854523582",
+        "nom": "AR BTP EI",
+        "slug": "ar-btp-ei",
+        "telephone": "+262 692 38 50 67",
+        "site_web": "http://arbtp.re/?utm_source=gmb",
+        "adresse": "2718 Chem. Lefaguyes, Saint-André 97440, La Réunion",
+        "note": 5,
+        "avis": 8,
+        "type": "Électricien"
+      },
+      {
+        "id": "3758674826135408614",
+        "nom": "Entreprise BARDEUR",
+        "slug": "entreprise-bardeur",
+        "telephone": "+262 692 68 53 41",
+        "site_web": null,
+        "adresse": "171 Rue des Sensitives, la Cressonniere 97440, La Réunion",
+        "note": 3.4,
+        "avis": 5,
+        "type": "Plombier"
+      },
+      {
+        "id": "15177269766062559106",
+        "nom": "PSR plomberie",
+        "slug": "psr-plomberie",
+        "telephone": "+262 692 55 30 31",
+        "site_web": null,
+        "adresse": "Rue de Cambuston, Saint-André 97440, La Réunion",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "4784731665661206064",
+        "nom": "SIRFLEX OI / Réparation & Dépannage Flexible Atelier et sur Site",
+        "slug": "sirflex-oi-reparation-depannage-flexible-atelier-et-sur-site",
+        "telephone": "+262 262 56 94 36",
+        "site_web": "https://sirflexoi.re/",
+        "adresse": "9 bis Cité Artisanale, Bras-Panon 97412, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation hydraulique"
+      },
+      {
+        "id": "7916911260350833528",
+        "nom": "Zotechnicien",
+        "slug": "zotechnicien",
+        "telephone": "+262 692 02 19 79",
+        "site_web": "http://zotechnicien.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "50 Route Nationale 2002, Bras-Panon 97412, La Réunion",
+        "note": 4.9,
+        "avis": 20,
+        "type": "Magasin de pièces détachées pour appareils électroménagers"
+      }
+    ]
+  },
+  "la-possession": {
+    "artisans": [
+      {
+        "id": "652518515281722336",
+        "nom": "Mcc - Maintenance climatisation cuisine",
+        "slug": "mcc-maintenance-climatisation-cuisine",
+        "telephone": "+262 692 02 71 26",
+        "site_web": "https://www.facebook.com/share/15kwMxJmYg/?mibextid=LQQJ4d&utm_source=gmb",
+        "adresse": "25 rue Saint Just Possession, La 97419, La Réunion",
+        "note": 5,
+        "avis": 17,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "14499369986248306557",
+        "nom": "NFPROSERVICES",
+        "slug": "nfproservices",
+        "telephone": "+262 693 30 14 81",
+        "site_web": "http://nfproservices.re/",
+        "adresse": "Rue Lobelie, La Possession 97419, La Réunion",
+        "note": 4,
+        "avis": 45,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "848904854493971825",
+        "nom": "EGL Réunion",
+        "slug": "egl-reunion",
+        "telephone": "+262 262 25 53 15",
+        "site_web": "https://www.egl-reunion.com/",
+        "adresse": "21 Rue Emmanuel Texer, La Possession 97419, La Réunion",
+        "note": 4.5,
+        "avis": 76,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "13004529285642970442",
+        "nom": "EGL Distribution",
+        "slug": "egl-distribution",
+        "telephone": "+262 262 70 37 03",
+        "site_web": "https://www.egl-distribution.com/public/fo",
+        "adresse": "21 Rue Emmanuel Texer, La Possession 97419, La Réunion",
+        "note": 4.1,
+        "avis": 7,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1411663528809455049",
+        "nom": "NEC OI",
+        "slug": "nec-oi",
+        "telephone": "+262 692 94 59 83",
+        "site_web": "https://www.nec-oi.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Appt. 12, NEC OI, Résidence Intemporelle, 1 Rue Franciscéa, La Possession 97419, La Réunion",
+        "note": 4.8,
+        "avis": 46,
+        "type": "Service de rénovation de bureaux"
+      },
+      {
+        "id": "10104493337283167052",
+        "nom": "Climatisation Saint Denis -Roulof Energie Frigoriste La Réunion",
+        "slug": "climatisation-saint-denis-roulof-energie-frigoriste-la-reunion",
+        "telephone": "+262 692 95 66 15",
+        "site_web": "http://www.roulof-energie.com/",
+        "adresse": "22 ter Chem. Gonneau, Saint-Paul 97411, La Réunion",
+        "note": 4.1,
+        "avis": 17,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "2948739391030145380",
+        "nom": "Hervé Thermique",
+        "slug": "herve-thermique",
+        "telephone": "+262 262 28 06 25",
+        "site_web": "https://www.herve-thermique.com/",
+        "adresse": "Bureau B17, Hervé Thermique, Centre d’Affaires Savanna, 2 Rue Patrice Lumumba, La Possession 97419, La Réunion",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "3246644381519122398",
+        "nom": "Héline Energies",
+        "slug": "heline-energies",
+        "telephone": "+262 262 59 32 06",
+        "site_web": null,
+        "adresse": "2 Rue Antanifotsy Ravine À Marquet, La Possession 97419, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "6227903578019160274",
+        "nom": "CSI Consultant Solaire International (Motorisation portail solaire, Chauffe eau solaire, Chauffage piscine solaire)",
+        "slug": "csi-consultant-solaire-international-motorisation-portail-solaire-chauffe-eau-solaire-chauffage-piscine-solaire",
+        "telephone": "+262 262 70 04 15",
+        "site_web": "https://www.consultantsolaireinternational.com/",
+        "adresse": "24 ter Rue Pablo Picasso La-Possession - (97419, 97419, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "3162665036009661450",
+        "nom": "Ineo & Axima - La Reunion / Groupe Equans",
+        "slug": "ineo-axima-la-reunion-groupe-equans",
+        "telephone": "+262 262 97 97 97",
+        "site_web": "https://www.equans.fr/",
+        "adresse": "16 Rue Gustave Eiffel, La Possession 97419, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Administration"
+      }
+    ]
+  },
+  "sainte-suzanne": {
+    "artisans": [
+      {
+        "id": "8244449072939763922",
+        "nom": "AJ Dépann Plomberie",
+        "slug": "aj-depann-plomberie",
+        "telephone": "+262 692 47 88 06",
+        "site_web": null,
+        "adresse": "6 T, Chem. Camp Creole, Sainte-Suzanne 97441, La Réunion",
+        "note": 5,
+        "avis": 7,
+        "type": "Plombier"
+      },
+      {
+        "id": "9119071083118271505",
+        "nom": "Bâti dépannage plomberie",
+        "slug": "bati-depannage-plomberie",
+        "telephone": "+262 692 72 41 04",
+        "site_web": "https://batidepannage.re/",
+        "adresse": "7F Chem. Mont Rose, Sainte-Suzanne 97441, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "18405238620761225224",
+        "nom": "Austral Groupe Energie Sainte-Suzanne",
+        "slug": "austral-groupe-energie-sainte-suzanne",
+        "telephone": "+262 262 85 05 50",
+        "site_web": "https://austral-energie.com/",
+        "adresse": "11 Rue Ambroise Croizat, Sainte-Suzanne 97441, La Réunion",
+        "note": 4.4,
+        "avis": 40,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "4660399125450808898",
+        "nom": "JS Électricité",
+        "slug": "js-electricite",
+        "telephone": "+262 692 96 07 04",
+        "site_web": "https://www.facebook.com/profile.php?id=61556160980505&utm_source=gmb",
+        "adresse": "105 Chem. Commune Ango, Sainte-Suzanne 97441, La Réunion",
+        "note": 5,
+        "avis": 16,
+        "type": "Électricien"
+      },
+      {
+        "id": "15633044921885221534",
+        "nom": "Godet Frères Plomberie",
+        "slug": "godet-freres-plomberie",
+        "telephone": "+262 692 47 83 41",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15098837068023942765",
+        "nom": "Topclim Réunion",
+        "slug": "topclim-reunion",
+        "telephone": "+262 692 56 26 70",
+        "site_web": "http://www.topclimreunion.re/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "27 Rue des Deux Rives, Sainte-Suzanne 97441, La Réunion",
+        "note": 2.6,
+        "avis": 8,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "salazie": {
+    "artisans": [
+      {
+        "id": "12682688314500139277",
+        "nom": "Couverture Zinguerie Ramonage",
+        "slug": "couverture-zinguerie-ramonage",
+        "telephone": "06 92 92 61 36",
+        "site_web": null,
+        "adresse": "802 Rte Departementale 48, Salazie 97433, La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur"
+      },
+      {
+        "id": "18178809668911025923",
+        "nom": "JLKY Entreprise",
+        "slug": "jlky-entreprise",
+        "telephone": "+262 692 85 38 26",
+        "site_web": "https://www.facebook.com/JLKYentreprise/",
+        "adresse": "40 Rue lory les hauts, Saint-Denis 97490, La Réunion",
+        "note": 4.4,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "7463259707818314662",
+        "nom": "SARL Plomberie Depann Express",
+        "slug": "sarl-plomberie-depann-express",
+        "telephone": "+262 692 65 12 91",
+        "site_web": null,
+        "adresse": "43 Rue Méziaires Guignard, Saint-Denis 97490, La Réunion",
+        "note": 4.3,
+        "avis": 42,
+        "type": "Plombier"
+      },
+      {
+        "id": "14962457446839212080",
+        "nom": "OLA Energy Salazie",
+        "slug": "ola-energy-salazie",
+        "telephone": "+262 262 47 58 21",
+        "site_web": "http://www.olaenergy.com/",
+        "adresse": "51 Rue Georges Pompidou, Salazie 97433, La Réunion",
+        "note": 4.2,
+        "avis": 46,
+        "type": "Station-service"
+      },
+      {
+        "id": "7653598494475139311",
+        "nom": "Pro Btp Réunion EURL",
+        "slug": "pro-btp-reunion-eurl",
+        "telephone": "+262 692 45 18 58",
+        "site_web": "http://www.pro-btp-reunion.fr/?utm_source=gmb",
+        "adresse": "114 Rue Monthyon, Saint-Denis 97400, La Réunion",
+        "note": 3.1,
+        "avis": 25,
+        "type": "Plombier"
+      },
+      {
+        "id": "5057117509202536038",
+        "nom": "Camping Le Relax",
+        "slug": "camping-le-relax",
+        "telephone": "+262 692 66 58 89",
+        "site_web": null,
+        "adresse": "21 Chem. de Bras Sec, Salazie 97433, La Réunion",
+        "note": 4.6,
+        "avis": 52,
+        "type": "Terrain de camping"
+      },
+      {
+        "id": "11170730731972309487",
+        "nom": "Clima Services",
+        "slug": "clima-services",
+        "telephone": "+262 692 23 74 89",
+        "site_web": null,
+        "adresse": "Dominique Barret, 14 Chemin de la Convalescence, Saint-Denis 97400, La Réunion",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3966498207615359825",
+        "nom": "LEPERLIER DEPANNAGE PLOMBERIE ELECTRICITE",
+        "slug": "leperlier-depannage-plomberie-electricite",
+        "telephone": "+262 693 49 85 35",
+        "site_web": "http://www.ldpe.re/",
+        "adresse": "46 Chem. Finette, Saint-Denis 97490, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9028820447899850673",
+        "nom": "Chambres d'Hotes des Agrumes",
+        "slug": "chambres-dhotes-des-agrumes",
+        "telephone": "+262 692 65 51 82",
+        "site_web": "https://chambredhotesdesagrumes.fr/sample-page",
+        "adresse": "7 Chem. Manouilh, Salazie 97433, La Réunion",
+        "note": 4.4,
+        "avis": 78,
+        "type": "Hébergement d'intérieur"
+      },
+      {
+        "id": "15550698750644277840",
+        "nom": "Le Jean Robert",
+        "slug": "le-jean-robert",
+        "telephone": "+262 262 97 51 74",
+        "site_web": "https://lejeanrobert.re/",
+        "adresse": "10 Chem. Bord Fontaine, Salazie 97433, La Réunion",
+        "note": 4.7,
+        "avis": 101,
+        "type": "Chambre d'hôtes"
+      }
+    ]
+  },
+  "entre-deux": {
+    "artisans": [
+      {
+        "id": "6540166935109621445",
+        "nom": "PLOMBERIE DEPANNAGE JMP EI",
+        "slug": "plomberie-depannage-jmp-ei",
+        "telephone": "+262 692 32 98 67",
+        "site_web": "http://www.plomberie-depannage-jmp.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "15571690028422840308",
+        "nom": "Artisan'eau",
+        "slug": "artisaneau",
+        "telephone": "+262 692 47 77 23",
+        "site_web": "http://artisaneau.re/",
+        "adresse": null,
+        "note": 5,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "6756677674335452986",
+        "nom": "PLOMBERIE DES HAUTS",
+        "slug": "plomberie-des-hauts",
+        "telephone": "+262 692 08 82 02",
+        "site_web": "https://www.facebook.com/p/Plomberie-des-Hauts-100092385280028/",
+        "adresse": "7 Imp. des Bananiers, Saint-Paul 97423, La Réunion",
+        "note": 5,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "3989312712350184014",
+        "nom": "Vdielect",
+        "slug": "vdielect",
+        "telephone": "+262 692 69 30 46",
+        "site_web": "https://www.vdielect.com/?utm_source=gmb",
+        "adresse": "270 Rue Jean Lauret, Entre-Deux 97414, La Réunion",
+        "note": 5,
+        "avis": 18,
+        "type": "Électricien"
+      },
+      {
+        "id": "3925203038225147630",
+        "nom": "Jbl Clim",
+        "slug": "jbl-clim",
+        "telephone": "+262 692 86 52 03",
+        "site_web": "https://www.jbl-clim.re/",
+        "adresse": "33 Rue Julius Hoarau, Entre-Deux 97414, La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8816999759533194086",
+        "nom": "ECSD",
+        "slug": "ecsd",
+        "telephone": "+262 692 68 21 21",
+        "site_web": "https://www.ecsd.re/",
+        "adresse": "Grande Ferme, 17 Impasse Theophane Begue, Le Tampon 97418, La Réunion",
+        "note": 5,
+        "avis": 13,
+        "type": "Fournisseur de chauffe-eau"
+      },
+      {
+        "id": "7213030000878375744",
+        "nom": "SOLAIRE SOLUTION",
+        "slug": "solaire-solution",
+        "telephone": "+262 693 61 56 12",
+        "site_web": "https://www.solaire-solution.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "15377717514702232934",
+        "nom": "David Le Depanneur",
+        "slug": "david-le-depanneur",
+        "telephone": "+262 692 68 75 44",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.9,
+        "avis": 16,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1444950374026216276",
+        "nom": "CHEMINEES REUNION - POELES A BOIS et GRANULES",
+        "slug": "cheminees-reunion-poeles-a-bois-et-granules",
+        "telephone": "+262 692 67 43 77",
+        "site_web": "http://www.cheminees-reunion.re/",
+        "adresse": null,
+        "note": 4,
+        "avis": 4,
+        "type": "Magasin de poêles à bois"
+      },
+      {
+        "id": "7282750940011931764",
+        "nom": "ATOM PLOMBERIE CHARPENTE MENUISERIE",
+        "slug": "atom-plomberie-charpente-menuiserie",
+        "telephone": "+262 692 79 98 92",
+        "site_web": null,
+        "adresse": "160 Chem. Stephane, Le Tampon 97430, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-louis": {
+    "artisans": [
+      {
+        "id": "18332831663988162855",
+        "nom": "Courant Froid",
+        "slug": "courant-froid",
+        "telephone": "02 62 39 12 14",
+        "site_web": "http://www.courantfroid.fr/",
+        "adresse": "61 Rue Evariste de Parny, St Pierre 97421, La Réunion",
+        "note": 4,
+        "avis": 5,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4354436953647408345",
+        "nom": "Syrius Réunion",
+        "slug": "syrius-reunion",
+        "telephone": "+262 262 57 44 96",
+        "site_web": "http://www.syrius-solar.re/",
+        "adresse": "52 Av. des Maldives, Saint-Louis 97450, La Réunion",
+        "note": 4.4,
+        "avis": 71,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "3858794454559709516",
+        "nom": "Rangama climatisation",
+        "slug": "rangama-climatisation",
+        "telephone": "+262 692 01 02 29",
+        "site_web": "https://climatisation-pro-saint-louis.fr/",
+        "adresse": "37 A Chem. Cannes Roses, Saint-Louis 97450, La Réunion",
+        "note": 5,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "638420056214267355",
+        "nom": "PMS",
+        "slug": "pms",
+        "telephone": "+262 693 70 33 58",
+        "site_web": "http://pms-49.webself.net/",
+        "adresse": "1e Chem. du Bass., Saint-Louis 97421, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2769625948273585863",
+        "nom": "Raphaël Plomberie 974",
+        "slug": "raphael-plomberie-974",
+        "telephone": "+262 692 80 57 61",
+        "site_web": null,
+        "adresse": "93bis, Saint-Louis 97421, La Réunion",
+        "note": 4.5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "2614485815180194320",
+        "nom": "FISEO",
+        "slug": "fiseo",
+        "telephone": "+262 692 23 24 54",
+        "site_web": "http://fiseo.fr/",
+        "adresse": "28 CHEMIN DES CAMOMILLES, Saint-Louis 97450, La Réunion",
+        "note": 5,
+        "avis": 4,
+        "type": "Électricien"
+      },
+      {
+        "id": "3049079348546324418",
+        "nom": "IRDelec ENERGIE",
+        "slug": "irdelec-energie",
+        "telephone": "+262 693 51 55 98",
+        "site_web": null,
+        "adresse": "185 N1C, Saint-Louis 97450, La Réunion",
+        "note": 5,
+        "avis": 7,
+        "type": "Électricien"
+      },
+      {
+        "id": "8446858190438597818",
+        "nom": "Solution BTP 974 – Recherche de fuite & toiture La Réunion",
+        "slug": "solution-btp-974-recherche-de-fuite-toiture-la-reunion",
+        "telephone": "+262 693 63 70 95",
+        "site_web": "https://www.solutionbtp974.com/",
+        "adresse": "4 Avenue du Pere Rene Payet, Saint-Louis 97450, La Réunion",
+        "note": 4.4,
+        "avis": 11,
+        "type": "Entreprise d'étanchéité"
+      },
+      {
+        "id": "14147013463954657354",
+        "nom": "GENEC",
+        "slug": "genec",
+        "telephone": null,
+        "site_web": "http://genec.fr/",
+        "adresse": "37 Chemin des Jacques, Saint-Louis 97421, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "857862972848709979",
+        "nom": "oté plombier",
+        "slug": "ote-plombier",
+        "telephone": "+262 692 93 94 72",
+        "site_web": null,
+        "adresse": "22 Chem. Ste Celine, Saint-Pierre 97410, La Réunion",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "les-trois-bassins": {
+    "artisans": [
+      {
+        "id": "15876687941097190586",
+        "nom": "DA SILVA DIAS PLOMBERIE",
+        "slug": "da-silva-dias-plomberie",
+        "telephone": "+262 692 17 76 11",
+        "site_web": null,
+        "adresse": "54 Chem. des Longanis, Les Trois-Bassins 97426, La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cilaos": {
+    "artisans": [
+      {
+        "id": "3393155761343540147",
+        "nom": "NASSIBOU",
+        "slug": "nassibou",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "19 Route du Bras Sec, Cilaos 97413, La Réunion",
+        "note": 4.5,
+        "avis": 22,
+        "type": "Refuge de montagne"
+      },
+      {
+        "id": "1419582510557462590",
+        "nom": "Le Tadjourah",
+        "slug": "le-tadjourah",
+        "telephone": "+262 692 91 09 05",
+        "site_web": "http://www.chambresdhotes-letadjourah.re/",
+        "adresse": "10 Chem. des Cryptomérias, Cilaos 97413, La Réunion",
+        "note": 4.9,
+        "avis": 14,
+        "type": "Chambre d'hôtes"
+      },
+      {
+        "id": "2842503215303852910",
+        "nom": "Thermes de Cilaos",
+        "slug": "thermes-de-cilaos",
+        "telephone": "+262 262 31 72 27",
+        "site_web": "http://www.thermescilaos.re/",
+        "adresse": "Rte du Bras-Sec, Cilaos 97413, La Réunion",
+        "note": 3.7,
+        "avis": 226,
+        "type": "Centre de bien-être"
+      },
+      {
+        "id": "2432534190069494045",
+        "nom": "Service des Sports de Cilaos",
+        "slug": "service-des-sports-de-cilaos",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "5 Rue du Stade, Cilaos 97413, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Organisateur d'événements"
+      },
+      {
+        "id": "10333858158404174637",
+        "nom": "les thermes",
+        "slug": "les-thermes",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "1 Chemin des Trois Mares, Cilaos 97413, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "13687396973904577276",
+        "nom": "Bassin Bleu - Cilaos",
+        "slug": "bassin-bleu-cilaos",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Cilaos 97413, La Réunion",
+        "note": 4.2,
+        "avis": 124,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "16320839932819573178",
+        "nom": "SOLAMI installateur en énergie solaire",
+        "slug": "solami-installateur-en-energie-solaire",
+        "telephone": "+262 262 45 54 55",
+        "site_web": "https://www.solami.fr/",
+        "adresse": "SOLAMI, 54 Chem. Cachalot, Saint-Pierre 97410, La Réunion",
+        "note": 4.4,
+        "avis": 106,
+        "type": "Entreprise d'énergie solaire"
+      },
+      {
+        "id": "15491487508348050392",
+        "nom": "AU COEUR DES MONTAGNES",
+        "slug": "au-coeur-des-montagnes",
+        "telephone": "+262 692 65 80 99",
+        "site_web": null,
+        "adresse": "13 Rue Mac Auliffe, Cilaos 97413, La Réunion",
+        "note": 5,
+        "avis": 8,
+        "type": "Location d'appartement de vacances"
+      },
+      {
+        "id": "562585885962641397",
+        "nom": "sport piscine municipal cilaos",
+        "slug": "sport-piscine-municipal-cilaos",
+        "telephone": "+262 262 31 55 47",
+        "site_web": null,
+        "adresse": "60 Rue Sery Victorine, Cilaos 97413, La Réunion",
+        "note": 2.8,
+        "avis": 8,
+        "type": "Piscine"
+      },
+      {
+        "id": "17183964700210050521",
+        "nom": "RPS",
+        "slug": "rps",
+        "telephone": "+262 693 62 32 08",
+        "site_web": "https://www.rps.re/",
+        "adresse": "5 Bis Impasse des Grands Bois, Saint-Paul 97435, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de chauffe-eau solaires"
+      }
+    ]
+  },
+  "la-plaine-des-palmistes": {
+    "artisans": [
+      {
+        "id": "12813952330934044978",
+        "nom": "Chez Marilou",
+        "slug": "chez-marilou",
+        "telephone": "+262 692 25 87 86",
+        "site_web": "https://www.facebook.com/ChzmariLou",
+        "adresse": "9 impasse des jacinthes, La Plaine-des-Palmistes 97431, La Réunion",
+        "note": 4.9,
+        "avis": 52,
+        "type": "Chambre d'hôtes"
+      },
+      {
+        "id": "15297702981224224732",
+        "nom": "AB Sud Plomberie",
+        "slug": "ab-sud-plomberie",
+        "telephone": "+262 262 71 57 57",
+        "site_web": null,
+        "adresse": "38 rue des lianes d'or, Le Tampon 97430, La Réunion",
+        "note": 4.9,
+        "avis": 189,
+        "type": "Plombier"
+      },
+      {
+        "id": "17121724393573537333",
+        "nom": "VILLA TI COIN FRAIS",
+        "slug": "villa-ti-coin-frais",
+        "telephone": "+262 692 77 93 27",
+        "site_web": null,
+        "adresse": "4 Imp. Solandra, La Plaine-des-Palmistes 97431, La Réunion",
+        "note": 5,
+        "avis": 20,
+        "type": "Villa"
+      },
+      {
+        "id": "13361337298963713084",
+        "nom": "quincaillerie de la plaine",
+        "slug": "quincaillerie-de-la-plaine",
+        "telephone": "+262 262 28 30 60",
+        "site_web": "https://www.facebook.com/Quincaillerie-de-la-plaine-107756271363772",
+        "adresse": "374 Rue de la République, La Plaine-des-Palmistes 97431, La Réunion",
+        "note": 4.4,
+        "avis": 8,
+        "type": "Magasin de materiaux de construction"
+      },
+      {
+        "id": "14302598428494709339",
+        "nom": "PAYET MULTI SERVICES REUNION",
+        "slug": "payet-multi-services-reunion",
+        "telephone": "+262 692 66 64 16",
+        "site_web": "https://www.pmsr974.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "151 A Chemin Philidor Techer, Le Tampon 97418, La Réunion",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "3764086518261036271",
+        "nom": "Quincaillerie du Village",
+        "slug": "quincaillerie-du-village",
+        "telephone": "+262 262 51 44 36",
+        "site_web": null,
+        "adresse": "1 Rue de la Gendarmerie, La Plaine-des-Palmistes 97431, La Réunion",
+        "note": 4.3,
+        "avis": 12,
+        "type": "Magasin d'ameublement et de décoration"
+      },
+      {
+        "id": "4117281909302618407",
+        "nom": "Chalet des capucines",
+        "slug": "chalet-des-capucines",
+        "telephone": "+262 489666594",
+        "site_web": null,
+        "adresse": "2 Impasse des Paquerettes, La Plaine-des-Palmistes 97431, La Réunion",
+        "note": 4.4,
+        "avis": 14,
+        "type": "Chalet"
+      },
+      {
+        "id": "4144667644887624609",
+        "nom": "Boulangerie Pâtisserie la Plainoise",
+        "slug": "boulangerie-patisserie-la-plainoise",
+        "telephone": "+262 262 31 55 32",
+        "site_web": null,
+        "adresse": "La Plaine-des-Palmistes 97431, La Réunion",
+        "note": 4.3,
+        "avis": 83,
+        "type": "Pâtisserie"
+      },
+      {
+        "id": "15814650974380740417",
+        "nom": "La Maison Verte",
+        "slug": "la-maison-verte",
+        "telephone": "+262 692 74 00 76",
+        "site_web": "https://www.lamaisonverte97418.com/",
+        "adresse": "12b Rue du Domaine de bellevue, Le Tampon 97418, La Réunion",
+        "note": 4.8,
+        "avis": 45,
+        "type": "Chambre d'hôtes"
+      },
+      {
+        "id": "5745655429524801991",
+        "nom": "Station-service de la Plaine des Palmistes - ViTO",
+        "slug": "station-service-de-la-plaine-des-palmistes-vito",
+        "telephone": "+262 262 51 34 70",
+        "site_web": null,
+        "adresse": "491 Rue de la République, La Plaine-des-Palmistes 97431, La Réunion",
+        "note": 4.3,
+        "avis": 26,
+        "type": "Station-service"
+      }
+    ]
+  },
+  "saint-pierre": {
+    "artisans": [
+      {
+        "id": "3846035768817945147",
+        "nom": "Plombier IJY",
+        "slug": "plombier-ijy",
+        "telephone": "+262 692 42 59 60",
+        "site_web": null,
+        "adresse": "26 Rue Raymond Begue, Saint-Pierre 97432, La Réunion",
+        "note": 4.5,
+        "avis": 11,
+        "type": "Plombier"
+      },
+      {
+        "id": "4131270303767120810",
+        "nom": "Plombier à Saint-Pierre SCP",
+        "slug": "plombier-a-saint-pierre-scp",
+        "telephone": "+262 693 63 91 44",
+        "site_web": "https://eurl-scp.fr/",
+        "adresse": "3 Rue Des Mimosas, Saint-Pierre 97410, La Réunion",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Plombier"
+      },
+      {
+        "id": "6548160247916132012",
+        "nom": "D.S Plomberie",
+        "slug": "ds-plomberie",
+        "telephone": "+262 692 42 66 01",
+        "site_web": "https://billdu.me/d-s-plomberie-1",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 8,
+        "type": "Plombier"
+      },
+      {
+        "id": "7691993545516714488",
+        "nom": "CLIMATIS | Climatisation Île de La Réunion",
+        "slug": "climatis-climatisation-ile-de-la-reunion",
+        "telephone": "+262 262 38 86 79",
+        "site_web": "http://climatis.re/",
+        "adresse": "Local n° 5, CLIMATIS | Climatisation Île de La Réunion, Bât C, 46 Bd Hubert Delisle, Saint-Pierre 97410, La Réunion",
+        "note": 4.3,
+        "avis": 49,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3784371488823145230",
+        "nom": "entreprise climelec reunion",
+        "slug": "entreprise-climelec-reunion",
+        "telephone": "+262 692 29 39 33",
+        "site_web": "https://climelec-reunion.pro/",
+        "adresse": "ZONE 3, 18 BIS Rue Benjamin Hoareau, Saint-Pierre 97410, La Réunion",
+        "note": 4.7,
+        "avis": 32,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3528193088830325310",
+        "nom": "Plomberie.Com",
+        "slug": "plomberiecom",
+        "telephone": "+262 262 59 96 65",
+        "site_web": "https://www.materiel-plomberie-974.re/",
+        "adresse": "3 Imp. Hector Lallemand, Saint-Pierre 97432, La Réunion",
+        "note": 3.9,
+        "avis": 8,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "50999262582375996",
+        "nom": "Ple.Plomberie.Depannage.",
+        "slug": "pleplomberiedepannage",
+        "telephone": "+262 693 47 62 72",
+        "site_web": null,
+        "adresse": "4 rue pierre joseph, Saint-Pierre 97410, La Réunion",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "4142543328935670400",
+        "nom": "Cool Tech",
+        "slug": "cool-tech",
+        "telephone": "+262 692 08 02 16",
+        "site_web": "https://bit.ly/MondevisCoolTech%20https://www.cooltech.re/",
+        "adresse": "41 Rue Désiré Barquisseau, St-Pierre 97410, La Réunion",
+        "note": 5,
+        "avis": 25,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2544424343876732159",
+        "nom": "Cooler Clim - Climatisation Chauffage La Reunion",
+        "slug": "cooler-clim-climatisation-chauffage-la-reunion",
+        "telephone": "+262 692 65 20 57",
+        "site_web": null,
+        "adresse": "4 Bis Rue du Pere Maitre, Saint-Pierre 97410, La Réunion",
+        "note": 5,
+        "avis": 4,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10555563858257823933",
+        "nom": "AS Plomberie",
+        "slug": "as-plomberie",
+        "telephone": "+262 693 97 83 64",
+        "site_web": "https://www.asplomberie.fr/",
+        "adresse": "24 che, Chem. Terrain D Aviation, 97410, La Réunion",
+        "note": 5,
+        "avis": 2,
+        "type": "Siège social"
+      }
+    ]
+  },
+  "saint-denis": {
+    "artisans": [
+      {
+        "id": "16511945712875512607",
+        "nom": "PLOMBERIE EXPRESS 974",
+        "slug": "plomberie-express-974",
+        "telephone": "+262 693 52 28 61",
+        "site_web": null,
+        "adresse": "119 Rue Lory Les Bas, Saint-Denis 97400, La Réunion",
+        "note": 5,
+        "avis": 168,
+        "type": "Plombier"
+      },
+      {
+        "id": "14584919025692774510",
+        "nom": "TEDDY DEPANNAGE PLOMBERIE",
+        "slug": "teddy-depannage-plomberie",
+        "telephone": "+262 693 82 41 58",
+        "site_web": null,
+        "adresse": "9 Rue Mgr Mondon, Saint-Denis 97400, La Réunion",
+        "note": 4.6,
+        "avis": 72,
+        "type": "Plombier"
+      },
+      {
+        "id": "9757639743856550829",
+        "nom": "EDPV",
+        "slug": "edpv",
+        "telephone": "+262 693 88 59 48",
+        "site_web": null,
+        "adresse": "71 Chemin de L Eveche, Saint-Denis 97400, La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "7743989858610110015",
+        "nom": "JB Plomberie Service",
+        "slug": "jb-plomberie-service",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "2 All. Francois Mauriac, Saint-Denis 97490, La Réunion",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "5030410454787073761",
+        "nom": "HAUTE DEFINITION PLOMBERIE",
+        "slug": "haute-definition-plomberie",
+        "telephone": "+262 692 19 77 22",
+        "site_web": null,
+        "adresse": "189 Rue Jules Auber, Saint-Denis 97400, La Réunion",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "10498385809947509092",
+        "nom": "FO-YAM Climatisation",
+        "slug": "fo-yam-climatisation",
+        "telephone": "+262 262 20 02 86",
+        "site_web": "http://www.foyam.com/",
+        "adresse": "33 Rue Charles Gounod, Saint-Denis 97400, La Réunion",
+        "note": 4.8,
+        "avis": 735,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7234859834882198504",
+        "nom": "Saidali Hamissi",
+        "slug": "saidali-hamissi",
+        "telephone": "+262 693 83 56 67",
+        "site_web": null,
+        "adresse": "9 Av. Des Cocotiers, Saint-Denis 97400, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12412785807648020223",
+        "nom": "FO-YAM Electroménager",
+        "slug": "fo-yam-electromenager",
+        "telephone": "+262 262 20 02 86",
+        "site_web": "http://www.foyam.com/",
+        "adresse": "33 Rue Charles Gounod, Saint-Denis 97400, La Réunion",
+        "note": 5,
+        "avis": 298,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "16559009946097765225",
+        "nom": "EFS Electro-froid Sanitaire VMC",
+        "slug": "efs-electro-froid-sanitaire-vmc",
+        "telephone": "+262 262 20 29 92",
+        "site_web": null,
+        "adresse": "45 Rue Ruisseau des Noirs, Saint-Denis 97400, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3831388303834849076",
+        "nom": "DOM CLIM ELEC",
+        "slug": "dom-clim-elec",
+        "telephone": "+262 693 81 48 68",
+        "site_web": null,
+        "adresse": "105 Rue de la République, Saint-Denis 97400, La Réunion",
+        "note": 4.4,
+        "avis": 23,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "saint-paul": {
+    "artisans": [
+      {
+        "id": "13237469594357251476",
+        "nom": "Depanali",
+        "slug": "depanali",
+        "telephone": "+262 692 57 26 34",
+        "site_web": "https://depanali.re/",
+        "adresse": "20 Place du Gral. de Gaulle, Saint-Paul 97460, La Réunion",
+        "note": 4.9,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "14628729380691875000",
+        "nom": "MC Plomberie Dépannage & installation sanitaire",
+        "slug": "mc-plomberie-depannage-installation-sanitaire",
+        "telephone": null,
+        "site_web": "https://mcplomberie974.business.site/?utm_medium=referral&utm_source=gmb",
+        "adresse": "6 Impasse des Trois Roches, Saint-Paul 97435, La Réunion",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Plombier"
+      },
+      {
+        "id": "6606424259903266719",
+        "nom": "MD plomberie",
+        "slug": "md-plomberie",
+        "telephone": "+262 692 40 85 77",
+        "site_web": null,
+        "adresse": "55 All. des Étoiles, Saint-Paul 97434, La Réunion",
+        "note": 5,
+        "avis": 31,
+        "type": "Plombier"
+      },
+      {
+        "id": "473074822402043539",
+        "nom": "Reunion Transition",
+        "slug": "reunion-transition",
+        "telephone": "+262 693 87 96 93",
+        "site_web": "https://reuniontransition.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "9245183931451135985",
+        "nom": "MTS PLOMBERIE 974",
+        "slug": "mts-plomberie-974",
+        "telephone": "+262 693 65 69 53",
+        "site_web": "https://mts-plomberie-974.webador.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "13216671099865063876",
+        "nom": "Margeot Plomberie",
+        "slug": "margeot-plomberie",
+        "telephone": "+262 693 84 32 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 10,
+        "type": "Plombier"
+      },
+      {
+        "id": "14523037045672112890",
+        "nom": "Godet Frères Plomberie",
+        "slug": "godet-freres-plomberie",
+        "telephone": "+262 693 87 42 01",
+        "site_web": null,
+        "adresse": "103 bis Ligne Chereau, Saint-Paul 97460, La Réunion",
+        "note": 5,
+        "avis": 20,
+        "type": "Plombier"
+      },
+      {
+        "id": "13722940455542093342",
+        "nom": "Thplomberie",
+        "slug": "thplomberie",
+        "telephone": "+262 693 61 96 37",
+        "site_web": null,
+        "adresse": "8bis Av. de Bourbon, Saint-Paul 97424, La Réunion",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "10641064114162952676",
+        "nom": "PSROI",
+        "slug": "psroi",
+        "telephone": "+262 262 34 87 19",
+        "site_web": null,
+        "adresse": "53 cité pano SAINT-PAUL RE RE 97460, Saint-Paul, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "3054460068896446951",
+        "nom": "DFEC - Détection de Fuites d'Eau avec Caméra à la Réunion",
+        "slug": "dfec-detection-de-fuites-deau-avec-camera-a-la-reunion",
+        "telephone": "+262 692 03 61 91",
+        "site_web": "https://detection-fuite-eau.re/",
+        "adresse": "8 Chem. Valfroy, Saint-Paul 97411, La Réunion",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "sainte-rose": {
+    "artisans": [
+      {
+        "id": "56977625353371900",
+        "nom": "W Plomberie Etanchéité",
+        "slug": "w-plomberie-etancheite",
+        "telephone": "+262 692 97 19 70",
+        "site_web": null,
+        "adresse": "41 Lot. Bel air, Sainte-Rose 97439, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans la restauration après dégât des eaux"
+      }
+    ]
+  },
+  "saint-andre": {
+    "artisans": [
+      {
+        "id": "10653148011499115606",
+        "nom": "GM Froid Climatisation",
+        "slug": "gm-froid-climatisation",
+        "telephone": "+262 262 61 85 34",
+        "site_web": "https://www.facebook.com/Leprofessioneldelaclimatisation/",
+        "adresse": "326 Av. des Mascareignes, Saint Andre 97440, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "1537320708406982704",
+        "nom": "Helder",
+        "slug": "helder",
+        "telephone": "+262 262 30 30 22",
+        "site_web": "http://www.sopsa-plomberie.fr/reunion/helder-saint-pierre-andre-magasin-sanitaire-salle-de-bain-cuisine",
+        "adresse": "173 Rue Andropolis, Saint-André 97440, La Réunion",
+        "note": 3.7,
+        "avis": 7,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "1297664286224974393",
+        "nom": "AES SAINT ANDRE alternateur démarreur climatisation FAP pompe de direction batterie pièces techniques turbo",
+        "slug": "aes-saint-andre-alternateur-demarreur-climatisation-fap-pompe-de-direction-batterie-pieces-techniques-turbo",
+        "telephone": "+262 262 31 99 18",
+        "site_web": "http://www.aes.re/",
+        "adresse": "128 Rue de la Cressonniere, Saint-André 97440, La Réunion",
+        "note": 3.5,
+        "avis": 35,
+        "type": "Magasin de pièces automobiles"
+      },
+      {
+        "id": "16024833357871984189",
+        "nom": "Domolight (Saint-André)",
+        "slug": "domolight-saint-andre",
+        "telephone": "+262 693 04 31 24",
+        "site_web": "https://www.domolighttechnologie.fr/",
+        "adresse": "418 Chem. de l'Ecole, Saint-André 97440, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "le-tampon": {
+    "artisans": [
+      {
+        "id": "7754407594165930668",
+        "nom": "Plombier Purenov",
+        "slug": "plombier-purenov",
+        "telephone": "+262 693 52 76 15",
+        "site_web": "https://plombier-le-tampon-purenov.my.canva.site/",
+        "adresse": "136 Rue Albert Frejaville, Le Tampon 97430, La Réunion",
+        "note": 4.9,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "10627737143253251450",
+        "nom": "Osmose Plomberie et Climatisation",
+        "slug": "osmose-plomberie-et-climatisation",
+        "telephone": "+262 693 91 80 46",
+        "site_web": "https://www.osmoseplomberie.fr/",
+        "adresse": "13 Imp. Demosthenes, Tampon (Le 97430, La Réunion",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "12690651799041242386",
+        "nom": "Sanit'Air",
+        "slug": "sanitair",
+        "telephone": "+262 262 91 16 32",
+        "site_web": "http://sanitair.re/",
+        "adresse": "54 Chemin Mondon ZA, Le Tampon 97430, La Réunion",
+        "note": 5,
+        "avis": 7,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "2409812303416115332",
+        "nom": "Entreprise SORRES Climatisation",
+        "slug": "entreprise-sorres-climatisation",
+        "telephone": "+262 692 98 26 43",
+        "site_web": "https://www.entreprisesorres.fr/",
+        "adresse": "31 Bis Rue Benjamin Hoarau, Le Tampon 97430, La Réunion",
+        "note": 5,
+        "avis": 19,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "770458496402402961",
+        "nom": "RGS PRO SERVICE",
+        "slug": "rgs-pro-service",
+        "telephone": "+262 262 27 33 53",
+        "site_web": "https://rgs.re/",
+        "adresse": "5 Imp. Gaston Doumergue, Le Tampon 97430, La Réunion",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "188906635130160345",
+        "nom": "W Plomberie & Pompes de Relevage",
+        "slug": "w-plomberie-pompes-de-relevage",
+        "telephone": "+262 692 97 19 70",
+        "site_web": "https://business.google.com/v/w-plomberie/0908982692664659979/0b3e/_?caid=20434053725&agid=154974222369&gclid=EAIaIQobChMI_bqGq_b0gAMVow8GAB2_1gMXEAAYASAAEgJoWfD_BwE",
+        "adresse": "15 Chem. du Portail, Le Tampon 97430, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "15935570827261703282",
+        "nom": "Clim'Nature",
+        "slug": "climnature",
+        "telephone": "+262 262 59 26 70",
+        "site_web": "https://www.climnature.re/",
+        "adresse": "LOCAL N°3, Clim'Nature, 60 Rue Charles Baudelaire, Le Tampon 97430, La Réunion",
+        "note": 5,
+        "avis": 3,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "6588984476972072987",
+        "nom": "SARL EPSC",
+        "slug": "sarl-epsc",
+        "telephone": "+262 262 59 90 36",
+        "site_web": null,
+        "adresse": "56, Rue Mondon ZA Trois Mares, Le Tampon 97430, La Réunion",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  }
+}

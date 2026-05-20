@@ -43,8 +43,8 @@
             "slug": "nord",
             "population_totale": 2611721,
             "communes_count": 647,
-            "communes_avec_artisans": 445,
-            "artisans_chauffage": 2769,
+            "communes_avec_artisans": 643,
+            "artisans_chauffage": 4849,
             "voisins": [
                 {
                     "dep_code": "02",
@@ -74,8 +74,8 @@
             "slug": "oise",
             "population_totale": 828589,
             "communes_count": 680,
-            "communes_avec_artisans": 361,
-            "artisans_chauffage": 1185,
+            "communes_avec_artisans": 672,
+            "artisans_chauffage": 4739,
             "voisins": [
                 {
                     "dep_code": "02",
@@ -105,8 +105,8 @@
             "slug": "pas-de-calais",
             "population_totale": 1460038,
             "communes_count": 888,
-            "communes_avec_artisans": 428,
-            "artisans_chauffage": 1460,
+            "communes_avec_artisans": 874,
+            "artisans_chauffage": 6411,
             "voisins": [
                 {
                     "dep_code": "02",
@@ -136,8 +136,8 @@
             "slug": "somme",
             "population_totale": 565107,
             "communes_count": 771,
-            "communes_avec_artisans": 241,
-            "artisans_chauffage": 556,
+            "communes_avec_artisans": 756,
+            "artisans_chauffage": 5237,
             "voisins": [
                 {
                     "dep_code": "02",
@@ -164,8 +164,8 @@
     ],
     "stats": {
         "communes_total": 3783,
-        "communes_avec_artisans": 1775,
-        "artisans_chauffage": 6747,
+        "communes_avec_artisans": 3245,
+        "artisans_chauffage": 22013,
         "population_totale": 5991185
     },
     "zones_climatiques": {

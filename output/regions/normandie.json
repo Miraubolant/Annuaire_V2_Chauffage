@@ -105,8 +105,8 @@
             "slug": "orne",
             "population_totale": 276369,
             "communes_count": 381,
-            "communes_avec_artisans": 151,
-            "artisans_chauffage": 346,
+            "communes_avec_artisans": 376,
+            "artisans_chauffage": 2143,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -136,8 +136,8 @@
             "slug": "seine-maritime",
             "population_totale": 1255875,
             "communes_count": 707,
-            "communes_avec_artisans": 349,
-            "artisans_chauffage": 1321,
+            "communes_avec_artisans": 703,
+            "artisans_chauffage": 4836,
             "voisins": [
                 {
                     "dep_code": "14",
@@ -164,8 +164,8 @@
     ],
     "stats": {
         "communes_total": 2645,
-        "communes_avec_artisans": 1319,
-        "artisans_chauffage": 4421,
+        "communes_avec_artisans": 1898,
+        "artisans_chauffage": 9733,
         "population_totale": 3329379
     },
     "zones_climatiques": {

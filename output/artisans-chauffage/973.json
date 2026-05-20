@@ -1,0 +1,837 @@
+{
+  "grand-santi": {
+    "artisans": [
+      {
+        "id": "13383709235125390373",
+        "nom": "AQUASUN sarl",
+        "slug": "aquasun-sarl",
+        "telephone": "+594 694 40 14 80",
+        "site_web": "https://aquasun-guyane.fr/",
+        "adresse": "4 Lot. Les Alamandas, montjoly 97354, Guyane française",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "2632657280342415753",
+        "nom": "MALON BOIS",
+        "slug": "malon-bois",
+        "telephone": "+594 694 94 16 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2457728495949775284",
+        "nom": "Plomberie Créa Rénov",
+        "slug": "plomberie-crea-renov",
+        "telephone": "+594 694 45 41 14",
+        "site_web": "https://www.instagram.com/plomberie_crearenov/",
+        "adresse": "Rue fleur d’ébène, Remire-Montjoly 97354, Guyane française",
+        "note": 5,
+        "avis": 45,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "apatou": {
+    "artisans": [
+      {
+        "id": "11740457864255724570",
+        "nom": "Mairie d'Apatou 97317",
+        "slug": "mairie-dapatou-97317",
+        "telephone": "+594 694 99 67 18",
+        "site_web": null,
+        "adresse": "71 Apatou, 97317, Guyane française",
+        "note": 4,
+        "avis": 3,
+        "type": "Mairie de village"
+      },
+      {
+        "id": "13603708975826911204",
+        "nom": "DEPSC",
+        "slug": "depsc",
+        "telephone": "+594 694 15 34 94",
+        "site_web": "https://www.facebook.com/depsc973/?locale=fr_FR&utm_source=gmb",
+        "adresse": "4, 97300 Rue du Château D’Eau, Cayenne, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Travaux généraux"
+      },
+      {
+        "id": "18117171622470535282",
+        "nom": "ATMJ Plomberie",
+        "slug": "atmj-plomberie",
+        "telephone": "+594 694 05 06 02",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7437963750200989120",
+        "nom": "Plomb' Express Guyane",
+        "slug": "plomb-express-guyane",
+        "telephone": "+594 594 32 31 62",
+        "site_web": null,
+        "adresse": "15 Rue des Freres Amet, Kourou 97310, Guyane française",
+        "note": 4.7,
+        "avis": 3,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "kourou": {
+    "artisans": [
+      {
+        "id": "12545268678350791977",
+        "nom": "POLAR-PRO FRANCE climatisation et plomberie",
+        "slug": "polar-pro-france-climatisation-et-plomberie",
+        "telephone": null,
+        "site_web": "https://www.facebook.com/POLARPRO973",
+        "adresse": "com/channel/UCHjnpTAZV6koDnBXNp_m97w, 1 Avenue des Frères Kennedy https://www.youtube, Kourou 97310, Guyane française",
+        "note": 4.8,
+        "avis": 12,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "10229184347371605577",
+        "nom": "SKF - Société Kouroucienne de Froid",
+        "slug": "skf-societe-kouroucienne-de-froid",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "ZI PARIACABO, Av. de Prefontaine, Kourou 97310, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "17347246417076460606",
+        "nom": "Frigelec",
+        "slug": "frigelec",
+        "telephone": "+594 594 32 31 71",
+        "site_web": null,
+        "adresse": "Rue Marcel Dassault ZI Pariacabo Kourou, 97310, Guyane française",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "8326358486829800894",
+        "nom": "Climatisation Froid Guyane",
+        "slug": "climatisation-froid-guyane",
+        "telephone": "+594 594 32 51 58",
+        "site_web": "http://www.climatisation-froid-guyane.com/",
+        "adresse": "9 Rue Louis Breguet, Kourou 97310, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4307024528873505607",
+        "nom": "Idex",
+        "slug": "idex",
+        "telephone": "05 94 22 08 22",
+        "site_web": "https://www.idex.fr/?utm_source=gmb",
+        "adresse": "22 Rue Pierre-Louis Chaumet, Kourou 97310, Guyane française",
+        "note": 5,
+        "avis": 3,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "5444903378867501130",
+        "nom": "Seid'immo / Plomberie",
+        "slug": "seidimmo-plomberie",
+        "telephone": "+594 694 00 60 43",
+        "site_web": "https://www.seidimmo.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=12748708477300162677",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2280221979645673545",
+        "nom": "Groupe Institut de Soudure",
+        "slug": "groupe-institut-de-soudure",
+        "telephone": "+594 594 33 76 65",
+        "site_web": "https://www.isgroupe.com/fr/presentation-a-propos/implantation/guyane-centre-international?utm_source=gmb",
+        "adresse": "Dla-eis / K, BP254, Kourou 97310, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Services aux entreprises"
+      },
+      {
+        "id": "15668071690525571482",
+        "nom": "T.S.E.C",
+        "slug": "tsec",
+        "telephone": "06 94 97 76 06",
+        "site_web": "https://www.facebook.com/tsec.sawh/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "remire-montjoly": {
+    "artisans": [
+      {
+        "id": "4145240022886092807",
+        "nom": "Plombeco Guyane",
+        "slug": "plombeco-guyane",
+        "telephone": "+594 594 37 99 74",
+        "site_web": null,
+        "adresse": "14 Rue des libéllules, Cayenne 97300, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "5195850058369664376",
+        "nom": "ATF BATISERVICES",
+        "slug": "atf-batiservices",
+        "telephone": "+594 694 37 65 92",
+        "site_web": "https://www.instagram.com/atfbatiservices?igsh=MTd3N2c0YzA5aXA1dg==",
+        "adresse": "9 Rue Giroflier, Remire-Montjoly 97354, Guyane française",
+        "note": 4.9,
+        "avis": 58,
+        "type": "Plombier"
+      },
+      {
+        "id": "10786190099742637485",
+        "nom": "DOCTEUR PLOMBIER SAS",
+        "slug": "docteur-plombier-sas",
+        "telephone": "+594 594 35 26 51",
+        "site_web": "https://www.docteur-plombier.com/",
+        "adresse": "Residence Lac Almaric, Remire-Montjoly 97354, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "18238048656669058318",
+        "nom": "Jo Froid Services",
+        "slug": "jo-froid-services",
+        "telephone": "+594 594 28 40 62",
+        "site_web": "https://jofroidservices-climatisation-guyane.fr/?fbclid=IwAR2NHaOhd6jI9mmJAhkD0xnDxy4pZEYxbtH3pcP_t1zK4Sdu9rVB4hPpms4&utm_source=gmb",
+        "adresse": "2561 Rte de Remire, Montjoly 97354, Guyane française",
+        "note": 4.5,
+        "avis": 46,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "16885463253338665289",
+        "nom": "Qualiblue Guyane",
+        "slug": "qualiblue-guyane",
+        "telephone": null,
+        "site_web": "https://qualiblue.com/",
+        "adresse": "4 lot Calimede route de Cabassou Cayenne, 97300, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Services aux entreprises"
+      },
+      {
+        "id": "17347751751701425523",
+        "nom": "Société MultI Travaux (S.M.I.T)",
+        "slug": "societe-multi-travaux-smit",
+        "telephone": "+594 694 03 53 34",
+        "site_web": null,
+        "adresse": "10 Av. Henri Agarande, Cayenne 97300, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17213383011223178140",
+        "nom": "Caraïbe plomberie",
+        "slug": "caraibe-plomberie",
+        "telephone": "+594 694 45 96 86",
+        "site_web": null,
+        "adresse": "28 cité capulo, Cayenne 97300, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "16754700920961585666",
+        "nom": "SUPERBRICO",
+        "slug": "superbrico",
+        "telephone": "07 67 33 10 20",
+        "site_web": null,
+        "adresse": "16 Rue de la Rose des Vents, Remire-Montjoly 97354, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Électricien"
+      },
+      {
+        "id": "14963822887986922051",
+        "nom": "Home Rénovation Plus",
+        "slug": "home-renovation-plus",
+        "telephone": "+594 694 37 87 10",
+        "site_web": "https://www.facebook.com/profile.php?id=100083301341134",
+        "adresse": null,
+        "note": 4.5,
+        "avis": 15,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "cayenne": {
+    "artisans": [
+      {
+        "id": "4931773983716809395",
+        "nom": "Plomberie Dom",
+        "slug": "plomberie-dom",
+        "telephone": "+594 594 25 03 20",
+        "site_web": "https://www.facebook.com/plomberiedomguyane/?locale=fr_FR",
+        "adresse": "1, 97300 Rue Raoul Tanon de Pelissier, Cayenne, Guyane française",
+        "note": 3.5,
+        "avis": 8,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "12431426596806746509",
+        "nom": "AB Fosse",
+        "slug": "ab-fosse",
+        "telephone": "+594 594 31 89 98",
+        "site_web": "https://www.abfoss.com/?utm_source=gmb",
+        "adresse": "Angle 1035 Rte de Baduel &, 97300 Imp. Aloés, Cayenne, Guyane française",
+        "note": 3.7,
+        "avis": 22,
+        "type": "Plombier"
+      },
+      {
+        "id": "17270644988218717927",
+        "nom": "PCS Plomberie",
+        "slug": "pcs-plomberie",
+        "telephone": "+594 594 35 12 77",
+        "site_web": null,
+        "adresse": "24 Cité Mortin, Cayenne 97300, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "12439399907864755958",
+        "nom": "CLIMATICA",
+        "slug": "climatica",
+        "telephone": "06 94 41 86 09",
+        "site_web": null,
+        "adresse": "16 Av. Voltaire, Cayenne 97300, Guyane française",
+        "note": 5,
+        "avis": 2,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "4510771875679726048",
+        "nom": "Clim Cash Collery - Guyane",
+        "slug": "clim-cash-collery-guyane",
+        "telephone": "+594 594 31 14 41",
+        "site_web": "https://www.climcash-guyane.fr/",
+        "adresse": "26 Rue des Fourmis Manioc, Cayenne 97300, Guyane française",
+        "note": 4.5,
+        "avis": 15,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6446157778477524062",
+        "nom": "PLOMBERIE DANTIN",
+        "slug": "plomberie-dantin",
+        "telephone": "+594 694 94 82 09",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "4711881872564569251",
+        "nom": "Pro Clim",
+        "slug": "pro-clim",
+        "telephone": "+594 594 38 93 46",
+        "site_web": "http://www.proclimcayenne.fr/",
+        "adresse": "131b, Rte de Bourda, Cayenne 97300, Guyane française",
+        "note": 4.9,
+        "avis": 10,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "6557584937454941053",
+        "nom": "LCF Climatisation & Froid Guyane",
+        "slug": "lcf-climatisation-froid-guyane",
+        "telephone": "+594 694 91 85 30",
+        "site_web": "https://lcf-climatisation.fr/",
+        "adresse": "6 Rue Sapotille, Matoury 97351, Guyane française",
+        "note": 4.9,
+        "avis": 37,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10985852793856115007",
+        "nom": "SODIGIS DISTRIBUTION",
+        "slug": "sodigis-distribution",
+        "telephone": "+594 594 35 14 15",
+        "site_web": null,
+        "adresse": "1 Rue Gilles Behary Laul Sirder Zone industrielle Collery Ouest, 97300, Guyane française",
+        "note": 3.7,
+        "avis": 6,
+        "type": "Fournisseur de gaz industriel"
+      },
+      {
+        "id": "14497413825743800791",
+        "nom": "Radia Sud",
+        "slug": "radia-sud",
+        "telephone": "+594 594 31 13 70",
+        "site_web": null,
+        "adresse": "30 Rue Gilles Béhary Laul Sirder, Collery, Cayenne 97300, 30 Rue Gilles Béhary Laul Sirder, Cayenne 97300, Guyane française",
+        "note": 3.9,
+        "avis": 45,
+        "type": "Garage automobile"
+      }
+    ]
+  },
+  "saint-georges": {
+    "artisans": [
+      {
+        "id": "16615537702502931156",
+        "nom": "Abiodis Guyane",
+        "slug": "abiodis-guyane",
+        "telephone": "+594 594 40 49 99",
+        "site_web": null,
+        "adresse": "V5VH+2H9 Abiodis Guyane, Saint-Georges 97313, Guyane française",
+        "note": 4.5,
+        "avis": 6,
+        "type": "Siège social"
+      },
+      {
+        "id": "13076849826435415817",
+        "nom": "Societe Guyanaise Des Eaux (SGDE)",
+        "slug": "societe-guyanaise-des-eaux-sgde",
+        "telephone": "+55 594284900",
+        "site_web": null,
+        "adresse": "V5QW+6V4 Societe Guyanaise Des Eaux (SGDE), Unnamed Road, Saint-Georges, Quanary, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Administration municipale"
+      },
+      {
+        "id": "3071827508787549177",
+        "nom": "Distribution En Plomberie Et Sanitaire",
+        "slug": "distribution-en-plomberie-et-sanitaire",
+        "telephone": "+594 594 35 09 89",
+        "site_web": "http://www.sopsa-plomberie.fr/guyane/dps-matoury/magasin-sanitaire-salle-de-bain-cuisine",
+        "adresse": "ZI Terca - Carrefour du Larivot, Matoury 97351, Guyane française",
+        "note": 4.1,
+        "avis": 19,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "15966752021084844988",
+        "nom": "Saut MARIPA",
+        "slug": "saut-maripa",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "R428+JRV Saut MARIPA, Saint Georges de l'Oyapok 97313, Guyane française",
+        "note": 4.6,
+        "avis": 20,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "10749069637075318849",
+        "nom": "Station Services TotalEnergies Saint-Georges",
+        "slug": "station-services-totalenergies-saint-georges",
+        "telephone": "+594 594 28 08 18",
+        "site_web": "https://ag.totalenergies.com/",
+        "adresse": "Route nationale, 2 2 2, Saint-Georges 97313, Guyane française",
+        "note": 3.1,
+        "avis": 8,
+        "type": "Station-service"
+      }
+    ]
+  },
+  "papaichton": {
+    "artisans": [
+      {
+        "id": "13976869995278157877",
+        "nom": "Société Guyanaise de Plomberie",
+        "slug": "societe-guyanaise-de-plomberie",
+        "telephone": "+594 594 35 76 13",
+        "site_web": null,
+        "adresse": "700 A, Chem. Gibelin, Matoury 97351, Guyane française",
+        "note": 4.8,
+        "avis": 8,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "13070284807730302827",
+        "nom": "service plomb",
+        "slug": "service-plomb",
+        "telephone": "+594 694 12 80 14",
+        "site_web": null,
+        "adresse": "les rive de soula, 27 rue de l'acarouani, BT 8A2 3, Macouria 97355, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "17562492216534644354",
+        "nom": "M.L.N Plomberie",
+        "slug": "mln-plomberie",
+        "telephone": "+594 694 47 34 23",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "16749436037524776765",
+        "nom": "Pizza l'Anis",
+        "slug": "pizza-lanis",
+        "telephone": "+594 694 93 10 10",
+        "site_web": null,
+        "adresse": "La Maison d'Isis rue SAWIN 97316, Guyane française",
+        "note": 4.1,
+        "avis": 17,
+        "type": "Restaurant"
+      }
+    ]
+  },
+  "saint-laurent-du-maroni": {
+    "artisans": [
+      {
+        "id": "14935297937754834326",
+        "nom": "DLI PLOMBERIE",
+        "slug": "dli-plomberie",
+        "telephone": "+594 694 49 11 32",
+        "site_web": null,
+        "adresse": "6989 avenue christophe colomb saint laurent du maroni, 97320, Guyane française",
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "9847209911635199614",
+        "nom": "911 CLIM DEPANNAGE",
+        "slug": "911-clim-depannage",
+        "telephone": "+594 694 42 69 17",
+        "site_web": "http://www.911climdepannage.fr/",
+        "adresse": "1 Rue Thiers, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 4.9,
+        "avis": 54,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "9967731615122698480",
+        "nom": "Monsieur Clim",
+        "slug": "monsieur-clim",
+        "telephone": "+594 694 99 11 11",
+        "site_web": "http://www.monsieurclim.gf/",
+        "adresse": "83 allée du lac bleu, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 4.6,
+        "avis": 39,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "13973045888265970996",
+        "nom": "MAPABAT",
+        "slug": "mapabat",
+        "telephone": "06 49 09 69 90",
+        "site_web": null,
+        "adresse": "1257 Avenue Gaston Monnerville, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 2.5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "matoury": {
+    "artisans": [
+      {
+        "id": "965707869944259823",
+        "nom": "SABECKS CLIMATISATION",
+        "slug": "sabecks-climatisation",
+        "telephone": "+594 694 43 57 36",
+        "site_web": null,
+        "adresse": "1893 Chem. de la Levée, Matoury 97351, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1278495970953070449",
+        "nom": "Sasu dr services",
+        "slug": "sasu-dr-services",
+        "telephone": "+594 694 95 74 40",
+        "site_web": "https://www.facebook.com/sasudrservices/",
+        "adresse": "340 Route Nationale 2, Rondpoint Califourchon Matoury, 97351, Guyane française",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "10958091053102233600",
+        "nom": "Caraïbe plomberie",
+        "slug": "caraibe-plomberie",
+        "telephone": "+594 694 45 96 86",
+        "site_web": null,
+        "adresse": "la chaumière, 9 lot les loussais, Cayenne 97300, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "593204707575299758",
+        "nom": "AGENCE SKF CAYENNE",
+        "slug": "agence-skf-cayenne",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Rue de la Sante, 4, 97351 Rue de la Sante, Matoury, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "5587209320096280013",
+        "nom": "Ecopose Guyane",
+        "slug": "ecopose-guyane",
+        "telephone": "+594 694 43 67 16",
+        "site_web": "https://www.facebook.com/105292174962045",
+        "adresse": "Cogneau Lamirande, 600 Rte de la Distillerie, Matoury 97351, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de systèmes de climatisation"
+      },
+      {
+        "id": "8012856771142244395",
+        "nom": "Solution Plomberie & Multiservices",
+        "slug": "solution-plomberie-multiservices",
+        "telephone": "+594 694 08 28 59",
+        "site_web": "https://www.instagram.com/spm_973_",
+        "adresse": null,
+        "note": 5,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "macouria": {
+    "artisans": [
+      {
+        "id": "13070284807730302827",
+        "nom": "service plomb",
+        "slug": "service-plomb",
+        "telephone": "+594 694 12 80 14",
+        "site_web": null,
+        "adresse": "les rive de soula, 27 rue de l'acarouani, BT 8A2 3, Macouria 97355, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "maripasoula": {
+    "artisans": [
+      {
+        "id": "2971705718232165525",
+        "nom": "Maripasoula",
+        "slug": "maripasoula",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Maripasoula 97370, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "roura": {
+    "artisans": [
+      {
+        "id": "17068261855239287423",
+        "nom": "HENRI HO",
+        "slug": "henri-ho",
+        "telephone": "+594 694 26 50 41",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3599168489124122615",
+        "nom": "ERMISERVICES",
+        "slug": "ermiservices",
+        "telephone": "+594 694 47 23 07",
+        "site_web": "https://ermiselectricite.com/",
+        "adresse": "24 Rue Rene Maran, Cayenne 97300, Guyane française",
+        "note": 5,
+        "avis": 9,
+        "type": "Électricien"
+      },
+      {
+        "id": "14411540414849245395",
+        "nom": "RD PLOMBERIE 973",
+        "slug": "rd-plomberie-973",
+        "telephone": "+594 694 02 87 55",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8466260320652780888",
+        "nom": "Pol’Air",
+        "slug": "polair",
+        "telephone": "+594 694 35 42 50",
+        "site_web": "https://polairclimatisationtechnique.tech.blog/",
+        "adresse": "21 Rue des Fourmis Manioc, Cayenne 97300, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Service de réparation de systèmes de climatisation"
+      }
+    ]
+  },
+  "iracoubo": {
+    "artisans": [
+      {
+        "id": "4150620185687482647",
+        "nom": "LES AMBULANCES DU CENTRE",
+        "slug": "les-ambulances-du-centre",
+        "telephone": "+594 694 38 35 79",
+        "site_web": null,
+        "adresse": "10 Rue Amour Pamphile, Iracoubo 97350, Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": "Service ambulancier"
+      }
+    ]
+  },
+  "ouanary": {
+    "artisans": [
+      {
+        "id": "12877018467466839789",
+        "nom": "Mairie de Ouanary",
+        "slug": "mairie-de-ouanary",
+        "telephone": "+594 594 37 01 02",
+        "site_web": null,
+        "adresse": "15 Rue Théodile Sébéloué, Ouanary 97380, Guyane française",
+        "note": 3,
+        "avis": 2,
+        "type": "Hôtel de ville"
+      }
+    ]
+  },
+  "mana": {
+    "artisans": [
+      {
+        "id": "2457728495949775284",
+        "nom": "Plomberie Créa Rénov",
+        "slug": "plomberie-crea-renov",
+        "telephone": "+594 694 45 41 14",
+        "site_web": "https://www.instagram.com/plomberie_crearenov/",
+        "adresse": "Rue fleur d’ébène, Remire-Montjoly 97354, Guyane française",
+        "note": 5,
+        "avis": 45,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "montsinery-tonnegrande": {
+    "artisans": [
+      {
+        "id": "9847209911635199614",
+        "nom": "911 CLIM DEPANNAGE",
+        "slug": "911-clim-depannage",
+        "telephone": "+594 694 42 69 17",
+        "site_web": "http://www.911climdepannage.fr/",
+        "adresse": "1 Rue Thiers, Saint-Laurent-du-Maroni 97320, Guyane française",
+        "note": 4.9,
+        "avis": 54,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "camopi": {
+    "artisans": [
+      {
+        "id": "2457728495949775284",
+        "nom": "Plomberie Créa Rénov",
+        "slug": "plomberie-crea-renov",
+        "telephone": "+594 694 45 41 14",
+        "site_web": "https://www.instagram.com/plomberie_crearenov/",
+        "adresse": "Rue fleur d’ébène, Remire-Montjoly 97354, Guyane française",
+        "note": 5,
+        "avis": 45,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "awala-yalimapo": {
+    "artisans": [
+      {
+        "id": "17881366150258431948",
+        "nom": "Awala-Yalimapo",
+        "slug": "awala-yalimapo",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Guyane française",
+        "note": 0,
+        "avis": 0,
+        "type": null
+      }
+    ]
+  },
+  "sinnamary": {
+    "artisans": [
+      {
+        "id": "4662206847466511638",
+        "nom": "Gîte Gaucher",
+        "slug": "gite-gaucher",
+        "telephone": "+594 694 28 42 26",
+        "site_web": null,
+        "adresse": "83P4+52, Sinnamary 97315, Sinnamary 97315, Guyane française",
+        "note": 5,
+        "avis": 1,
+        "type": "Gîte"
+      },
+      {
+        "id": "5613813679728830044",
+        "nom": "hotel des entreprises",
+        "slug": "hotel-des-entreprises",
+        "telephone": "+594 594 34 60 85",
+        "site_web": null,
+        "adresse": "9373+JF7 hotel des entreprises, Unnamed Road, Sinnamary, Guyane française",
+        "note": 3.3,
+        "avis": 3,
+        "type": "Siège social"
+      },
+      {
+        "id": "6145926082316282227",
+        "nom": "Station service Vito Sinnamary",
+        "slug": "station-service-vito-sinnamary",
+        "telephone": "+594 594 34 59 44",
+        "site_web": "http://stationsvito-ag.com/",
+        "adresse": "PK 113, N 2001, Sinnamary 97315, Guyane française",
+        "note": 3.4,
+        "avis": 7,
+        "type": "Station-service"
+      },
+      {
+        "id": "13725588138081604785",
+        "nom": "Pharmacie de Sinnamary",
+        "slug": "pharmacie-de-sinnamary",
+        "telephone": "+594 594 34 52 89",
+        "site_web": "https://pharmacie-sinnamary.epharmacie.pro/",
+        "adresse": "57, 97315 rue du Calvaire, Sinnamary 97315, Guyane française",
+        "note": 4.2,
+        "avis": 5,
+        "type": "Pharmacie"
+      }
+    ]
+  }
+}

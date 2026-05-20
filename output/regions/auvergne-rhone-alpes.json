@@ -260,8 +260,8 @@
             "slug": "puy-de-dome",
             "population_totale": 663504,
             "communes_count": 463,
-            "communes_avec_artisans": 252,
-            "artisans_chauffage": 985,
+            "communes_avec_artisans": 460,
+            "artisans_chauffage": 2860,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -291,8 +291,8 @@
             "slug": "rhone",
             "population_totale": 1895074,
             "communes_count": 267,
-            "communes_avec_artisans": 233,
-            "artisans_chauffage": 2987,
+            "communes_avec_artisans": 265,
+            "artisans_chauffage": 2630,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -322,8 +322,8 @@
             "slug": "savoie",
             "population_totale": 443896,
             "communes_count": 273,
-            "communes_avec_artisans": 195,
-            "artisans_chauffage": 940,
+            "communes_avec_artisans": 272,
+            "artisans_chauffage": 1874,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -353,8 +353,8 @@
             "slug": "haute-savoie",
             "population_totale": 843795,
             "communes_count": 279,
-            "communes_avec_artisans": 228,
-            "artisans_chauffage": 1581,
+            "communes_avec_artisans": 279,
+            "artisans_chauffage": 2229,
             "voisins": [
                 {
                     "dep_code": "01",
@@ -381,8 +381,8 @@
     ],
     "stats": {
         "communes_total": 4026,
-        "communes_avec_artisans": 2565,
-        "artisans_chauffage": 14023,
+        "communes_avec_artisans": 2933,
+        "artisans_chauffage": 17123,
         "population_totale": 8131080
     },
     "zones_climatiques": {

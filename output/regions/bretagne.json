@@ -90,8 +90,8 @@
             "slug": "morbihan",
             "population_totale": 769527,
             "communes_count": 249,
-            "communes_avec_artisans": 187,
-            "artisans_chauffage": 1007,
+            "communes_avec_artisans": 248,
+            "artisans_chauffage": 1744,
             "voisins": [
                 {
                     "dep_code": "22",
@@ -113,8 +113,8 @@
     ],
     "stats": {
         "communes_total": 1202,
-        "communes_avec_artisans": 910,
-        "artisans_chauffage": 5119,
+        "communes_avec_artisans": 971,
+        "artisans_chauffage": 5856,
         "population_totale": 3395780
     },
     "zones_climatiques": {

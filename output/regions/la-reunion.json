@@ -12,15 +12,15 @@
             "slug": "la-reunion",
             "population_totale": 871157,
             "communes_count": 24,
-            "communes_avec_artisans": 22,
-            "artisans_chauffage": 969,
+            "communes_avec_artisans": 24,
+            "artisans_chauffage": 192,
             "voisins": []
         }
     ],
     "stats": {
         "communes_total": 24,
-        "communes_avec_artisans": 22,
-        "artisans_chauffage": 969,
+        "communes_avec_artisans": 24,
+        "artisans_chauffage": 192,
         "population_totale": 871157
     },
     "zones_climatiques": [],

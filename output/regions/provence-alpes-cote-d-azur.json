@@ -136,8 +136,8 @@
             "slug": "var",
             "population_totale": 1095954,
             "communes_count": 153,
-            "communes_avec_artisans": 136,
-            "artisans_chauffage": 3398,
+            "communes_avec_artisans": 152,
+            "artisans_chauffage": 1511,
             "voisins": [
                 {
                     "dep_code": "04",
@@ -167,8 +167,8 @@
             "slug": "vaucluse",
             "population_totale": 564984,
             "communes_count": 151,
-            "communes_avec_artisans": 121,
-            "artisans_chauffage": 1421,
+            "communes_avec_artisans": 151,
+            "artisans_chauffage": 1079,
             "voisins": [
                 {
                     "dep_code": "04",
@@ -195,8 +195,8 @@
     ],
     "stats": {
         "communes_total": 946,
-        "communes_avec_artisans": 680,
-        "artisans_chauffage": 7011,
+        "communes_avec_artisans": 726,
+        "artisans_chauffage": 4782,
         "population_totale": 5132120
     },
     "zones_climatiques": {

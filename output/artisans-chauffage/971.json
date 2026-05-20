@@ -1,0 +1,1813 @@
+{
+  "lamentin": {
+    "artisans": [
+      {
+        "id": "5447705329493818852",
+        "nom": "Kogy Plomberie",
+        "slug": "kogy-plomberie",
+        "telephone": "+590 690 97 31 80",
+        "site_web": "http://www.kogyplomberie.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 19,
+        "type": "Plombier"
+      },
+      {
+        "id": "549534105355921875",
+        "nom": "TWOPIK PLOMBERIE",
+        "slug": "twopik-plomberie",
+        "telephone": "+590 690 24 61 07",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "13211728509455410260",
+        "nom": "TC & RG",
+        "slug": "tc-rg",
+        "telephone": "+590 690 29 11 96",
+        "site_web": "https://www.tcrg97.com/",
+        "adresse": "Bréfort, Lamentin 97129, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "4898563252519017253",
+        "nom": "Polka SAF",
+        "slug": "polka-saf",
+        "telephone": "+590 690 35 34 62",
+        "site_web": "https://www.plomberie-baie-mahault.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15752361982715656306",
+        "nom": "Polka SAF",
+        "slug": "polka-saf",
+        "telephone": "+590 690 35 34 62",
+        "site_web": "http://www.polka-saf.fr/?utm_source=gmb",
+        "adresse": null,
+        "note": 4.3,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "1692246246435056179",
+        "nom": "SL3 SERVICES",
+        "slug": "sl3-services",
+        "telephone": "+590 690 67 16 91",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "11953714239101269097",
+        "nom": "Avenir Energies - Panneaux photovoltaïques et solaires à Lamentin",
+        "slug": "avenir-energies-panneaux-photovoltaiques-et-solaires-a-lamentin",
+        "telephone": "+590 690 55 66 46",
+        "site_web": "http://www.avenirenergies.pro/",
+        "adresse": "Impasse Lucien Barbier, Chem. De Bergnolles, Lamentin 97129, Guadeloupe",
+        "note": 4.4,
+        "avis": 10,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "1835326725789333569",
+        "nom": "Rézopro",
+        "slug": "rezopro",
+        "telephone": "+590 690 69 60 43",
+        "site_web": "https://www.rezopro.services/",
+        "adresse": null,
+        "note": 4.8,
+        "avis": 9,
+        "type": "Entreprise de construction"
+      }
+    ]
+  },
+  "le-moule": {
+    "artisans": [
+      {
+        "id": "1640876657151490855",
+        "nom": "Loic SIMON",
+        "slug": "loic-simon",
+        "telephone": "06 70 67 83 93",
+        "site_web": null,
+        "adresse": "residence les embruns, Le Moule 97160, Guadeloupe",
+        "note": 5,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "17532966424821395230",
+        "nom": "coupan clim",
+        "slug": "coupan-clim",
+        "telephone": "+590 690 35 75 26",
+        "site_web": null,
+        "adresse": "boisvin 97160 LE MOULE Moule, 97160, Guadeloupe",
+        "note": 5,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "161663921504039514",
+        "nom": "Ramade Freddy",
+        "slug": "ramade-freddy",
+        "telephone": "+590 690 32 82 93",
+        "site_web": null,
+        "adresse": null,
+        "note": 3.3,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "10280574752151764863",
+        "nom": "JFS Plomberie",
+        "slug": "jfs-plomberie",
+        "telephone": "+590 690 96 55 63",
+        "site_web": null,
+        "adresse": "15 rue lionel meloir, Le Moule 97160, Guadeloupe",
+        "note": 4.9,
+        "avis": 8,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-claude": {
+    "artisans": [
+      {
+        "id": "6975983352322861026",
+        "nom": "LG Services Plomberie, Entretien Climatisation 100% BIO",
+        "slug": "lg-services-plomberie-entretien-climatisation-100-bio",
+        "telephone": "+590 690 64 80 74",
+        "site_web": null,
+        "adresse": "Lot. Frair Unis, Le Gosier 97190, Guadeloupe",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "9742224776408058712",
+        "nom": "RTN Plomberie et Climatisation",
+        "slug": "rtn-plomberie-et-climatisation",
+        "telephone": "+590 690 92 75 15",
+        "site_web": null,
+        "adresse": "130, Allée de l'industrie, ZA Les Pères Blancs, Baillif 97123, Guadeloupe",
+        "note": 4.7,
+        "avis": 43,
+        "type": "Plombier"
+      },
+      {
+        "id": "10249246501645210794",
+        "nom": "Plomberie 97",
+        "slug": "plomberie-97",
+        "telephone": "+590 690 29 53 39",
+        "site_web": "https://www.plomberie97.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "11661499597138123341",
+        "nom": "SOS DEPANNAGE 971",
+        "slug": "sos-depannage-971",
+        "telephone": "+590 690 48 70 24",
+        "site_web": "http://sosdepannage971.com/?utm_source=gmb&utm_medium=referral",
+        "adresse": "31 All. des Cocotiers, Saint-Claude 97120, Guadeloupe",
+        "note": 4.5,
+        "avis": 13,
+        "type": "Service de réparation"
+      },
+      {
+        "id": "15437231460183222665",
+        "nom": "David Plomberie et Services",
+        "slug": "david-plomberie-et-services",
+        "telephone": "+590 690 67 06 46",
+        "site_web": "https://david-plomberie.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "13387355818677117726",
+        "nom": "Plombier artisan - SaniExpert",
+        "slug": "plombier-artisan-saniexpert",
+        "telephone": "+590 690 34 23 93",
+        "site_web": "https://api.whatsapp.com/send/?phone=0690342393&text=Entreprise+SaniExpert+%C3%A0+votre+service+%21&type=phone_number&app_absent=0",
+        "adresse": "1 Rue Du Docteur Hélène, Le Gosier 97190, Guadeloupe",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "4402480425671271697",
+        "nom": "B12 Services S A S",
+        "slug": "b12-services-s-a-s",
+        "telephone": "+590 690 24 25 55",
+        "site_web": "https://www.b12services.com/",
+        "adresse": "95 rue Châtaignier, Sainte-Anne 97180, Guadeloupe",
+        "note": 3.3,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "15992544634811295242",
+        "nom": "RGE PAC -Plomberie chauffage sanitaire",
+        "slug": "rge-pac-plomberie-chauffage-sanitaire",
+        "telephone": "06 29 88 80 04",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Plombier"
+      },
+      {
+        "id": "15908178902494874963",
+        "nom": "Tranquility services",
+        "slug": "tranquility-services",
+        "telephone": "+590 690 32 40 60",
+        "site_web": null,
+        "adresse": "2729+78M Tranquility services, Rue Delrieu, Basse-Terre 97100, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Électricien"
+      },
+      {
+        "id": "15196034150372377117",
+        "nom": "QUALIBLUE",
+        "slug": "qualiblue",
+        "telephone": "07 44 03 53 47",
+        "site_web": "https://www.qualiblue.com/",
+        "adresse": "12 Rue du Morne Tricolore, Sainte-Anne 97180, Guadeloupe",
+        "note": 3.4,
+        "avis": 15,
+        "type": "Services aux entreprises"
+      }
+    ]
+  },
+  "sainte-rose": {
+    "artisans": [
+      {
+        "id": "3826988312157773157",
+        "nom": "Renov'elec",
+        "slug": "renovelec",
+        "telephone": "+590 690 35 41 40",
+        "site_web": "http://www.renovelec-guadeloupe.fr/",
+        "adresse": "6689 Chemin de Bône Sainte Rose, 97115, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "13766005649950478967",
+        "nom": "ST2I - Plomberie",
+        "slug": "st2i-plomberie",
+        "telephone": "+590 690 84 38 53",
+        "site_web": "http://st2i-plomberie.fr/",
+        "adresse": "39 Lot La Plaine De Sainval, Sainte-Rose 97115, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "12452987933704323161",
+        "nom": "Jos Plomberie",
+        "slug": "jos-plomberie",
+        "telephone": "+590 690 48 35 23",
+        "site_web": "https://josplomberie971.wixsite.com/josplomberie",
+        "adresse": "Rue Grignan SAINTE-ROSE (971, 97115, Guadeloupe",
+        "note": 5,
+        "avis": 3,
+        "type": "Plombier"
+      },
+      {
+        "id": "16148145723002075441",
+        "nom": "STRAT' ELEC",
+        "slug": "strat-elec",
+        "telephone": "+590 690 47 85 46",
+        "site_web": null,
+        "adresse": "Chem. de Vinty, Sainte-Rose 97115, Guadeloupe",
+        "note": 5,
+        "avis": 12,
+        "type": "Électricien"
+      },
+      {
+        "id": "8208323174619873103",
+        "nom": "RENOVBAT",
+        "slug": "renovbat",
+        "telephone": "+590 690 45 63 35",
+        "site_web": "https://www.welinkbuilders.fr/plombier/menuisier/platrier/decorateur/peintre/couvreur/carreleur/charpentier/macon/installateur-sanitaire/tailleur-de-pierre/constructeur-maison-individuelle/monteur-d-echafaudages/nettoyeur/pisciniste/97115-sainte-rose-guadeloupe/renovbat-694",
+        "adresse": "Ans Des Îles, Sainte-Rose 97115, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "9412249409923283341",
+        "nom": "C E P DEPANNAGE",
+        "slug": "c-e-p-depannage",
+        "telephone": "+590 690 18 30 02",
+        "site_web": "http://cepdepannage.com/",
+        "adresse": "23 Chemin Du Comte De Loheac, Sainte-Rose 97115, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "petit-canal": {
+    "artisans": [
+      {
+        "id": "960760728062209081",
+        "nom": "Hdms Clim",
+        "slug": "hdms-clim",
+        "telephone": "+590 690 91 48 68",
+        "site_web": "https://www.hdmsclim.com/",
+        "adresse": "21 Rue Felix Gouno, Petit-Canal 97131, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "7822057567883943316",
+        "nom": "ICE CLIM PRO",
+        "slug": "ice-clim-pro",
+        "telephone": "+590 690 91 48 68",
+        "site_web": "https://iceclimpro.fr/",
+        "adresse": "21 Rue Felix Gouno, Petit-Canal 97131, Guadeloupe",
+        "note": 4.7,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "6644456618778148240",
+        "nom": "ASSAINISSEMENT CONSEIL",
+        "slug": "assainissement-conseil",
+        "telephone": "+590 590 88 59 66",
+        "site_web": "https://ac-collecte.com/index",
+        "adresse": "21 Rue Faustin Delmestre, Petit-Canal 97131, Guadeloupe",
+        "note": 5,
+        "avis": 8,
+        "type": "Service d'assainissement"
+      },
+      {
+        "id": "6727719395410162450",
+        "nom": "CARAIBBEAN PLOMBERIE",
+        "slug": "caraibbean-plomberie",
+        "telephone": "+590 690 80 63 99",
+        "site_web": null,
+        "adresse": "Rue du Dr Marc Joachim, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8635726275341095722",
+        "nom": "Le Carbonisateur",
+        "slug": "le-carbonisateur",
+        "telephone": "+590 690 17 05 36",
+        "site_web": null,
+        "adresse": "N 8, Vermont, 97131, Petit-Canal, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de gaz industriel"
+      },
+      {
+        "id": "14073297993688257272",
+        "nom": "Mon Plombier Guadeloupe",
+        "slug": "mon-plombier-guadeloupe",
+        "telephone": "+590 690 70 31 70",
+        "site_web": "https://mon-plombier-guadeloupe.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "11632126013087531635",
+        "nom": "Nonnon Plomberie",
+        "slug": "nonnon-plomberie",
+        "telephone": "+590 690 39 55 66",
+        "site_web": "http://www.plomberie-nonnon.fr/",
+        "adresse": "Chem. Paulette Favernez, Saint-François 97118, Guadeloupe",
+        "note": 4.1,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "17220159974085427265",
+        "nom": "Bordelais SAS",
+        "slug": "bordelais-sas",
+        "telephone": "+590 590 83 84 62",
+        "site_web": "https://www.climatisation-bordelais.fr/?utm_source=gmb",
+        "adresse": "35 Rue du Cimetière, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 5,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4295725389760045445",
+        "nom": "3 EL BTP",
+        "slug": "3-el-btp",
+        "telephone": "+590 690 64 76 17",
+        "site_web": "https://www.facebook.com/lespetitsconstructeurs",
+        "adresse": "622 Rue Rosie Douglas, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Entreprise de construction"
+      },
+      {
+        "id": "14841285216450990002",
+        "nom": "Ronald ROYAN",
+        "slug": "ronald-royan",
+        "telephone": "+590 690 29 98 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "pointe-a-pitre": {
+    "artisans": [
+      {
+        "id": "8324482766055696605",
+        "nom": "PLOMB CS RENOV",
+        "slug": "plomb-cs-renov",
+        "telephone": "+590 690 12 15 58",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 14,
+        "type": "Plombier"
+      },
+      {
+        "id": "9429955603145991729",
+        "nom": "CTAC CLIM",
+        "slug": "ctac-clim",
+        "telephone": "+590 690 35 06 85",
+        "site_web": "https://ctac-clim.fr/",
+        "adresse": "6 Rue Raspail, Pointe-à-Pitre 97110, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "3027043552678736190",
+        "nom": "CONCEPT ENERGIES NOUVELLES",
+        "slug": "concept-energies-nouvelles",
+        "telephone": "05 90 46 85 21",
+        "site_web": "https://www.facebook.com/cen.climatisation/",
+        "adresse": "RDC TOUR FAIDHERBE RESIDENCE ESPACE 2000 BOULEVARD FAIDHERBE, POINTE A PITRE 97110, Guadeloupe",
+        "note": 4.4,
+        "avis": 7,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "618559367499769275",
+        "nom": "PRESTIGE PLOMBERIE",
+        "slug": "prestige-plomberie",
+        "telephone": "+590 590 24 13 13",
+        "site_web": null,
+        "adresse": "19 All. Bergere, Les Abymes 97139, Guadeloupe",
+        "note": 4,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "13605485772797876401",
+        "nom": "O'Top Caraibes",
+        "slug": "otop-caraibes",
+        "telephone": "+590 690 70 35 45",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "12133482497221348006",
+        "nom": "plomb'carmont",
+        "slug": "plombcarmont",
+        "telephone": "+590 690 55 32 67",
+        "site_web": "https://www.plombcarmont.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "3453515196630720272",
+        "nom": "SARL FILTRINOX",
+        "slug": "sarl-filtrinox",
+        "telephone": "+590 590 91 32 40",
+        "site_web": "http://filtrinox-antilles.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Zi Bergevin, 17 Boulevard Du Général de Gaulle, Pointe-à-Pitre 97110, Guadeloupe",
+        "note": 2.9,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "961890087796118577",
+        "nom": "Solarinox Guadeloupe",
+        "slug": "solarinox-guadeloupe",
+        "telephone": "+590 590 90 01 02",
+        "site_web": "https://www.solarinox-guadeloupe.com/",
+        "adresse": "Voie Principale de Jarry Baie Mahault Baie-Mahault, 97122, Guadeloupe",
+        "note": 2.5,
+        "avis": 13,
+        "type": "Fournisseur de chauffe-eau solaires"
+      },
+      {
+        "id": "3330307844800648700",
+        "nom": "CHO & FOI CLIMATISATIONS",
+        "slug": "cho-foi-climatisations",
+        "telephone": "+590 690 34 84 94",
+        "site_web": "https://www.facebook.com/chofoisarl/",
+        "adresse": "Immeuble SOCOGAR, lot n° 16 6, Rue Ferdinand Forest, Baie-Mahault 97122, Guadeloupe",
+        "note": 2.6,
+        "avis": 9,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "11648619971518454860",
+        "nom": "JO PLOMBERY- Plombier Guadeloupe",
+        "slug": "jo-plombery-plombier-guadeloupe",
+        "telephone": "+590 690 47 02 75",
+        "site_web": "https://sites.google.com/view/joplombery",
+        "adresse": "9 Rue Léon Philis Seymour, Capesterre-Belle-Eau 97130, Guadeloupe",
+        "note": 5,
+        "avis": 41,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "capesterre-belle-eau": {
+    "artisans": [
+      {
+        "id": "147895123155392250",
+        "nom": "GPS PLOMBERIE 971",
+        "slug": "gps-plomberie-971",
+        "telephone": "+590 690 86 54 61",
+        "site_web": "https://gpsplomberie97.com/",
+        "adresse": "Chem. de Douville, Goyave 97128, Guadeloupe",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13761576809588258688",
+        "nom": "PLOMBERIE PLUS",
+        "slug": "plomberie-plus",
+        "telephone": "+590 690 47 73 62",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "15326642656173249060",
+        "nom": "ITS PLOMBERIE SERVICES",
+        "slug": "its-plomberie-services",
+        "telephone": "+590 690 60 12 77",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6152615038496674690",
+        "nom": "ETS POMMEZ - Quincaillerie Saint-Jean - Capesterre-Belle-Eau",
+        "slug": "ets-pommez-quincaillerie-saint-jean-capesterre-belle-eau",
+        "telephone": "+590 590 86 17 18",
+        "site_web": "http://www.etspommez.fr/",
+        "adresse": "Rue de l'Ilet Perou, Capesterre-Belle-Eau 97130, Guadeloupe",
+        "note": 4.1,
+        "avis": 16,
+        "type": "Magasin d'articles de salle de bains"
+      }
+    ]
+  },
+  "basse-terre": {
+    "artisans": [
+      {
+        "id": "3897344646524347603",
+        "nom": "GEM",
+        "slug": "gem",
+        "telephone": "+590 590 82 17 93",
+        "site_web": "https://www.gem.fr/",
+        "adresse": "CONSEIL RÉGIONAL DE LA GUADELOUPE Rue Paul Lacave - PETIT PARIS BASSE TERRE CEDEX, 97109, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "2572243015308498209",
+        "nom": "MULTI PRESTATIONS BTP",
+        "slug": "multi-prestations-btp",
+        "telephone": "+590 690 59 33 46",
+        "site_web": "https://multi-prestation-btp.com/ouverture-de-porte-a-basse-terre/",
+        "adresse": "282 Voie Diligenti, Basse-Terre 97100, Guadeloupe",
+        "note": 4.2,
+        "avis": 21,
+        "type": "Serrurier"
+      },
+      {
+        "id": "13900599676275401293",
+        "nom": "SBP Concept",
+        "slug": "sbp-concept",
+        "telephone": "+590 590 25 04 42",
+        "site_web": "http://sbp-concept.com/",
+        "adresse": "N748 rue Pierre et René Hincelin, Blanchet, Gourbeyre 97113, Guadeloupe",
+        "note": 4.8,
+        "avis": 5,
+        "type": "Travaux généraux"
+      }
+    ]
+  },
+  "saint-francois": {
+    "artisans": [
+      {
+        "id": "17951084937425429359",
+        "nom": "FLEX PLOMBERIE",
+        "slug": "flex-plomberie",
+        "telephone": "+590 690 19 64 24",
+        "site_web": "https://flexplomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "13770413283500399323",
+        "nom": "PlomberieChris",
+        "slug": "plomberiechris",
+        "telephone": "+590 691 26 27 53",
+        "site_web": "https://www.plombier-guadeloupe.com/",
+        "adresse": "Chemin des Surettiers, Saint-François 97118, Guadeloupe",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "morne-a-l-eau": {
+    "artisans": [
+      {
+        "id": "2840122461482289960",
+        "nom": "aabat.fr",
+        "slug": "aabatfr",
+        "telephone": "+590 690 31 90 00",
+        "site_web": "http://www.aabat.fr/",
+        "adresse": "136 Rte de Bosredon, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Électricien"
+      },
+      {
+        "id": "7943966849789446465",
+        "nom": "Electroclim VELP",
+        "slug": "electroclim-velp",
+        "telephone": "+590 590 28 01 36",
+        "site_web": null,
+        "adresse": "Richeval Nord, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 4.7,
+        "avis": 31,
+        "type": "Siège social"
+      },
+      {
+        "id": "1967527671898894571",
+        "nom": "EG FROID",
+        "slug": "eg-froid",
+        "telephone": "+590 691 24 23 76",
+        "site_web": "https://wa.me/message/KFEKAB2WKQEDC1",
+        "adresse": null,
+        "note": 5,
+        "avis": 37,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "5542949193152653333",
+        "nom": "FLB SERVICES",
+        "slug": "flb-services",
+        "telephone": "+590 690 58 82 14",
+        "site_web": "https://flbservices971.com/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Vieux-Bourg, Labuthie, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 4.9,
+        "avis": 12,
+        "type": "Électricien"
+      },
+      {
+        "id": "13329278969578198380",
+        "nom": "CAR'S CLIMATISATION",
+        "slug": "cars-climatisation",
+        "telephone": "+590 690 69 45 45",
+        "site_web": null,
+        "adresse": "37 Rue Rosie Douglas, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 4.8,
+        "avis": 18,
+        "type": "Garage automobile"
+      }
+    ]
+  },
+  "goyave": {
+    "artisans": [
+      {
+        "id": "147895123155392250",
+        "nom": "GPS PLOMBERIE 971",
+        "slug": "gps-plomberie-971",
+        "telephone": "+590 690 86 54 61",
+        "site_web": "https://gpsplomberie97.com/",
+        "adresse": "Chem. de Douville, Goyave 97128, Guadeloupe",
+        "note": 4.7,
+        "avis": 19,
+        "type": "Chauffagiste"
+      }
+    ]
+  },
+  "anse-bertrand": {
+    "artisans": [
+      {
+        "id": "10614681657867440588",
+        "nom": "Nicolas Dauré Plomberie",
+        "slug": "nicolas-daure-plomberie",
+        "telephone": "+590 690 50 03 79",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "trois-rivieres": {
+    "artisans": [
+      {
+        "id": "4520669595314615857",
+        "nom": "MONPLOMBIER971",
+        "slug": "monplombier971",
+        "telephone": "+590 690 47 64 66",
+        "site_web": null,
+        "adresse": "Chemin-neuf, Chem. des Cacaoyers, Trois-Rivières 97114, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "pointe-noire": {
+    "artisans": [
+      {
+        "id": "16680251931360918583",
+        "nom": "Ebeniste FRANCIUS EPHREM LAS - Menuiserie - Ebenisterie",
+        "slug": "ebeniste-francius-ephrem-las-menuiserie-ebenisterie",
+        "telephone": "+590 690 76 49 48",
+        "site_web": null,
+        "adresse": "LIEU DIT GOMMIERS Pointe Noire, 97116, Guadeloupe",
+        "note": 4.3,
+        "avis": 7,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7072164175473944314",
+        "nom": "Ziotte plomberie",
+        "slug": "ziotte-plomberie",
+        "telephone": "05 90 47 14 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "16537953960883899676",
+        "nom": "EURL Bonne Vie",
+        "slug": "eurl-bonne-vie",
+        "telephone": "+590 590 99 13 88",
+        "site_web": null,
+        "adresse": "Place de la Liberté Batiment Annexe de la Maire de Pte-Noire, 375, Pointe-Noire 97116, Guadeloupe",
+        "note": 3,
+        "avis": 2,
+        "type": "Aide à domicile"
+      },
+      {
+        "id": "1346170084365692995",
+        "nom": "Déhélec",
+        "slug": "dehelec",
+        "telephone": "+590 690 67 81 54",
+        "site_web": "https://electricitedeshaie.wixsite.com/website-1",
+        "adresse": "Imp. Fleury, Deshaies 97126, Guadeloupe",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "bouillante": {
+    "artisans": [
+      {
+        "id": "9529384304618962261",
+        "nom": "Plomberie Laurentin Ursule",
+        "slug": "plomberie-laurentin-ursule",
+        "telephone": "+590 690 55 19 02",
+        "site_web": null,
+        "adresse": "le bourg, 181 Abel racon, Bouillante 97125, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "7764388276174934473",
+        "nom": "Bouillante",
+        "slug": "bouillante",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "36RH+P82 Bouillante, 97125, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "3111226601636130768",
+        "nom": "Centrale géothermique Bouillante",
+        "slug": "centrale-geothermique-bouillante",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "46GJ+X99 Centrale géothermique Bouillante, Bouillante 97125, Guadeloupe",
+        "note": 4.7,
+        "avis": 18,
+        "type": "Entrepôt"
+      },
+      {
+        "id": "17510057091659227423",
+        "nom": "Plomberie LOUISON",
+        "slug": "plomberie-louison",
+        "telephone": "+590 690 35 25 90",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "gourbeyre": {
+    "artisans": [
+      {
+        "id": "12907872148372797589",
+        "nom": "Société Nouvelle Guy Bonhomme",
+        "slug": "societe-nouvelle-guy-bonhomme",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "X8W5+CGC Société Nouvelle Guy Bonhomme, Dupere, Rue Dourneaux Duperre, Gourbeyre 97113, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  },
+  "port-louis": {
+    "artisans": [
+      {
+        "id": "6830238891272804021",
+        "nom": "au ptit cabanon",
+        "slug": "au-ptit-cabanon",
+        "telephone": "+590 690 94 95 95",
+        "site_web": "https://sites.google.com/search/francetourismes?query=Guadeloupe",
+        "adresse": "residence du chef hiance, 32, Port-Louis 97117, Guadeloupe",
+        "note": 4.6,
+        "avis": 24,
+        "type": "Location d'appartement de vacances"
+      },
+      {
+        "id": "1901161908394657070",
+        "nom": "PIERRICK LE GUENNEC",
+        "slug": "pierrick-le-guennec",
+        "telephone": "02 97 82 49 47",
+        "site_web": "https://www.chauffage-sanitaire-leguennec.fr/",
+        "adresse": "1 Bd de la Compagnie des Indes, 56290 Port-Louis",
+        "note": 4.4,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "10614681657867440588",
+        "nom": "Nicolas Dauré Plomberie",
+        "slug": "nicolas-daure-plomberie",
+        "telephone": "+590 690 50 03 79",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vieux-habitants": {
+    "artisans": [
+      {
+        "id": "12949804761085130239",
+        "nom": "Vieux habitants guadeloupe",
+        "slug": "vieux-habitants-guadeloupe",
+        "telephone": "+590 590 81 70 61",
+        "site_web": null,
+        "adresse": "365J+9FR Vieux habitants guadeloupe, Plage simaho, Vieux-Habitants 97119, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Restaurant de fruits de mer"
+      },
+      {
+        "id": "16189049250064375181",
+        "nom": "S2S Energie",
+        "slug": "s2s-energie",
+        "telephone": "+590 590 10 63 44",
+        "site_web": null,
+        "adresse": "25 Chem. De Tarare, Vieux-Habitants 97119, Guadeloupe",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "16109727909067591560",
+        "nom": "Station service Vito Vieux Habitants",
+        "slug": "station-service-vito-vieux-habitants",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "Vieux-Habitants 97119, Guadeloupe",
+        "note": 3.4,
+        "avis": 8,
+        "type": "Fournisseur de carburant"
+      }
+    ]
+  },
+  "baillif": {
+    "artisans": [
+      {
+        "id": "17530024033461611720",
+        "nom": "SUPERCLIMAT BAILLIF",
+        "slug": "superclimat-baillif",
+        "telephone": "+590 590 26 07 41",
+        "site_web": "https://superclimat.fr/",
+        "adresse": "2766+Q3G SUPERCLIMAT BAILLIF, Baillif 97123, Guadeloupe",
+        "note": 3.7,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "4685563781575589243",
+        "nom": "Station Service TotalEnergies Baillif",
+        "slug": "station-service-totalenergies-baillif",
+        "telephone": "+590 590 81 68 70",
+        "site_web": "https://ag.totalenergies.com/",
+        "adresse": "Avenue du Père Labat, Baillif 97123, Guadeloupe",
+        "note": 4.1,
+        "avis": 31,
+        "type": "Station-service"
+      },
+      {
+        "id": "8667961278516155033",
+        "nom": "Climec Technologique",
+        "slug": "climec-technologique",
+        "telephone": "+590 690 97 03 63",
+        "site_web": null,
+        "adresse": "ROUTE DE SAINT-LOUIS RUE GRATIEN CANDACE BAILLIF, 97123, Guadeloupe",
+        "note": 3.7,
+        "avis": 27,
+        "type": "Garage automobile"
+      },
+      {
+        "id": "14683217172897099902",
+        "nom": "Corvo BTP",
+        "slug": "corvo-btp",
+        "telephone": "+590 590 81 49 05",
+        "site_web": "http://www.corvobtp.fr/",
+        "adresse": "Rte de Blanchette, Baillif 97123, Guadeloupe",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Fournisseur de matériaux de construction"
+      }
+    ]
+  },
+  "sainte-anne": {
+    "artisans": [
+      {
+        "id": "5767049558800122459",
+        "nom": "Jt Climatisation Plomberie",
+        "slug": "jt-climatisation-plomberie",
+        "telephone": "+590 590 88 38 07",
+        "site_web": null,
+        "adresse": "Dupré, Sainte-Anne 97180, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "16563979825890451989",
+        "nom": "Etude Application Des Systèmes EAS",
+        "slug": "etude-application-des-systemes-eas",
+        "telephone": "+590 590 85 35 84",
+        "site_web": "http://www.eas-froid-climatisation.fr/",
+        "adresse": "30 Rue Abbé Grégoire, Sainte-Anne 97180, Guadeloupe",
+        "note": 3.8,
+        "avis": 4,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1645276428525446866",
+        "nom": "Vanoukia Pierre-Marc",
+        "slug": "vanoukia-pierre-marc",
+        "telephone": "+590 590 88 91 93",
+        "site_web": null,
+        "adresse": "6JP5+5JM Vanoukia Pierre-Marc, Sainte-Anne 97180, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "6915431319849323374",
+        "nom": "PLOMBERIES ENERGIES CARAÏBES",
+        "slug": "plomberies-energies-caraibes",
+        "telephone": "+590 690 92 87 57",
+        "site_web": "https://www.welinkbuilders.fr/plombier/installateur-sanitaire/chauffagiste/97180-sainte-anne-guadeloupe/plomberies-energies-caraibes-618",
+        "adresse": "47 Dupré Sainte Anne, 97180, Guadeloupe",
+        "note": 2.4,
+        "avis": 5,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "baie-mahault": {
+    "artisans": [
+      {
+        "id": "16703933529578909892",
+        "nom": "ALLIANTZ ECO HABITAT ANTILLES",
+        "slug": "alliantz-eco-habitat-antilles",
+        "telephone": "+590 590 99 44 73",
+        "site_web": "https://www.alliantz-eco-habitat.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Rue Alfred Lumière, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.5,
+        "avis": 133,
+        "type": "Solutions et équipement énergétiques"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": "+590 690 67 09 35",
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Immeuble SUD, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.9,
+        "avis": 415,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "14300376416672409385",
+        "nom": "Stop Fuite Guadeloupe",
+        "slug": "stop-fuite-guadeloupe",
+        "telephone": "+590 690 75 81 48",
+        "site_web": "https://www.stopfuite.com/",
+        "adresse": "1 Lot Vince Arnouville, Petit-Bourg 97170, Guadeloupe",
+        "note": 5,
+        "avis": 75,
+        "type": "Plombier"
+      },
+      {
+        "id": "17895089213092977635",
+        "nom": "Plomberie Dom La Jaille",
+        "slug": "plomberie-dom-la-jaille",
+        "telephone": "+590 590 32 38 38",
+        "site_web": "https://plomberiedom.com/",
+        "adresse": "ZAC de la Grande Voie, Rue Thomas Edison, Baie-Mahault 97122, Guadeloupe",
+        "note": 5,
+        "avis": 3,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "8134172156917165476",
+        "nom": "AMPG Plomberie",
+        "slug": "ampg-plomberie",
+        "telephone": "+590 590 26 70 01",
+        "site_web": null,
+        "adresse": "18 Rue Fulton, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "9807757117678114294",
+        "nom": "Plomberie Dom Moudong",
+        "slug": "plomberie-dom-moudong",
+        "telephone": "+590 590 32 00 40",
+        "site_web": "http://www.plomberiedom.com/",
+        "adresse": "6CR9+8M6 Plomberie Dom Moudong, Baie-Mahault 97122, Guadeloupe",
+        "note": 3.9,
+        "avis": 7,
+        "type": "Magasin de matériel de plomberie"
+      },
+      {
+        "id": "17336933161057187498",
+        "nom": "Sun Tech Distribution Guadeloupe",
+        "slug": "sun-tech-distribution-guadeloupe",
+        "telephone": "+590 690 63 32 21",
+        "site_web": "http://www.suntech-karaib.fr/",
+        "adresse": "LD Calvaire, Rue Brice Armand ROSTAL Section Gossain, Baie-Mahault 97122, Guadeloupe",
+        "note": 3.4,
+        "avis": 11,
+        "type": "Fournisseur de chauffe-eau solaires"
+      },
+      {
+        "id": "2943090546162273691",
+        "nom": "CARINI PLOMBERIE URGENCES GUADELOUPE",
+        "slug": "carini-plomberie-urgences-guadeloupe",
+        "telephone": "+590 690 75 96 39",
+        "site_web": null,
+        "adresse": "Impasse des amazones, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.6,
+        "avis": 9,
+        "type": "Plombier"
+      },
+      {
+        "id": "13666620923931652946",
+        "nom": "SASU PLOMBERIE DU SUD",
+        "slug": "sasu-plomberie-du-sud",
+        "telephone": "+590 690 80 20 37",
+        "site_web": "http://plomberiedusud.com/",
+        "adresse": "93 Résidence Louis Delgres La Jaille BAIE MAHAULT, baie mahaut 97122, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "8130817396782361733",
+        "nom": "Syrius Guadeloupe",
+        "slug": "syrius-guadeloupe",
+        "telephone": "+590 590 44 14 14",
+        "site_web": "http://www.syrius-solar.gp/",
+        "adresse": "Parc d’activités de Jabrun Immeuble IPM Baie Mahault, 97122, Guadeloupe",
+        "note": 4.2,
+        "avis": 50,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      }
+    ]
+  },
+  "le-gosier": {
+    "artisans": [
+      {
+        "id": "17475829197363272361",
+        "nom": "P-TYLU",
+        "slug": "p-tylu",
+        "telephone": "+590 691 23 80 60",
+        "site_web": null,
+        "adresse": "Impasse Maraudière, Imp. Labrousse, Le Gosier 97190, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "707135267336763691",
+        "nom": "STYLE PLOMB",
+        "slug": "style-plomb",
+        "telephone": "+590 590 22 91 51",
+        "site_web": null,
+        "adresse": "6G45+C5G STYLE PLOMB, Lieu Dit Tombeau Grande Ravine Grande Ravine, Le Gosier 97190, Guadeloupe",
+        "note": 3,
+        "avis": 2,
+        "type": "Spécialiste de la salle de bains"
+      }
+    ]
+  },
+  "petit-bourg": {
+    "artisans": [
+      {
+        "id": "6751315037443140975",
+        "nom": "pro cold fwi",
+        "slug": "pro-cold-fwi",
+        "telephone": "+590 690 25 76 63",
+        "site_web": null,
+        "adresse": "Chem. de Tivoli, Petit-Bourg 97170, Guadeloupe",
+        "note": 4,
+        "avis": 2,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "39445756213829333",
+        "nom": "AJ Plomberie",
+        "slug": "aj-plomberie",
+        "telephone": "+590 690 49 77 67",
+        "site_web": null,
+        "adresse": "Prise D'Eau, Chem. de Fond Tivoli, Petit-Bourg 97170, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "9722489405042501249",
+        "nom": "BFPS",
+        "slug": "bfps",
+        "telephone": "+590 690 46 90 00",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "12446177735990799338",
+        "nom": "EC'EAU PLUS",
+        "slug": "eceau-plus",
+        "telephone": "+590 590 60 18 11",
+        "site_web": null,
+        "adresse": "IMMEUBLE ODYSSEE, ZAC DE COLIN, Petit-Bourg 97170, Guadeloupe",
+        "note": 4,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "16534772769599473969",
+        "nom": "Chrono Froid",
+        "slug": "chrono-froid",
+        "telephone": "+590 690 24 69 79",
+        "site_web": null,
+        "adresse": "Imp. Bibrac, Petit-Bourg 97170, Guadeloupe",
+        "note": 1,
+        "avis": 6,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "2403504093146690915",
+        "nom": "GEM",
+        "slug": "gem",
+        "telephone": "+590 590 82 17 93",
+        "site_web": "https://www.gem.fr/",
+        "adresse": "1 lotissement Vince Arnouville PETIT-BOURG, 97170, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      }
+    ]
+  },
+  "les-abymes": {
+    "artisans": [
+      {
+        "id": "6319563528729329296",
+        "nom": "Ambiance Plomberie Sanitaire",
+        "slug": "ambiance-plomberie-sanitaire",
+        "telephone": "+590 590 28 44 45",
+        "site_web": "https://www.ambianceplomberiesanitaire.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "Salle d'Asile, Imm.Romano, ZA La Bretelle, Les Abymes 97139, Guadeloupe",
+        "note": 4.9,
+        "avis": 30,
+        "type": "Quincaillerie"
+      },
+      {
+        "id": "12874646113341792039",
+        "nom": "Superclimat Les Abymes",
+        "slug": "superclimat-les-abymes",
+        "telephone": "+590 590 83 18 98",
+        "site_web": "https://superclimat.fr/",
+        "adresse": "Parc d'activités de Dothémare route de l'aéroport Les Abymes, 97139, Guadeloupe",
+        "note": 4.2,
+        "avis": 33,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "1457931242433624759",
+        "nom": "GEM",
+        "slug": "gem",
+        "telephone": "+590 590 82 17 93",
+        "site_web": "https://www.gem.fr/",
+        "adresse": "BP30 Les Abymes Cédex, 97175, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Entrepreneur spécialisé dans les systèmes de CVC"
+      },
+      {
+        "id": "7901199895477398116",
+        "nom": "Auto Elektrik",
+        "slug": "auto-elektrik",
+        "telephone": "+590 590 91 53 89",
+        "site_web": "http://www.auto-elektrik.fr/",
+        "adresse": "36 lotissement Dugazon de Bourgogne Abymes (Les, 97139, Guadeloupe",
+        "note": 4.2,
+        "avis": 27,
+        "type": "Électricien automobile"
+      },
+      {
+        "id": "13774419814737882055",
+        "nom": "COSTALU",
+        "slug": "costalu",
+        "telephone": "09 74 39 75 05",
+        "site_web": "https://www.welinkbuilders.fr/carreleur/charpentier/chauffagiste/couvreur/macon/electricien/menuisier/peintre/platrier/plombier/plaquiste/97139-les-abymes-guadeloupe/costalu-941",
+        "adresse": "Rte de Terrasson, Les Abymes 97139, Guadeloupe",
+        "note": 3,
+        "avis": 1,
+        "type": "Menuisier"
+      },
+      {
+        "id": "7054446712653195912",
+        "nom": "DIDIER MULTIPOSE - Plomberie & Salle de bain",
+        "slug": "didier-multipose-plomberie-salle-de-bain",
+        "telephone": "+590 690 40 04 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 4,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "7583035203794675600",
+        "nom": "GDM CLIMATISATION",
+        "slug": "gdm-climatisation",
+        "telephone": "+590 590 48 10 00",
+        "site_web": "http://gdm-climatisation.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": "2 Rue Léopold Sédar Senghor LES ABYMES CEDEX, 97182, Guadeloupe",
+        "note": 4,
+        "avis": 3,
+        "type": "Fournisseur de systèmes de climatisation"
+      },
+      {
+        "id": "10520136631282628122",
+        "nom": "Karukéra Assainissement",
+        "slug": "karukera-assainissement",
+        "telephone": "+590 590 20 00 20",
+        "site_web": "https://www.karukera-assainissement.fr/",
+        "adresse": "Salle d'asile, ZA de Petit Pérou, Les Abymes 97139, Guadeloupe",
+        "note": 4.6,
+        "avis": 75,
+        "type": "Service d'entretien des gouttières"
+      },
+      {
+        "id": "15968380731079337758",
+        "nom": "Plomberie Dom Petit Pérou",
+        "slug": "plomberie-dom-petit-perou",
+        "telephone": "+590 590 32 38 31",
+        "site_web": "https://www.plomberiedom.com/",
+        "adresse": "Lotissement Maewa, ZA de Petit Pérou, Les Abymes 97139, Guadeloupe",
+        "note": 5,
+        "avis": 1,
+        "type": "Magasin de matériel de plomberie"
+      }
+    ]
+  },
+  "grand-bourg": {
+    "artisans": [
+      {
+        "id": "5523824057701607820",
+        "nom": "Ardens Plomberie",
+        "slug": "ardens-plomberie",
+        "telephone": "+590 690 64 79 95",
+        "site_web": "https://www.plomberie-ardens.fr/",
+        "adresse": "Rte de Murat, Grand-Bourg 97112, Guadeloupe",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "saint-louis": {
+    "artisans": [
+      {
+        "id": "15429903950378361510",
+        "nom": "HABE ET FILS (SARL)",
+        "slug": "habe-et-fils-sarl",
+        "telephone": "03 89 68 41 54",
+        "site_web": "https://habe.fr/",
+        "adresse": "37A Rue de Bâle, 68730 Ranspach-le-Bas",
+        "note": 4.4,
+        "avis": 45,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "13766005649950478967",
+        "nom": "ST2I - Plomberie",
+        "slug": "st2i-plomberie",
+        "telephone": "+590 690 84 38 53",
+        "site_web": "http://st2i-plomberie.fr/",
+        "adresse": "39 Lot La Plaine De Sainval, Sainte-Rose 97115, Guadeloupe",
+        "note": 5,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "17951084937425429359",
+        "nom": "FLEX PLOMBERIE",
+        "slug": "flex-plomberie",
+        "telephone": "+590 690 19 64 24",
+        "site_web": "https://flexplomberie.fr/",
+        "adresse": null,
+        "note": 5,
+        "avis": 15,
+        "type": "Plombier"
+      },
+      {
+        "id": "15437231460183222665",
+        "nom": "David Plomberie et Services",
+        "slug": "david-plomberie-et-services",
+        "telephone": "+590 690 67 06 46",
+        "site_web": "https://david-plomberie.com/",
+        "adresse": null,
+        "note": 5,
+        "avis": 6,
+        "type": "Plombier"
+      },
+      {
+        "id": "14073297993688257272",
+        "nom": "Mon Plombier Guadeloupe",
+        "slug": "mon-plombier-guadeloupe",
+        "telephone": "+590 690 70 31 70",
+        "site_web": "https://mon-plombier-guadeloupe.fr/",
+        "adresse": null,
+        "note": 4.9,
+        "avis": 17,
+        "type": "Plombier"
+      },
+      {
+        "id": "14841285216450990002",
+        "nom": "Ronald ROYAN",
+        "slug": "ronald-royan",
+        "telephone": "+590 690 29 98 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "2699894636203298664",
+        "nom": "Morinartisan | Plomberie & Salle de bain",
+        "slug": "morinartisan-plomberie-salle-de-bain",
+        "telephone": "+590 690 67 92 53",
+        "site_web": "http://morinartisan.fr/",
+        "adresse": "6FCV+8P8 Morinartisan | Plomberie & Salle de bain, Poucet, Le Gosier 97190, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      },
+      {
+        "id": "7054446712653195912",
+        "nom": "DIDIER MULTIPOSE - Plomberie & Salle de bain",
+        "slug": "didier-multipose-plomberie-salle-de-bain",
+        "telephone": "+590 690 40 04 56",
+        "site_web": null,
+        "adresse": null,
+        "note": 4.8,
+        "avis": 4,
+        "type": "Spécialiste de la salle de bains"
+      },
+      {
+        "id": "3826988312157773157",
+        "nom": "Renov'elec",
+        "slug": "renovelec",
+        "telephone": "+590 690 35 41 40",
+        "site_web": "http://www.renovelec-guadeloupe.fr/",
+        "adresse": "6689 Chemin de Bône Sainte Rose, 97115, Guadeloupe",
+        "note": 5,
+        "avis": 2,
+        "type": "Constructeur de maisons personnalisées"
+      },
+      {
+        "id": "6575814011355515453",
+        "nom": "SABAS",
+        "slug": "sabas",
+        "telephone": null,
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 16,
+        "type": "Électricien"
+      }
+    ]
+  },
+  "terre-de-haut": {
+    "artisans": [
+      {
+        "id": "15196034150372377117",
+        "nom": "QUALIBLUE",
+        "slug": "qualiblue",
+        "telephone": "07 44 03 53 47",
+        "site_web": "https://www.qualiblue.com/",
+        "adresse": "12 Rue du Morne Tricolore, Sainte-Anne 97180, Guadeloupe",
+        "note": 3.4,
+        "avis": 15,
+        "type": "Services aux entreprises"
+      },
+      {
+        "id": "4898563252519017253",
+        "nom": "Polka SAF",
+        "slug": "polka-saf",
+        "telephone": "+590 690 35 34 62",
+        "site_web": "https://www.plomberie-baie-mahault.fr/",
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "capesterre-de-marie-galante": {
+    "artisans": [
+      {
+        "id": "5523824057701607820",
+        "nom": "Ardens Plomberie",
+        "slug": "ardens-plomberie",
+        "telephone": "+590 690 64 79 95",
+        "site_web": "https://www.plomberie-ardens.fr/",
+        "adresse": "Rte de Murat, Grand-Bourg 97112, Guadeloupe",
+        "note": 5,
+        "avis": 4,
+        "type": "Plombier"
+      },
+      {
+        "id": "11648619971518454860",
+        "nom": "JO PLOMBERY- Plombier Guadeloupe",
+        "slug": "jo-plombery-plombier-guadeloupe",
+        "telephone": "+590 690 47 02 75",
+        "site_web": "https://sites.google.com/view/joplombery",
+        "adresse": "9 Rue Léon Philis Seymour, Capesterre-Belle-Eau 97130, Guadeloupe",
+        "note": 5,
+        "avis": 41,
+        "type": "Plombier"
+      },
+      {
+        "id": "12013567472935665795",
+        "nom": "PLOMBERIE EXPRESS",
+        "slug": "plomberie-express",
+        "telephone": "+590 690 15 27 72",
+        "site_web": null,
+        "adresse": "Rue des Raisiniers, Capesterre-Belle-Eau 97130, Guadeloupe",
+        "note": 5,
+        "avis": 40,
+        "type": "Plombier"
+      },
+      {
+        "id": "3675567747697156803",
+        "nom": "Marius Plomberie",
+        "slug": "marius-plomberie",
+        "telephone": "+590 690 75 61 16",
+        "site_web": null,
+        "adresse": null,
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "deshaies": {
+    "artisans": [
+      {
+        "id": "12286765108083372886",
+        "nom": "Appartement Deshaies",
+        "slug": "appartement-deshaies",
+        "telephone": null,
+        "site_web": "https://travel.homerez.com/book/67032542/property",
+        "adresse": "Deshaies 97126, Guadeloupe",
+        "note": 5,
+        "avis": 9,
+        "type": "Appartement"
+      },
+      {
+        "id": "1420200858767390138",
+        "nom": "Plage de Grande Anse de Deshaies",
+        "slug": "plage-de-grande-anse-de-deshaies",
+        "telephone": "+590 590 22 28 50",
+        "site_web": null,
+        "adresse": "N2, Lieu-dit Ziotte, 97126, Deshaies, Guadeloupe",
+        "note": 4.7,
+        "avis": 7997,
+        "type": "Plage publique"
+      },
+      {
+        "id": "12223801350235473550",
+        "nom": "Deshaienergies",
+        "slug": "deshaienergies",
+        "telephone": "06 12 63 87 86",
+        "site_web": "http://www.deshaienergies.fr/",
+        "adresse": "15 bis Rue de la Chalonnière, 85470 Bretignolles-sur-Mer",
+        "note": 4.3,
+        "avis": 6,
+        "type": "Siège social"
+      },
+      {
+        "id": "3494664636029882124",
+        "nom": "Déhais Chauffage",
+        "slug": "dehais-chauffage",
+        "telephone": "02 35 08 46 10",
+        "site_web": null,
+        "adresse": "550 Rte de Montmain, 76520 Mesnil-Raoul",
+        "note": 4.7,
+        "avis": 15,
+        "type": "Chauffagiste"
+      },
+      {
+        "id": "16925160116321479758",
+        "nom": "Bungalow à Deshaies",
+        "slug": "bungalow-a-deshaies",
+        "telephone": null,
+        "site_web": "https://travel.homerez.com/book/27891020/property",
+        "adresse": "Deshaies 97126, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Bungalow de luxe"
+      },
+      {
+        "id": "7133378566347340890",
+        "nom": "Villa Deshaies",
+        "slug": "villa-deshaies",
+        "telephone": "+590 690 76 19 99",
+        "site_web": "https://www.heliostravel.fr/",
+        "adresse": "25 Imp. Petit Bas Vent, Deshaies 97126, Guadeloupe",
+        "note": 4.5,
+        "avis": 2,
+        "type": "Location de cottage"
+      },
+      {
+        "id": "1346170084365692995",
+        "nom": "Déhélec",
+        "slug": "dehelec",
+        "telephone": "+590 690 67 81 54",
+        "site_web": "https://electricitedeshaie.wixsite.com/website-1",
+        "adresse": "Imp. Fleury, Deshaies 97126, Guadeloupe",
+        "note": 4.8,
+        "avis": 13,
+        "type": "Électricien"
+      },
+      {
+        "id": "12034045096252987639",
+        "nom": "Le Morne aux Fous - gîtes et cabanes dans un parc tropical",
+        "slug": "le-morne-aux-fous-gites-et-cabanes-dans-un-parc-tropical",
+        "telephone": "06 07 79 85 39",
+        "site_web": "https://www.lemorneauxfous.com/",
+        "adresse": "Impasse Villers, 163 Allée Courbaril, Deshaies 97126, Guadeloupe",
+        "note": 4.4,
+        "avis": 106,
+        "type": "Résidence hôtelière"
+      },
+      {
+        "id": "7072164175473944314",
+        "nom": "Ziotte plomberie",
+        "slug": "ziotte-plomberie",
+        "telephone": "05 90 47 14 08",
+        "site_web": null,
+        "adresse": null,
+        "note": 5,
+        "avis": 1,
+        "type": "Plombier"
+      },
+      {
+        "id": "3269002979237273443",
+        "nom": "Villa Le Refuge du Pirate",
+        "slug": "villa-le-refuge-du-pirate",
+        "telephone": "+590 690 76 19 99",
+        "site_web": "https://www.heliostravel.fr/fr/2613368/pirates-refuge-villa-sea-view-4-bedrooms-swimming-pool",
+        "adresse": "Morne Batterie, Deshaies 97126, Guadeloupe",
+        "note": 5,
+        "avis": 5,
+        "type": "Maison de vacances"
+      }
+    ]
+  },
+  "la-desirade": {
+    "artisans": [
+      {
+        "id": "8718385462286729714",
+        "nom": "Plage à fifi",
+        "slug": "plage-a-fifi",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8W3H+4P9 Plage à fifi, La Désirade 97127, Guadeloupe",
+        "note": 4.4,
+        "avis": 5,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "9937492578310181735",
+        "nom": "EDF",
+        "slug": "edf",
+        "telephone": null,
+        "site_web": null,
+        "adresse": "8W3F+97P EDF, La Désirade 97127, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Centrale électrique"
+      },
+      {
+        "id": "6727719395410162450",
+        "nom": "CARAIBBEAN PLOMBERIE",
+        "slug": "caraibbean-plomberie",
+        "telephone": "+590 690 80 63 99",
+        "site_web": null,
+        "adresse": "Rue du Dr Marc Joachim, Morne-à-l'Eau 97111, Guadeloupe",
+        "note": 0,
+        "avis": 0,
+        "type": "Plombier"
+      },
+      {
+        "id": "722820210301031523",
+        "nom": "Plage De Petite Terre",
+        "slug": "plage-de-petite-terre",
+        "telephone": null,
+        "site_web": "https://www.tourismefrance.info/2023/06/plage-de-petite-terre-971.html",
+        "adresse": "5VFQ+RM9 Plage De Petite Terre, La Désirade, Guadeloupe",
+        "note": 4.8,
+        "avis": 79,
+        "type": "Attraction touristique"
+      },
+      {
+        "id": "1268338432886466802",
+        "nom": "Mairie de la Désirade",
+        "slug": "mairie-de-la-desirade",
+        "telephone": "+590 590 20 01 76",
+        "site_web": "http://www.mairie-ladesirade.fr/",
+        "adresse": "8W3F+HVH Mairie de la Désirade, Place du Maire Mendiant, Beauséjour 97127, La Désirade 97127, Guadeloupe",
+        "note": 3.6,
+        "avis": 7,
+        "type": "Hôtel de ville"
+      }
+    ]
+  },
+  "terre-de-bas": {
+    "artisans": [
+      {
+        "id": "10249246501645210794",
+        "nom": "Plomberie 97",
+        "slug": "plomberie-97",
+        "telephone": "+590 690 29 53 39",
+        "site_web": "https://www.plomberie97.fr/?utm_medium=referral&utm_source=gmb&utm_campaign=lnk-gmb",
+        "adresse": null,
+        "note": 5,
+        "avis": 2,
+        "type": "Plombier"
+      }
+    ]
+  },
+  "vieux-fort": {
+    "artisans": [
+      {
+        "id": "2785155463591239046",
+        "nom": "Eco Soley Énergie",
+        "slug": "eco-soley-energie",
+        "telephone": "+590 690 95 26 91",
+        "site_web": null,
+        "adresse": "ZI de Jarry, 774 Rue de la Chapelle, Baie-Mahault 97122, Guadeloupe",
+        "note": 1.9,
+        "avis": 46,
+        "type": "Fournisseur d'équipements d'énergie solaire"
+      },
+      {
+        "id": "13387355818677117726",
+        "nom": "Plombier artisan - SaniExpert",
+        "slug": "plombier-artisan-saniexpert",
+        "telephone": "+590 690 34 23 93",
+        "site_web": "https://api.whatsapp.com/send/?phone=0690342393&text=Entreprise+SaniExpert+%C3%A0+votre+service+%21&type=phone_number&app_absent=0",
+        "adresse": "1 Rue Du Docteur Hélène, Le Gosier 97190, Guadeloupe",
+        "note": 5,
+        "avis": 12,
+        "type": "Plombier"
+      },
+      {
+        "id": "6975983352322861026",
+        "nom": "LG Services Plomberie, Entretien Climatisation 100% BIO",
+        "slug": "lg-services-plomberie-entretien-climatisation-100-bio",
+        "telephone": "+590 690 64 80 74",
+        "site_web": null,
+        "adresse": "Lot. Frair Unis, Le Gosier 97190, Guadeloupe",
+        "note": 4.7,
+        "avis": 14,
+        "type": "Service de nettoyage et d'entretien"
+      },
+      {
+        "id": "16189049250064375181",
+        "nom": "S2S Energie",
+        "slug": "s2s-energie",
+        "telephone": "+590 590 10 63 44",
+        "site_web": null,
+        "adresse": "25 Chem. De Tarare, Vieux-Habitants 97119, Guadeloupe",
+        "note": 4.9,
+        "avis": 15,
+        "type": "Service de réparation de systèmes de climatisation"
+      },
+      {
+        "id": "9989032836236954041",
+        "nom": "ALLO CLIM SERVICE - Installation et Nettoyage - Guadeloupe",
+        "slug": "allo-clim-service-installation-et-nettoyage-guadeloupe",
+        "telephone": "+590 690 67 09 35",
+        "site_web": "https://www.climatisation-guadeloupe.fr/",
+        "adresse": "Immeuble SUD, Baie-Mahault 97122, Guadeloupe",
+        "note": 4.9,
+        "avis": 415,
+        "type": "Fournisseur de systèmes de climatisation"
+      }
+    ]
+  }
+}

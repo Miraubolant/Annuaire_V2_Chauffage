@@ -291,8 +291,8 @@
             "slug": "hautes-pyrenees",
             "population_totale": 230997,
             "communes_count": 469,
-            "communes_avec_artisans": 141,
-            "artisans_chauffage": 399,
+            "communes_avec_artisans": 452,
+            "artisans_chauffage": 2059,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -322,8 +322,8 @@
             "slug": "pyrenees-orientales",
             "population_totale": 488479,
             "communes_count": 226,
-            "communes_avec_artisans": 133,
-            "artisans_chauffage": 1104,
+            "communes_avec_artisans": 219,
+            "artisans_chauffage": 1316,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -353,8 +353,8 @@
             "slug": "tarn",
             "population_totale": 394331,
             "communes_count": 314,
-            "communes_avec_artisans": 159,
-            "artisans_chauffage": 602,
+            "communes_avec_artisans": 309,
+            "artisans_chauffage": 1851,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -384,8 +384,8 @@
             "slug": "tarn-et-garonne",
             "population_totale": 263633,
             "communes_count": 195,
-            "communes_avec_artisans": 116,
-            "artisans_chauffage": 483,
+            "communes_avec_artisans": 190,
+            "artisans_chauffage": 1054,
             "voisins": [
                 {
                     "dep_code": "09",
@@ -412,8 +412,8 @@
     ],
     "stats": {
         "communes_total": 4446,
-        "communes_avec_artisans": 2213,
-        "artisans_chauffage": 9016,
+        "communes_avec_artisans": 2834,
+        "artisans_chauffage": 12708,
         "population_totale": 6034132
     },
     "zones_climatiques": {

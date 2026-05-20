@@ -74,8 +74,8 @@
             "slug": "marne",
             "population_totale": 564673,
             "communes_count": 610,
-            "communes_avec_artisans": 230,
-            "artisans_chauffage": 716,
+            "communes_avec_artisans": 595,
+            "artisans_chauffage": 3872,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -105,8 +105,8 @@
             "slug": "haute-marne",
             "population_totale": 170045,
             "communes_count": 426,
-            "communes_avec_artisans": 107,
-            "artisans_chauffage": 201,
+            "communes_avec_artisans": 399,
+            "artisans_chauffage": 1970,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -136,8 +136,8 @@
             "slug": "meurthe-et-moselle",
             "population_totale": 732598,
             "communes_count": 591,
-            "communes_avec_artisans": 288,
-            "artisans_chauffage": 1034,
+            "communes_avec_artisans": 587,
+            "artisans_chauffage": 3981,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -167,8 +167,8 @@
             "slug": "meuse",
             "population_totale": 180980,
             "communes_count": 499,
-            "communes_avec_artisans": 129,
-            "artisans_chauffage": 223,
+            "communes_avec_artisans": 466,
+            "artisans_chauffage": 2754,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -198,8 +198,8 @@
             "slug": "moselle",
             "population_totale": 1050568,
             "communes_count": 725,
-            "communes_avec_artisans": 371,
-            "artisans_chauffage": 1418,
+            "communes_avec_artisans": 708,
+            "artisans_chauffage": 4633,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -229,8 +229,8 @@
             "slug": "bas-rhin",
             "population_totale": 1152643,
             "communes_count": 514,
-            "communes_avec_artisans": 335,
-            "artisans_chauffage": 1654,
+            "communes_avec_artisans": 507,
+            "artisans_chauffage": 3368,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -260,8 +260,8 @@
             "slug": "haut-rhin",
             "population_totale": 768567,
             "communes_count": 366,
-            "communes_avec_artisans": 224,
-            "artisans_chauffage": 1017,
+            "communes_avec_artisans": 363,
+            "artisans_chauffage": 2220,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -291,8 +291,8 @@
             "slug": "vosges",
             "population_totale": 359332,
             "communes_count": 506,
-            "communes_avec_artisans": 195,
-            "artisans_chauffage": 528,
+            "communes_avec_artisans": 496,
+            "artisans_chauffage": 2729,
             "voisins": [
                 {
                     "dep_code": "08",
@@ -319,8 +319,8 @@
     ],
     "stats": {
         "communes_total": 5115,
-        "communes_avec_artisans": 2204,
-        "artisans_chauffage": 7561,
+        "communes_avec_artisans": 4446,
+        "artisans_chauffage": 26297,
         "population_totale": 5557503
     },
     "zones_climatiques": {

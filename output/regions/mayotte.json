@@ -13,14 +13,14 @@
             "population_totale": 256518,
             "communes_count": 17,
             "communes_avec_artisans": 17,
-            "artisans_chauffage": 246,
+            "artisans_chauffage": 60,
             "voisins": []
         }
     ],
     "stats": {
         "communes_total": 17,
         "communes_avec_artisans": 17,
-        "artisans_chauffage": 246,
+        "artisans_chauffage": 60,
         "population_totale": 256518
     },
     "zones_climatiques": [],
