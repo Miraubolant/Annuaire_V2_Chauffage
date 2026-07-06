@@ -1,207 +1,77 @@
 {
-    "region": {
-        "id": 5,
-        "code": "04",
-        "nom": "Centre-Val de Loire",
-        "slug": "centre-val-de-loire"
+  "region": {
+    "id": 5,
+    "code": "04",
+    "nom": "Centre-Val de Loire",
+    "slug": "centre-val-de-loire"
+  },
+  "departements": [
+    {
+      "code": "18",
+      "nom": "Cher",
+      "slug": "cher",
+      "population_totale": 298334,
+      "communes_count": 286,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "departements": [
-        {
-            "code": "18",
-            "nom": "Cher",
-            "slug": "cher",
-            "population_totale": 298334,
-            "communes_count": 286,
-            "communes_avec_artisans": 124,
-            "artisans_chauffage": 394,
-            "voisins": [
-                {
-                    "dep_code": "28",
-                    "dep_nom": "Eure-et-Loir",
-                    "dep_slug": "eure-et-loir"
-                },
-                {
-                    "dep_code": "36",
-                    "dep_nom": "Indre",
-                    "dep_slug": "indre"
-                },
-                {
-                    "dep_code": "37",
-                    "dep_nom": "Indre-et-Loire",
-                    "dep_slug": "indre-et-loire"
-                },
-                {
-                    "dep_code": "41",
-                    "dep_nom": "Loir-et-Cher",
-                    "dep_slug": "loir-et-cher"
-                }
-            ]
-        },
-        {
-            "code": "28",
-            "nom": "Eure-et-Loir",
-            "slug": "eure-et-loir",
-            "population_totale": 431643,
-            "communes_count": 363,
-            "communes_avec_artisans": 227,
-            "artisans_chauffage": 761,
-            "voisins": [
-                {
-                    "dep_code": "18",
-                    "dep_nom": "Cher",
-                    "dep_slug": "cher"
-                },
-                {
-                    "dep_code": "36",
-                    "dep_nom": "Indre",
-                    "dep_slug": "indre"
-                },
-                {
-                    "dep_code": "37",
-                    "dep_nom": "Indre-et-Loire",
-                    "dep_slug": "indre-et-loire"
-                },
-                {
-                    "dep_code": "41",
-                    "dep_nom": "Loir-et-Cher",
-                    "dep_slug": "loir-et-cher"
-                }
-            ]
-        },
-        {
-            "code": "36",
-            "nom": "Indre",
-            "slug": "indre",
-            "population_totale": 216689,
-            "communes_count": 241,
-            "communes_avec_artisans": 103,
-            "artisans_chauffage": 290,
-            "voisins": [
-                {
-                    "dep_code": "18",
-                    "dep_nom": "Cher",
-                    "dep_slug": "cher"
-                },
-                {
-                    "dep_code": "28",
-                    "dep_nom": "Eure-et-Loir",
-                    "dep_slug": "eure-et-loir"
-                },
-                {
-                    "dep_code": "37",
-                    "dep_nom": "Indre-et-Loire",
-                    "dep_slug": "indre-et-loire"
-                },
-                {
-                    "dep_code": "41",
-                    "dep_nom": "Loir-et-Cher",
-                    "dep_slug": "loir-et-cher"
-                }
-            ]
-        },
-        {
-            "code": "37",
-            "nom": "Indre-et-Loire",
-            "slug": "indre-et-loire",
-            "population_totale": 612207,
-            "communes_count": 272,
-            "communes_avec_artisans": 185,
-            "artisans_chauffage": 808,
-            "voisins": [
-                {
-                    "dep_code": "18",
-                    "dep_nom": "Cher",
-                    "dep_slug": "cher"
-                },
-                {
-                    "dep_code": "28",
-                    "dep_nom": "Eure-et-Loir",
-                    "dep_slug": "eure-et-loir"
-                },
-                {
-                    "dep_code": "36",
-                    "dep_nom": "Indre",
-                    "dep_slug": "indre"
-                },
-                {
-                    "dep_code": "41",
-                    "dep_nom": "Loir-et-Cher",
-                    "dep_slug": "loir-et-cher"
-                }
-            ]
-        },
-        {
-            "code": "41",
-            "nom": "Loir-et-Cher",
-            "slug": "loir-et-cher",
-            "population_totale": 328177,
-            "communes_count": 267,
-            "communes_avec_artisans": 145,
-            "artisans_chauffage": 562,
-            "voisins": [
-                {
-                    "dep_code": "18",
-                    "dep_nom": "Cher",
-                    "dep_slug": "cher"
-                },
-                {
-                    "dep_code": "28",
-                    "dep_nom": "Eure-et-Loir",
-                    "dep_slug": "eure-et-loir"
-                },
-                {
-                    "dep_code": "36",
-                    "dep_nom": "Indre",
-                    "dep_slug": "indre"
-                },
-                {
-                    "dep_code": "37",
-                    "dep_nom": "Indre-et-Loire",
-                    "dep_slug": "indre-et-loire"
-                }
-            ]
-        },
-        {
-            "code": "45",
-            "nom": "Loiret",
-            "slug": "loiret",
-            "population_totale": 684684,
-            "communes_count": 325,
-            "communes_avec_artisans": 215,
-            "artisans_chauffage": 938,
-            "voisins": [
-                {
-                    "dep_code": "18",
-                    "dep_nom": "Cher",
-                    "dep_slug": "cher"
-                },
-                {
-                    "dep_code": "28",
-                    "dep_nom": "Eure-et-Loir",
-                    "dep_slug": "eure-et-loir"
-                },
-                {
-                    "dep_code": "36",
-                    "dep_nom": "Indre",
-                    "dep_slug": "indre"
-                },
-                {
-                    "dep_code": "37",
-                    "dep_nom": "Indre-et-Loire",
-                    "dep_slug": "indre-et-loire"
-                }
-            ]
-        }
-    ],
-    "stats": {
-        "communes_total": 1754,
-        "communes_avec_artisans": 999,
-        "artisans_chauffage": 3753,
-        "population_totale": 2571734
+    {
+      "code": "28",
+      "nom": "Eure-Et-Loir",
+      "slug": "eure-et-loir",
+      "population_totale": 431643,
+      "communes_count": 363,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zones_climatiques": {
-        "H1": 1241,
-        "H2": 513
+    {
+      "code": "36",
+      "nom": "Indre",
+      "slug": "indre",
+      "population_totale": 216689,
+      "communes_count": 241,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zone_climatique_dominante": "H1"
+    {
+      "code": "37",
+      "nom": "Indre-Et-Loire",
+      "slug": "indre-et-loire",
+      "population_totale": 612207,
+      "communes_count": 272,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "41",
+      "nom": "Loir-Et-Cher",
+      "slug": "loir-et-cher",
+      "population_totale": 328177,
+      "communes_count": 267,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "45",
+      "nom": "Loiret",
+      "slug": "loiret",
+      "population_totale": 684684,
+      "communes_count": 325,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    }
+  ],
+  "stats": {
+    "communes_total": 1754,
+    "communes_avec_artisans": 0,
+    "artisans_count": 0,
+    "population_totale": 2571734
+  },
+  "zones_climatiques": {}
 }

@@ -1,268 +1,97 @@
 {
-    "region": {
-        "id": 11,
-        "code": "10",
-        "nom": "Île-de-France",
-        "slug": "ile-de-france"
+  "region": {
+    "id": 11,
+    "code": "10",
+    "nom": "ÃŽle-de-France",
+    "slug": "ile-de-france"
+  },
+  "departements": [
+    {
+      "code": "75",
+      "nom": "Paris",
+      "slug": "paris",
+      "population_totale": 2133111,
+      "communes_count": 1,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "departements": [
-        {
-            "code": "75",
-            "nom": "Paris",
-            "slug": "paris",
-            "population_totale": 2133111,
-            "communes_count": 1,
-            "communes_avec_artisans": 1,
-            "artisans_chauffage": 10,
-            "voisins": [
-                {
-                    "dep_code": "77",
-                    "dep_nom": "Seine-et-Marne",
-                    "dep_slug": "seine-et-marne"
-                },
-                {
-                    "dep_code": "78",
-                    "dep_nom": "Yvelines",
-                    "dep_slug": "yvelines"
-                },
-                {
-                    "dep_code": "91",
-                    "dep_nom": "Essonne",
-                    "dep_slug": "essonne"
-                },
-                {
-                    "dep_code": "92",
-                    "dep_nom": "Hauts-de-Seine",
-                    "dep_slug": "hauts-de-seine"
-                }
-            ]
-        },
-        {
-            "code": "77",
-            "nom": "Seine-et-Marne",
-            "slug": "seine-et-marne",
-            "population_totale": 1439608,
-            "communes_count": 507,
-            "communes_avec_artisans": 502,
-            "artisans_chauffage": 4288,
-            "voisins": [
-                {
-                    "dep_code": "75",
-                    "dep_nom": "Paris",
-                    "dep_slug": "paris"
-                },
-                {
-                    "dep_code": "78",
-                    "dep_nom": "Yvelines",
-                    "dep_slug": "yvelines"
-                },
-                {
-                    "dep_code": "91",
-                    "dep_nom": "Essonne",
-                    "dep_slug": "essonne"
-                },
-                {
-                    "dep_code": "92",
-                    "dep_nom": "Hauts-de-Seine",
-                    "dep_slug": "hauts-de-seine"
-                }
-            ]
-        },
-        {
-            "code": "78",
-            "nom": "Yvelines",
-            "slug": "yvelines",
-            "population_totale": 1458780,
-            "communes_count": 259,
-            "communes_avec_artisans": 258,
-            "artisans_chauffage": 1946,
-            "voisins": [
-                {
-                    "dep_code": "75",
-                    "dep_nom": "Paris",
-                    "dep_slug": "paris"
-                },
-                {
-                    "dep_code": "77",
-                    "dep_nom": "Seine-et-Marne",
-                    "dep_slug": "seine-et-marne"
-                },
-                {
-                    "dep_code": "91",
-                    "dep_nom": "Essonne",
-                    "dep_slug": "essonne"
-                },
-                {
-                    "dep_code": "92",
-                    "dep_nom": "Hauts-de-Seine",
-                    "dep_slug": "hauts-de-seine"
-                }
-            ]
-        },
-        {
-            "code": "91",
-            "nom": "Essonne",
-            "slug": "essonne",
-            "population_totale": 1314065,
-            "communes_count": 194,
-            "communes_avec_artisans": 193,
-            "artisans_chauffage": 1456,
-            "voisins": [
-                {
-                    "dep_code": "75",
-                    "dep_nom": "Paris",
-                    "dep_slug": "paris"
-                },
-                {
-                    "dep_code": "77",
-                    "dep_nom": "Seine-et-Marne",
-                    "dep_slug": "seine-et-marne"
-                },
-                {
-                    "dep_code": "78",
-                    "dep_nom": "Yvelines",
-                    "dep_slug": "yvelines"
-                },
-                {
-                    "dep_code": "92",
-                    "dep_nom": "Hauts-de-Seine",
-                    "dep_slug": "hauts-de-seine"
-                }
-            ]
-        },
-        {
-            "code": "92",
-            "nom": "Hauts-de-Seine",
-            "slug": "hauts-de-seine",
-            "population_totale": 1636336,
-            "communes_count": 36,
-            "communes_avec_artisans": 36,
-            "artisans_chauffage": 412,
-            "voisins": [
-                {
-                    "dep_code": "75",
-                    "dep_nom": "Paris",
-                    "dep_slug": "paris"
-                },
-                {
-                    "dep_code": "77",
-                    "dep_nom": "Seine-et-Marne",
-                    "dep_slug": "seine-et-marne"
-                },
-                {
-                    "dep_code": "78",
-                    "dep_nom": "Yvelines",
-                    "dep_slug": "yvelines"
-                },
-                {
-                    "dep_code": "91",
-                    "dep_nom": "Essonne",
-                    "dep_slug": "essonne"
-                }
-            ]
-        },
-        {
-            "code": "93",
-            "nom": "Seine-Saint-Denis",
-            "slug": "seine-saint-denis",
-            "population_totale": 1670745,
-            "communes_count": 40,
-            "communes_avec_artisans": 40,
-            "artisans_chauffage": 474,
-            "voisins": [
-                {
-                    "dep_code": "75",
-                    "dep_nom": "Paris",
-                    "dep_slug": "paris"
-                },
-                {
-                    "dep_code": "77",
-                    "dep_nom": "Seine-et-Marne",
-                    "dep_slug": "seine-et-marne"
-                },
-                {
-                    "dep_code": "78",
-                    "dep_nom": "Yvelines",
-                    "dep_slug": "yvelines"
-                },
-                {
-                    "dep_code": "91",
-                    "dep_nom": "Essonne",
-                    "dep_slug": "essonne"
-                }
-            ]
-        },
-        {
-            "code": "94",
-            "nom": "Val-de-Marne",
-            "slug": "val-de-marne",
-            "population_totale": 1418048,
-            "communes_count": 47,
-            "communes_avec_artisans": 47,
-            "artisans_chauffage": 462,
-            "voisins": [
-                {
-                    "dep_code": "75",
-                    "dep_nom": "Paris",
-                    "dep_slug": "paris"
-                },
-                {
-                    "dep_code": "77",
-                    "dep_nom": "Seine-et-Marne",
-                    "dep_slug": "seine-et-marne"
-                },
-                {
-                    "dep_code": "78",
-                    "dep_nom": "Yvelines",
-                    "dep_slug": "yvelines"
-                },
-                {
-                    "dep_code": "91",
-                    "dep_nom": "Essonne",
-                    "dep_slug": "essonne"
-                }
-            ]
-        },
-        {
-            "code": "95",
-            "nom": "Val-d'Oise",
-            "slug": "val-d-oise",
-            "population_totale": 1258277,
-            "communes_count": 183,
-            "communes_avec_artisans": 181,
-            "artisans_chauffage": 1302,
-            "voisins": [
-                {
-                    "dep_code": "75",
-                    "dep_nom": "Paris",
-                    "dep_slug": "paris"
-                },
-                {
-                    "dep_code": "77",
-                    "dep_nom": "Seine-et-Marne",
-                    "dep_slug": "seine-et-marne"
-                },
-                {
-                    "dep_code": "78",
-                    "dep_nom": "Yvelines",
-                    "dep_slug": "yvelines"
-                },
-                {
-                    "dep_code": "91",
-                    "dep_nom": "Essonne",
-                    "dep_slug": "essonne"
-                }
-            ]
-        }
-    ],
-    "stats": {
-        "communes_total": 1267,
-        "communes_avec_artisans": 1258,
-        "artisans_chauffage": 10350,
-        "population_totale": 12328970
+    {
+      "code": "77",
+      "nom": "Seine-Et-Marne",
+      "slug": "seine-et-marne",
+      "population_totale": 1439608,
+      "communes_count": 507,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zones_climatiques": {
-        "H1": 1267
+    {
+      "code": "78",
+      "nom": "Yvelines",
+      "slug": "yvelines",
+      "population_totale": 1458780,
+      "communes_count": 259,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zone_climatique_dominante": "H1"
+    {
+      "code": "91",
+      "nom": "Essonne",
+      "slug": "essonne",
+      "population_totale": 1314065,
+      "communes_count": 194,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "92",
+      "nom": "Hauts-De-Seine",
+      "slug": "hauts-de-seine",
+      "population_totale": 1636336,
+      "communes_count": 36,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "93",
+      "nom": "Seine-Saint-Denis",
+      "slug": "seine-saint-denis",
+      "population_totale": 1670745,
+      "communes_count": 40,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "94",
+      "nom": "Val-De-Marne",
+      "slug": "val-de-marne",
+      "population_totale": 1418048,
+      "communes_count": 47,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "95",
+      "nom": "Val-D-Oise",
+      "slug": "val-d-oise",
+      "population_totale": 1258277,
+      "communes_count": 183,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    }
+  ],
+  "stats": {
+    "communes_total": 1267,
+    "communes_avec_artisans": 0,
+    "artisans_count": 0,
+    "population_totale": 12328970
+  },
+  "zones_climatiques": {}
 }

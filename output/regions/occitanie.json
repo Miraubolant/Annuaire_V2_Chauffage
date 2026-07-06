@@ -1,425 +1,147 @@
 {
-    "region": {
-        "id": 17,
-        "code": "16",
-        "nom": "Occitanie",
-        "slug": "occitanie"
+  "region": {
+    "id": 17,
+    "code": "16",
+    "nom": "Occitanie",
+    "slug": "occitanie"
+  },
+  "departements": [
+    {
+      "code": "09",
+      "nom": "Ariege",
+      "slug": "ariege",
+      "population_totale": 155310,
+      "communes_count": 325,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "departements": [
-        {
-            "code": "09",
-            "nom": "Ariège",
-            "slug": "ariege",
-            "population_totale": 155310,
-            "communes_count": 325,
-            "communes_avec_artisans": 114,
-            "artisans_chauffage": 281,
-            "voisins": [
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                },
-                {
-                    "dep_code": "31",
-                    "dep_nom": "Haute-Garonne",
-                    "dep_slug": "haute-garonne"
-                }
-            ]
-        },
-        {
-            "code": "11",
-            "nom": "Aude",
-            "slug": "aude",
-            "population_totale": 377685,
-            "communes_count": 433,
-            "communes_avec_artisans": 197,
-            "artisans_chauffage": 625,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                },
-                {
-                    "dep_code": "31",
-                    "dep_nom": "Haute-Garonne",
-                    "dep_slug": "haute-garonne"
-                }
-            ]
-        },
-        {
-            "code": "12",
-            "nom": "Aveyron",
-            "slug": "aveyron",
-            "population_totale": 279284,
-            "communes_count": 285,
-            "communes_avec_artisans": 150,
-            "artisans_chauffage": 452,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                },
-                {
-                    "dep_code": "31",
-                    "dep_nom": "Haute-Garonne",
-                    "dep_slug": "haute-garonne"
-                }
-            ]
-        },
-        {
-            "code": "30",
-            "nom": "Gard",
-            "slug": "gard",
-            "population_totale": 758288,
-            "communes_count": 350,
-            "communes_avec_artisans": 266,
-            "artisans_chauffage": 1276,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "31",
-                    "dep_nom": "Haute-Garonne",
-                    "dep_slug": "haute-garonne"
-                }
-            ]
-        },
-        {
-            "code": "31",
-            "nom": "Haute-Garonne",
-            "slug": "haute-garonne",
-            "population_totale": 1437172,
-            "communes_count": 586,
-            "communes_avec_artisans": 334,
-            "artisans_chauffage": 1598,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        },
-        {
-            "code": "32",
-            "nom": "Gers",
-            "slug": "gers",
-            "population_totale": 192138,
-            "communes_count": 458,
-            "communes_avec_artisans": 156,
-            "artisans_chauffage": 323,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        },
-        {
-            "code": "34",
-            "nom": "Hérault",
-            "slug": "herault",
-            "population_totale": 1204057,
-            "communes_count": 341,
-            "communes_avec_artisans": 247,
-            "artisans_chauffage": 1425,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        },
-        {
-            "code": "46",
-            "nom": "Lot",
-            "slug": "lot",
-            "population_totale": 176209,
-            "communes_count": 312,
-            "communes_avec_artisans": 148,
-            "artisans_chauffage": 329,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        },
-        {
-            "code": "48",
-            "nom": "Lozère",
-            "slug": "lozere",
-            "population_totale": 76549,
-            "communes_count": 152,
-            "communes_avec_artisans": 52,
-            "artisans_chauffage": 119,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        },
-        {
-            "code": "65",
-            "nom": "Hautes-Pyrénées",
-            "slug": "hautes-pyrenees",
-            "population_totale": 230997,
-            "communes_count": 469,
-            "communes_avec_artisans": 452,
-            "artisans_chauffage": 2059,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        },
-        {
-            "code": "66",
-            "nom": "Pyrénées-Orientales",
-            "slug": "pyrenees-orientales",
-            "population_totale": 488479,
-            "communes_count": 226,
-            "communes_avec_artisans": 219,
-            "artisans_chauffage": 1316,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        },
-        {
-            "code": "81",
-            "nom": "Tarn",
-            "slug": "tarn",
-            "population_totale": 394331,
-            "communes_count": 314,
-            "communes_avec_artisans": 309,
-            "artisans_chauffage": 1851,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        },
-        {
-            "code": "82",
-            "nom": "Tarn-et-Garonne",
-            "slug": "tarn-et-garonne",
-            "population_totale": 263633,
-            "communes_count": 195,
-            "communes_avec_artisans": 190,
-            "artisans_chauffage": 1054,
-            "voisins": [
-                {
-                    "dep_code": "09",
-                    "dep_nom": "Ariège",
-                    "dep_slug": "ariege"
-                },
-                {
-                    "dep_code": "11",
-                    "dep_nom": "Aude",
-                    "dep_slug": "aude"
-                },
-                {
-                    "dep_code": "12",
-                    "dep_nom": "Aveyron",
-                    "dep_slug": "aveyron"
-                },
-                {
-                    "dep_code": "30",
-                    "dep_nom": "Gard",
-                    "dep_slug": "gard"
-                }
-            ]
-        }
-    ],
-    "stats": {
-        "communes_total": 4446,
-        "communes_avec_artisans": 2834,
-        "artisans_chauffage": 12708,
-        "population_totale": 6034132
+    {
+      "code": "11",
+      "nom": "Aude",
+      "slug": "aude",
+      "population_totale": 377685,
+      "communes_count": 433,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zones_climatiques": {
-        "H2": 2825,
-        "H3": 1000,
-        "H1": 621
+    {
+      "code": "12",
+      "nom": "Aveyron",
+      "slug": "aveyron",
+      "population_totale": 279284,
+      "communes_count": 285,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zone_climatique_dominante": "H2"
+    {
+      "code": "30",
+      "nom": "Gard",
+      "slug": "gard",
+      "population_totale": 758288,
+      "communes_count": 350,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "31",
+      "nom": "Haute-Garonne",
+      "slug": "haute-garonne",
+      "population_totale": 1437172,
+      "communes_count": 586,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "32",
+      "nom": "Gers",
+      "slug": "gers",
+      "population_totale": 192138,
+      "communes_count": 458,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "34",
+      "nom": "Herault",
+      "slug": "herault",
+      "population_totale": 1204057,
+      "communes_count": 341,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "46",
+      "nom": "Lot",
+      "slug": "lot",
+      "population_totale": 176209,
+      "communes_count": 312,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "48",
+      "nom": "Lozere",
+      "slug": "lozere",
+      "population_totale": 76549,
+      "communes_count": 152,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "65",
+      "nom": "Hautes-Pyrenees",
+      "slug": "hautes-pyrenees",
+      "population_totale": 230997,
+      "communes_count": 469,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "66",
+      "nom": "Pyrenees-Orientales",
+      "slug": "pyrenees-orientales",
+      "population_totale": 488479,
+      "communes_count": 226,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "81",
+      "nom": "Tarn",
+      "slug": "tarn",
+      "population_totale": 394331,
+      "communes_count": 314,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "82",
+      "nom": "Tarn-Et-Garonne",
+      "slug": "tarn-et-garonne",
+      "population_totale": 263633,
+      "communes_count": 195,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    }
+  ],
+  "stats": {
+    "communes_total": 4446,
+    "communes_avec_artisans": 0,
+    "artisans_count": 0,
+    "population_totale": 6034132
+  },
+  "zones_climatiques": {}
 }

@@ -1,124 +1,57 @@
 {
-    "region": {
-        "id": 4,
-        "code": "03",
-        "nom": "Bretagne",
-        "slug": "bretagne"
+  "region": {
+    "id": 4,
+    "code": "03",
+    "nom": "Bretagne",
+    "slug": "bretagne"
+  },
+  "departements": [
+    {
+      "code": "22",
+      "nom": "Cotes-D-Armor",
+      "slug": "cotes-d-armor",
+      "population_totale": 605546,
+      "communes_count": 344,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "departements": [
-        {
-            "code": "22",
-            "nom": "Côtes-d'Armor",
-            "slug": "cotes-d-armor",
-            "population_totale": 605546,
-            "communes_count": 344,
-            "communes_avec_artisans": 232,
-            "artisans_chauffage": 1198,
-            "voisins": [
-                {
-                    "dep_code": "29",
-                    "dep_nom": "Finistère",
-                    "dep_slug": "finistere"
-                },
-                {
-                    "dep_code": "35",
-                    "dep_nom": "Ille-et-Vilaine",
-                    "dep_slug": "ille-et-vilaine"
-                },
-                {
-                    "dep_code": "56",
-                    "dep_nom": "Morbihan",
-                    "dep_slug": "morbihan"
-                }
-            ]
-        },
-        {
-            "code": "29",
-            "nom": "Finistère",
-            "slug": "finistere",
-            "population_totale": 922301,
-            "communes_count": 277,
-            "communes_avec_artisans": 225,
-            "artisans_chauffage": 1276,
-            "voisins": [
-                {
-                    "dep_code": "22",
-                    "dep_nom": "Côtes-d'Armor",
-                    "dep_slug": "cotes-d-armor"
-                },
-                {
-                    "dep_code": "35",
-                    "dep_nom": "Ille-et-Vilaine",
-                    "dep_slug": "ille-et-vilaine"
-                },
-                {
-                    "dep_code": "56",
-                    "dep_nom": "Morbihan",
-                    "dep_slug": "morbihan"
-                }
-            ]
-        },
-        {
-            "code": "35",
-            "nom": "Ille-et-Vilaine",
-            "slug": "ille-et-vilaine",
-            "population_totale": 1098406,
-            "communes_count": 332,
-            "communes_avec_artisans": 266,
-            "artisans_chauffage": 1638,
-            "voisins": [
-                {
-                    "dep_code": "22",
-                    "dep_nom": "Côtes-d'Armor",
-                    "dep_slug": "cotes-d-armor"
-                },
-                {
-                    "dep_code": "29",
-                    "dep_nom": "Finistère",
-                    "dep_slug": "finistere"
-                },
-                {
-                    "dep_code": "56",
-                    "dep_nom": "Morbihan",
-                    "dep_slug": "morbihan"
-                }
-            ]
-        },
-        {
-            "code": "56",
-            "nom": "Morbihan",
-            "slug": "morbihan",
-            "population_totale": 769527,
-            "communes_count": 249,
-            "communes_avec_artisans": 248,
-            "artisans_chauffage": 1744,
-            "voisins": [
-                {
-                    "dep_code": "22",
-                    "dep_nom": "Côtes-d'Armor",
-                    "dep_slug": "cotes-d-armor"
-                },
-                {
-                    "dep_code": "29",
-                    "dep_nom": "Finistère",
-                    "dep_slug": "finistere"
-                },
-                {
-                    "dep_code": "35",
-                    "dep_nom": "Ille-et-Vilaine",
-                    "dep_slug": "ille-et-vilaine"
-                }
-            ]
-        }
-    ],
-    "stats": {
-        "communes_total": 1202,
-        "communes_avec_artisans": 971,
-        "artisans_chauffage": 5856,
-        "population_totale": 3395780
+    {
+      "code": "29",
+      "nom": "Finistere",
+      "slug": "finistere",
+      "population_totale": 922301,
+      "communes_count": 277,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zones_climatiques": {
-        "H1": 1202
+    {
+      "code": "35",
+      "nom": "Ille-Et-Vilaine",
+      "slug": "ille-et-vilaine",
+      "population_totale": 1098406,
+      "communes_count": 332,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zone_climatique_dominante": "H1"
+    {
+      "code": "56",
+      "nom": "Morbihan",
+      "slug": "morbihan",
+      "population_totale": 769527,
+      "communes_count": 249,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    }
+  ],
+  "stats": {
+    "communes_total": 1202,
+    "communes_avec_artisans": 0,
+    "artisans_count": 0,
+    "population_totale": 3395780
+  },
+  "zones_climatiques": {}
 }

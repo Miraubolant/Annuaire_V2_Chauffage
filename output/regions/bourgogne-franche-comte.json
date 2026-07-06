@@ -1,268 +1,97 @@
 {
-    "region": {
-        "id": 3,
-        "code": "02",
-        "nom": "Bourgogne-Franche-Comté",
-        "slug": "bourgogne-franche-comte"
+  "region": {
+    "id": 3,
+    "code": "02",
+    "nom": "Bourgogne-Franche-ComtÃ©",
+    "slug": "bourgogne-franche-comte"
+  },
+  "departements": [
+    {
+      "code": "21",
+      "nom": "Cote-D-Or",
+      "slug": "cote-d-or",
+      "population_totale": 536021,
+      "communes_count": 698,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "departements": [
-        {
-            "code": "21",
-            "nom": "Côte-d'Or",
-            "slug": "cote-d-or",
-            "population_totale": 536021,
-            "communes_count": 698,
-            "communes_avec_artisans": 236,
-            "artisans_chauffage": 646,
-            "voisins": [
-                {
-                    "dep_code": "25",
-                    "dep_nom": "Doubs",
-                    "dep_slug": "doubs"
-                },
-                {
-                    "dep_code": "39",
-                    "dep_nom": "Jura",
-                    "dep_slug": "jura"
-                },
-                {
-                    "dep_code": "58",
-                    "dep_nom": "Nièvre",
-                    "dep_slug": "nievre"
-                },
-                {
-                    "dep_code": "70",
-                    "dep_nom": "Haute-Saône",
-                    "dep_slug": "haute-saone"
-                }
-            ]
-        },
-        {
-            "code": "25",
-            "nom": "Doubs",
-            "slug": "doubs",
-            "population_totale": 547717,
-            "communes_count": 563,
-            "communes_avec_artisans": 236,
-            "artisans_chauffage": 730,
-            "voisins": [
-                {
-                    "dep_code": "21",
-                    "dep_nom": "Côte-d'Or",
-                    "dep_slug": "cote-d-or"
-                },
-                {
-                    "dep_code": "39",
-                    "dep_nom": "Jura",
-                    "dep_slug": "jura"
-                },
-                {
-                    "dep_code": "58",
-                    "dep_nom": "Nièvre",
-                    "dep_slug": "nievre"
-                },
-                {
-                    "dep_code": "70",
-                    "dep_nom": "Haute-Saône",
-                    "dep_slug": "haute-saone"
-                }
-            ]
-        },
-        {
-            "code": "39",
-            "nom": "Jura",
-            "slug": "jura",
-            "population_totale": 258505,
-            "communes_count": 492,
-            "communes_avec_artisans": 177,
-            "artisans_chauffage": 414,
-            "voisins": [
-                {
-                    "dep_code": "21",
-                    "dep_nom": "Côte-d'Or",
-                    "dep_slug": "cote-d-or"
-                },
-                {
-                    "dep_code": "25",
-                    "dep_nom": "Doubs",
-                    "dep_slug": "doubs"
-                },
-                {
-                    "dep_code": "58",
-                    "dep_nom": "Nièvre",
-                    "dep_slug": "nievre"
-                },
-                {
-                    "dep_code": "70",
-                    "dep_nom": "Haute-Saône",
-                    "dep_slug": "haute-saone"
-                }
-            ]
-        },
-        {
-            "code": "58",
-            "nom": "Nièvre",
-            "slug": "nievre",
-            "population_totale": 201763,
-            "communes_count": 309,
-            "communes_avec_artisans": 306,
-            "artisans_chauffage": 1461,
-            "voisins": [
-                {
-                    "dep_code": "21",
-                    "dep_nom": "Côte-d'Or",
-                    "dep_slug": "cote-d-or"
-                },
-                {
-                    "dep_code": "25",
-                    "dep_nom": "Doubs",
-                    "dep_slug": "doubs"
-                },
-                {
-                    "dep_code": "39",
-                    "dep_nom": "Jura",
-                    "dep_slug": "jura"
-                },
-                {
-                    "dep_code": "70",
-                    "dep_nom": "Haute-Saône",
-                    "dep_slug": "haute-saone"
-                }
-            ]
-        },
-        {
-            "code": "70",
-            "nom": "Haute-Saône",
-            "slug": "haute-saone",
-            "population_totale": 233871,
-            "communes_count": 536,
-            "communes_avec_artisans": 517,
-            "artisans_chauffage": 2608,
-            "voisins": [
-                {
-                    "dep_code": "21",
-                    "dep_nom": "Côte-d'Or",
-                    "dep_slug": "cote-d-or"
-                },
-                {
-                    "dep_code": "25",
-                    "dep_nom": "Doubs",
-                    "dep_slug": "doubs"
-                },
-                {
-                    "dep_code": "39",
-                    "dep_nom": "Jura",
-                    "dep_slug": "jura"
-                },
-                {
-                    "dep_code": "58",
-                    "dep_nom": "Nièvre",
-                    "dep_slug": "nievre"
-                }
-            ]
-        },
-        {
-            "code": "71",
-            "nom": "Saône-et-Loire",
-            "slug": "saone-et-loire",
-            "population_totale": 549841,
-            "communes_count": 563,
-            "communes_avec_artisans": 553,
-            "artisans_chauffage": 3384,
-            "voisins": [
-                {
-                    "dep_code": "21",
-                    "dep_nom": "Côte-d'Or",
-                    "dep_slug": "cote-d-or"
-                },
-                {
-                    "dep_code": "25",
-                    "dep_nom": "Doubs",
-                    "dep_slug": "doubs"
-                },
-                {
-                    "dep_code": "39",
-                    "dep_nom": "Jura",
-                    "dep_slug": "jura"
-                },
-                {
-                    "dep_code": "58",
-                    "dep_nom": "Nièvre",
-                    "dep_slug": "nievre"
-                }
-            ]
-        },
-        {
-            "code": "89",
-            "nom": "Yonne",
-            "slug": "yonne",
-            "population_totale": 332708,
-            "communes_count": 423,
-            "communes_avec_artisans": 412,
-            "artisans_chauffage": 2403,
-            "voisins": [
-                {
-                    "dep_code": "21",
-                    "dep_nom": "Côte-d'Or",
-                    "dep_slug": "cote-d-or"
-                },
-                {
-                    "dep_code": "25",
-                    "dep_nom": "Doubs",
-                    "dep_slug": "doubs"
-                },
-                {
-                    "dep_code": "39",
-                    "dep_nom": "Jura",
-                    "dep_slug": "jura"
-                },
-                {
-                    "dep_code": "58",
-                    "dep_nom": "Nièvre",
-                    "dep_slug": "nievre"
-                }
-            ]
-        },
-        {
-            "code": "90",
-            "nom": "Territoire de Belfort",
-            "slug": "territoire-de-belfort",
-            "population_totale": 139628,
-            "communes_count": 101,
-            "communes_avec_artisans": 94,
-            "artisans_chauffage": 388,
-            "voisins": [
-                {
-                    "dep_code": "21",
-                    "dep_nom": "Côte-d'Or",
-                    "dep_slug": "cote-d-or"
-                },
-                {
-                    "dep_code": "25",
-                    "dep_nom": "Doubs",
-                    "dep_slug": "doubs"
-                },
-                {
-                    "dep_code": "39",
-                    "dep_nom": "Jura",
-                    "dep_slug": "jura"
-                },
-                {
-                    "dep_code": "58",
-                    "dep_nom": "Nièvre",
-                    "dep_slug": "nievre"
-                }
-            ]
-        }
-    ],
-    "stats": {
-        "communes_total": 3685,
-        "communes_avec_artisans": 2531,
-        "artisans_chauffage": 12034,
-        "population_totale": 2800054
+    {
+      "code": "25",
+      "nom": "Doubs",
+      "slug": "doubs",
+      "population_totale": 547717,
+      "communes_count": 563,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zones_climatiques": {
-        "H1": 3685
+    {
+      "code": "39",
+      "nom": "Jura",
+      "slug": "jura",
+      "population_totale": 258505,
+      "communes_count": 492,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
     },
-    "zone_climatique_dominante": "H1"
+    {
+      "code": "58",
+      "nom": "Nievre",
+      "slug": "nievre",
+      "population_totale": 201763,
+      "communes_count": 309,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "70",
+      "nom": "Haute-Saone",
+      "slug": "haute-saone",
+      "population_totale": 233871,
+      "communes_count": 536,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "71",
+      "nom": "Saone-Et-Loire",
+      "slug": "saone-et-loire",
+      "population_totale": 549841,
+      "communes_count": 563,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "89",
+      "nom": "Yonne",
+      "slug": "yonne",
+      "population_totale": 332708,
+      "communes_count": 423,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    },
+    {
+      "code": "90",
+      "nom": "Territoire-De-Belfort",
+      "slug": "territoire-de-belfort",
+      "population_totale": 139628,
+      "communes_count": 101,
+      "communes_avec_artisans": 0,
+      "artisans_count": 0,
+      "voisins": []
+    }
+  ],
+  "stats": {
+    "communes_total": 3685,
+    "communes_avec_artisans": 0,
+    "artisans_count": 0,
+    "population_totale": 2800054
+  },
+  "zones_climatiques": {}
 }
